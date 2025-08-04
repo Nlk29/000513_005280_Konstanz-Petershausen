@@ -1640,12 +1640,6 @@
 <phi Z="-0.425936"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\Vehicles\1960-69\Volkswagen\VW_T2\vw_t2_doka_post.lod.ls3"/>
-<p X="-46.2576" Y="-166.4194" Z="400.6935"/>
-<phi Z="-0.814074"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Strassen\Lichtsignalanlage\Bauteile\1992_LSA_Peitschenmast_3Str_2Spur_l.lod.ls3"/>
 <p X="-39.4268" Y="-187.483" Z="401.1398"/>
