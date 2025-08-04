@@ -29,9 +29,6 @@
       <Bild Transparenz="255" Sichtbar="1">
         <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Recherchedaten\Bitmaps\LGL-BW\DOP20\dop20rgb_32_511_5278_2_bw\dop20rgb_32_511_5279_1_bw_2023_georef_t.trf" />
       </Bild>
-      <Bild Transparenz="255" Sichtbar="1">
-        <Datei Dateiname="..\..\..\niklas\Desktop\DOP20\dop20rgb_32_512_5279_1_bw_2023_georef.trf" />
-      </Bild>
     </HGBilder>
     <Lageplan>
       <UTM UTM_WE="511" UTM_NS="5280" UTM_Zone="32" UTM_Zone2="T" />
@@ -51,13 +48,13 @@
         <PunktWinkel X="2493.119" Y="-257.666" W="2.028483" Ueberh="0.06973708" />
       </Klothoide>
       <Kreisbogen ProfilName="4000" spTrass="22.22222" Oberbau="Holz K-Oberbau" kr="0.002386635" WinkelAnf="0.4576863" WinkelLauf="-0.2518974">
-        <PunktWinkel X="2493.119" Y="-257.666" W="5.170075" Ueberh="-0.06973704" />
-        <PunktWinkel X="2527.403" Y="-357.1928" W="1.776585" Ueberh="0.06973704" />
+        <PunktWinkel X="2493.119" Y="-257.6659" W="5.170075" Ueberh="-0.06973704" />
+        <PunktWinkel X="2527.403" Y="-357.1927" W="1.776585" Ueberh="0.06973704" />
         <Punkt X="2117.244" Y="-442.811" />
       </Kreisbogen>
       <Kreisbogen ProfilName="4000" spTrass="22.22222" Oberbau="Holz K-Oberbau" kr="0.002132196" WinkelAnf="0.2057889" WinkelLauf="-0.3335427">
-        <PunktWinkel X="2527.403" Y="-357.1927" W="4.918178" Ueberh="-0.06973704" />
-        <PunktWinkel X="2533.477" Y="-512.7816" W="1.443043" Ueberh="0.06973704" />
+        <PunktWinkel X="2527.403" Y="-357.1928" W="4.918178" Ueberh="-0.06973704" />
+        <PunktWinkel X="2533.477" Y="-512.7817" W="1.443043" Ueberh="0.06973704" />
         <Punkt X="2068.299" Y="-453.028" />
       </Kreisbogen>
       <Kreisbogen ProfilName="4000" spTrass="22.22222" Oberbau="Holz K-Oberbau" kr="0.002053388" WinkelAnf="-0.1277539" WinkelLauf="-0.138834">
@@ -67,7 +64,7 @@
       </Kreisbogen>
       <Kreisbogen ProfilName="4000" spTrass="22.22222" Oberbau="Holz K-Oberbau" kr="0.00209205" WinkelAnf="-0.2665879" WinkelLauf="-0.2321032">
         <PunktWinkel X="2520.243" Y="-579.03" W="4.445801" Ueberh="-0.06973704" />
-        <PunktWinkel X="2478.912" Y="-681.7211" W="1.072105" Ueberh="0.06973704" />
+        <PunktWinkel X="2478.912" Y="-681.7212" W="1.072105" Ueberh="0.06973704" />
         <Punkt X="2059.128" Y="-453.105" />
       </Kreisbogen>
       <Klothoide ProfilName="4000" spTrass="22.22222" Oberbau="Holz K-Oberbau" L="63.4094" R="478" KrAnf="4.318052E-06">
@@ -75,7 +72,7 @@
         <PunktWinkel X="2478.912" Y="-681.722" W="4.213697" Ueberh="-0.06957389" />
       </Klothoide>
       <Gerade ProfilName="4000" spTrass="22.22222" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="2383.759" Y="-834.431" W="1.005779" />
+        <PunktWinkel X="2383.759" Y="-834.431" W="1.005778" />
         <PunktWinkel X="2446.229" Y="-735.892" W="4.147371" />
       </Gerade>
       <Klothoide ProfilName="4000" spTrass="22.22222" Oberbau="Holz K-Oberbau" L="106.3958" R="380" KrAnf="0.001333333">
@@ -84,7 +81,7 @@
       </Klothoide>
       <Kreisbogen ProfilName="4000" spTrass="22.22222" Oberbau="Holz K-Oberbau" kr="0.002631579" WinkelAnf="0.7904651" WinkelLauf="0.1841415">
         <PunktWinkel X="2380.636" Y="-101.8464" W="2.361261" Ueberh="0.07672973" />
-        <PunktWinkel X="2326.668" Y="-57.46225" W="-0.5961897" Ueberh="-0.07672973" />
+        <PunktWinkel X="2326.668" Y="-57.46219" W="-0.5961897" Ueberh="-0.07672973" />
         <Punkt X="2113.3" Y="-371.905" />
       </Kreisbogen>
       <Klothoide ProfilName="4000" spTrass="27.77778" Oberbau="Holz K-Oberbau" L="75.6149" R="-380" KrAnf="-0.0002392344">
@@ -92,8 +89,8 @@
         <PunktWinkel X="2326.667" Y="-57.46177" W="2.545403" Ueberh="0.07672973" />
       </Klothoide>
       <Kreisbogen ProfilName="4000" spTrass="27.77778" Oberbau="Holz K-Oberbau" kr="0.0002631579" WinkelAnf="1.073278" WinkelLauf="0.04860358">
-        <PunktWinkel X="2267.492" Y="-22.539" W="2.644074" />
-        <PunktWinkel X="2103.111" Y="61.62715" W="-0.4489148" />
+        <PunktWinkel X="2267.492" Y="-22.53949" W="2.644074" />
+        <PunktWinkel X="2103.111" Y="61.62666" W="-0.4489148" />
         <Punkt X="453.9561" Y="-3361.864" />
       </Kreisbogen>
       <Kreisbogen ProfilName="4000" spTrass="22.22222" Oberbau="Holz K-Oberbau" kr="0.001333333" WinkelAnf="0.659195" WinkelLauf="0.0272137">
@@ -126,7 +123,7 @@
       </Kreisbogen>
       <Klothoide ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau" L="31.0208" R="280">
         <PunktWinkel X="2384.615" Y="-113.813" W="2.343443" Ueberh="0.01387868" />
-        <PunktWinkel X="2362.558" Y="-92.00661" W="5.54043" Ueberh="-0.05227593" />
+        <PunktWinkel X="2362.558" Y="-92.00662" W="5.54043" Ueberh="-0.05227593" />
       </Klothoide>
       <Kreisbogen ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau" kr="0.003571429" WinkelAnf="0.8280417" WinkelLauf="0.05753495">
         <PunktWinkel X="2362.558" Y="-92.00665" W="2.398838" Ueberh="0.05227593" />
@@ -134,8 +131,8 @@
         <Punkt X="2173.189" Y="-298.257" />
       </Kreisbogen>
       <Kreisbogen ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau" kr="0.002439024" WinkelAnf="0.8855769" WinkelLauf="0.184067">
-        <PunktWinkel X="2350.385" Y="-81.45904" W="2.456373" Ueberh="0.05227593" />
-        <PunktWinkel X="2287.898" Y="-39.33183" W="-0.5011525" Ueberh="-0.05227593" />
+        <PunktWinkel X="2350.385" Y="-81.45898" W="2.456373" Ueberh="0.05227593" />
+        <PunktWinkel X="2287.898" Y="-39.33177" W="-0.5011525" Ueberh="-0.05227593" />
         <Punkt X="2090.919" Y="-398.9139" />
       </Kreisbogen>
       <Klothoide ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau" L="50.8806" R="-410" KrAnf="-9.959266E-06">
@@ -152,8 +149,8 @@
         <Punkt X="6437.148" Y="9061.085" />
       </Kreisbogen>
       <Gerade ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="1610.865" Y="281.432" W="2.700168" Ueberh="9.459696E-12" />
-        <PunktWinkel X="1602.44" Y="285.413" W="5.841761" Ueberh="-9.459696E-12" />
+        <PunktWinkel X="1610.865" Y="281.432" W="2.700171" Ueberh="9.459696E-12" />
+        <PunktWinkel X="1602.44" Y="285.413" W="5.841764" Ueberh="-9.459696E-12" />
       </Gerade>
       <Weiche ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau" Beschreibung="54-300-1:9L" Signalname="130">
         <Elemente>
@@ -179,8 +176,8 @@
         <Punkt X="2196.644" Y="-350.765" />
       </Kreisbogen>
       <Gerade ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="1701.245" Y="233.749" W="2.700082" />
-        <PunktWinkel X="1695.325" Y="236.547" W="5.841675" />
+        <PunktWinkel X="1701.245" Y="233.749" W="2.700078" />
+        <PunktWinkel X="1695.325" Y="236.547" W="5.841671" />
       </Gerade>
       <Kreisbogen ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau" kr="0.003154574" WinkelAnf="0.900722" WinkelLauf="0.228636">
         <PunktWinkel X="2326.294" Y="-70.73417" W="2.471518" />
@@ -192,8 +189,8 @@
         <PunktWinkel X="2091.714" Y="44.26001" W="5.84175" />
       </Gerade>
       <Gerade ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="2382.957" Y="-115.632" W="2.471547" />
-        <PunktWinkel X="2370.288" Y="-105.594" W="5.61314" />
+        <PunktWinkel X="2382.957" Y="-115.632" W="2.471545" />
+        <PunktWinkel X="2370.288" Y="-105.594" W="5.613138" />
       </Gerade>
       <Weiche ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau" Beschreibung="49 190 1:6,6 rechts" Signalname="129">
         <Elemente>
@@ -223,8 +220,8 @@
         <Punkt X="2065.497" Y="-395.6541" />
       </Kreisbogen>
       <Gerade ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="2329.749" Y="-73.47205" W="2.471462" />
-        <PunktWinkel X="2326.294" Y="-70.73401" W="5.613054" />
+        <PunktWinkel X="2329.749" Y="-73.47205" W="2.47146" />
+        <PunktWinkel X="2326.294" Y="-70.73401" W="5.613053" />
       </Gerade>
       <Weiche ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau" Beschreibung="190 1:7.5 Links" Signalname="128">
         <Elemente>
@@ -253,13 +250,13 @@
         <PunktWinkel X="2283.119" Y="-47.71594" W="5.74566" />
       </Gerade>
       <Kreisbogen ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau" kr="0.003333333" WinkelAnf="1.129358" WinkelLauf="-0.09608649">
-        <PunktWinkel X="2257.687" Y="-34.16759" W="5.841747" />
-        <PunktWinkel X="2283.118" Y="-47.71543" W="2.604068" />
+        <PunktWinkel X="2257.687" Y="-34.16766" W="5.841747" />
+        <PunktWinkel X="2283.118" Y="-47.71549" W="2.604068" />
         <Punkt X="2129.515" Y="-305.4091" />
       </Kreisbogen>
       <Gerade ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="2388.267" Y="-117.5601" W="2.34336" Ueberh="0.01387868" />
-        <PunktWinkel X="2384.615" Y="-113.813" W="5.484952" Ueberh="-0.01387868" />
+        <PunktWinkel X="2388.267" Y="-117.5601" W="2.343357" Ueberh="0.01387868" />
+        <PunktWinkel X="2384.615" Y="-113.813" W="5.48495" Ueberh="-0.01387868" />
       </Gerade>
       <Gerade st2Typ="1" ProfilName="4000" spTrass="22.22222" Oberbau="Holz K-Oberbau">
         <PunktWinkel X="2363.415" Y="-862.786" W="1.005783" km="413.5446" />
@@ -267,7 +264,7 @@
       </Gerade>
       <Klothoide st2Typ="1" ProfilName="4000" spTrass="22.22222" Oberbau="Holz K-Oberbau" L="63.4094" R="478" KrAnf="4.318052E-06" Versatz="-2">
         <PunktWinkel X="2446.159" Y="-736.0031" W="1.005777" Ueberh="-5.559744E-13" km="413.4285" />
-        <PunktWinkel X="2477.155" Y="-680.7654" W="4.213697" Ueberh="-0.06957389" km="413.3654" />
+        <PunktWinkel X="2477.155" Y="-680.7655" W="4.213697" Ueberh="-0.06957389" km="413.3654" />
       </Klothoide>
       <Kreisbogen st2Typ="1" ProfilName="4000" spTrass="22.22222" Oberbau="Holz K-Oberbau" kr="0.00210084" WinkelAnf="-0.2665879" WinkelLauf="-0.2321032">
         <PunktWinkel X="2518.313" Y="-578.5031" W="4.445801" Ueberh="-0.06973704" km="413.2549" />
@@ -280,8 +277,8 @@
         <Punkt X="2050.446" Y="-450.734" />
       </Kreisbogen>
       <Kreisbogen st2Typ="1" ProfilName="4000" spTrass="22.22222" Oberbau="Holz K-Oberbau" kr="0.002141328" WinkelAnf="0.2057889" WinkelLauf="-0.3335427">
-        <PunktWinkel X="2525.445" Y="-357.6014" W="4.918178" Ueberh="-0.06973704" km="413.0318" />
-        <PunktWinkel X="2531.493" Y="-512.5268" W="1.443043" Ueberh="0.06973704" km="413.1876" />
+        <PunktWinkel X="2525.445" Y="-357.6015" W="4.918178" Ueberh="-0.06973704" km="413.0318" />
+        <PunktWinkel X="2531.493" Y="-512.5269" W="1.443043" Ueberh="0.06973704" km="413.1876" />
         <Punkt X="2068.299" Y="-453.028" />
       </Kreisbogen>
       <Kreisbogen st2Typ="1" ProfilName="4000" spTrass="22.22222" Oberbau="Holz K-Oberbau" kr="0.002398082" WinkelAnf="0.4576863" WinkelLauf="-0.2518974">
@@ -298,8 +295,8 @@
         <PunktWinkel X="2379.229" Y="-103.2669" W="5.502854" Ueberh="-0.07672973" km="412.7344" />
       </Klothoide>
       <Kreisbogen st2Typ="1" ProfilName="4000" spTrass="22.22222" Oberbau="Holz K-Oberbau" kr="0.002645503" WinkelAnf="0.7904651" WinkelLauf="0.1841415">
-        <PunktWinkel X="2379.228" Y="-103.2679" W="2.361261" Ueberh="0.07672973" km="412.7344" />
-        <PunktWinkel X="2325.544" Y="-59.11729" W="-0.5961897" Ueberh="-0.07672973" km="412.6648" />
+        <PunktWinkel X="2379.228" Y="-103.2678" W="2.361261" Ueberh="0.07672973" km="412.7344" />
+        <PunktWinkel X="2325.544" Y="-59.11723" W="-0.5961897" Ueberh="-0.07672973" km="412.6648" />
         <Punkt X="2113.3" Y="-371.905" />
       </Kreisbogen>
       <Klothoide st2Typ="1" ProfilName="4000" spTrass="27.77778" Oberbau="Holz K-Oberbau" L="75.6149" R="-380" KrAnf="-0.0002392344" Versatz="-2">
@@ -313,20 +310,20 @@
       </Kreisbogen>
       <Klothoide st2Typ="1" ProfilName="4000" spTrass="33.33334" Oberbau="Holz K-Oberbau" L="105.2533" R="1400" KrAnf="0.0002631579" Versatz="-2">
         <PunktWinkel X="2137.988" Y="44.67908" W="2.687577" km="412.4" />
-        <PunktWinkel X="2042.024" Y="87.82013" W="5.86676" km="412.3452" />
+        <PunktWinkel X="2042.024" Y="87.82014" W="5.86676" km="412.3452" />
       </Klothoide>
       <Gerade st2Typ="1" ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau">
         <PunktWinkel X="2451.357" Y="-191.515" W="2.174559" Ueberh="0.03482264" km="412.8486" />
         <PunktWinkel X="2440.836" Y="-176.26" W="5.316152" Ueberh="-0.03482264" km="412.83" />
       </Gerade>
       <Kreisbogen st2Typ="1" ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau" kr="0.003333333" WinkelAnf="0.6037288" WinkelLauf="0.08267973">
-        <PunktWinkel X="2440.836" Y="-176.2601" W="2.174525" Ueberh="0.03482264" km="412.83" />
-        <PunktWinkel X="2425.927" Y="-156.446" W="-0.8843879" Ueberh="-0.03482264" km="412.8052" />
+        <PunktWinkel X="2440.836" Y="-176.2602" W="2.174525" Ueberh="0.03482264" km="412.83" />
+        <PunktWinkel X="2425.927" Y="-156.4461" W="-0.8843879" Ueberh="-0.03482264" km="412.8052" />
         <Punkt X="2193.869" Y="-346.575" />
       </Kreisbogen>
       <Gerade st2Typ="1" ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="2425.927" Y="-156.446" W="2.257198" Ueberh="0.03482264" km="412.8052" />
-        <PunktWinkel X="2414.183" Y="-142.1121" W="5.39879" Ueberh="-0.03482264" km="412.7867" />
+        <PunktWinkel X="2425.927" Y="-156.446" W="2.257201" Ueberh="0.03482264" km="412.8052" />
+        <PunktWinkel X="2414.183" Y="-142.1121" W="5.398794" Ueberh="-0.03482264" km="412.7867" />
       </Gerade>
       <Gerade st2Typ="1" ProfilName="4000" spTrass="22.22222" Oberbau="Holz K-Oberbau">
         <PunktWinkel X="2406.273" Y="-795.182" W="1.005772" km="413.5" />
@@ -366,7 +363,7 @@
       </Kreisbogen>
       <Klothoide st2Typ="1" ProfilName="4000" spTrass="33.33334" Oberbau="Holz K-Oberbau" L="493.4093" R="-1416.739" KrAnf="-0.0006322787" Versatz="-2">
         <PunktWinkel X="1551.599" Y="240.652" W="-0.2354325" km="412.2741" />
-        <PunktWinkel X="2022.481" Y="96.28178" W="2.732025" km="412.3249" />
+        <PunktWinkel X="2022.481" Y="96.2818" W="2.732025" km="412.3249" />
       </Klothoide>
       <Gerade st2Typ="1" ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau">
         <PunktWinkel X="1861.625" Y="165.7061" W="2.700159" km="412.1496" />
@@ -428,7 +425,7 @@
       </Gerade>
       <Gerade ProfilName="4000" spTrass="38.88889" Oberbau="Holz K-Oberbau">
         <PunktWinkel X="-1453.758" Y="1736.882" W="2.69992" />
-        <PunktWinkel X="-1783.503" Y="1892.794" W="5.841513" />
+        <PunktWinkel X="-1783.503" Y="1892.794" W="5.841512" />
       </Gerade>
       <Gerade ProfilName="4000" spTrass="38.88889" Oberbau="Holz K-Oberbau">
         <PunktWinkel X="-1083.268" Y="1556.523" W="2.698962" />
@@ -445,12 +442,12 @@
         <Punkt X="-9440.96" Y="-16614.39" />
       </Kreisbogen>
       <Gerade ProfilName="4000" spTrass="38.88889" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="-908.781" Y="1474.333" W="2.701774" />
-        <PunktWinkel X="-1035.921" Y="1534.16" W="5.843367" />
+        <PunktWinkel X="-908.781" Y="1474.333" W="2.701773" />
+        <PunktWinkel X="-1035.921" Y="1534.16" W="5.843366" />
       </Gerade>
       <Gerade st2Typ="1" ProfilName="4000" spTrass="38.88889" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="-1253.175" Y="1639.83" W="2.699922" km="408.7" />
-        <PunktWinkel X="-1796.513" Y="1896.733" W="5.841515" km="408.1" />
+        <PunktWinkel X="-1253.175" Y="1639.83" W="2.699921" km="408.7" />
+        <PunktWinkel X="-1796.513" Y="1896.733" W="5.841514" km="408.1" />
       </Gerade>
       <Gerade st2Typ="1" ProfilName="4000" spTrass="38.88889" Oberbau="Holz K-Oberbau">
         <PunktWinkel X="-860.4209" Y="1453.655" W="2.698941" km="409.125" />
@@ -483,7 +480,7 @@
       </Weiche>
       <Gerade ProfilName="4000" spTrass="27.77778" Oberbau="Holz K-Oberbau">
         <PunktWinkel X="2066.484" Y="54.15411" W="2.811997" />
-        <PunktWinkel X="2059.442" Y="56.56299" W="5.95359" />
+        <PunktWinkel X="2059.442" Y="56.56299" W="5.953589" />
       </Gerade>
       <Gerade ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau">
         <PunktWinkel X="2230.007" Y="-26.06494" W="2.700157" />
@@ -511,29 +508,29 @@
         <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\54_190_1-9_Links_Holzschw_K-Oberbau.st3" />
       </Weiche>
       <Gerade ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="1847.646" Y="159.592" W="2.700152" />
-        <PunktWinkel X="1831.624" Y="167.163" W="5.841745" />
+        <PunktWinkel X="1847.646" Y="159.592" W="2.700155" />
+        <PunktWinkel X="1831.624" Y="167.163" W="5.841747" />
       </Gerade>
       <Gerade ProfilName="4000" spTrass="8.333334" Oberbau="Holz K-Oberbau">
         <PunktWinkel X="2092.791" Y="26.14899" W="-0.4376856" />
         <PunktWinkel X="2149.76" Y="-0.5100098" W="2.703907" />
       </Gerade>
       <Gerade ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="1969.563" Y="97.00452" W="2.70015" />
+        <PunktWinkel X="1969.563" Y="97.00452" W="2.700151" />
         <PunktWinkel X="1906.937" Y="126.598" W="5.841743" />
       </Gerade>
       <Kreisbogen ProfilName="4000" spTrass="8.333334" Oberbau="Holz K-Oberbau" kr="0.003413561" WinkelAnf="1.133112" WinkelLauf="0.1127233">
-        <PunktWinkel X="2037.853" Y="51.85649" W="2.703908" />
-        <PunktWinkel X="2007.218" Y="64.13915" W="-0.3249611" />
+        <PunktWinkel X="2037.853" Y="51.85653" W="2.703908" />
+        <PunktWinkel X="2007.218" Y="64.13918" W="-0.3249611" />
         <Punkt X="1913.688" Y="-213.478" />
       </Kreisbogen>
       <Gerade ProfilName="4000" spTrass="8.333334" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="2007.219" Y="64.14001" W="2.81665" />
+        <PunktWinkel X="2007.219" Y="64.14001" W="2.816649" />
         <PunktWinkel X="1970.527" Y="76.50098" W="5.958242" />
       </Gerade>
       <Gerade ProfilName="4000" spTrass="8.333334" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="2065.195" Y="39.06183" W="-0.4376945" />
-        <PunktWinkel X="2069.366" Y="37.10999" W="2.703898" />
+        <PunktWinkel X="2065.195" Y="39.06183" W="-0.4376937" />
+        <PunktWinkel X="2069.366" Y="37.10999" W="2.703899" />
       </Gerade>
       <Weiche ProfilName="4000" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="190 1:7.5 Links" Signalname="119">
         <Elemente>
@@ -557,8 +554,8 @@
         <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\54_190_1-7_5_Links_Holzschw_K-Oberbau.st3" />
       </Weiche>
       <Kreisbogen ProfilName="4000" spTrass="8.333334" Oberbau="Holz K-Oberbau" kr="0.005" WinkelAnf="-1.875931" WinkelLauf="-0.1278298">
-        <PunktWinkel X="2008.059" Y="54.58367" W="2.836458" />
-        <PunktWinkel X="1984.23" Y="63.79978" W="-0.4329644" />
+        <PunktWinkel X="2008.059" Y="54.5837" W="2.836458" />
+        <PunktWinkel X="1984.23" Y="63.79981" W="-0.4329644" />
         <Punkt X="2068.143" Y="245.345" />
       </Kreisbogen>
       <Gerade ProfilName="4000" spTrass="8.333334" Oberbau="Holz K-Oberbau">
@@ -570,8 +567,8 @@
         <PunktWinkel X="2068.73" Y="35.474" W="2.836472" />
       </Gerade>
       <Gerade ProfilName="4000" spTrass="8.333334" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="2278.032" Y="-90.34497" W="-0.4402984" />
-        <PunktWinkel X="2334.416" Y="-116.91" W="2.701294" />
+        <PunktWinkel X="2278.032" Y="-90.34497" W="-0.440298" />
+        <PunktWinkel X="2334.416" Y="-116.91" W="2.701295" />
       </Gerade>
       <Gerade ProfilName="4000" spTrass="8.333334" Oberbau="Holz K-Oberbau">
         <PunktWinkel X="2171.57" Y="-40.18604" W="-0.4402978" />
@@ -627,12 +624,12 @@
         <Punkt X="2032.969" Y="-238.021" />
       </Kreisbogen>
       <Gerade ProfilName="4000" spTrass="8.333334" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="2170.204" Y="-8.825989" W="-0.3349721" />
+        <PunktWinkel X="2170.204" Y="-8.825989" W="-0.334972" />
         <PunktWinkel X="2204.701" Y="-20.83398" W="2.806621" />
       </Gerade>
       <Gerade ProfilName="4000" spTrass="8.333334" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="2230.331" Y="-29.75598" W="-0.3353888" />
-        <PunktWinkel X="2232.48" Y="-30.505" W="2.806204" />
+        <PunktWinkel X="2230.331" Y="-29.75598" W="-0.3353873" />
+        <PunktWinkel X="2232.48" Y="-30.505" W="2.806206" />
       </Gerade>
       <Weiche ProfilName="4000" spTrass="8.333334" Oberbau="Holz K-Oberbau" Beschreibung="190 1:9 Rechts" Signalname="124">
         <Elemente>
@@ -656,12 +653,12 @@
         <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\54_190_1-9_Rechts_Holzschw_K-Oberbau.st3" />
       </Weiche>
       <Gerade ProfilName="4000" spTrass="8.333334" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="1970.436" Y="98.61548" W="2.589639" />
-        <PunktWinkel X="1963.985" Y="102.588" W="5.731232" />
+        <PunktWinkel X="1970.436" Y="98.61548" W="2.589641" />
+        <PunktWinkel X="1963.985" Y="102.588" W="5.731233" />
       </Gerade>
       <Gerade ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau">
         <PunktWinkel X="2067.177" Y="55.85498" W="2.700149" />
-        <PunktWinkel X="1964.861" Y="104.204" W="5.841742" />
+        <PunktWinkel X="1964.861" Y="104.204" W="5.841741" />
       </Gerade>
       <Weiche ProfilName="4000" spTrass="8.333334" Oberbau="Holz K-Oberbau" Beschreibung="54-300-1:9R" Signalname="115">
         <Elemente>
@@ -702,8 +699,8 @@
         <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\300\54_300_1-9_Rechts_Holzschw_K-Oberbau.st3" />
       </Weiche>
       <Gerade ProfilName="4000" spTrass="27.77778" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="1877.768" Y="142.411" W="2.5904" />
-        <PunktWinkel X="1871.31" Y="146.381" W="5.731992" />
+        <PunktWinkel X="1877.768" Y="142.411" W="2.590396" />
+        <PunktWinkel X="1871.31" Y="146.381" W="5.731989" />
       </Gerade>
       <Gerade ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau">
         <PunktWinkel X="1934.815" Y="118.401" W="2.70015" />
@@ -731,8 +728,8 @@
         <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\54_190_1-9_Rechts_Holzschw_K-Oberbau.st3" />
       </Weiche>
       <Gerade ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="1808.241" Y="178.212" W="2.70015" />
-        <PunktWinkel X="1754.976" Y="203.382" W="5.841743" />
+        <PunktWinkel X="1808.241" Y="178.212" W="2.700151" />
+        <PunktWinkel X="1754.976" Y="203.382" W="5.841744" />
       </Gerade>
       <Weiche ProfilName="4000" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="190 1:7.5 Links" Signalname="112">
         <Elemente>
@@ -762,7 +759,7 @@
       </Kreisbogen>
       <Gerade ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau">
         <PunktWinkel X="1730.439" Y="214.9771" W="2.700156" />
-        <PunktWinkel X="1585.587" Y="283.425" W="5.841749" />
+        <PunktWinkel X="1585.587" Y="283.425" W="5.841748" />
       </Gerade>
       <Weiche ProfilName="4000" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="190 1:9 Rechts" Signalname="107">
         <Elemente>
@@ -786,8 +783,8 @@
         <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\54_190_1-9_Rechts_Holzschw_K-Oberbau.st3" />
       </Weiche>
       <Gerade ProfilName="4000" spTrass="11.11111" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="1731.313" Y="216.593" W="2.589547" />
-        <PunktWinkel X="1724.908" Y="220.538" W="5.73114" />
+        <PunktWinkel X="1731.313" Y="216.593" W="2.589549" />
+        <PunktWinkel X="1724.908" Y="220.538" W="5.731142" />
       </Gerade>
       <Gerade ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau">
         <PunktWinkel X="2264.858" Y="-32.57898" W="2.700155" />
@@ -816,7 +813,7 @@
       </Weiche>
       <Gerade ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau">
         <PunktWinkel X="1517.897" Y="330.3409" W="2.700155" Ueberh="9.459696E-12" />
-        <PunktWinkel X="1287.458" Y="439.2321" W="5.841747" Ueberh="-9.459696E-12" />
+        <PunktWinkel X="1287.458" Y="439.2321" W="5.841748" Ueberh="-9.459696E-12" />
       </Gerade>
       <Weiche ProfilName="4000" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="54-500-1:12L" Signalname="109">
         <Elemente>
@@ -863,8 +860,8 @@
         <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\500\54_500_1-12_Links_Holzschw_K-Oberbau.st3" />
       </Weiche>
       <Gerade ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="1625.375" Y="269.6007" W="2.70016" />
-        <PunktWinkel X="1597.73" Y="282.6639" W="5.841752" />
+        <PunktWinkel X="1625.375" Y="269.6007" W="2.700159" />
+        <PunktWinkel X="1597.73" Y="282.6639" W="5.841751" />
       </Gerade>
       <Weiche ProfilName="4000" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="54-500-1:12R" Signalname="104">
         <Elemente>
@@ -888,8 +885,8 @@
         <PunktWinkel X="1647.669" Y="262.13" W="5.758472" />
       </Gerade>
       <Gerade ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="1669.814" Y="253.577" W="2.700189" Ueberh="9.459696E-12" />
-        <PunktWinkel X="1648.472" Y="263.661" W="5.841782" Ueberh="-9.459696E-12" />
+        <PunktWinkel X="1669.814" Y="253.577" W="2.700188" Ueberh="9.459696E-12" />
+        <PunktWinkel X="1648.472" Y="263.661" W="5.84178" Ueberh="-9.459696E-12" />
       </Gerade>
       <Weiche ProfilName="4000" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="54-500-1:12R" Signalname="103">
         <Elemente>
@@ -910,7 +907,7 @@
         <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\500\54_500_1-12_Rechts_Holzschw_K-Oberbau.st3" />
       </Weiche>
       <Gerade ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="1564.833" Y="303.184" W="2.700166" Ueberh="9.459696E-12" />
+        <PunktWinkel X="1564.833" Y="303.184" W="2.700165" Ueberh="9.459696E-12" />
         <PunktWinkel X="1510.529" Y="328.844" W="5.841758" Ueberh="-9.459696E-12" />
       </Gerade>
       <Weiche ProfilName="4000" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="54-500-1:12R" Signalname="102">
@@ -932,12 +929,12 @@
         <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\500\54_500_1-12_Rechts_Holzschw_K-Oberbau.st3" />
       </Weiche>
       <Gerade ProfilName="4000" spTrass="13.88889" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="1565.635" Y="304.715" W="2.617231" />
-        <PunktWinkel X="1554.701" Y="311.0389" W="5.758823" />
+        <PunktWinkel X="1565.635" Y="304.715" W="2.617227" />
+        <PunktWinkel X="1554.701" Y="311.0389" W="5.75882" />
       </Gerade>
       <Gerade ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau">
         <PunktWinkel X="1720.468" Y="234.619" W="2.700154" Ueberh="9.459696E-12" />
-        <PunktWinkel X="1555.504" Y="312.571" W="5.841747" Ueberh="-9.459696E-12" />
+        <PunktWinkel X="1555.504" Y="312.571" W="5.841746" Ueberh="-9.459696E-12" />
       </Gerade>
       <Weiche ProfilName="4000" spTrass="13.88889" Oberbau="Holz K-Oberbau" Beschreibung="54-500-1:12R" Signalname="101">
         <Elemente>
@@ -958,8 +955,8 @@
         <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\500\54_500_1-12_Rechts_Holzschw_K-Oberbau.st3" />
       </Weiche>
       <Gerade ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="1767.76" Y="212.272" W="2.700154" Ueberh="9.459696E-12" />
-        <PunktWinkel X="1758.076" Y="216.848" W="5.841747" Ueberh="-9.459696E-12" />
+        <PunktWinkel X="1767.76" Y="212.272" W="2.700158" Ueberh="9.459696E-12" />
+        <PunktWinkel X="1758.076" Y="216.848" W="5.841751" Ueberh="-9.459696E-12" />
       </Gerade>
       <Weiche ProfilName="4000" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="54-300-1:9R" Signalname="110">
         <Elemente>
@@ -980,16 +977,16 @@
         <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\300\54_300_1-9_Rechts_Holzschw_K-Oberbau.st3" />
       </Weiche>
       <Gerade ProfilName="4000" spTrass="8.333334" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="1768.636" Y="213.8879" W="2.589495" Ueberh="9.459696E-12" Hoehe="1.735741E-11" />
-        <PunktWinkel X="1733.517" Y="235.521" W="5.731088" Ueberh="-9.459696E-12" Hoehe="2.881626E-12" />
+        <PunktWinkel X="1768.636" Y="213.8879" W="2.589496" Ueberh="9.459696E-12" Hoehe="1.735741E-11" />
+        <PunktWinkel X="1733.517" Y="235.521" W="5.731089" Ueberh="-9.459696E-12" Hoehe="2.881626E-12" />
       </Gerade>
       <Gerade ProfilName="4000" spTrass="8.333334" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="2390.545" Y="-131.2581" W="-0.8879385" />
+        <PunktWinkel X="2390.545" Y="-131.2581" W="-0.8879383" />
         <PunktWinkel X="2415.844" Y="-162.361" W="2.253654" />
       </Gerade>
       <Kreisbogen ProfilName="Industriestammgleis" spTrass="8.333334" Oberbau="Holz K-Oberbau" kr="0.004761905" WinkelAnf="1.128636" WinkelLauf="0.3813332">
         <PunktWinkel X="1305.517" Y="420.0012" W="2.699432" />
-        <PunktWinkel X="1228.425" Y="439.8087" W="-0.06082712" />
+        <PunktWinkel X="1228.425" Y="439.8086" W="-0.06082712" />
         <Punkt X="1215.659" Y="230.197" />
       </Kreisbogen>
       <Gerade ProfilName="Industriestammgleis" spTrass="8.333334" Oberbau="Holz K-Oberbau">
@@ -1031,7 +1028,7 @@
         <PunktWinkel X="-1163.088" Y="1604.425" W="5.841498" />
       </Gerade>
       <Gerade ProfilName="4000" spTrass="38.88889" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="-1222.279" Y="1637.389" W="2.699923" />
+        <PunktWinkel X="-1222.279" Y="1637.389" W="2.699924" />
         <PunktWinkel X="-1352.231" Y="1698.833" W="5.841516" />
       </Gerade>
       <Gerade ProfilName="4000" spTrass="38.88889" Oberbau="Holz K-Oberbau">
@@ -1106,8 +1103,8 @@
         <PunktWinkel X="-1122.129" Y="1576.975" W="2.587442" />
       </Gerade>
       <Gerade ProfilName="4000" spTrass="11.11111" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="-1161.91" Y="1601.548" W="2.591161" />
-        <PunktWinkel X="-1163.965" Y="1602.809" W="5.732754" />
+        <PunktWinkel X="-1161.91" Y="1601.548" W="2.591205" />
+        <PunktWinkel X="-1163.965" Y="1602.809" W="5.732797" />
       </Gerade>
       <Gerade ProfilName="4000" spTrass="38.88889" Oberbau="Holz K-Oberbau">
         <PunktWinkel X="-1415.238" Y="1723.647" W="2.699924" />
@@ -1170,8 +1167,8 @@
         <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Doppelte_Gleisverbindung\DGV54_1-4_444_4_5mGA_Holzschw_K-Oberbau.st3" />
       </Weiche>
       <Gerade ProfilName="4000" spTrass="38.88889" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="-1143.214" Y="1600.005" W="2.699912" />
-        <PunktWinkel X="-1166.694" Y="1611.107" W="5.841504" />
+        <PunktWinkel X="-1143.214" Y="1600.005" W="2.699916" />
+        <PunktWinkel X="-1166.694" Y="1611.107" W="5.841508" />
       </Gerade>
       <Weiche ProfilName="4000" spTrass="11.11111" Oberbau="Holz K-Oberbau" Beschreibung="EW190 1:9 Links WA-WM" Signalname="5">
         <Elemente>
@@ -1246,11 +1243,11 @@
         <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\300\54_300_1-9_Links_Holzschw_K-Oberbau.st3" />
       </Weiche>
       <Gerade ProfilName="4000" spTrass="11.11111" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="-1423.023" Y="1724.38" W="-0.3307175" />
-        <PunktWinkel X="-1415.93" Y="1721.945" W="2.810875" />
+        <PunktWinkel X="-1423.023" Y="1724.38" W="-0.3307021" />
+        <PunktWinkel X="-1415.93" Y="1721.945" W="2.810891" />
       </Gerade>
       <Gerade ProfilName="4000" spTrass="38.88889" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="-1224.135" Y="1633.289" W="2.699923" />
+        <PunktWinkel X="-1224.135" Y="1633.289" W="2.699924" />
         <PunktWinkel X="-1385.196" Y="1709.442" W="5.841516" />
       </Gerade>
       <Weiche ProfilName="4000" spTrass="11.11111" Oberbau="Holz K-Oberbau" Beschreibung="DKW54 190 1:9 Links" Signalname="2">
@@ -1301,12 +1298,12 @@
         <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\DKW54_190_1-9_Links_Holzschw_K-Oberbau.st3" />
       </Weiche>
       <Gerade ProfilName="4000" spTrass="11.11111" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="-1384.503" Y="1711.145" W="-0.3299588" />
-        <PunktWinkel X="-1377.46" Y="1708.733" W="2.811634" />
+        <PunktWinkel X="-1384.503" Y="1711.145" W="-0.3299433" />
+        <PunktWinkel X="-1377.46" Y="1708.733" W="2.811649" />
       </Gerade>
       <Gerade ProfilName="4000" spTrass="38.88889" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="-1376.765" Y="1710.434" W="2.699924" />
-        <PunktWinkel X="-1446.785" Y="1743.541" W="5.841516" />
+        <PunktWinkel X="-1376.765" Y="1710.434" W="2.699922" />
+        <PunktWinkel X="-1446.785" Y="1743.541" W="5.841515" />
       </Gerade>
       <Weiche ProfilName="4000" spTrass="11.11111" Oberbau="Holz K-Oberbau" Beschreibung="190 1:9 Links" Signalname="3">
         <Elemente>
@@ -1331,17 +1328,17 @@
       </Weiche>
       <Kreisbogen ProfilName="4000" spTrass="8.333334" Oberbau="Holz K-Oberbau" kr="0.004915803" WinkelAnf="1.1305" WinkelLauf="-0.4677771">
         <PunktWinkel X="2334.416" Y="-116.9101" W="5.842889" />
-        <PunktWinkel X="2408.079" Y="-175.7732" W="2.233519" />
+        <PunktWinkel X="2408.079" Y="-175.7733" W="2.233519" />
         <Punkt X="2247.714" Y="-300.934" />
       </Kreisbogen>
       <Kreisbogen ProfilName="Industriestammgleis" spTrass="8.333334" Oberbau="Holz K-Oberbau" kr="0.006545645" WinkelAnf="7.793141" WinkelLauf="1.217367">
-        <PunktWinkel X="1060.992" Y="450.0068" W="9.363937" />
+        <PunktWinkel X="1060.992" Y="450.0069" W="9.363937" />
         <PunktWinkel X="911.8527" Y="359.0108" W="7.439712" />
         <Punkt X="1051.703" Y="297.5162" />
       </Kreisbogen>
       <Gerade ProfilName="Industriestammgleis" spTrass="8.333334" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="1070.572" Y="449.4232" W="3.080754" />
-        <PunktWinkel X="1060.992" Y="450.0068" W="6.222347" />
+        <PunktWinkel X="1070.572" Y="449.4232" W="3.080748" />
+        <PunktWinkel X="1060.992" Y="450.0068" W="6.222341" />
       </Gerade>
       <Weiche ProfilName="Industriestammgleis" spTrass="8.333334" Oberbau="Holz K-Oberbau" Beschreibung="190 1:9 Rechts" Signalname="12">
         <Elemente>
@@ -1371,7 +1368,7 @@
       </Kreisbogen>
       <Gerade ProfilName="Industriestammgleis" spTrass="8.333334" Oberbau="Holz K-Oberbau">
         <PunktWinkel X="1022.276" Y="466.5546" W="2.701785" />
-        <PunktWinkel X="913.021" Y="517.9641" W="5.843378" />
+        <PunktWinkel X="913.021" Y="517.9641" W="5.843377" />
       </Gerade>
       <Gerade ProfilName="Industriestammgleis" spTrass="8.333334" Oberbau="Holz K-Oberbau">
         <PunktWinkel X="983.9929" Y="288.9554" W="-1.949155" />
@@ -1384,7 +1381,7 @@
       </Kreisbogen>
       <Kreisbogen ProfilName="ISG-Stadtwerke" spTrass="8.333334" Oberbau="Holz K-Oberbau" kr="0.005902526" WinkelAnf="1.209556" WinkelLauf="1.06413">
         <PunktWinkel X="1200.061" Y="325.3417" W="2.780352" />
-        <PunktWinkel X="1030.665" Y="296.12" W="0.7028896" />
+        <PunktWinkel X="1030.665" Y="296.1201" W="0.7028896" />
         <Punkt X="1140.182" Y="166.8572" />
       </Kreisbogen>
       <Weiche ProfilName="Industriestammgleis" spTrass="8.333334" Oberbau="Holz K-Oberbau" Beschreibung="190 1:9 Rechts" Signalname="13">
@@ -1409,17 +1406,17 @@
         <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\54_190_1-9_Rechts_Holzschw_K-Oberbau.st3" />
       </Weiche>
       <Gerade ProfilName="Industriestammgleis" spTrass="8.333334" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="954.7531" Y="201.9498" W="-2.05983" />
-        <PunktWinkel X="941.426" Y="176.9059" W="1.081762" />
+        <PunktWinkel X="954.7531" Y="201.9498" W="-2.059831" />
+        <PunktWinkel X="941.426" Y="176.9059" W="1.081761" />
       </Gerade>
       <Kreisbogen ProfilName="ISG-Stadtwerke" spTrass="8.333334" Oberbau="Holz K-Oberbau" kr="0.00263501" WinkelAnf="4.046295" WinkelLauf="0.2353729">
-        <PunktWinkel X="1290.772" Y="274.0927" W="5.617092" />
-        <PunktWinkel X="1366.823" Y="227.6323" W="2.710872" />
+        <PunktWinkel X="1290.772" Y="274.0926" W="5.617092" />
+        <PunktWinkel X="1366.823" Y="227.6322" W="2.710872" />
         <Punkt X="1525.276" Y="572.4753" />
       </Kreisbogen>
       <Gerade ProfilName="ISG-Stadtwerke" spTrass="8.333334" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="1366.822" Y="227.6324" W="-0.430719" />
-        <PunktWinkel X="1427.528" Y="199.7385" W="2.710874" />
+        <PunktWinkel X="1366.822" Y="227.6324" W="-0.4307196" />
+        <PunktWinkel X="1427.528" Y="199.7385" W="2.710873" />
       </Gerade>
       <Kreisbogen ProfilName="Industriestammgleis" spTrass="8.333334" Oberbau="Holz K-Oberbau" kr="0.003113696" WinkelAnf="2.56858" WinkelLauf="0.08399276">
         <PunktWinkel X="968.4089" Y="225.2038" W="4.139376" />
@@ -1490,7 +1487,7 @@
       </Kreisbogen>
       <Kreisbogen ProfilName="Industriestammgleis" spTrass="8.333334" Oberbau="Holz K-Oberbau" kr="0.005263158" WinkelAnf="-0.211799" WinkelLauf="-0.1815212">
         <PunktWinkel X="918.9304" Y="116.3429" W="4.50059" />
-        <PunktWinkel X="908.668" Y="83.46561" W="1.177476" />
+        <PunktWinkel X="908.668" Y="83.46563" W="1.177476" />
         <Punkt X="733.176" Y="156.2845" />
       </Kreisbogen>
       <Gerade ProfilName="Industriestammgleis" spTrass="8.333334" Oberbau="Holz K-Oberbau">
@@ -1506,8 +1503,8 @@
         <PunktWinkel X="1526.499" Y="-94.48804" W="1.13174" />
       </Gerade>
       <Kreisbogen ProfilName="GreatLakesChemical" spTrass="8.333334" Oberbau="Holz K-Oberbau" kr="0.001041368" WinkelAnf="2.702539" WinkelLauf="0.1576867">
-        <PunktWinkel X="1526.5" Y="-94.48711" W="4.273335" />
-        <PunktWinkel X="1473.183" Y="-236.0451" W="1.289429" />
+        <PunktWinkel X="1526.5" Y="-94.48724" W="4.273335" />
+        <PunktWinkel X="1473.183" Y="-236.0452" W="1.289429" />
         <Punkt X="2395.697" Y="-502.684" />
       </Kreisbogen>
       <Kreisbogen st2Typ="1" ProfilName="Industriestammgleis" spTrass="8.333334" Oberbau="Holz K-Oberbau" kr="0.004375568" WinkelAnf="1.124725" WinkelLauf="1.651183">
@@ -1520,8 +1517,8 @@
         <PunktWinkel X="834.2841" Y="-123.994" W="1.205112" km="0.8195849" />
       </Gerade>
       <Kreisbogen st2Typ="1" ProfilName="Industriestammgleis" spTrass="8.333334" Oberbau="Holz K-Oberbau" kr="0.002430466" WinkelAnf="2.775908" WinkelLauf="0.6156242">
-        <PunktWinkel X="834.2842" Y="-123.9943" W="4.346704" km="0.8195849" />
-        <PunktWinkel X="819.8638" Y="-372.8907" W="1.820736" km="1.07288" />
+        <PunktWinkel X="834.2842" Y="-123.9942" W="4.346704" km="0.8195849" />
+        <PunktWinkel X="819.8638" Y="-372.8906" W="1.820736" km="1.07288" />
         <Punkt X="1218.523" Y="-271.1219" />
       </Kreisbogen>
       <Kreisbogen st2Typ="1" ProfilName="GreatLakesChemical" spTrass="8.333334" Oberbau="Holz K-Oberbau" kr="0.006330007" WinkelAnf="1.261911" WinkelLauf="1.440629">
@@ -1568,8 +1565,8 @@
         <PunktWinkel X="2023.586" Y="45.87598" W="6.110594" />
       </Gerade>
       <Kreisbogen ProfilName="4000" spTrass="8.333334" Oberbau="Holz K-Oberbau" kr="0.005600775" WinkelAnf="4.539806" WinkelLauf="-0.272679">
-        <PunktWinkel X="2023.587" Y="45.87604" W="9.252195" />
-        <PunktWinkel X="1977.349" Y="60.63232" W="5.837923" />
+        <PunktWinkel X="2023.587" Y="45.87601" W="9.252195" />
+        <PunktWinkel X="1977.349" Y="60.63229" W="5.837923" />
         <Punkt X="2054.248" Y="221.7703" />
       </Kreisbogen>
       <Gerade ProfilName="4000" spTrass="8.333334" Oberbau="Holz K-Oberbau">
@@ -1587,17 +1584,17 @@
         <Punkt X="1140.182" Y="166.8572" />
       </Kreisbogen>
       <Kreisbogen st2Typ="1" ProfilName="ISG-Stadtwerke" spTrass="8.333334" Oberbau="Holz K-Oberbau" kr="0.00264897" WinkelAnf="-2.236892" WinkelLauf="0.2353743">
-        <PunktWinkel X="1292.008" Y="275.6656" W="-0.6660957" km="0.2876103" />
-        <PunktWinkel X="1367.657" Y="229.4497" W="-3.572314" km="0.3764653" />
+        <PunktWinkel X="1292.008" Y="275.6655" W="-0.6660957" km="0.2876103" />
+        <PunktWinkel X="1367.657" Y="229.4496" W="-3.572314" km="0.3764653" />
         <Punkt X="1525.276" Y="572.4753" />
       </Kreisbogen>
       <Gerade st2Typ="1" ProfilName="ISG-Stadtwerke" spTrass="8.333334" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="1367.657" Y="229.4497" W="-0.430719" km="0.3764653" />
+        <PunktWinkel X="1367.657" Y="229.4497" W="-0.4307188" km="0.3764653" />
         <PunktWinkel X="1428.363" Y="201.5558" W="2.710874" km="0.4432726" />
       </Gerade>
       <Gerade ProfilName="4000" spTrass="8.333334" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="2037.853" Y="51.85718" W="-0.4377364" />
-        <PunktWinkel X="2041.773" Y="50.02258" W="2.703856" />
+        <PunktWinkel X="2037.853" Y="51.85718" W="-0.437738" />
+        <PunktWinkel X="2041.773" Y="50.02258" W="2.703855" />
       </Gerade>
       <Weiche ProfilName="4000" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="49 190 1:6,6 rechts" Signalname="117">
         <Elemente>
@@ -1621,8 +1618,8 @@
         <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\49_190_1-6_6_Rechts_Holzschw_K-Oberbau.st3" />
       </Weiche>
       <Gerade ProfilName="4000" spTrass="27.77778" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="2229.634" Y="-31.45605" W="-0.4457133" />
-        <PunktWinkel X="2231.771" Y="-32.47705" W="2.695879" />
+        <PunktWinkel X="2229.634" Y="-31.45605" W="-0.4457148" />
+        <PunktWinkel X="2231.771" Y="-32.47705" W="2.695878" />
       </Gerade>
       <Gerade ProfilName="Industriestammgleis" spTrass="8.333334" Oberbau="Holz K-Oberbau">
         <PunktWinkel X="850.3929" Y="-47.13501" W="-1.949165" />
@@ -1655,8 +1652,8 @@
         <Punkt X="650.4189" Y="59.15942" />
       </Kreisbogen>
       <Gerade ProfilName="Industriestammgleis" spTrass="27.77778" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="702.441" Y="-159.3669" W="-2.907885" />
-        <PunktWinkel X="623.796" Y="-178.089" W="0.2337078" />
+        <PunktWinkel X="702.441" Y="-159.3669" W="-2.907884" />
+        <PunktWinkel X="623.796" Y="-178.089" W="0.2337085" />
       </Gerade>
       <Kreisbogen ProfilName="Industriestammgleis" spTrass="27.77778" Oberbau="Holz K-Oberbau" kr="0.002744626" WinkelAnf="2.76323" WinkelLauf="0.6490629">
         <PunktWinkel X="818.5447" Y="-127.252" W="4.334026" />
@@ -1664,7 +1661,7 @@
         <Punkt X="1157.123" Y="-261.842" />
       </Kreisbogen>
       <Gerade ProfilName="4000" spTrass="38.88889" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="-1123.007" Y="1575.36" W="2.698939" />
+        <PunktWinkel X="-1123.007" Y="1575.36" W="2.698938" />
         <PunktWinkel X="-1254.244" Y="1637.57" W="5.840531" />
       </Gerade>
       <Weiche ProfilName="4000" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="54-300-1:9R" Signalname="9">
@@ -1685,7 +1682,7 @@
         <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\300\54_300_1-9_Rechts_Holzschw_K-Oberbau.st3" />
       </Weiche>
       <Gerade ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau">
-        <PunktWinkel X="2034.211" Y="66.45612" W="2.700155" />
+        <PunktWinkel X="2034.211" Y="66.45612" W="2.700156" />
         <PunktWinkel X="1999.609" Y="82.80688" W="5.841748" />
       </Gerade>
       <Weiche ProfilName="4000" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="DKW54 190 1:9 Rechts" Signalname="116">
@@ -1736,8 +1733,8 @@
         <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\DKW54_190_1-9_Rechts_Holzschw_K-Oberbau.st3" />
       </Weiche>
       <Kreisbogen ProfilName="4000" spTrass="8.333334" Oberbau="Holz K-Oberbau" kr="0.002264004" WinkelAnf="-2.158814" WinkelLauf="-0.0372819">
-        <PunktWinkel X="2039.147" Y="53.85278" W="2.553575" />
-        <PunktWinkel X="2025.619" Y="63.24063" W="-0.6252995" />
+        <PunktWinkel X="2039.147" Y="53.85275" W="2.553575" />
+        <PunktWinkel X="2025.619" Y="63.2406" W="-0.6252995" />
         <Punkt X="2284.161" Y="421.3618" />
       </Kreisbogen>
       <Kreisbogen ProfilName="4000" spTrass="8.333334" Oberbau="Holz K-Oberbau" kr="0.002264004" WinkelAnf="0.9454966" WinkelLauf="0.07320537">
@@ -1941,7 +1938,7 @@
       </Weiche>
       <Gerade ProfilName="4000" spTrass="16.66667" Oberbau="Holz K-Oberbau">
         <PunktWinkel X="1657.717" Y="254.318" W="2.700155" />
-        <PunktWinkel X="1629.896" Y="267.4645" W="5.841748" />
+        <PunktWinkel X="1629.896" Y="267.4645" W="5.841747" />
       </Gerade>
       <Weiche ProfilName="4000" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="DB Gleissperre rechts auswerfend" Signalname="Gs1">
         <Elemente>
@@ -1988,8 +1985,8 @@
         <PunktWinkel X="1514.829" Y="330.8728" />
       </Punkt>
       <Gerade st2Typ="2" ProfilName="" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
-        <PunktWinkel X="4411.262" Y="2009.766" W="-2.273046" />
-        <PunktWinkel X="4394.937" Y="1990.472" W="0.8685469" />
+        <PunktWinkel X="4411.262" Y="2009.766" W="-2.27304" />
+        <PunktWinkel X="4394.937" Y="1990.472" W="0.8685531" />
       </Gerade>
     </Lageplan>
     <HoehenProfil ProfilName="4000" ProfilFarbe="FF0000FF" ProfilAbstandHorizontKm="2" ProfilGleisElementeZeichnen="1">

@@ -7,6 +7,14 @@
 <BefehlsKonfiguration/>
 <Kachelpfad Dateiname="Kacheln\" NurInfo="1"/>
 <UTM UTM_WE="511" UTM_NS="5281" UTM_Zone="32" UTM_Zone2="T"/>
+<Huellkurve>
+<PunktXYZ X="1539.1801" Y="-299.0004"/>
+<PunktXYZ X="3228.3379" Y="-1369.8621"/>
+<PunktXYZ X="5021.9712" Y="1493.012"/>
+<PunktXYZ X="3800.553" Y="2526.519"/>
+<PunktXYZ X="-928.5985" Y="3700.8701"/>
+<PunktXYZ X="-2638.407" Y="84.7181"/>
+</Huellkurve>
 <SkyDome>
 <HimmelTex Dateiname="_Setup\sky\sky.dds"/>
 <SonneTex Dateiname="_Setup\sky\sun.dds"/>
@@ -20522,7 +20530,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20534,7 +20542,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-4m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -20572,7 +20580,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20584,7 +20592,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-4m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -20700,7 +20708,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20712,7 +20720,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-6m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -20750,7 +20758,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20762,7 +20770,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-6m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -20803,7 +20811,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20815,7 +20823,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -20853,7 +20861,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20865,7 +20873,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -20904,7 +20912,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20916,7 +20924,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -20948,7 +20956,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20960,7 +20968,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
