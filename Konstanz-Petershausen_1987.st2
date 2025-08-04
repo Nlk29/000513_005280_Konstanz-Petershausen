@@ -34,11 +34,11 @@
       <UTM UTM_WE="511" UTM_NS="5280" UTM_Zone="32" UTM_Zone2="T" />
       <Huellkurve>
         <PunktXYZ X="1539.18" Y="-299.0004" />
-        <PunktXYZ X="3228.338" Y="-1369.862" />
-        <PunktXYZ X="5021.971" Y="1493.012" />
-        <PunktXYZ X="3800.553" Y="2526.519" />
-        <PunktXYZ X="-928.5985" Y="3700.87" />
         <PunktXYZ X="-2638.407" Y="84.7181" />
+        <PunktXYZ X="-928.5985" Y="3700.87" />
+        <PunktXYZ X="3800.553" Y="2526.519" />
+        <PunktXYZ X="5021.971" Y="1493.012" />
+        <PunktXYZ X="3228.338" Y="-1369.862" />
       </Huellkurve>
       <DEM>
         <Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Recherchedaten\DEM-Höhenmodelle\LGL-BW\Unified.dem" />
