@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.2" MinVersion="A.1" Beschreibung="	  l=38,662769317627  kr=0  ue=-0,0138786798343062	">
+<AutorEintrag AutorID="9" AutorName="Elmar Gröne"/>
+</Info>
+<Landschaft>
+<lsb Dateiname="Zunge_EW300L_gerade_K-Oberbau_gebogen_0001.lsb"/>
+<SubSet Cd="00FFFFFF" TypLs3="8" BeleuchtungTyp="2" MeterProTex="4.8" MeshV="104" MeshI="360">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur TransparentFarbe="00FFFFFF">
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Texturen\Weiche_Holzschwellen_K-Oberbau.dds"/>
+</Textur>
+</SubSet>
+</Landschaft>
+</Zusi>

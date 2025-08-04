@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.2" MinVersion="A.1"/>
+<Landschaft>
+<lsb Dateiname="Unterfuehrung_Fahrrad.lod1.lsb"/>
+<SubSet Cd="00FFFFFF" Ce="FF000000" MeterProTex="10" MeshV="80" MeshI="156">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\General\WALL\Wall_Concrete.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" Ce="FF000000" MeterProTex="10" MeterProTex2="10" MeshV="6" MeshI="12">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="00FFFFFF" Ce="FF000000" MeterProTex="10" MeshV="31" MeshI="69">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\General\WALL\Wall_Concrete.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" Ce="FF000000" MeterProTex="10" MeterProTex2="10" MeshV="3" MeshI="3">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFFFFFFF" Ce="FF000000" MeterProTex="10" MeterProTex2="10" MeshV="7" MeshI="15">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFA3A3A3" Ce="FF000000" MeterProTex="10" MeterProTex2="10" MeshV="3" MeshI="3">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="texture0.jpg"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" Ce="FF000000" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFFFFFFF" Ce="FF000000" MeterProTex="10" MeterProTex2="10" MeshV="5" MeshI="9">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FF1E331E" Ce="FF000000" MeterProTex="10" MeshV="64" MeshI="240">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFFFFFFF" Ce="FF000000" MeterProTex="10" MeterProTex2="10" MeshV="7" MeshI="9">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+</Landschaft>
+</Zusi>

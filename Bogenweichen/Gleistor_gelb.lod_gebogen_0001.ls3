@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.2" MinVersion="A.1" Beschreibung="	  l=216,911499023438  kr=0,00625087087973952  ue=0	">
+<AutorEintrag AutorID="33" AutorName="Alwin Meschede" AutorEmail="ameschede@gmx.de"/>
+</Info>
+<Landschaft>
+<Verknuepfte BoundingR="1" SichtbarBis="350" Vorlade="1" LODbit="7">
+<Datei Dateiname="PERMANENTWAY\DEUTSCHLAND\1435MM\REGELOBERBAU\GLEISTORE\Gleistor_gelb_Pfosten.lod1.ls3"/>
+<p X="-0.0384" Y="2.5192"/>
+<phi Z="4.728016"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte BoundingR="3" SichtbarBis="350" Vorlade="1" LODbit="7">
+<Datei Dateiname="PERMANENTWAY\DEUTSCHLAND\1435MM\REGELOBERBAU\GLEISTORE\Gleistor_gelb_Tor.lod1.ls3"/>
+<p X="-0.0384" Y="2.5192"/>
+<phi Z="4.728016"/>
+<sk/>
+</Verknuepfte>
+<Animation AniBeschreibung="geschlossen">
+<AniNrs AniNr="1"/>
+</Animation>
+<Animation AniBeschreibung="offen">
+<AniNrs AniNr="2"/>
+</Animation>
+</Landschaft>
+</Zusi>

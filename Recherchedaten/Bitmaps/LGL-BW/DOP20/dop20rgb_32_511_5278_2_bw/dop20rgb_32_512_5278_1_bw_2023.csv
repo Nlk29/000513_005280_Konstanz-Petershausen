@@ -1,0 +1,2 @@
+Kachelname;Aktualitaet;Erfassungsmethode;Bildflugnummer;Kamera;Bodenpixelgroesse;Spektralkanaele;Koordinatenreferenzsystem_Lage;Koordinatenreferenzsystem_Hoehe;Bezugsflaeche;Koordinatenursprung_East;Koordinatenursprung_North;Anzahl_Spalten;Anzahl_Zeilen;Farbtiefe;Standardabweichung;Dateiformat;Hintergrund;Hintergrundwert;Quelldatenqualitaet;Kompression;Komprimierung;Belaubungszustand;Bemerkungen
+dop20rgb_32_512_5278_1_bw_2023;2023-08-16;0;671;;20;RGB;25832;7837;;512000;5278000;5000;5000;8;40;TIFF;;255;0;0;0;3;Keine

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.2" MinVersion="A.1"/>
+<Landschaft>
+<Verknuepfte BoundingR="50" SichtbarAb="350" SichtbarBis="1000" Vorlade="1" LODbit="1">
+<Datei Dateiname="KoPf_Altana_Lilienthalstr_9.lod3.ls3"/>
+<p/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte BoundingR="50" SichtbarBis="350" Vorlade="1" LODbit="14">
+<Datei Dateiname="KoPf_Altana_Lilienthalstr_9.lod2.ls3"/>
+<p/>
+<phi/>
+<sk/>
+</Verknuepfte>
+</Landschaft>
+</Zusi>

@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<lsb Dateiname="KoPf_Erich_Bloch_Weg.lod3.lsb"/>
+<SubSet Cd="FFFFFFFF" MeshV="8" MeshI="3">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Erich_Bloch_Weg\KoPf_Erich_Bloch_Weg_lod3\texture0.jpg"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="4">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Erich_Bloch_Weg\KoPf_Erich_Bloch_Weg_lod3\texture1.jpg"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="8" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Erich_Bloch_Weg\KoPf_Erich_Bloch_Weg_lod3\texture10.jpg"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Erich_Bloch_Weg\KoPf_Erich_Bloch_Weg_lod3\texture11.jpg"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="4">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Erich_Bloch_Weg\KoPf_Erich_Bloch_Weg_lod3\texture2.jpg"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="4">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Erich_Bloch_Weg\KoPf_Erich_Bloch_Weg_lod3\texture3.jpg"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="5">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Erich_Bloch_Weg\KoPf_Erich_Bloch_Weg_lod3\texture4.jpg"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="13" MeshI="9">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Erich_Bloch_Weg\KoPf_Erich_Bloch_Weg_lod3\texture5.jpg"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="7" MeshI="12">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Erich_Bloch_Weg\KoPf_Erich_Bloch_Weg_lod3\texture6.jpg"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="42" MeshI="153">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Erich_Bloch_Weg\KoPf_Erich_Bloch_Weg_lod3\texture7.jpg"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="4">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Erich_Bloch_Weg\KoPf_Erich_Bloch_Weg_lod3\texture8.jpg"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="4">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Erich_Bloch_Weg\KoPf_Erich_Bloch_Weg_lod3\texture9.jpg"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" MeshV="8" MeshI="12">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Texturen\Erich-Bloch-Weg_Front.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" MeshV="8" MeshI="12">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Texturen\Erich-Bloch-Weg_Front_gespiegelt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" MeshV="10" MeshI="18">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Texturen\Erich-Bloch-Weg_Seite.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" MeshV="16" MeshI="24">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Texturen\Erich-Bloch-Weg_Seite.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" MeshV="19" MeshI="30">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Texturen\Erich-Bloch-Weg_Mitte.dds"/>
+</Textur>
+</SubSet>
+</Landschaft>
+</Zusi>

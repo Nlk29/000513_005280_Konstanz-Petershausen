@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.2" MinVersion="A.1"/>
+<Landschaft>
+<Verknuepfte BoundingR="1" SichtbarBis="120" Vorlade="1" LODbit="12">
+<Datei Dateiname="Unterfuehrung_Fahrrad.lod1.ls3"/>
+<p/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte BoundingR="1" SichtbarAb="120" SichtbarBis="1000" Vorlade="1" LODbit="3">
+<Datei Dateiname="Unterfuehrung_Fahrrad.lod3.ls3"/>
+<p/>
+<phi/>
+<sk/>
+</Verknuepfte>
+</Landschaft>
+</Zusi>

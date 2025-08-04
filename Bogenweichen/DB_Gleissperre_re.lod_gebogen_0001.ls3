@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.2" MinVersion="A.1" Beschreibung="	  l=206,509902954102  kr=0,00625087087973952  ue=0	">
+<AutorEintrag AutorID="8" AutorName="Joerg Sanftleben" AutorEmail="joergsanftleben@aol.com"/>
+</Info>
+<Landschaft>
+<Verknuepfte BoundingR="2" SichtbarBis="400" Vorlade="1" LODbit="14">
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Gleissperren\Lod\DB_Auflaufklotz.lod1.ls3"/>
+<p X="0.0092" Y="-1.4195" Z="0.075"/>
+<phi Z="0.015627"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="500" Vorlade="1" LODbit="14">
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Gleissperren\Lod\DB_Gleissperre_re.lod1.ls3"/>
+<p X="-0.0127" Y="-0.0196" Z="0"/>
+<phi Z="0.015627"/>
+<sk/>
+</Verknuepfte>
+<Animation AniBeschreibung="angelegt"/>
+<Animation AniBeschreibung="abgelegt"/>
+</Landschaft>
+</Zusi>

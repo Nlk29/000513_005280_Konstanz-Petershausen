@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.2" MinVersion="A.1" Beschreibung="	  l=66,8745269775391  kr=0,00200304808095098  ue=-0,0891498476266861	">
+<AutorEintrag AutorID="33" AutorName="Alwin Meschede" AutorEmail="ameschede@gmx.de"/>
+</Info>
+<Landschaft>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="800" Vorlade="1" LODbit="7">
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\lod\Zungenpruefer_ELP319.lod1.ls3"/>
+<p X="0.0001" Y="-0.0311"/>
+<phi Z="3.15275"/>
+<sk/>
+</Verknuepfte>
+</Landschaft>
+</Zusi>

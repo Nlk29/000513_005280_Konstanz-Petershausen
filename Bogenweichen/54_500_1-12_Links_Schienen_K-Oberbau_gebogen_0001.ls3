@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.2" MinVersion="A.1" Beschreibung="	  l=62,2048110961914  kr=0,00133333296980709  ue=-0,0348226390779018	">
+<AutorEintrag AutorID="9" AutorName="Elmar Gröne"/>
+</Info>
+<Landschaft>
+<lsb Dateiname="54_500_1-12_Links_Schienen_K-Oberbau_gebogen_0001.lsb"/>
+<SubSet Cd="00FFFFFF" TypLs3="8" BeleuchtungTyp="2" MeterProTex="10" MeshV="203" MeshI="582">
+<RenderFlags TexVoreinstellung="4"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Texturen\Weiche_Holzschwellen_K-Oberbau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="8" BeleuchtungTyp="2" MeterProTex="10" MeshV="224" MeshI="897">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\rail.dds"/>
+</Textur>
+</SubSet>
+</Landschaft>
+</Zusi>

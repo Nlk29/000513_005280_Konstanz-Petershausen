@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.2" MinVersion="A.1" Beschreibung="	  l=66,8745269775391  kr=0,00200304808095098  ue=-0,0891498476266861	">
+<AutorEintrag AutorID="1" AutorName="Carsten Hölscher" AutorEmail="carsten.hoelscher@zusi.de"/>
+<AutorEintrag AutorID="8" AutorName="Joerg Sanftleben" AutorEmail="joergsanftleben@aol.com"/>
+</Info>
+<Landschaft>
+<Verknuepfte BoundingR="4" SichtbarBis="750" Vorlade="1" LODbit="14">
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\lod\Aufschuettung_Antrieb_Beton.lod1.ls3"/>
+<p X="0.0059" Y="-2.4986" Z="0.0985"/>
+<phi Z="0.002344"/>
+<sk X="1.1" Y="0.85"/>
+</Verknuepfte>
+</Landschaft>
+</Zusi>

@@ -1,0 +1,48 @@
+Stellwerke/Posten:
+	Konstanz-Petershausen (RKOP):
+	- Konstanz-Petershausen Pw (Stw1)
+		x IBN 1906
+		x ABN 04.06.1988
+		x Bauart Bruchsal I
+		x Vermtl. am BÜ Petershausener Str. kombiniert mit Schrankenposten
+		x Steuerte vermtl. östl. Bahnhofskopf u. Asig/Esig von/nach  Konstanz
+		x Ersetzt durch Fernstellung durch Kof
+		x Fotos gesucht!!
+	- Konstanz-Petershausen Pf (Stw2)
+		x IBN 1906
+		x ABN 04.06.1988
+		x Bauart Bruchsal I
+		x Höchstwahrscheinl. im Empfangsgebäude an Gl. 1
+		x Steuerte vermtl westl. Bahnhofskopf, Einfahrt in Gl.5 u. Esig/Asig von/nach Reichenau (Baden)
+		x Ersetzt durch Fernstelllung durch Kof
+		x Fotos gesucht!!
+	- Vermutl. Schrankenposten BÜ Schneckenburgstr.
+	
+	Schrankemposten km 410,2 BÜ Riedstr.:
+		x IBN ??
+		x ABN vermtl mit IBN Stw Kof (04.06.1988)
+		x Zuständig für Bü Riedstr.
+
+	Schrankenposten Bü Mühlenweg:
+		x IBN ??
+		x ABN vermtl mit IBN Stw Kof (04.06.1988)
+		x Zuständig für Bü Mühlenweg
+
+	Reichenau (Baden) (RRU):
+		x IBN 1911
+		x ABN vermtl. mit IBN Stw Kof (04.06.1988) genauer Tag im Monat nicht bekannt
+		x Bauart Bruchsal I
+		x Höchstwahrscheinlich im Enpfangsgebäude kombiniert mit Schrankenposten Kindlebildstr.
+		x Ersatzos weggefallen; Bahnhof aufgelassen; heute Hp
+		x Dringend Fotos gesucht!!
+		
+
+Geschwindigkeiten:
+	- Ältere Geschwindigkeitsprofile unbekannt. Aktuelles nachgebildet.
+	- Allensbach - Bü Riedstr.				140km/h
+	- Bü Riedstr. - Bahnsteigende Petershausen		140km/h richtung Konstanz; 120km/h richtung Reichenau (Baden)
+	- Bahnsteigende Petershausen - Brücke Sternenplatz	60km/h richtung Konstanz; 80km/h richtung Reichenau (Baden)
+	- Brücke Sternenplatz - Bf Konstanz 			60km/h
+
+WICHTIG:
+	- Bei Bau Konstanz Streckensound Stahlbrücke start an Modulgrenze einbauen

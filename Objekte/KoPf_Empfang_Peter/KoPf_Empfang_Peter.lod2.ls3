@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<lsb Dateiname="KoPf_Empfang_Peter.lod2.lsb"/>
+<SubSet Cd="00FFFFFF" MeshV="74" MeshI="126">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Texturen\Holz_grau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FF99FFFF" MeshV="86" MeshI="132">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="00FFFFFF" MeshV="72" MeshI="135">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Texturen\Dachziegel.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeshV="188" MeshI="396">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Texturen\Wand.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFA3A3A3" MeshV="8" MeshI="12">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="00FFFFFF" MeshV="20" MeshI="30">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Texturen\Ziegel.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="8" MeshI="12">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+</Landschaft>
+</Zusi>

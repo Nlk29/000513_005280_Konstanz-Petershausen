@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<lsb Dateiname="KoPf_ZGK.lod3.lsb"/>
+<SubSet Cd="FFAAAAAA" MeshV="8" MeshI="24">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeshV="32" MeshI="54">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Texturen\ZGK_B_Front.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FF727272" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeshV="48" MeshI="90">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Texturen\ZGK_A_Frontpanels_Unten.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeshV="48" MeshI="96">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Texturen\ZGK_A_Fenster.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="17" MeshI="27">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+</Landschaft>
+</Zusi>

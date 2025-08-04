@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<lsb Dateiname="KoPf_Fernmeldeamt.lod3.lsb"/>
+<SubSet Cd="FFE2E2E2" MeshV="172" MeshI="510">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="8" MeshI="12">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Fernmeldeamt\KoPf_Fernmeldeamt_lod3\texture0.jpg"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="8" MeshI="12">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Fernmeldeamt\KoPf_Fernmeldeamt_lod3\texture1.jpg"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="144" MeshI="420">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFFF8C65" MeshV="96" MeshI="288">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFC6C6C6" MeshV="192" MeshI="642">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FF565656" MeshV="216" MeshI="630">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+</Landschaft>
+</Zusi>

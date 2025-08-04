@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.2" MinVersion="A.1"/>
+<Landschaft>
+<Verknuepfte Flags="4" BoundingR="717" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Kacheln\0_500_500.ls3"/>
+<p X="500" Y="500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<lsb Dateiname="KoPf_Rieter_Ziegelei.lod3.lsb"/>
+<SubSet Cd="FFFFFFFF" TypGF="1" MeshV="53" MeshI="120">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="00FFFFFF" MeshV="250" MeshI="678">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Texturen\Dachziegel.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Texturen\Rieter_Brücke_Fenster.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Texturen\Rieter_Brücke_Fenster.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Texturen\Rieter_Brücke_Fenster.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Texturen\Rieter_Brücke_Fenster.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Texturen\Rieter_Brücke_Fenster.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="911" MeshI="1920">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Texturen\Wand.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FF6FCCCC" MeshV="38" MeshI="60">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="125" MeshI="225">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Texturen\Wellblech_hell.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="1736" MeshI="3720">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FF1E3333" MeshV="744" MeshI="1116">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Texturen\Rieter_Brücke_Fenster.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Texturen\Rieter_Brücke_Fenster.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Texturen\Rieter_Brücke_Fenster.dds"/>
+</Textur>
+</SubSet>
+</Landschaft>
+</Zusi>

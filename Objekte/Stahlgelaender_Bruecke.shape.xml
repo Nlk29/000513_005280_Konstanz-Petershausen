@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Formkurve" Version="A.1" MinVersion="A.0">
+<AutorEintrag AutorID="-1" AutorName="Zusi-generiert"/>
+</Info>
+<Formkurve>
+<Punkt X="-0.35" Y="0.5" nX="-1">
+</Punkt>
+<Punkt X="-0.35" Y="1.5" nX="-0.7071" nY="0.7071" tex="0.1">
+</Punkt>
+<Punkt X="0.35" Y="1.5" nX="0.7071" nY="0.7071" tex="0.17">
+</Punkt>
+<Punkt X="0.35" Y="0.5" nX="1" tex="0.27">
+</Punkt>
+<Material Cd="00FFFFFF" Ca="00FFFFFF" MeterProTex="3" MeterProTex2="10" TypLs3="13" TypGF="2">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0006_0059\000567_005923_Hamburg_Harburg\Texturen\Stahlbruecke-Rost2.dds"/>
+</Textur>
+</Material>
+</Formkurve>
+</Zusi>
