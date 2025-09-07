@@ -64,14 +64,8 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gleisfeldleuchte_10m_Rundmast.lod.ls3"/>
-<p X="-154.7202" Y="424.1868" Z="400.771"/>
+<p X="-154.7202" Y="425.3001" Z="400.771"/>
 <phi Z="2.566293"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gleisfeldleuchte_10m_Rundmast.lod.ls3"/>
-<p X="-180.894" Y="439.1118" Z="400.7656"/>
-<phi Z="2.609437"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -118,31 +112,31 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-208.3318" Y="469.9714" Z="400.7585"/>
+<p X="-208.3318" Y="471.8347" Z="400.7585"/>
 <phi Z="-0.505528"/>
 <sk X="1.3984" Y="1.3984" Z="1.3984"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-204.054" Y="467.7675" Z="400.7594"/>
+<p X="-204.054" Y="467.7323" Z="400.7594"/>
 <phi Z="-0.512791"/>
 <sk X="1.5463" Y="1.5463" Z="1.5463"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-198.9985" Y="464.7666" Z="400.7603"/>
+<p X="-198.9985" Y="464.7314" Z="400.7603"/>
 <phi Z="-0.521433"/>
 <sk X="0.6488" Y="0.6488" Z="0.6488"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-195.04" Y="463.2577" Z="400.7612"/>
+<p X="-195.04" Y="463.2225" Z="400.7612"/>
 <phi Z="-0.53081"/>
 <sk X="0.2631" Y="0.2631" Z="0.2631"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-190.8181" Y="460.5951" Z="400.7621"/>
+<p X="-190.8181" Y="460.5599" Z="400.7621"/>
 <phi Z="-0.540932"/>
 <sk X="0.6363" Y="0.6363" Z="0.6363"/>
 </Verknuepfte>
@@ -154,13 +148,13 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-182.5706" Y="454.6082" Z="400.7639"/>
+<p X="-182.5706" Y="454.7957" Z="400.7639"/>
 <phi Z="-0.552272"/>
 <sk X="1.3081" Y="1.3081" Z="1.3081"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-177.53" Y="452.5712" Z="400.7648"/>
+<p X="-177.53" Y="452.7587" Z="400.7648"/>
 <phi Z="-0.564285"/>
 <sk X="1.5582" Y="1.5582" Z="1.5582"/>
 </Verknuepfte>
@@ -244,63 +238,57 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="20" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-106.8506" Y="394.1906" Z="400.781"/>
+<p X="-106.8506" Y="394.9758" Z="400.781"/>
 <phi Z="-0.832634"/>
 <sk X="1.8732" Y="1.8732" Z="1.8732"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-103.8052" Y="390.6498" Z="400.7819"/>
+<p X="-103.8052" Y="391.435" Z="400.7819"/>
 <phi Z="-0.858667"/>
 <sk X="1.0309" Y="1.0309" Z="1.0309"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-101.2571" Y="386.5984" Z="400.795"/>
+<p X="-101.2571" Y="387.3835" Z="400.795"/>
 <phi Z="-0.872116"/>
 <sk X="0.9994" Y="0.9994" Z="0.9994"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-97.6426" Y="383.2418" Z="400.8179"/>
+<p X="-97.6426" Y="384.273" Z="400.8179"/>
 <phi Z="-0.872116"/>
 <sk X="1.1721" Y="1.1721" Z="1.1721"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-93.7781" Y="378.7802" Z="400.8409"/>
+<p X="-93.7781" Y="380.8779" Z="400.8409"/>
 <phi Z="-0.872116"/>
 <sk X="1.6374" Y="1.6374" Z="1.6374"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-91.5491" Y="375.3171" Z="400.8639"/>
+<p X="-91.5491" Y="376.6296" Z="400.8639"/>
 <phi Z="-0.872116"/>
 <sk X="1.2053" Y="1.2053" Z="1.2053"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-87.7542" Y="371.9944" Z="400.8696"/>
+<p X="-87.7542" Y="373.3069" Z="400.8696"/>
 <phi Z="-0.872184"/>
 <sk X="1.0018" Y="1.0018" Z="1.0018"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-84.418" Y="367.4875" Z="400.8705"/>
+<p X="-84.418" Y="368.718" Z="400.8705"/>
 <phi Z="-0.872146"/>
 <sk X="1.0324" Y="1.0324" Z="1.0324"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-81.4167" Y="365.0465" Z="400.8714"/>
+<p X="-81.4167" Y="365.9723" Z="400.8714"/>
 <phi Z="-0.872146"/>
 <sk X="1.4145" Y="1.4145" Z="1.4145"/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000390_005704_Do-Barop\Objekte\02_Do_Barop-Stw\02_Do_Barop-Stw.lod.ls3"/>
-<p X="-65.0115" Y="350.8339" Z="400.4402"/>
-<phi Z="0.698644"/>
-<sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0004_0057\000397_005698_Westhofen\Objekte\Westhofen_03_Gutshof\Westhofen_03_Mauer-3-5m.lod.ls3"/>
@@ -514,7 +502,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="20" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0006_0058\000583_005798_Peine_West\Objekte\BraunschweigerStr\PeinerEck.lod.ls3"/>
-<p X="62.9626" Y="130.1617" Z="400.9965"/>
+<p X="63.3106" Y="129.0566" Z="400.9965"/>
 <phi Z="1.14251"/>
 <sk/>
 </Verknuepfte>
@@ -586,7 +574,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\Maple\Maple01-15m.lod.ls3"/>
-<p X="-30.7034" Y="311.0208" Z="400.9138"/>
+<p X="-37.8753" Y="320.9114" Z="400.9138"/>
 <phi Z="-0.882442"/>
 <sk/>
 </Verknuepfte>
@@ -598,7 +586,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="30" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0004_0057\000392_005694_Hagen_Gbf\Objekte\Hagen_Gbf_11_Schwerte-Str\Hagen_Gbf_11_WHaus_14\Hagen_Gbf_11_WHaus_14.lod.ls3"/>
-<p X="60.364" Y="-70.4279" Z="399.8609"/>
+<p X="61.9226" Y="-72.1154" Z="399.8609"/>
 <phi Z="3.0272"/>
 <sk/>
 </Verknuepfte>
@@ -1292,15 +1280,9 @@
 <phi Z="-0.99051"/>
 <sk X="1.2" Y="1.2" Z="1.5"/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="55" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000392_005691_Hagen_Hbf\Objekte\Hagen_Hbf_21_Stadtkulisse\Hagen_Hbf_21_Boeler-Block-8-1b.lod.ls3"/>
-<p X="1.0706" Y="161.5391" Z="400.881"/>
-<phi Z="0.206302"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="29" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0004_0057\000429_005700_Neheim-Huesten\Objekte\Neheim_36_Gewerbe_Kleinbahnstrasse\Neheim_36_Schuppen.lod.ls3"/>
-<p X="4.0215" Y="95.8734" Z="400.5607"/>
+<p X="4.0215" Y="96.2132" Z="400.5607"/>
 <phi Z="0.127945"/>
 <sk X="1.5" Y="1.5" Z="1.5"/>
 </Verknuepfte>
@@ -1612,7 +1594,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Vehicles\1970-79\Ford_Taunus76\CH_Taunus76_rot.lod.ls3"/>
-<p X="-33.7852" Y="-140.7087" Z="400.3958"/>
+<p X="-33.7852" Y="-142.2556" Z="400.3958"/>
 <phi Z="-2.218424"/>
 <sk/>
 </Verknuepfte>
@@ -1720,8 +1702,8 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_1m_10m.lod.ls3"/>
-<p X="14.0022" Y="-53.5535" Z="399.442"/>
-<phi Z="-2.754863"/>
+<p X="4.0061" Y="-57.1629" Z="399.442"/>
+<phi Z="-6.546864"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
@@ -1870,133 +1852,133 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000468_005299_Zollhaus\ObjekteZollhaus\ZumStellwerk\ZumStellwerk.lod.ls3"/>
-<p X="-85.3994" Y="-173.9972" Z="396.8289"/>
+<p X="-85.3994" Y="-173.9972" Z="398.7625"/>
 <phi Z="2.529974"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Bush01-08m.lod.ls3"/>
-<p X="1.9787" Y="-103.0686" Z="398.7508"/>
+<p X="5.049" Y="-103.0686" Z="398.7508"/>
 <phi Z="-2.225764"/>
 <sk X="1.1" Y="1.1" Z="0.8"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
-<p X="0.9441" Y="-112.2172" Z="399.0894"/>
+<p X="4.0144" Y="-112.2172" Z="399.0894"/>
 <phi Z="-1.814657"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Bush05-03m.lod.ls3"/>
-<p X="-0.2608" Y="-117.0591" Z="399.2466"/>
+<p X="2.8095" Y="-117.0591" Z="399.2466"/>
 <phi Z="-1.814657"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
-<p X="-1.4653" Y="-121.9009" Z="399.9308"/>
+<p X="1.605" Y="-121.9009" Z="399.9308"/>
 <phi Z="-1.814657"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Bush04-3m.lod.ls3"/>
-<p X="2.2432" Y="-107.8304" Z="399.4252"/>
+<p X="5.3135" Y="-107.8304" Z="399.4252"/>
 <phi Z="-2.442662"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
-<p X="-22.9548" Y="-168.9423" Z="400.8184"/>
+<p X="-23.1025" Y="-168.9423" Z="400.8184"/>
 <phi Z="1.252626"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Bush05-03m.lod.ls3"/>
-<p X="-21.0974" Y="-163.3024" Z="400.7147"/>
+<p X="-21.2451" Y="-163.3024" Z="400.7147"/>
 <phi Z="1.252626"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
-<p X="-19.2397" Y="-157.6626" Z="400.611"/>
+<p X="-19.3874" Y="-157.6626" Z="400.611"/>
 <phi Z="1.252626"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Bush05-03m.lod.ls3"/>
-<p X="-21.2495" Y="-149.8783" Z="400.5073"/>
+<p X="-21.3972" Y="-149.8783" Z="400.5073"/>
 <phi Z="1.252626"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Bush04-3m.lod.ls3"/>
-<p X="-14.1931" Y="-148.7846" Z="400.5971"/>
+<p X="-14.3408" Y="-148.7846" Z="400.5971"/>
 <phi Z="-2.065732"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Bush04-3m.lod.ls3"/>
-<p X="-24.9336" Y="-178.3461" Z="400.8415"/>
+<p X="-25.0813" Y="-178.3461" Z="400.8415"/>
 <phi Z="-2.065732"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="19.6187" Y="-101.6887" Z="402.3728"/>
+<p X="19.5425" Y="-101.6887" Z="402.3728"/>
 <phi Z="-1.827402"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="16.9539" Y="-111.4355" Z="402.2144"/>
+<p X="16.8777" Y="-111.4355" Z="402.2144"/>
 <phi Z="-1.853975"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="13.8882" Y="-121.139" Z="402.0568"/>
+<p X="13.812" Y="-121.139" Z="402.0568"/>
 <phi Z="-1.898583"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="10.4539" Y="-130.6503" Z="401.8987"/>
+<p X="10.3777" Y="-130.6503" Z="401.8987"/>
 <phi Z="-1.927091"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="6.6536" Y="-140.0817" Z="401.7414"/>
+<p X="6.5774" Y="-140.0817" Z="401.7414"/>
 <phi Z="-1.96971"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="2.5693" Y="-149.3723" Z="401.5812"/>
+<p X="2.4814" Y="-149.3723" Z="401.5812"/>
 <phi Z="-2.007443"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-1.4673" Y="-158.4597" Z="401.4245"/>
+<p X="-1.704" Y="-158.4597" Z="401.4245"/>
 <phi Z="-2.024234"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-6.0576" Y="-167.4788" Z="401.2665"/>
+<p X="-6.2943" Y="-167.4788" Z="401.2665"/>
 <phi Z="-2.05473"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-11.1274" Y="-176.3784" Z="401.1098"/>
+<p X="-11.3641" Y="-176.3784" Z="401.1098"/>
 <phi Z="-2.080346"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-16.0652" Y="-185.1237" Z="400.9498"/>
+<p X="-16.3019" Y="-185.1237" Z="400.9498"/>
 <phi Z="-2.091299"/>
 <sk/>
 </Verknuepfte>
@@ -2668,85 +2650,85 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-59.2576" Y="318.1404" Z="400.7589"/>
+<p X="-59.2576" Y="318.7615" Z="400.7589"/>
 <phi Z="-0.913569"/>
 <sk X="1.1667" Y="1.1667" Z="1.1667"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-56.3286" Y="311.8274" Z="400.7633"/>
+<p X="-56.3286" Y="312.4485" Z="400.7633"/>
 <phi Z="-0.934477"/>
 <sk X="0.9614" Y="0.9614" Z="0.9614"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-53.4536" Y="310.1056" Z="400.7662"/>
+<p X="-53.4536" Y="310.7267" Z="400.7662"/>
 <phi Z="-0.953796"/>
 <sk X="0.9006" Y="0.9006" Z="0.9006"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="20" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-52.2185" Y="304.5939" Z="400.7678"/>
+<p X="-51.5154" Y="304.5939" Z="400.7678"/>
 <phi Z="-0.972431"/>
 <sk X="1.8808" Y="1.8808" Z="1.8808"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-47.8201" Y="301.9509" Z="400.7703"/>
+<p X="-47.117" Y="301.9509" Z="400.7703"/>
 <phi Z="-0.972431"/>
 <sk X="1.2015" Y="1.2015" Z="1.2015"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-45.9538" Y="296.2769" Z="400.7769"/>
+<p X="-44.8874" Y="295.5034" Z="400.7769"/>
 <phi Z="-0.983675"/>
 <sk X="1.6184" Y="1.6184" Z="1.6184"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-42.3286" Y="292.5854" Z="400.7866"/>
+<p X="-41.2622" Y="291.812" Z="400.7866"/>
 <phi Z="-0.995791"/>
 <sk X="1.4966" Y="1.4966" Z="1.4966"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-39.6094" Y="288.5419" Z="400.8039"/>
+<p X="-38.543" Y="287.7685" Z="400.8039"/>
 <phi Z="-0.995791"/>
 <sk X="1.3634" Y="1.3634" Z="1.3634"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-36.9353" Y="284.1751" Z="400.824"/>
+<p X="-35.8689" Y="283.4017" Z="400.824"/>
 <phi Z="-1.005419"/>
 <sk X="1.3617" Y="1.3617" Z="1.3617"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-34.2996" Y="279.9442" Z="400.8502"/>
+<p X="-33.2332" Y="279.1708" Z="400.8502"/>
 <phi Z="-1.014435"/>
 <sk X="1.4032" Y="1.4032" Z="1.4032"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-31.7029" Y="276.9515" Z="400.8819"/>
+<p X="-31.3396" Y="276.1781" Z="400.8819"/>
 <phi Z="-1.022897"/>
 <sk X="1.0212" Y="1.0212" Z="1.0212"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="20" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-29.1511" Y="268.7359" Z="400.9168"/>
+<p X="-28.7878" Y="267.9625" Z="400.9168"/>
 <phi Z="-1.034608"/>
 <sk X="1.9239" Y="1.9239" Z="1.9239"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-26.6255" Y="268.441" Z="400.9585"/>
+<p X="-26.2622" Y="267.6676" Z="400.9585"/>
 <phi Z="-1.040785"/>
 <sk X="0.5476" Y="0.5476" Z="0.5476"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-24.1587" Y="263.0534" Z="401.0048"/>
+<p X="-23.7954" Y="262.28" Z="401.0048"/>
 <phi Z="-1.053712"/>
 <sk X="1.1098" Y="1.1098" Z="1.1098"/>
 </Verknuepfte>
@@ -2806,439 +2788,439 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-2.0994" Y="219.9312" Z="401.4918"/>
+<p X="-1.9471" Y="219.9312" Z="401.4918"/>
 <phi Z="-1.161494"/>
 <sk X="0.8624" Y="0.8624" Z="0.8624"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-0.2036" Y="215.4109" Z="401.5402"/>
+<p X="-0.0513" Y="215.4109" Z="401.5402"/>
 <phi Z="-1.181032"/>
 <sk X="1.486" Y="1.486" Z="1.486"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="18" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="1.6963" Y="210.7859" Z="401.5887"/>
+<p X="1.8486" Y="210.7859" Z="401.5887"/>
 <phi Z="-1.181032"/>
 <sk X="1.7246" Y="1.7246" Z="1.7246"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="3.4717" Y="206.2147" Z="401.6371"/>
+<p X="3.624" Y="206.2147" Z="401.6371"/>
 <phi Z="-1.200191"/>
 <sk X="0.8851" Y="0.8851" Z="0.8851"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="5.2139" Y="201.6332" Z="401.6856"/>
+<p X="5.3662" Y="201.6332" Z="401.6856"/>
 <phi Z="-1.219754"/>
 <sk X="0.8991" Y="0.8991" Z="0.8991"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="6.9331" Y="196.9381" Z="401.7342"/>
+<p X="7.0854" Y="196.9381" Z="401.7342"/>
 <phi Z="-1.219754"/>
 <sk X="0.8763" Y="0.8763" Z="0.8763"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="8.5522" Y="192.3098" Z="401.7827"/>
+<p X="8.7045" Y="192.3098" Z="401.7827"/>
 <phi Z="-1.238985"/>
 <sk X="0.5577" Y="0.5577" Z="0.5577"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="10.1387" Y="187.6713" Z="401.8311"/>
+<p X="10.291" Y="187.6713" Z="401.8311"/>
 <phi Z="-1.258417"/>
 <sk X="1.1684" Y="1.1684" Z="1.1684"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="11.6753" Y="182.9132" Z="401.8796"/>
+<p X="12.4605" Y="182.9132" Z="401.8796"/>
 <phi Z="-1.258417"/>
 <sk X="0.9709" Y="0.9709" Z="0.9709"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="19" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="13.136" Y="178.234" Z="401.9281"/>
+<p X="13.1712" Y="178.234" Z="401.9281"/>
 <phi Z="-1.277915"/>
 <sk X="1.8183" Y="1.8183" Z="1.8183"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="14.5793" Y="173.4469" Z="401.9766"/>
+<p X="12.0715" Y="173.4469" Z="401.9766"/>
 <phi Z="-1.277915"/>
 <sk X="1.3074" Y="1.3074" Z="1.3074"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="15.915" Y="168.7289" Z="402.0251"/>
+<p X="13.4072" Y="168.7289" Z="402.0251"/>
 <phi Z="-1.297123"/>
 <sk X="1.0316" Y="1.0316" Z="1.0316"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="17.217" Y="164.0027" Z="402.0735"/>
+<p X="17.2522" Y="164.0027" Z="402.0735"/>
 <phi Z="-1.316555"/>
 <sk X="1.0343" Y="1.0343" Z="1.0343"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="18.4746" Y="159.1633" Z="402.122"/>
+<p X="19.1074" Y="159.1633" Z="402.122"/>
 <phi Z="-1.316555"/>
 <sk X="1.2621" Y="1.2621" Z="1.2621"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="18" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="19.6492" Y="154.4039" Z="402.1705"/>
+<p X="19.6844" Y="154.4039" Z="402.1705"/>
 <phi Z="-1.335985"/>
 <sk X="1.7174" Y="1.7174" Z="1.7174"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="20.7903" Y="149.6355" Z="402.2189"/>
+<p X="20.8255" Y="149.6355" Z="402.2189"/>
 <phi Z="-1.355298"/>
 <sk X="0.5123" Y="0.5123" Z="0.5123"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="20" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="21.8594" Y="144.7511" Z="402.2675"/>
+<p X="21.8946" Y="144.7511" Z="402.2675"/>
 <phi Z="-1.355298"/>
 <sk X="1.9208" Y="1.9208" Z="1.9208"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="22.8853" Y="139.9336" Z="402.3159"/>
+<p X="22.9205" Y="139.9336" Z="402.3159"/>
 <phi Z="-1.370125"/>
 <sk X="1.4329" Y="1.4329" Z="1.4329"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="23.854" Y="135.077" Z="402.3645"/>
+<p X="23.8892" Y="135.077" Z="402.3645"/>
 <phi Z="-1.379622"/>
 <sk X="1.5069" Y="1.5069" Z="1.5069"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="24.7502" Y="130.2255" Z="402.413"/>
+<p X="25.383" Y="130.2255" Z="402.413"/>
 <phi Z="-1.392787"/>
 <sk X="1.0232" Y="1.0232" Z="1.0232"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="25.6355" Y="125.3044" Z="402.4615"/>
+<p X="25.9871" Y="126.0427" Z="402.4615"/>
 <phi Z="-1.392787"/>
 <sk X="0.9368" Y="0.9368" Z="0.9368"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="26.425" Y="120.4657" Z="402.51"/>
+<p X="25.6867" Y="120.4657" Z="402.51"/>
 <phi Z="-1.412131"/>
 <sk X="0.9308" Y="0.9308" Z="0.9308"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="27.1926" Y="115.5967" Z="402.5585"/>
+<p X="26.4543" Y="115.5967" Z="402.5585"/>
 <phi Z="-1.426244"/>
 <sk X="0.4697" Y="0.4697" Z="0.4697"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="18" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="27.9019" Y="110.6943" Z="402.607"/>
+<p X="27.1988" Y="111.4326" Z="402.607"/>
 <phi Z="-1.435549"/>
 <sk X="1.752" Y="1.752" Z="1.752"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="28.5403" Y="105.8005" Z="402.6555"/>
+<p X="27.8372" Y="106.5388" Z="402.6555"/>
 <phi Z="-1.448393"/>
 <sk X="1.2637" Y="1.2637" Z="1.2637"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="29.1509" Y="100.838" Z="402.704"/>
+<p X="29.1861" Y="101.5763" Z="402.704"/>
 <phi Z="-1.448393"/>
 <sk X="0.7312" Y="0.7312" Z="0.7312"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="29.6924" Y="95.9674" Z="402.7526"/>
+<p X="29.7276" Y="96.7057" Z="402.7526"/>
 <phi Z="-1.468143"/>
 <sk X="1.3748" Y="1.3748" Z="1.3748"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="30.2048" Y="90.9937" Z="402.8011"/>
+<p X="30.24" Y="91.732" Z="402.8011"/>
 <phi Z="-1.468143"/>
 <sk X="1.3615" Y="1.3615" Z="1.3615"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="30.6265" Y="86.0992" Z="402.8496"/>
+<p X="30.6617" Y="86.8375" Z="402.8496"/>
 <phi Z="-1.485544"/>
 <sk X="1.4579" Y="1.4579" Z="1.4579"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="31.0254" Y="81.2078" Z="402.8981"/>
+<p X="31.0606" Y="81.9461" Z="402.8981"/>
 <phi Z="-1.503885"/>
 <sk X="1.0842" Y="1.0842" Z="1.0842"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="31.3596" Y="76.219" Z="402.9466"/>
+<p X="32.3674" Y="76.9573" Z="402.9466"/>
 <phi Z="-1.503885"/>
 <sk X="1.2662" Y="1.2662" Z="1.2662"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="31.644" Y="71.3213" Z="402.9951"/>
+<p X="31.6792" Y="72.0596" Z="402.9951"/>
 <phi Z="-1.522574"/>
 <sk X="1.3892" Y="1.3892" Z="1.3892"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="31.885" Y="66.327" Z="403.0436"/>
+<p X="31.9202" Y="67.0653" Z="403.0436"/>
 <phi Z="-1.522574"/>
 <sk X="1.6511" Y="1.6511" Z="1.6511"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="32.0544" Y="61.4226" Z="403.0921"/>
+<p X="32.0896" Y="62.1609" Z="403.0921"/>
 <phi Z="-1.540983"/>
 <sk X="1.3149" Y="1.3149" Z="1.3149"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="32.2017" Y="56.5184" Z="403.1406"/>
+<p X="32.2369" Y="57.2567" Z="403.1406"/>
 <phi Z="-1.559615"/>
 <sk X="1.3627" Y="1.3627" Z="1.3627"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="32.2576" Y="51.5187" Z="403.1891"/>
+<p X="31.6951" Y="52.257" Z="403.1891"/>
 <phi Z="-1.559615"/>
 <sk X="1.448" Y="1.448" Z="1.448"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="32.2891" Y="46.6116" Z="403.2377"/>
+<p X="31.7266" Y="47.3499" Z="403.2377"/>
 <phi Z="-1.578045"/>
 <sk X="1.3494" Y="1.3494" Z="1.3494"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="32.2527" Y="41.6117" Z="403.2862"/>
+<p X="31.655" Y="41.6117" Z="403.2862"/>
 <phi Z="-1.578045"/>
 <sk X="0.8236" Y="0.8236" Z="0.8236"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="32.1689" Y="36.7063" Z="403.3344"/>
+<p X="31.6416" Y="33.929" Z="403.3344"/>
 <phi Z="-1.5967"/>
 <sk X="0.3583" Y="0.3583" Z="0.3583"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="32.0396" Y="31.7079" Z="403.3823"/>
+<p X="31.4419" Y="31.7079" Z="403.3823"/>
 <phi Z="-1.5967"/>
 <sk X="0.7254" Y="0.7254" Z="0.7254"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="31.8408" Y="26.8046" Z="403.428"/>
+<p X="31.2431" Y="26.8046" Z="403.428"/>
 <phi Z="-1.615113"/>
 <sk X="1.5345" Y="1.5345" Z="1.5345"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="31.6199" Y="21.9032" Z="403.4729"/>
+<p X="31.0222" Y="21.9032" Z="403.4729"/>
 <phi Z="-1.633796"/>
 <sk X="1.2855" Y="1.2855" Z="1.2855"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="31.3052" Y="16.9132" Z="403.5139"/>
+<p X="30.7075" Y="16.9132" Z="403.5139"/>
 <phi Z="-1.633796"/>
 <sk X="1.422" Y="1.422" Z="1.422"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="30.9688" Y="12.0166" Z="403.554"/>
+<p X="30.3711" Y="12.0166" Z="403.554"/>
 <phi Z="-1.6521"/>
 <sk X="1.1843" Y="1.1843" Z="1.1843"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="30.5625" Y="7.0332" Z="403.5918"/>
+<p X="29.9648" Y="7.0332" Z="403.5918"/>
 <phi Z="-1.6521"/>
 <sk X="1.5628" Y="1.5628" Z="1.5628"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="30.1116" Y="2.1482" Z="403.6265"/>
+<p X="29.5139" Y="2.1482" Z="403.6265"/>
 <phi Z="-1.670862"/>
 <sk X="0.4508" Y="0.4508" Z="0.4508"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="29.6121" Y="-2.8269" Z="403.6588"/>
+<p X="29.0144" Y="-2.8269" Z="403.6588"/>
 <phi Z="-1.670862"/>
 <sk X="0.8977" Y="0.8977" Z="0.8977"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="29.0464" Y="-7.702" Z="403.6879"/>
+<p X="28.4487" Y="-7.702" Z="403.6879"/>
 <phi Z="-1.689226"/>
 <sk X="1.1622" Y="1.1622" Z="1.1622"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="28.458" Y="-12.5884" Z="403.7159"/>
+<p X="27.8603" Y="-12.5884" Z="403.7159"/>
 <phi Z="-1.70468"/>
 <sk X="1.5657" Y="1.5657" Z="1.5657"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="27.7908" Y="-17.5437" Z="403.7412"/>
+<p X="27.1931" Y="-17.5437" Z="403.7412"/>
 <phi Z="-1.70468"/>
 <sk X="0.9446" Y="0.9446" Z="0.9446"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="27.0767" Y="-22.3915" Z="403.7638"/>
+<p X="26.479" Y="-22.3915" Z="403.7638"/>
 <phi Z="-1.724616"/>
 <sk X="0.4043" Y="0.4043" Z="0.4043"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="26.3105" Y="-27.3324" Z="403.7825"/>
+<p X="25.8886" Y="-27.5902" Z="403.0911"/>
 <phi Z="-1.724616"/>
 <sk X="0.972" Y="0.972" Z="0.972"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="25.511" Y="-32.1682" Z="403.8003"/>
+<p X="23.9993" Y="-32.1682" Z="401.8198"/>
 <phi Z="-1.7443"/>
 <sk X="1.0496" Y="1.0496" Z="1.0496"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="24.6584" Y="-37.0253" Z="403.8152"/>
+<p X="23.1467" Y="-37.0253" Z="403.8152"/>
 <phi Z="-1.758042"/>
 <sk X="1.0671" Y="1.0671" Z="1.0671"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="23.7278" Y="-41.9379" Z="403.8277"/>
+<p X="23.6341" Y="-41.9496" Z="403.8277"/>
 <phi Z="-1.758042"/>
 <sk X="1.5359" Y="1.5359" Z="1.5359"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-54.032" Y="327.9838" Z="400.7657"/>
+<p X="-54.3718" Y="327.9838" Z="400.7657"/>
 <phi Z="-0.945728"/>
 <sk X="1.1015" Y="1.1015" Z="1.1015"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-51.1062" Y="324.14" Z="400.766"/>
+<p X="-51.446" Y="324.14" Z="400.766"/>
 <phi Z="-0.945728"/>
 <sk X="1.0634" Y="1.0634" Z="1.0634"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-48.1824" Y="320.035" Z="400.7665"/>
+<p X="-48.5222" Y="320.035" Z="400.7665"/>
 <phi Z="-0.953729"/>
 <sk X="1.5971" Y="1.5971" Z="1.5971"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-45.2837" Y="315.9125" Z="400.767"/>
+<p X="-45.6235" Y="315.9125" Z="400.767"/>
 <phi Z="-0.961638"/>
 <sk X="1.4634" Y="1.4634" Z="1.4634"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="19" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-42.4011" Y="311.7551" Z="400.7678"/>
+<p X="-42.7409" Y="312.2883" Z="400.7678"/>
 <phi Z="-0.972431"/>
 <sk X="1.8699" Y="1.8699" Z="1.8699"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="18" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-39.5847" Y="307.6239" Z="400.7702"/>
+<p X="-39.9245" Y="307.6239" Z="400.7702"/>
 <phi Z="-0.972431"/>
 <sk X="1.724" Y="1.724" Z="1.724"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-36.7646" Y="303.4272" Z="400.7768"/>
+<p X="-37.1044" Y="303.4272" Z="400.7768"/>
 <phi Z="-0.983675"/>
 <sk X="1.0863" Y="1.0863" Z="1.0863"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-33.9631" Y="299.213" Z="400.7864"/>
+<p X="-34.3029" Y="299.213" Z="400.7864"/>
 <phi Z="-0.995791"/>
 <sk X="1.3234" Y="1.3234" Z="1.3234"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-31.2439" Y="295.0171" Z="400.8037"/>
+<p X="-31.5837" Y="295.0171" Z="400.8037"/>
 <phi Z="-0.995791"/>
 <sk X="1.4613" Y="1.4613" Z="1.4613"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-28.5173" Y="290.7687" Z="400.8238"/>
+<p X="-28.8571" Y="290.7687" Z="400.8238"/>
 <phi Z="-1.005419"/>
 <sk X="1.5382" Y="1.5382" Z="1.5382"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-25.8333" Y="286.4969" Z="400.8499"/>
+<p X="-26.1731" Y="286.4969" Z="400.8499"/>
 <phi Z="-1.014435"/>
 <sk X="1.158" Y="1.158" Z="1.158"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-22.4466" Y="282.2019" Z="400.8816"/>
+<p X="-22.7864" Y="282.2019" Z="400.8816"/>
 <phi Z="-1.022897"/>
 <sk X="1.6433" Y="1.6433" Z="1.6433"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="19" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-19.849" Y="277.8706" Z="400.9164"/>
+<p X="-20.3412" Y="277.8706" Z="400.9164"/>
 <phi Z="-1.034608"/>
 <sk X="1.7883" Y="1.7883" Z="1.7883"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-18.022" Y="273.5383" Z="400.958"/>
+<p X="-18.1743" Y="273.5383" Z="400.958"/>
 <phi Z="-1.040785"/>
 <sk X="1.2123" Y="1.2123" Z="1.2123"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-15.49" Y="269.1523" Z="401.0043"/>
+<p X="-15.6423" Y="269.1523" Z="401.0043"/>
 <phi Z="-1.053712"/>
 <sk X="0.5124" Y="0.5124" Z="0.5124"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-13.0127" Y="264.7616" Z="401.0517"/>
+<p X="-13.165" Y="264.7616" Z="401.0517"/>
 <phi Z="-1.062039"/>
 <sk X="1.317" Y="1.317" Z="1.317"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-10.5762" Y="260.3289" Z="401.1006"/>
+<p X="-10.7285" Y="260.3289" Z="401.1006"/>
 <phi Z="-1.073748"/>
 <sk X="1.4388" Y="1.4388" Z="1.4388"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-8.1948" Y="255.8914" Z="401.1497"/>
+<p X="-8.3471" Y="255.8914" Z="401.1497"/>
 <phi Z="-1.081007"/>
 <sk X="1.5278" Y="1.5278" Z="1.5278"/>
 </Verknuepfte>
@@ -3280,7 +3262,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="24" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Fernmeldeamt\KoPf_Fernmeldeamt.lod.ls3"/>
-<p X="99.7224" Y="298.0968" Z="403.0847"/>
+<p X="99.7224" Y="298.0968" Z="400.6589"/>
 <phi Z="2.629407"/>
 <sk/>
 </Verknuepfte>
@@ -4270,7 +4252,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="20" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0006_0057\000562_005708_Siekweg\Objekte\Siekweg_04_Sollingstr2\Siekweg_04_Sollingstr2.lod.ls3"/>
-<p X="61.2848" Y="7.9613" Z="402.5932"/>
+<p X="66.4481" Y="14.8988" Z="401.1248"/>
 <phi Z="2.841742"/>
 <sk/>
 </Verknuepfte>
@@ -4592,18 +4574,6 @@
 <phi Z="4.003633"/>
 <sk X="1" Y="1" Z="0.995"/>
 </Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
-<p X="-117.3582" Y="381.5338" Z="407.4791"/>
-<phi X="-0.010529" Z="3.964526"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
-<p X="-117.1187" Y="381.7937" Z="406.5435"/>
-<phi X="0.007271" Z="3.973281"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Turmmaste\QTW_Gittermast11m.lod.ls3"/>
 <p X="-171.1167" Y="445.593" Z="400.749"/>
@@ -4628,12 +4598,6 @@
 <phi X="-1.319072" Z="2.680993"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
-<p X="-179.9036" Y="430.7084" Z="406.7004"/>
-<phi X="0.000085" Z="2.623724"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-178.9136" Y="432.4462" Z="406.7003"/>
@@ -4656,12 +4620,6 @@
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\Ausschwinglasche-0m4.lod.ls3"/>
 <p X="-178.405" Y="433.3644" Z="408.4363"/>
 <phi X="-0.563935" Z="2.62836"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
-<p X="-178.3784" Y="433.3854" Z="406.7002"/>
-<phi X="0.000084" Z="2.623722"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -4760,12 +4718,6 @@
 <phi X="-0.664088" Z="-0.725539"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
-<p X="-147.2498" Y="407.9038" Z="406.7997"/>
-<phi X="-0.005681" Z="-0.736078"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-145.907" Y="409.386" Z="406.7883"/>
@@ -4788,12 +4740,6 @@
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\Ausschwinglasche-0m4.lod.ls3"/>
 <p X="-146.6216" Y="408.5688" Z="408.38"/>
 <phi X="-1.094856" Z="2.38214"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
-<p X="-146.5784" Y="408.6449" Z="406.794"/>
-<phi X="0.005679" Z="2.405537"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -4904,12 +4850,6 @@
 <phi X="-0.551227" Z="2.669477"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
-<p X="-222.3293" Y="455.9055" Z="406.6933"/>
-<phi X="0.000026" Z="2.67065"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-221.4219" Y="457.6877" Z="406.6933"/>
@@ -4932,12 +4872,6 @@
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\Ausschwinglasche-0m4.lod.ls3"/>
 <p X="-220.1335" Y="460.1921" Z="408.4274"/>
 <phi X="-0.569682" Z="2.666288"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
-<p X="-220.113" Y="460.2587" Z="406.6932"/>
-<phi X="0.000027" Z="2.670643"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -5054,12 +4988,6 @@
 <phi X="-1.310715" Z="-0.426871"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
-<p X="-272.5068" Y="479.6575" Z="406.6857"/>
-<phi X="-0.000073" Z="-0.428171"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-271.6765" Y="481.4769" Z="406.6856"/>
@@ -5082,12 +5010,6 @@
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\Ausschwinglasche-0m4.lod.ls3"/>
 <p X="-270.4368" Y="484.1918" Z="408.2488"/>
 <phi X="-1.310662" Z="-0.426773"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
-<p X="-270.6382" Y="483.7519" Z="406.6854"/>
-<phi X="-0.000074" Z="-0.428166"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -5179,6 +5101,888 @@
 <p X="-90.667" Y="344.2981" Z="401.9631"/>
 <phi Z="2.253655"/>
 <sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000499_006050_Struckum_Bredstedt\Objekte\ABST_Strassenlaterne\ABST_Strassenlaterne.lod.ls3"/>
+<p X="-54.3782" Y="346.3801" Z="401.074"/>
+<phi Z="2.286063"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000499_006050_Struckum_Bredstedt\Objekte\ABST_Strassenlaterne\ABST_Strassenlaterne.lod.ls3"/>
+<p X="-67.4944" Y="361.4785" Z="400.9031"/>
+<phi Z="2.286063"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000499_006050_Struckum_Bredstedt\Objekte\ABST_Strassenlaterne\ABST_Strassenlaterne.lod.ls3"/>
+<p X="-80.6108" Y="376.5769" Z="400.7323"/>
+<phi Z="2.286063"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000499_006050_Struckum_Bredstedt\Objekte\ABST_Strassenlaterne\ABST_Strassenlaterne.lod.ls3"/>
+<p X="-94.001" Y="391.4232" Z="400.6114"/>
+<phi Z="2.342446"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000499_006050_Struckum_Bredstedt\Objekte\ABST_Strassenlaterne\ABST_Strassenlaterne.lod.ls3"/>
+<p X="-107.9473" Y="405.7584" Z="400.5919"/>
+<phi Z="2.342446"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000499_006050_Struckum_Bredstedt\Objekte\ABST_Strassenlaterne\ABST_Strassenlaterne.lod.ls3"/>
+<p X="-213.7813" Y="492.2194" Z="400.5661"/>
+<phi Z="-0.539869"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000499_006050_Struckum_Bredstedt\Objekte\ABST_Strassenlaterne\ABST_Strassenlaterne.lod.ls3"/>
+<p X="-196.8523" Y="481.5386" Z="400.4783"/>
+<phi Z="-0.568827"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000499_006050_Struckum_Bredstedt\Objekte\ABST_Strassenlaterne\ABST_Strassenlaterne.lod.ls3"/>
+<p X="-180.3169" Y="470.5403" Z="400.5091"/>
+<phi Z="-0.591901"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000499_006050_Struckum_Bredstedt\Objekte\ABST_Strassenlaterne\ABST_Strassenlaterne.lod.ls3"/>
+<p X="-163.9058" Y="458.932" Z="400.5206"/>
+<phi Z="-0.641012"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000499_006050_Struckum_Bredstedt\Objekte\ABST_Strassenlaterne\ABST_Strassenlaterne.lod.ls3"/>
+<p X="-155.9495" Y="453.1882" Z="400.5187"/>
+<phi Z="-0.641012"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="48" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\10_02_Kaserne_km_124_571\10_02_Unterkunft.lod.ls3"/>
+<p X="29.4724" Y="325.7926" Z="400.7615"/>
+<phi Z="4.115729"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="28.9592" Y="-60.4705" Z="403.4663"/>
+<phi Z="1.330367"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-1m5.lod.ls3"/>
+<p X="17.9626" Y="-73.6395" Z="403.1715"/>
+<phi Z="1.31309"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Birch\Birch03-4m.lod.ls3"/>
+<p X="19.4932" Y="-98.9723" Z="402.3459"/>
+<phi Z="1.255852"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce03-13m.lod.ls3"/>
+<p X="37.5908" Y="-56.324" Z="399.2055"/>
+<phi Z="0.964687"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\People\1975\Photographers\photographer01-b.lod.ls3"/>
+<p X="29.9237" Y="158.176" Z="401.1503"/>
+<phi Z="4.974628"/>
+<sk X="1.2" Y="1.2" Z="1.2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="28" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000295_005628_Aachen_Hauptbahnhof\Objekte\AC_WH_Kasinostr\AC_WH_Kasinostr15-17.lod.ls3"/>
+<p X="79.2344" Y="148.6734" Z="401.2135"/>
+<phi Z="-0.503148"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\Ablenkung_40-40_links_II.lod.ls3"/>
+<p X="-71.7034" Y="347.6437" Z="400.7625"/>
+<phi X="0.107992" Z="2.236791"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\schotter\schotterhuegel.lod.ls3"/>
+<p X="-71.8101" Y="347.9414" Z="400.7025"/>
+<phi Z="-0.904802"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
+<p X="-69.6113" Y="343.9264" Z="400.506"/>
+<phi Z="6.939939"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\Schotter\schotterhuegel.lod.ls3"/>
+<p X="-68.6387" Y="344.442" Z="400.506"/>
+<phi Z="-0.914045"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\druckrolle_II.lod.ls3"/>
+<p X="-83.1961" Y="349.2859" Z="401.301"/>
+<phi Z="11.792064"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\Ablenkung_40-40_links_II.lod.ls3"/>
+<p X="-74.5098" Y="339.731" Z="400.5645"/>
+<phi X="0.063814" Z="14.835644"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\rollenhalter_hoch_2hauben_V2.lod.ls3"/>
+<p X="-87.5827" Y="354.392" Z="401.187"/>
+<phi Z="11.760631"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-2m_I.lod.ls3"/>
+<p X="-91.0732" Y="357.7303" Z="400.6332"/>
+<phi Y="0.000094" Z="8.626629"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="21" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-20m-anbau_II.lod.ls3"/>
+<p X="-95.8008" Y="362.5941" Z="400.6333"/>
+<phi Y="-0.000094" Z="2.369215"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
+<p X="-94.3732" Y="361.1966" Z="400.6332"/>
+<phi Y="0.000094" Z="14.935585"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-10m-anbau_II.lod.ls3"/>
+<p X="-131.2887" Y="397.6876" Z="400.6061"/>
+<phi Y="-0.010308" Z="8.692424"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
+<p X="-138.7241" Y="404.3735" Z="400.7092"/>
+<phi Y="-0.010308" Z="2.409239"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
+<p X="-140.2112" Y="405.7107" Z="400.7298"/>
+<phi Y="-0.010308" Z="2.431819"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
+<p X="-141.728" Y="407.0139" Z="400.7504"/>
+<phi Y="-0.010308" Z="2.443109"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
+<p X="-143.2595" Y="408.2999" Z="400.771"/>
+<phi Y="-0.010308" Z="2.443109"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
+<p X="-143.2595" Y="408.2999" Z="400.771"/>
+<phi Y="-0.010308" Z="2.443109"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
+<p X="-144.791" Y="409.5859" Z="400.7916"/>
+<phi Y="0.042461" Z="2.486797"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
+<p X="-145.4678" Y="410.1007" Z="400.7571"/>
+<phi Y="0.036325" Z="2.486797"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-2m_I.lod.ls3"/>
+<p X="-148.6768" Y="412.5636" Z="400.6598"/>
+<phi Y="0.000098" Z="2.471425"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\schotter\schotterhuegel.lod.ls3"/>
+<p X="-67.1492" Y="341.9265" Z="400.7035"/>
+<phi Z="-0.914045"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\Schotter\schotterhuegel.lod.ls3"/>
+<p X="-66.1511" Y="340.5494" Z="400.759"/>
+<phi Z="3.798344"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\Schotter\schotterhuegel.lod.ls3"/>
+<p X="-64.9299" Y="338.9655" Z="400.759"/>
+<phi Z="0.656752"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_doppelt_signalantrieb.lod.ls3"/>
+<p X="-59.5313" Y="331.9655" Z="400.765"/>
+<phi Z="-0.93728"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_doppelt_signalantrieb.lod.ls3"/>
+<p X="33.9216" Y="122.9824" Z="402.4974"/>
+<phi Z="-1.412131"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\schotter\schotterhuegel.lod.ls3"/>
+<p X="-45.4011" Y="312.1472" Z="400.6583"/>
+<phi X="-0.07584" Z="2.175393"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\Ablenkung_40-40_links_I.lod.ls3"/>
+<p X="-45.4048" Y="312.1446" Z="400.7182"/>
+<phi Y="0.110201" Z="10.029376"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle_I_rechtskurve.lod.ls3"/>
+<p X="-31.285" Y="290.4317" Z="400.818"/>
+<phi Z="5.277766"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\rollenhalter_hoch_2hauben_3doppeldraht.lod.ls3"/>
+<p X="-48.2486" Y="316.2348" Z="400.7668"/>
+<phi Z="-0.961638"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m_II.lod.ls3"/>
+<p X="-55.498" Y="326.4056" Z="400.6333"/>
+<phi Z="5.337458"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m_II.lod.ls3"/>
+<p X="-64.3323" Y="338.1932" Z="400.759"/>
+<phi X="-0.089094" Z="-0.914044"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m_II.lod.ls3"/>
+<p X="-65.5476" Y="339.7621" Z="400.759"/>
+<phi X="-0.089094" Z="-0.914044"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\Ablenkung_40-40_rechts_II.lod.ls3"/>
+<p X="-67.4117" Y="342.103" Z="400.7635"/>
+<phi X="0.089094" Z="2.227548"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_doppelt_2signalantriebe.lod.ls3"/>
+<p X="-42.3235" Y="307.1744" Z="400.9009"/>
+<phi Z="-0.972431"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_doppelt_2signalantriebe.lod.ls3"/>
+<p X="-36.7954" Y="298.8164" Z="400.7838"/>
+<phi Z="-0.983675"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_doppelt_2signalantriebe.lod.ls3"/>
+<p X="-25.9495" Y="281.8495" Z="400.8732"/>
+<phi Z="-1.022897"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_doppelt_2signalantriebe.lod.ls3"/>
+<p X="-20.8249" Y="273.3378" Z="400.9472"/>
+<phi Z="-1.040785"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle_I_rechtskurve.lod.ls3"/>
+<p X="-15.5491" Y="264.7908" Z="401.0407"/>
+<phi Z="-1.058863"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_doppelt_2signalantriebe.lod.ls3"/>
+<p X="-10.9442" Y="255.7013" Z="401.1375"/>
+<phi Z="-1.081007"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_doppelt_2signalantriebe.lod.ls3"/>
+<p X="-6.5124" Y="247.1069" Z="401.234"/>
+<phi Z="-1.102855"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle_I_rechtskurve.lod.ls3"/>
+<p X="-1.6875" Y="237.9922" Z="401.3331"/>
+<phi Z="-1.122782"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_doppelt_2signalantriebe.lod.ls3"/>
+<p X="2.2069" Y="228.6613" Z="401.4307"/>
+<phi Z="-1.14219"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle_I_rechtskurve.lod.ls3"/>
+<p X="6.5171" Y="219.5778" Z="401.5276"/>
+<phi Z="-1.181032"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_doppelt_2signalantriebe.lod.ls3"/>
+<p X="10.1011" Y="210.0833" Z="401.6245"/>
+<phi Z="-1.200191"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle-mit-erdfuss_I_rechtskurve.lod.ls3"/>
+<p X="13.8103" Y="200.8417" Z="401.7216"/>
+<phi Z="-1.219754"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_doppelt_2signalantriebe.lod.ls3"/>
+<p X="16.9572" Y="191.2641" Z="401.8185"/>
+<phi Z="-1.238985"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle-mit-erdfuss_I_rechtskurve.lod.ls3"/>
+<p X="20.2283" Y="181.7312" Z="401.9154"/>
+<phi Z="-1.277915"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_doppelt_2signalantriebe.lod.ls3"/>
+<p X="22.8939" Y="172.026" Z="402.0125"/>
+<phi Z="-1.297123"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle_I_rechtskurve.lod.ls3"/>
+<p X="25.4636" Y="162.1497" Z="402.1094"/>
+<phi Z="-1.316555"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_doppelt_2signalantriebe.lod.ls3"/>
+<p X="1.0706" Y="161.5391" Z="400.881"/>
+<phi Z="0.206302"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_doppelt_2signalantriebe.lod.ls3"/>
+<p X="27.8566" Y="152.6513" Z="402.2063"/>
+<phi Z="-1.335985"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle_I_rechtskurve.lod.ls3"/>
+<p X="30.4078" Y="142.7465" Z="402.3033"/>
+<phi Z="-1.370125"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_doppelt_2signalantriebe.lod.ls3"/>
+<p X="32.0304" Y="132.8867" Z="402.4004"/>
+<phi Z="-1.392787"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_dummy_signalantrieb.lod.ls3"/>
+<p X="33.8628" Y="125.457" Z="401.9736"/>
+<phi Z="1.729463"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\5-6_Doppeldraht\blechkanal-2m_III.lod.ls3"/>
+<p X="-72.7866" Y="349.1156" Z="400.7571"/>
+<phi X="0.107992" Z="2.236791"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\5-6_Doppeldraht\rollenhalter_hoch_3hauben_5doppeldraht.lod.ls3"/>
+<p X="-81.834" Y="360.5966" Z="400.7615"/>
+<phi Z="2.250409"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\5-6_Doppeldraht\rollenhalter_hoch_3hauben_5doppeldraht.lod.ls3"/>
+<p X="-88.2683" Y="368.337" Z="400.7606"/>
+<phi Z="2.27386"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\5-6_Doppeldraht\rollenhalter_hoch_3hauben_5doppeldraht.lod.ls3"/>
+<p X="-101.4653" Y="383.4634" Z="400.7587"/>
+<phi Z="2.300716"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\5-6_Doppeldraht\rollenhalter_hoch_3hauben_5doppeldraht.lod.ls3"/>
+<p X="-115.3359" Y="398.0664" Z="400.7569"/>
+<phi Z="2.351671"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\5-6_Doppeldraht\rollenhalter_hoch_3hauben_5doppeldraht.lod.ls3"/>
+<p X="-122.5132" Y="405.1082" Z="400.7559"/>
+<phi Z="2.371573"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\5-6_Doppeldraht\rollenhalter_hoch_3hauben_5doppeldraht.lod.ls3"/>
+<p X="-137.4792" Y="418.6283" Z="400.754"/>
+<phi Z="2.432837"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\5-6_Doppeldraht\rollenhalter_hoch_3hauben_5doppeldraht.lod.ls3"/>
+<p X="-153.1189" Y="431.3639" Z="400.7521"/>
+<phi Z="2.494153"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\5-6_Doppeldraht\rollenhalter_hoch_3hauben_5doppeldraht.lod.ls3"/>
+<p X="-169.3738" Y="443.2045" Z="400.7502"/>
+<phi Z="2.534431"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\5-6_Doppeldraht\druckrolle_III_rechtskurve.lod.ls3"/>
+<p X="-94.8018" Y="375.9546" Z="400.7597"/>
+<phi Z="2.286659"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\5-6_Doppeldraht\druckrolle_III_rechtskurve.lod.ls3"/>
+<p X="-108.332" Y="390.8578" Z="400.7578"/>
+<phi Z="2.333366"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\5-6_Doppeldraht\druckrolle_III.lod.ls3"/>
+<p X="-129.9282" Y="411.9863" Z="400.7549"/>
+<phi Z="2.412444"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\5-6_Doppeldraht\druckrolle_III_rechtskurve.lod.ls3"/>
+<p X="-145.1938" Y="425.08" Z="400.7531"/>
+<phi Z="2.453307"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\5-6_Doppeldraht\druckrolle_III_rechtskurve.lod.ls3"/>
+<p X="-161.1743" Y="437.3853" Z="400.7512"/>
+<phi Z="2.51474"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\5-6_Doppeldraht\druckrolle_III_rechtskurve.lod.ls3"/>
+<p X="-177.7217" Y="448.8157" Z="400.7491"/>
+<phi Z="2.55515"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\Ablenkung_40-40_links_II.lod.ls3"/>
+<p X="-184.666" Y="453.3554" Z="400.748"/>
+<phi X="0.093021" Z="-0.552311"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\schotter\schotterhuegel.lod.ls3"/>
+<p X="-184.46" Y="453.1179" Z="400.6789"/>
+<phi Z="2.589282"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\Ablenkung_40-40_links_II.lod.ls3"/>
+<p X="-193.0027" Y="441.0091" Z="400.6571"/>
+<phi Y="0.118055" Z="0.963868"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-2m_I.lod.ls3"/>
+<p X="-193.9527" Y="441.6" Z="400.6542"/>
+<phi Y="0.000119" Z="2.564461"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-2m-anbau_I.lod.ls3"/>
+<p X="-194.7908" Y="442.1456" Z="400.654"/>
+<phi Y="0.000119" Z="2.564461"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-2m-anbau_I.lod.ls3"/>
+<p X="-196.4668" Y="443.2368" Z="400.6537"/>
+<phi Y="0.000119" Z="2.564461"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_dummy_signalantrieb.lod.ls3"/>
+<p X="-201.7659" Y="446.163" Z="400.7166"/>
+<phi Z="-0.567169"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-2m_I.lod.ls3"/>
+<p X="-193.4276" Y="439.9664" Z="400.6003"/>
+<phi Y="0.085285" Z="4.136731"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\Ablenkung_40-40_rechts_I.lod.ls3"/>
+<p X="-195.6454" Y="436.1086" Z="400.6934"/>
+<phi Y="-0.085286" Z="-2.146455"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_dummy_signalantrieb.lod.ls3"/>
+<p X="-200.8821" Y="440.1332" Z="400.7473"/>
+<phi Z="-0.537525"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle_I_rechtskurve.lod.ls3"/>
+<p X="-195.2539" Y="459.7104" Z="400.7463"/>
+<phi Z="5.744864"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_doppelt_2signalantriebe.lod.ls3"/>
+<p X="-186.1266" Y="454.4445" Z="400.7469"/>
+<phi Z="2.589282"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\Ablenkung_40-40_rechts_I.lod.ls3"/>
+<p X="-203.9111" Y="464.7817" Z="400.745"/>
+<phi Y="-0.085412" Z="7.327541"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\schotter\schotterhuegel.lod.ls3"/>
+<p X="-203.9084" Y="464.7861" Z="400.6852"/>
+<phi Y="0.085412" Z="-2.097237"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-1m_I.lod.ls3"/>
+<p X="-204.3618" Y="464.0065" Z="400.6682"/>
+<phi Y="-0.117564" Z="1.044356"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\Ablenkkasten_42x42.lod.ls3"/>
+<p X="-206.4568" Y="460.505" Z="400.7449"/>
+<phi Z="2.615153"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-2m_I.lod.ls3"/>
+<p X="-205.8679" Y="461.3193" Z="400.5807"/>
+<phi Y="0.151435" Z="1.044357"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-2m-anbau_I.lod.ls3"/>
+<p X="-215.1531" Y="465.4432" Z="400.7048"/>
+<phi Z="2.615153"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-2m-anbau_I.lod.ls3"/>
+<p X="-206.3647" Y="460.4646" Z="400.7315"/>
+<phi Y="0.05236" Z="-2.097236"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\Ablenkung_40-40_rechts_I.lod.ls3"/>
+<p X="-208.7278" Y="456.3468" Z="400.6867"/>
+<phi X="0.00679" Y="-0.080749" Z="10.469134"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-10m_I.lod.ls3"/>
+<p X="-214.8318" Y="459.7744" Z="400.6474"/>
+<phi X="0.080751" Y="0.006768" Z="2.615701"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-10m-anbau_I.lod.ls3"/>
+<p X="-219.156" Y="462.2843" Z="400.6135"/>
+<phi X="0.080751" Y="0.006768" Z="2.667488"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-2m-anbau_I.lod.ls3"/>
+<p X="-228.0527" Y="466.8496" Z="400.5458"/>
+<phi X="0.080751" Y="-0.007958" Z="2.667488"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-2m-anbau_I.lod.ls3"/>
+<p X="-229.832" Y="467.7627" Z="400.5617"/>
+<phi X="0.080751" Y="-0.007958" Z="2.667489"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-2m-anbau_I.lod.ls3"/>
+<p X="-231.6113" Y="468.6758" Z="400.5776"/>
+<phi X="0.080751" Y="-0.007958" Z="2.667489"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_dummy_signalantrieb.lod.ls3"/>
+<p X="-240.2839" Y="472.3536" Z="400.7102"/>
+<phi Z="-0.450203"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="21" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000295_005628_Aachen_Hauptbahnhof\Objekte\AC_WH_Kamperstr\AC_WH_KamperStr19.lod.ls3"/>
+<p X="112.3762" Y="-18.2306" Z="399.8436"/>
+<phi Z="4.816849"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="117" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000504_006037_Husum\Objekte\AHM_H-A-Strasse_Wohnblock\AHM_H-A-Strasse_Wblock.lod.ls3"/>
+<p X="-258.9328" Y="367.4344" Z="400.6776"/>
+<phi Z="2.705451"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0056\000359_005645_Koeln-Deutz\Objekte\Wohnhauser\Harles_4etage_3Eingaenge_grau.lod.ls3"/>
+<p X="-138.3398" Y="285.4179" Z="400.7625"/>
+<phi Z="2.324885"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="52" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000293_005629_Aachen_West\Objekte\Kulissenhaeuser\Kulisse_Lochnerstr1-27.lod.ls3"/>
+<p X="-172.5784" Y="327.6663" Z="400.7631"/>
+<phi Z="-0.532054"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="39" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000293_005629_Aachen_West\Objekte\Kulissenhaeuser\Kulisse_Schanz18-26.lod.ls3"/>
+<p X="-394.4547" Y="434.0942" Z="403.8417"/>
+<phi Z="2.655382"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000504_006026_Friedrichstadt\Objekte\AFD_EG_neu\AFD_EG_neu.lod.ls3"/>
+<p X="-27.0672" Y="307.0228" Z="401.2462"/>
+<phi Z="7.202778"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-362.8594" Y="501.3374" Z="403.7249"/>
+<phi Z="-0.437686"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-324.9729" Y="483.0903" Z="403.7289"/>
+<phi Z="-0.552846"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-307.1292" Y="469.3909" Z="403.7328"/>
+<phi Z="-0.652094"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-281.4309" Y="446.7611" Z="403.7373"/>
+<phi Z="-0.726772"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-263.6536" Y="432.4465" Z="403.7413"/>
+<phi Z="-0.792166"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-232.2949" Y="410.3627" Z="403.7457"/>
+<phi Z="-0.737036"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-204.9272" Y="397.2046" Z="403.7495"/>
+<phi Z="-0.4403"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-177.7886" Y="384.4182" Z="403.753"/>
+<phi Z="-0.440293"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-151.3904" Y="372.5304" Z="403.756"/>
+<phi Z="-0.542598"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-127.2075" Y="354.3784" Z="403.7591"/>
+<phi Z="-0.688841"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-104.4172" Y="335.3038" Z="403.762"/>
+<phi Z="-0.835116"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\hausanschluss_2-2.lod.ls3"/>
+<p X="-65.8069" Y="297.7315" Z="408.7451"/>
+<phi Z="5.369616"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-74.9917" Y="330.6311" Z="403.6342"/>
+<phi Z="-0.509965"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000434_005696_Arnsberg\Objekte\Arnsberg_22_P198\Arnsberg_22_P198.lod.ls3"/>
+<p X="-64.156" Y="351.748" Z="400.4402"/>
+<phi Z="2.269441"/>
+<sk X="1.5" Y="1.5" Z="1.3"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Einzelteile\QTW-Seitenhalter_Re75.lod.ls3"/>
+<p X="-146.5784" Y="408.6449" Z="406.794"/>
+<phi X="0.005679" Z="2.405537"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Einzelteile\QTW-Seitenhalter_Re75.lod.ls3"/>
+<p X="-179.9036" Y="430.7084" Z="406.7004"/>
+<phi X="0.000085" Z="2.623724"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Einzelteile\QTW-Seitenhalter_Re75.lod.ls3"/>
+<p X="-222.3293" Y="455.9055" Z="406.6933"/>
+<phi X="0.000026" Z="2.67065"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Einzelteile\QTW-Seitenhalter_Re75.lod.ls3"/>
+<p X="-272.5068" Y="479.6575" Z="406.6857"/>
+<phi X="-0.000073" Z="-0.428171"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-117.3579" Y="381.5338" Z="407.4831"/>
+<phi X="-0.012518" Z="3.964454"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-117.1189" Y="381.7937" Z="406.5574"/>
+<phi X="0.000336" Z="3.973316"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Einzelteile\QTW-Seitenhalter_Re75.lod.ls3"/>
+<p X="-147.2498" Y="407.9038" Z="406.7997"/>
+<phi X="-0.005681" Z="-0.736078"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Einzelteile\QTW-Seitenhalter_Re75.lod.ls3"/>
+<p X="-178.3784" Y="433.3854" Z="406.7002"/>
+<phi X="0.000084" Z="2.623722"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Einzelteile\QTW-Seitenhalter_Re75.lod.ls3"/>
+<p X="-220.113" Y="460.2587" Z="406.6932"/>
+<phi X="0.000027" Z="2.670643"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Einzelteile\QTW-Seitenhalter_Re75.lod.ls3"/>
+<p X="-270.6382" Y="483.7519" Z="406.6854"/>
+<phi X="-0.000074" Z="-0.428166"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Blumenkuebel\blumenkuebel_beton01_1x1m.lod.ls3"/>
+<p X="-278.1799" Y="497.2431" Z="401.1144"/>
+<phi Z="-0.482339"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Blumenkuebel\blumenkuebel_beton01_1x1m.lod.ls3"/>
+<p X="-251.1732" Y="483.7849" Z="401.1184"/>
+<phi Z="-0.494508"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Blumenkuebel\blumenkuebel_beton01_1x1m.lod.ls3"/>
+<p X="-225.4021" Y="470.6349" Z="401.127"/>
+<phi Z="-0.502569"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_pink01.lod.ls3"/>
+<p X="-278.1799" Y="497.2431" Z="401.6244"/>
+<phi Z="-0.482339"/>
+<sk X="3" Y="3" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_pink01.lod.ls3"/>
+<p X="-251.1732" Y="483.7849" Z="401.6284"/>
+<phi Z="-0.494508"/>
+<sk X="3" Y="3" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_blue01.lod.ls3"/>
+<p X="-225.4021" Y="470.6349" Z="401.637"/>
+<phi Z="-0.502569"/>
+<sk X="3" Y="3" Z="1"/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5279500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeshV="103" MeshI="231">
@@ -5385,30 +6189,6 @@
 <Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" BeleuchtungTyp="2" MeterProTex="10" MeterProTex2="10" MeshV="8" MeshI="18">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\buergersteig2m.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" BeleuchtungTyp="2" MeterProTex="10" MeterProTex2="10" MeshV="8" MeshI="18">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\buergersteig2m.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" BeleuchtungTyp="2" MeterProTex="10" MeterProTex2="10" MeshV="8" MeshI="18">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\buergersteig2m.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" BeleuchtungTyp="2" MeterProTex="10" MeterProTex2="10" MeshV="8" MeshI="18">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\buergersteig2m.dds"/>
-</Textur>
-</SubSet>
 <SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="5" MeshI="9">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
@@ -5475,13 +6255,13 @@
 <Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="30" MeshI="57">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="30" MeshI="39">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="13" MeshI="33">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="14" MeshI="36">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Pflaster\Kopfsteinpflaster\kopfsteinplaster_01.dds"/>
@@ -5506,36 +6286,6 @@
 </Textur>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_750cm_oMStr.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="14" MeshI="36">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="11" MeshI="27">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="11" MeshI="27">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="6" MeshI="12">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="15" MeshI="36">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="14" MeshI="30">
@@ -5685,7 +6435,7 @@
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="6" TypGF="3" MeterProTex="0.733" MeshV="821" MeshI="2337">
+<SubSet Cd="00FFFFFF" TypLs3="6" TypGF="3" MeterProTex="0.733" MeshV="821" MeshI="2277">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="PermanentWay\Default\cess.dds"/>
@@ -5787,12 +6537,6 @@
 <Datei Dateiname="Terrain\Deutschland\Strassen\Autobahn\autobahn_2spurig_2950cm.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="3" MeshI="3">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
-</Textur>
-</SubSet>
 <SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="4" MeshI="6">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
@@ -5811,7 +6555,7 @@
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="10" MeshI="24">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="11" MeshI="21">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
@@ -5865,7 +6609,7 @@
 <Datei Dateiname="Terrain\General\Water\river_10m_water01.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeshV="30" MeshI="81">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeshV="33" MeshI="84">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\General\Water\water01.dds"/>
@@ -5881,6 +6625,480 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\terrain.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="42" MeshI="120">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="14" MeshI="36">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="23" MeshI="63">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="32" MeshI="90">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="50" MeshI="144">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="19" MeshI="51">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="30" MeshI="84">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="24" MeshI="66">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" zBias="-2" MeshV="24" MeshI="66">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeshV="33" MeshI="93">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="7" MeshI="15">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="15" MeshI="39">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="18" MeshI="48">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="5" MeterProTex2="10" MeshV="21" MeshI="57">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Pflaster\Kopfsteinpflaster\kopfsteinplaster_01.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="21" MeshI="57">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="24" MeshI="66">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="3" MeshI="3">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="52" MeshI="150">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="3" MeshI="3">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="99" MeshI="291">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="5" MeshI="9">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="3" MeshI="3">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="3" MeshI="3">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="44" MeshI="126">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="13" MeshI="33">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="36" MeshI="99">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="5" MeterProTex2="10" MeshV="26" MeshI="72">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Pflaster\Kopfsteinpflaster\kopfsteinpflaster_02.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="18" MeshI="33">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="8" MeshI="18">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="28" MeshI="78">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="42" MeshI="120">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="7" MeshI="15">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="10" MeshI="24">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="15" MeshI="39">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="15" MeshI="39">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="20" MeshI="54">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="20" MeshI="54">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="2" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="2" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="9" MeshI="21">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="10" MeshI="24">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="12" MeshI="30">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="10" MeshI="24">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="8" MeshI="18">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="10" MeshI="24">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0006_0059\000567_005923_Hamburg_Harburg\Texturen\Stahlbruecke-Rost2.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="18" MeshI="48">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeshV="26" MeshI="57">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="5" MeshI="9">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="6" MeshI="12">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" zBias="-5" MeshV="8" MeshI="18">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="7" MeshI="15">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="8" MeshI="18">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeshV="10" MeshI="24">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeshV="6" MeshI="12">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="10" MeshI="24">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="8" MeshI="12">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="8" MeshI="18">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="6" MeshI="12">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="10" MeshI="24">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="14" MeshI="36">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="42" MeshI="117">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="27" MeshI="75">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="10" MeshI="24">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="40">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="3">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="41" MeshI="108">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="31" MeshI="87">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="5" MeterProTex2="10" MeshV="3" MeshI="3">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel02.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" BeleuchtungTyp="2" MeterProTex="1.5" MeterProTex2="10" MeshV="23" MeshI="75">
+<RenderFlags TexVoreinstellung="8"/>
+<Textur>
+<Datei Dateiname="TERRAIN\GENERAL\BUSHES\hedge.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="9" MeshI="21">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

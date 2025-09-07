@@ -52,13 +52,13 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
-<p X="-422.6619" Y="495.5362" Z="400.3823"/>
+<p X="-424.3459" Y="493.2897" Z="400.3823"/>
 <phi Z="-0.860513"/>
 <sk X="1.1864" Y="1.1864" Z="1.1864"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
-<p X="-424.5832" Y="483.3492" Z="400.0606"/>
+<p X="-424.5832" Y="478.4039" Z="400.0606"/>
 <phi Z="2.697204"/>
 <sk/>
 </Verknuepfte>
@@ -1402,7 +1402,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="19" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
-<p X="44.4183" Y="269.3425" Z="399.4161"/>
+<p X="44.4183" Y="267.0691" Z="399.6974"/>
 <phi Z="-0.255184"/>
 <sk X="1.7564" Y="1.7564" Z="1.7564"/>
 </Verknuepfte>
@@ -1960,7 +1960,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="70" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Sounds\BUe_Gong.lod.ls3"/>
-<p X="428.6469" Y="-114.7843" Z="399.6345"/>
+<p X="427.168" Y="-114.1398" Z="399.6345"/>
 <phi Z="-0.442142"/>
 <sk/>
 </Verknuepfte>
@@ -2026,7 +2026,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="34" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0005_0060\000486_006019_StPeterOrding\Objekte\AGD_Biogaskraftwerk\AGD_Biogaskraftwerk_Nebengebauede.lod.ls3"/>
-<p X="438.6045" Y="-54.9527" Z="401.7909"/>
+<p X="438.6045" Y="-54.9527" Z="400.8651"/>
 <phi Z="2.69945"/>
 <sk X="1.5" Y="1.5" Z="2"/>
 </Verknuepfte>
@@ -2262,6 +2262,168 @@
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_4m6\Ausleger_4m6-Bstg_geerdet_Kurve_k.lod.ls3"/>
 <p X="-299.2382" Y="448.36" Z="399.5476"/>
 <phi Z="-0.441432"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="34" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000486_006019_StPeterOrding\Objekte\AGD_Biogaskraftwerk\AGD_Biogaskraftwerk_Nebengebauede.lod.ls3"/>
+<p X="429.5998" Y="-73.9289" Z="400.8651"/>
+<phi Z="5.841043"/>
+<sk X="1.5" Y="1.5" Z="2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Li.lod.ls3"/>
+<p X="467.5372" Y="-272.3293" Z="399.5258"/>
+<phi Y="0.002087" Z="0.997783"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2-2.lod.ls3"/>
+<p X="498.6902" Y="64.6233" Z="403.3483"/>
+<phi Z="2.700159"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2-2.lod.ls3"/>
+<p X="453.4832" Y="85.9851" Z="403.2172"/>
+<phi Z="2.700159"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2-2.lod.ls3"/>
+<p X="408.2763" Y="107.3469" Z="402.8048"/>
+<phi Z="2.700159"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2-2.lod.ls3"/>
+<p X="363.0692" Y="128.7087" Z="402.5189"/>
+<phi Z="2.700159"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2-2.lod.ls3"/>
+<p X="317.8623" Y="150.0705" Z="402.3936"/>
+<phi Z="2.70016"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2-2.lod.ls3"/>
+<p X="272.6552" Y="171.4322" Z="402.5605"/>
+<phi Z="2.70016"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2-2.lod.ls3"/>
+<p X="227.4482" Y="192.794" Z="401.5311"/>
+<phi Z="2.70016"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2-2.lod.ls3"/>
+<p X="182.2412" Y="214.1558" Z="401.3529"/>
+<phi Z="2.70016"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2-2.lod.ls3"/>
+<p X="137.0342" Y="235.5176" Z="401.2933"/>
+<phi Z="2.700159"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2-2.lod.ls3"/>
+<p X="91.8272" Y="256.8794" Z="401.076"/>
+<phi Z="2.700159"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2-2.lod.ls3"/>
+<p X="46.6202" Y="278.2411" Z="400.9085"/>
+<phi Z="2.70016"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2-2.lod.ls3"/>
+<p X="1.4132" Y="299.6029" Z="400.8705"/>
+<phi Z="2.70016"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2-2.lod.ls3"/>
+<p X="-43.7938" Y="320.9647" Z="400.6744"/>
+<phi Z="2.700159"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2-2.lod.ls3"/>
+<p X="-87.9461" Y="341.764" Z="400.6268"/>
+<phi Z="2.700159"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2-2.lod.ls3"/>
+<p X="-134.2078" Y="363.6882" Z="400.0057"/>
+<phi Z="2.70016"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2-2.lod.ls3"/>
+<p X="-179.4149" Y="385.05" Z="400.6252"/>
+<phi Z="2.70016"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2-2.lod.ls3"/>
+<p X="-224.6219" Y="406.4117" Z="400.9899"/>
+<phi Z="2.700158"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2-2.lod.ls3"/>
+<p X="-269.8289" Y="427.7736" Z="401.1628"/>
+<phi Z="2.700158"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2-2.lod.ls3"/>
+<p X="-315.0359" Y="449.1353" Z="401.9278"/>
+<phi Z="2.70016"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2-2.lod.ls3"/>
+<p X="-360.2429" Y="470.4971" Z="401.8648"/>
+<phi Z="2.921054"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2-2.lod.ls3"/>
+<p X="-416.7468" Y="482.5659" Z="402.7094"/>
+<phi Z="2.332004"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\stuetze_rechtskurve.lod.ls3"/>
+<p X="-416.7467" Y="482.5659" Z="400.4094"/>
+<phi Z="2.332004"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\stuetze_rechtskurve.lod.ls3"/>
+<p X="-360.4444" Y="470.5533" Z="399.5648"/>
+<phi Z="-0.317732"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="272.3611" Y="171.6947" Z="400.1104"/>
+<phi Y="3.141593" Z="2.700161"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2-2.lod.ls3"/>
+<p X="-390.923" Y="476.9728" Z="401.8528"/>
+<phi Z="3.036409"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_511500_5280500.lsb"/>
@@ -2589,15 +2751,6 @@
 <Datei Dateiname="Terrain\General\forest\Wald_rand.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="19" MeshI="63">
-<RenderFlags TexVoreinstellung="3"/>
-<Textur>
-<Datei Dateiname="Terrain\Deutschland\Asphalt\asphalt.dds"/>
-</Textur>
-<Textur>
-<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_750cm.dds"/>
-</Textur>
-</SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeshV="110" MeshI="270">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
@@ -2769,12 +2922,6 @@
 <Datei Dateiname="Terrain\Default\embankment_verlauf.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="8" MeshI="18">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m.dds"/>
-</Textur>
-</SubSet>
 <SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="4" MeshI="6">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
@@ -2791,6 +2938,156 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\terrain.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="3" MeshI="3">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="42" MeshI="120">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="26" MeshI="72">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="9" MeshI="21">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="20" MeshI="54">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="3" MeshI="3">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="31" MeshI="87">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="6" MeshI="12">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="15" MeshI="39">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="5" MeshI="9">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="7" MeshI="15">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="36" MeshI="102">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="63" MeshI="174">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="6" MeshI="12">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="30" MeshI="84">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="8" MeshI="18">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m_oMstr.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="13" MeshI="33">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment_verlauf.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="11" MeshI="24">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="90" MeshI="264">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="48" MeshI="60">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="5" MeshI="9">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="15" MeshI="39">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="19" MeshI="51">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="19" MeshI="51">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="87" MeshI="249">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

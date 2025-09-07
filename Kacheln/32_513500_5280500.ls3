@@ -662,12 +662,6 @@
 <phi X="-1.328922" Z="2.700075"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
-<p X="-331.6248" Y="-491.5224" Z="406.6761"/>
-<phi X="0.000026" Z="2.699631"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-330.7693" Y="-489.7146" Z="406.676"/>
@@ -678,12 +672,6 @@
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\IsolatorTragseil.lod.ls3"/>
 <p X="-329.9407" Y="-487.9627" Z="408.0434"/>
 <phi X="-1.328942" Z="2.700588"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
-<p X="-329.7" Y="-487.4543" Z="406.6759"/>
-<phi X="0.000026" Z="2.699618"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -740,12 +728,6 @@
 <phi X="-1.310631" Z="-0.43451"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
-<p X="-389.9338" Y="-464.8543" Z="406.6675"/>
-<phi X="0.000135" Z="-0.434046"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-389.0928" Y="-463.0398" Z="406.6678"/>
@@ -756,12 +738,6 @@
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\IsolatorTragseil.lod.ls3"/>
 <p X="-387.8157" Y="-460.2851" Z="408.0384"/>
 <phi X="-1.310658" Z="-0.434034"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
-<p X="-388.0408" Y="-460.7708" Z="406.6681"/>
-<phi X="0.000132" Z="-0.434066"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -818,12 +794,6 @@
 <phi X="-1.328912" Z="2.706261"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
-<p X="-448.8389" Y="-436.1344" Z="406.6597"/>
-<phi Z="2.706714"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-447.9963" Y="-434.3206" Z="406.6597"/>
@@ -834,12 +804,6 @@
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\IsolatorTragseil.lod.ls3"/>
 <p X="-447.1797" Y="-432.563" Z="408.0271"/>
 <phi X="-1.328962" Z="2.706721"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
-<p X="-446.9426" Y="-432.0526" Z="406.6597"/>
-<phi Z="2.706722"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -871,6 +835,282 @@
 <p X="-443.3276" Y="-424.2708" Z="406.6597"/>
 <phi Z="-0.434872"/>
 <sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000499_006050_Struckum_Bredstedt\Objekte\ABST_Strassenlaterne\ABST_Strassenlaterne.lod.ls3"/>
+<p X="-347.6624" Y="-326.5583" Z="402.355"/>
+<phi Z="-1.981403"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000499_006050_Struckum_Bredstedt\Objekte\ABST_Strassenlaterne\ABST_Strassenlaterne.lod.ls3"/>
+<p X="-355.6455" Y="-344.8959" Z="401.9977"/>
+<phi Z="-1.981403"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000499_006050_Struckum_Bredstedt\Objekte\ABST_Strassenlaterne\ABST_Strassenlaterne.lod.ls3"/>
+<p X="-363.6289" Y="-363.2335" Z="401.6403"/>
+<phi Z="-1.981403"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000499_006050_Struckum_Bredstedt\Objekte\ABST_Strassenlaterne\ABST_Strassenlaterne.lod.ls3"/>
+<p X="-371.6123" Y="-381.5711" Z="401.283"/>
+<phi Z="-1.981403"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000499_006050_Struckum_Bredstedt\Objekte\ABST_Strassenlaterne\ABST_Strassenlaterne.lod.ls3"/>
+<p X="-379.5955" Y="-399.9087" Z="400.9257"/>
+<phi Z="-1.981403"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000499_006050_Struckum_Bredstedt\Objekte\ABST_Strassenlaterne\ABST_Strassenlaterne.lod.ls3"/>
+<p X="-384.7505" Y="-411.7481" Z="400.5714"/>
+<phi Z="-1.503402"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000499_006050_Struckum_Bredstedt\Objekte\ABST_Strassenlaterne\ABST_Strassenlaterne.lod.ls3"/>
+<p X="-367.9536" Y="-434.9018" Z="400.3708"/>
+<phi Z="-0.411456"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000499_006050_Struckum_Bredstedt\Objekte\ABST_Strassenlaterne\ABST_Strassenlaterne.lod.ls3"/>
+<p X="-355.5417" Y="-440.2306" Z="400.4056"/>
+<phi Z="-0.411606"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000499_006050_Struckum_Bredstedt\Objekte\ABST_Strassenlaterne\ABST_Strassenlaterne.lod.ls3"/>
+<p X="-337.2122" Y="-448.2321" Z="400.4475"/>
+<phi Z="-0.411606"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000499_006050_Struckum_Bredstedt\Objekte\ABST_Strassenlaterne\ABST_Strassenlaterne.lod.ls3"/>
+<p X="-318.8826" Y="-456.2338" Z="400.4895"/>
+<phi Z="-0.411606"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000499_006050_Struckum_Bredstedt\Objekte\ABST_Strassenlaterne\ABST_Strassenlaterne.lod.ls3"/>
+<p X="-300.553" Y="-464.2354" Z="400.5314"/>
+<phi Z="-0.411606"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000499_006050_Struckum_Bredstedt\Objekte\ABST_Strassenlaterne\ABST_Strassenlaterne.lod.ls3"/>
+<p X="-282.3093" Y="-472.4214" Z="400.5613"/>
+<phi Z="-0.460735"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000499_006050_Struckum_Bredstedt\Objekte\ABST_Strassenlaterne\ABST_Strassenlaterne.lod.ls3"/>
+<p X="-264.3948" Y="-481.3135" Z="400.545"/>
+<phi Z="-0.460735"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000499_006050_Struckum_Bredstedt\Objekte\ABST_Strassenlaterne\ABST_Strassenlaterne.lod.ls3"/>
+<p X="-246.5715" Y="-490.3781" Z="400.5445"/>
+<phi Z="-0.511492"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000499_006050_Struckum_Bredstedt\Objekte\ABST_Strassenlaterne\ABST_Strassenlaterne.lod.ls3"/>
+<p X="-383.1516" Y="-426.6206" Z="400.4247"/>
+<phi Z="-0.980221"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000499_006050_Struckum_Bredstedt\Objekte\ABST_Strassenlaterne\ABST_Strassenlaterne.lod.ls3"/>
+<p X="-230.9368" Y="-497.5938" Z="400.5793"/>
+<phi Z="-0.539869"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-494.1014" Y="-439.6368" Z="403.705"/>
+<phi Z="-0.427043"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-466.5529" Y="-450.5353" Z="403.7088"/>
+<phi Z="-0.306137"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-448.1616" Y="-463.9506" Z="403.7128"/>
+<phi Z="-0.557966"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-418.094" Y="-472.0952" Z="403.7168"/>
+<phi Z="-0.437677"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche3\Dieselloks\BRD\V60\3D-Daten\db_260_ob.lod.ls3"/>
+<p X="-418.1228" Y="-468.7437" Z="400.7156"/>
+<phi Z="2.703917"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Einzelteile\QTW-Seitenhalter_Re75.lod.ls3"/>
+<p X="-331.6248" Y="-491.5224" Z="406.6761"/>
+<phi X="0.000026" Z="2.699631"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Einzelteile\QTW-Seitenhalter_Re75.lod.ls3"/>
+<p X="-389.9338" Y="-464.8543" Z="406.6675"/>
+<phi X="0.000135" Z="-0.434046"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Einzelteile\QTW-Seitenhalter_Re75.lod.ls3"/>
+<p X="-448.8389" Y="-436.1344" Z="406.6597"/>
+<phi Z="2.706714"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Einzelteile\QTW-Seitenhalter_Re75.lod.ls3"/>
+<p X="-329.7" Y="-487.4543" Z="406.6759"/>
+<phi X="0.000026" Z="2.699618"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Einzelteile\QTW-Seitenhalter_Re75.lod.ls3"/>
+<p X="-388.0408" Y="-460.7708" Z="406.6681"/>
+<phi X="0.000132" Z="-0.434066"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Einzelteile\QTW-Seitenhalter_Re75.lod.ls3"/>
+<p X="-446.9426" Y="-432.0526" Z="406.6597"/>
+<phi Z="2.706722"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Blumenkuebel\blumenkuebel_beton01_1x1m.lod.ls3"/>
+<p X="-493.9594" Y="-399.7784" Z="401.0828"/>
+<phi Z="-0.398107"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Blumenkuebel\blumenkuebel_beton01_1x1m.lod.ls3"/>
+<p X="-466.4835" Y="-412.0697" Z="401.0867"/>
+<phi Z="-0.414227"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Blumenkuebel\blumenkuebel_beton01_1x1m.lod.ls3"/>
+<p X="-439.1968" Y="-424.1943" Z="401.0907"/>
+<phi Z="-0.430326"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Blumenkuebel\blumenkuebel_beton01_1x1m.lod.ls3"/>
+<p X="-412.0952" Y="-437.0846" Z="401.0947"/>
+<phi Z="-0.446063"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Blumenkuebel\blumenkuebel_beton01_1x1m.lod.ls3"/>
+<p X="-386.1642" Y="-449.4758" Z="401.0986"/>
+<phi Z="-0.451952"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Blumenkuebel\blumenkuebel_beton01_1x1m.lod.ls3"/>
+<p X="-358.196" Y="-463.2937" Z="401.1026"/>
+<phi Z="-0.458029"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Blumenkuebel\blumenkuebel_beton01_1x1m.lod.ls3"/>
+<p X="-331.4392" Y="-476.4082" Z="401.1065"/>
+<phi Z="-0.470167"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Blumenkuebel\blumenkuebel_beton01_1x1m.lod.ls3"/>
+<p X="-304.7583" Y="-489.5753" Z="401.1105"/>
+<phi Z="-0.476266"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_blue01.lod.ls3"/>
+<p X="-493.9594" Y="-399.7784" Z="401.5928"/>
+<phi Z="-0.398106"/>
+<sk X="3" Y="3" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_pink01.lod.ls3"/>
+<p X="-466.4835" Y="-412.0697" Z="401.5967"/>
+<phi Z="-0.414228"/>
+<sk X="3" Y="3" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-439.1968" Y="-424.1943" Z="401.6007"/>
+<phi Z="-0.430327"/>
+<sk X="3" Y="3" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-412.0952" Y="-437.0846" Z="401.6047"/>
+<phi Z="-0.446063"/>
+<sk X="3" Y="3" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-386.1642" Y="-449.4758" Z="401.6086"/>
+<phi Z="-0.451951"/>
+<sk X="3" Y="3" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_blue02.lod.ls3"/>
+<p X="-358.196" Y="-463.3265" Z="401.6126"/>
+<phi Z="-0.458028"/>
+<sk X="3" Y="3" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_pink01.lod.ls3"/>
+<p X="-331.4392" Y="-476.4082" Z="401.6165"/>
+<phi Z="-0.470167"/>
+<sk X="3" Y="3" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_pink01.lod.ls3"/>
+<p X="-304.7583" Y="-489.5753" Z="401.6205"/>
+<phi Z="-0.476265"/>
+<sk X="3" Y="3" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Reklame\Plakatwand_doppelseitig_Format_18-1.lod.ls3"/>
+<p X="-293.0603" Y="-478.8427" Z="400.5647"/>
+<phi Z="7.393246"/>
+<sk X="2" Y="2" Z="2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Reklame\Plakat_Zusi_Weserbergland.lod.ls3"/>
+<p X="-293.0601" Y="-478.8427" Z="400.5647"/>
+<phi Z="-2.031532"/>
+<sk X="2" Y="2" Z="2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2414" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Reklame\Plakat_Zusi_Hohenzollernbruecke.lod.ls3"/>
+<p X="-293.0601" Y="-478.8427" Z="400.5647"/>
+<phi Z="1.110061"/>
+<sk X="2" Y="2" Z="2"/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5280500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeshV="66" MeshI="126">
@@ -942,7 +1182,7 @@
 <Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="108" MeshI="318">
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" zBias="-2" MeshV="108" MeshI="318">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m.dds"/>
@@ -973,18 +1213,6 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" BeleuchtungTyp="2" MeterProTex="10" MeterProTex2="10" MeshV="19" MeshI="63">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\buergersteig2m.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" BeleuchtungTyp="2" MeterProTex="10" MeterProTex2="10" MeshV="20" MeshI="66">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\buergersteig2m.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeshV="145" MeshI="333">
@@ -1116,7 +1344,7 @@
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="10" TypGF="1" MeterProTex="1.3" MeterProTex2="10" MeshV="25" MeshI="69">
+<SubSet Cd="FFFFFFFF" TypLs3="10" TypGF="1" MeterProTex="1.3" MeshV="25" MeshI="69">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
@@ -1144,6 +1372,126 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\terrain.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="38" MeshI="108">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="14" MeshI="36">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="3" MeshI="3">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="63" MeshI="183">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="8" MeshI="18">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="6" MeshI="12">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="5" MeshI="9">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="9" MeshI="21">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="14" MeshI="36">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="81" MeshI="237">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeshV="8" MeshI="15">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeshV="27" MeshI="66">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\asphalt-rot.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="7" MeshI="15">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\asphalt-rot.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="24" MeshI="63">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\asphalt-rot.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="21" MeshI="57">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="31" MeshI="87">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="20" MeshI="51">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="95" MeshI="279">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" BeleuchtungTyp="2" MeterProTex="1.5" MeterProTex2="10" MeshV="70" MeshI="300">
+<RenderFlags TexVoreinstellung="8"/>
+<Textur>
+<Datei Dateiname="TERRAIN\GENERAL\BUSHES\hedge.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

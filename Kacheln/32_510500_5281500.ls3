@@ -19550,6 +19550,318 @@
 <phi X="-0.003307" Z="4.234716"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="456.4099" Y="-425.2412" Z="402.3699"/>
+<phi Z="2.700157"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="411.2029" Y="-403.7083" Z="402.3387"/>
+<phi Z="2.792933"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="366.8889" Y="-383.8628" Z="402.3074"/>
+<phi Z="2.796122"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="321.7201" Y="-362.4386" Z="402.2758"/>
+<phi Z="2.698225"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="276.5545" Y="-340.9894" Z="402.244"/>
+<phi Z="2.698225"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="231.3888" Y="-319.5402" Z="402.2122"/>
+<phi Z="2.698225"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="186.2232" Y="-298.0911" Z="402.1805"/>
+<phi Z="2.698225"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="141.0576" Y="-276.6419" Z="402.1487"/>
+<phi Z="2.698225"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="95.892" Y="-255.1927" Z="402.1169"/>
+<phi Z="2.698225"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="50.7264" Y="-233.7436" Z="402.0851"/>
+<phi Z="2.698225"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="5.5608" Y="-212.2944" Z="402.0534"/>
+<phi Z="2.698225"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-39.6048" Y="-190.8452" Z="402.0216"/>
+<phi Z="2.698226"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-84.7705" Y="-169.3961" Z="401.9898"/>
+<phi Z="2.698227"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-129.936" Y="-147.9469" Z="401.958"/>
+<phi Z="2.698224"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-175.1016" Y="-126.4977" Z="401.9262"/>
+<phi Z="2.698224"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-220.2672" Y="-105.0485" Z="401.8945"/>
+<phi Z="2.698225"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-265.4328" Y="-83.5993" Z="401.8627"/>
+<phi Z="2.698225"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-310.5984" Y="-62.1501" Z="401.8309"/>
+<phi Z="2.698227"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-356.657" Y="-41.4908" Z="401.7991"/>
+<phi Z="2.698225"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-401.8401" Y="-20.0717" Z="401.7851"/>
+<phi Z="2.698939"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-447.021" Y="1.3452" Z="401.7715"/>
+<phi Z="2.698941"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-492.2019" Y="22.7621" Z="401.758"/>
+<phi Z="2.698943"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-305.5808" Y="-499.4442" Z="397.1238"/>
+<phi Z="2.287728"/>
+<sk X="1.8961" Y="1.8961" Z="1.8961"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-305.6692" Y="-498.181" Z="397.1204"/>
+<phi Z="1.935085"/>
+<sk X="0.7649" Y="0.7649" Z="0.7649"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-316.4502" Y="-494.1454" Z="397.0888"/>
+<phi Z="1.173074"/>
+<sk X="1.5847" Y="1.5847" Z="1.5847"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-322.6773" Y="-493.7197" Z="397.0893"/>
+<phi Z="1.657117"/>
+<sk X="1.0983" Y="1.0983" Z="1.0983"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-332.0265" Y="-492.9332" Z="397.1199"/>
+<phi Z="2.411286"/>
+<sk X="1.1652" Y="1.1652" Z="1.1652"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-332.1952" Y="-486.9139" Z="397.0587"/>
+<phi Z="1.466591"/>
+<sk X="1.1772" Y="1.1772" Z="1.1772"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-341.0315" Y="-485.9681" Z="397.0541"/>
+<phi Z="1.622611"/>
+<sk X="0.674" Y="0.674" Z="0.674"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-348.4931" Y="-478.1618" Z="397.004"/>
+<phi Z="1.482915"/>
+<sk X="1.759" Y="1.759" Z="1.759"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-351.3143" Y="-477.3199" Z="397.0149"/>
+<phi Z="3.180187"/>
+<sk X="1.3148" Y="1.3148" Z="1.3148"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-356.8441" Y="-474.7952" Z="396.9984"/>
+<phi Z="2.233541"/>
+<sk X="0.6186" Y="0.6186" Z="0.6186"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-365.0691" Y="-474.5592" Z="397.0027"/>
+<phi Z="3.520337"/>
+<sk X="0.9582" Y="0.9582" Z="0.9582"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-371.6364" Y="-470.4528" Z="397.0312"/>
+<phi Z="3.672209"/>
+<sk X="1.6477" Y="1.6477" Z="1.6477"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-376.0232" Y="-468.693" Z="396.9973"/>
+<phi Z="2.72719"/>
+<sk X="0.5425" Y="0.5425" Z="0.5425"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-381.4104" Y="-465.4151" Z="396.9371"/>
+<phi Z="4.197204"/>
+<sk X="1.1555" Y="1.1555" Z="1.1555"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-389.16" Y="-465.3663" Z="396.9545"/>
+<phi Z="3.550935"/>
+<sk X="1.3727" Y="1.3727" Z="1.3727"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-395.5414" Y="-459.7397" Z="396.9078"/>
+<phi Z="2.811197"/>
+<sk X="0.9684" Y="0.9684" Z="0.9684"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-404.1447" Y="-453.3689" Z="396.8892"/>
+<phi Z="4.142885"/>
+<sk X="1.1212" Y="1.1212" Z="1.1212"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-415.3532" Y="-453.3966" Z="396.9717"/>
+<phi Z="1.281096"/>
+<sk X="0.5297" Y="0.5297" Z="0.5297"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-416.2946" Y="-452.8178" Z="396.9762"/>
+<phi Z="3.356917"/>
+<sk X="0.9277" Y="0.9277" Z="0.9277"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-423.0971" Y="-447.2884" Z="397.0023"/>
+<phi Z="3.156292"/>
+<sk X="1.0002" Y="1.0002" Z="1.0002"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-426.9679" Y="-445.5973" Z="397.0011"/>
+<phi Z="2.909314"/>
+<sk X="0.8989" Y="0.8989" Z="0.8989"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-439.1778" Y="-440.4908" Z="396.9424"/>
+<phi Z="3.362138"/>
+<sk X="0.8577" Y="0.8577" Z="0.8577"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-443.7193" Y="-442.0875" Z="396.953"/>
+<phi Z="3.41098"/>
+<sk X="1.5087" Y="1.5087" Z="1.5087"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-453.7315" Y="-441.381" Z="396.9411"/>
+<phi Z="3.081709"/>
+<sk X="1.5973" Y="1.5973" Z="1.5973"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-458.3553" Y="-434.4821" Z="396.9091"/>
+<phi Z="2.763489"/>
+<sk X="0.4983" Y="0.4983" Z="0.4983"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-466.1589" Y="-439.1353" Z="396.9113"/>
+<phi Z="1.868678"/>
+<sk X="1.4312" Y="1.4312" Z="1.4312"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-473.1314" Y="-429.699" Z="396.9006"/>
+<phi Z="2.393819"/>
+<sk X="1.176" Y="1.176" Z="1.176"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-474.629" Y="-429.5525" Z="396.9044"/>
+<phi Z="3.882043"/>
+<sk X="0.8888" Y="0.8888" Z="0.8888"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-484.082" Y="-431.5601" Z="396.9427"/>
+<phi Z="2.508819"/>
+<sk X="1.0173" Y="1.0173" Z="1.0173"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine20m.lod.ls3"/>
+<p X="-492.4401" Y="-428.8545" Z="396.99"/>
+<phi Z="3.715817"/>
+<sk X="1.8166" Y="1.8166" Z="1.8166"/>
+</Verknuepfte>
 <lsb Dateiname="32_510500_5281500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="32" MeshI="90">
 <RenderFlags TexVoreinstellung="3"/>
@@ -20038,6 +20350,18 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\terrain.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="15" TypGF="1" MeterProTex="100" MeterProTex2="10" MeshV="8" MeshI="18">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\General\forest\Wald_oben.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="15" TypGF="4" MeterProTex="30" MeterProTex2="10" MeshV="8" MeshI="18">
+<RenderFlags TexVoreinstellung="2"/>
+<Textur>
+<Datei Dateiname="Terrain\General\forest\Wald_rand.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>
