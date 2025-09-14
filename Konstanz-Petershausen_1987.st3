@@ -3034,6 +3034,7 @@
 <g X="2257.769" Y="-1024.062" Z="400.7399"/>
 <b X="2260.9204" Y="-1025.5851" Z="400.7403"/>
 <InfoNormRichtung vMax="16.6667" Reg="5011">
+<Ereignis Er="6" Beschr="@sep=E 60@"/>
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pw" Signalname="N2" SignalTyp="9" BoundingR="10">
 <p X="2259.9414" Y="-1027.6108" Z="400.7403"/>
 <phi Z="-0.450203"/>
@@ -3086,18 +3087,6 @@
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\Mastblech-5Marken3begr-schmal.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p X="-0.6" Z="4.51"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Zusatzsignale\Blechtafeln\Zs3_Tafel-SpitzeUnten.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p X="-0.6" Z="4.51"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Zusatzsignale\Blechtafeln\Ziffern\Zs3_Tafel-6.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
 <p/>
 <phi/>
 <sk/>
@@ -3110,7 +3099,7 @@
 <Datei Dateiname="signals\Deutschland\Indusi\Indusi-Sie_kl.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p X="-0.4302" Z="2.59"/>
+<p X="-0.4302" Y="0" Z="2.59"/>
 <phi/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalbeschriftung\Beschriftungsfeld.lod1.ls3"/>
@@ -3146,34 +3135,34 @@
 <HsigBegriff HsigGeschw="41.6667" FahrstrTyp="4"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="2"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="263866661" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="259597459">
+<MatrixEintrag Signalbild="65685797" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="64562323">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="264016457" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="264016457" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="264016457" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="264016457" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="264016457" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="264016457" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="263866661" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="263866661" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="263866661" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="263866661" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="263866661" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="263866661" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="263866661" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="263866661" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="263866661" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="263791763" MatrixGeschw="6.9444"/>
+<MatrixEintrag Signalbild="65835593" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="65835593" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="65835593" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="65835593" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="65835593" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="65835593" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="65685797" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="65685797" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="65685797" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="65685797" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="65685797" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="65685797" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="65685797" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="65685797" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="65685797" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="65610899" MatrixGeschw="6.9444"/>
 <Ersatzsignal ErsatzsigBezeichnung="Befehl" ErsatzsigID="0000050D">
-<MatrixEintrag Signalbild="263791763" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="65610899" MatrixGeschw="11.1111">
 <Ereignis Er="32" Wert="70"/>
 <Ereignis Er="2000"/>
 </MatrixEintrag>
 </Ersatzsignal>
 <Ersatzsignal ErsatzsigBezeichnung="BefehlGegengleis" ErsatzsigID="0001050D">
-<MatrixEintrag Signalbild="263791763" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="65610899" MatrixGeschw="11.1111">
 <Ereignis Er="32" Wert="70"/>
 <Ereignis Er="28" Wert="20"/>
 <Ereignis Er="2000"/>
@@ -8059,6 +8048,7 @@
 <g X="1995.3199" Y="-905.212" Z="400.7017"/>
 <b X="1905.474" Y="-862.7563" Z="400.6887"/>
 <InfoNormRichtung vMax="16.6667" km="412.3002" Reg="5037">
+<Ereignis Er="6" Beschr="@sep=E 60@"/>
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pf" Signalname="P3" SignalTyp="9" BoundingR="10">
 <p X="1906.4353" Y="-860.722" Z="400.6887"/>
 <phi Z="2.700154"/>
@@ -8111,18 +8101,6 @@
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\Mastblech-5Marken3begr-schmal.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p X="-0.6" Z="4.51"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Zusatzsignale\Blechtafeln\Zs3_Tafel-SpitzeUnten.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p X="-0.6" Z="4.51"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Zusatzsignale\Blechtafeln\Ziffern\Zs3_Tafel-6.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
 <p Y="2.25"/>
 <phi/>
 <sk/>
@@ -8164,33 +8142,33 @@
 <HsigBegriff HsigGeschw="38.8889" FahrstrTyp="4"/>
 <HsigBegriff HsigGeschw="41.6667" FahrstrTyp="4"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="66734373" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="66659475">
+<MatrixEintrag Signalbild="16402725" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="16327827">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="66884169" MatrixGeschw="16.6667"/>
-<MatrixEintrag Signalbild="66884169" MatrixGeschw="16.6667"/>
-<MatrixEintrag Signalbild="66884169" MatrixGeschw="16.6667"/>
-<MatrixEintrag Signalbild="66884169" MatrixGeschw="16.6667"/>
-<MatrixEintrag Signalbild="66884169" MatrixGeschw="16.6667"/>
-<MatrixEintrag Signalbild="66884169" MatrixGeschw="16.6667"/>
-<MatrixEintrag Signalbild="66734373" MatrixGeschw="16.6667"/>
-<MatrixEintrag Signalbild="66734373" MatrixGeschw="16.6667"/>
-<MatrixEintrag Signalbild="66734373" MatrixGeschw="16.6667"/>
-<MatrixEintrag Signalbild="66734373" MatrixGeschw="16.6667"/>
-<MatrixEintrag Signalbild="66734373" MatrixGeschw="16.6667"/>
-<MatrixEintrag Signalbild="66734373" MatrixGeschw="16.6667"/>
-<MatrixEintrag Signalbild="66734373" MatrixGeschw="16.6667"/>
-<MatrixEintrag Signalbild="66734373" MatrixGeschw="16.6667"/>
-<MatrixEintrag Signalbild="66734373" MatrixGeschw="16.6667"/>
+<MatrixEintrag Signalbild="16552521" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="16552521" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="16552521" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="16552521" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="16552521" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="16552521" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="16402725" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="16402725" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="16402725" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="16402725" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="16402725" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="16402725" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="16402725" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="16402725" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="16402725" MatrixGeschw="-1"/>
 <Ersatzsignal ErsatzsigBezeichnung="Befehl" ErsatzsigID="0000050D">
-<MatrixEintrag Signalbild="66659475" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="16327827" MatrixGeschw="11.1111">
 <Ereignis Er="32" Wert="70"/>
 <Ereignis Er="2000"/>
 </MatrixEintrag>
 </Ersatzsignal>
 <Ersatzsignal ErsatzsigBezeichnung="BefehlGegengleis" ErsatzsigID="0101050D">
-<MatrixEintrag Signalbild="66659475" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="16327827" MatrixGeschw="11.1111">
 <Ereignis Er="32" Wert="70"/>
 <Ereignis Er="28" Wert="20"/>
 <Ereignis Er="2000"/>
@@ -8756,6 +8734,7 @@
 <g X="1859.864" Y="-836.2283" Z="400.6818"/>
 <b X="1853.9871" Y="-833.4514" Z="400.6808"/>
 <InfoNormRichtung vMax="16.6667" Reg="5044">
+<Ereignis Er="6" Beschr="@sep=E 60@"/>
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pf" Signalname="P2" SignalTyp="9" BoundingR="10">
 <p X="1854.9482" Y="-831.4171" Z="400.6808"/>
 <phi Z="2.700187"/>
@@ -8808,18 +8787,6 @@
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\Mastblech-5Marken3begr-schmal.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p X="-0.6" Z="4.51"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Zusatzsignale\Blechtafeln\Zs3_Tafel-SpitzeUnten.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p X="-0.6" Z="4.51"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Zusatzsignale\Blechtafeln\Ziffern\Zs3_Tafel-6.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
 <p Y="2.25"/>
 <phi/>
 <sk/>
@@ -8861,33 +8828,33 @@
 <HsigBegriff HsigGeschw="38.8889" FahrstrTyp="4"/>
 <HsigBegriff HsigGeschw="41.6667" FahrstrTyp="4"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="66734373" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="66659475">
+<MatrixEintrag Signalbild="16402725" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="16327827">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="66884169" MatrixGeschw="16.6667"/>
-<MatrixEintrag Signalbild="66884169" MatrixGeschw="16.6667"/>
-<MatrixEintrag Signalbild="66884169" MatrixGeschw="16.6667"/>
-<MatrixEintrag Signalbild="66884169" MatrixGeschw="16.6667"/>
-<MatrixEintrag Signalbild="66884169" MatrixGeschw="16.6667"/>
-<MatrixEintrag Signalbild="66884169" MatrixGeschw="16.6667"/>
-<MatrixEintrag Signalbild="66734373" MatrixGeschw="16.6667"/>
-<MatrixEintrag Signalbild="66734373" MatrixGeschw="16.6667"/>
-<MatrixEintrag Signalbild="66734373" MatrixGeschw="16.6667"/>
-<MatrixEintrag Signalbild="66734373" MatrixGeschw="16.6667"/>
-<MatrixEintrag Signalbild="66734373" MatrixGeschw="16.6667"/>
-<MatrixEintrag Signalbild="66734373" MatrixGeschw="16.6667"/>
-<MatrixEintrag Signalbild="66734373" MatrixGeschw="16.6667"/>
-<MatrixEintrag Signalbild="66734373" MatrixGeschw="16.6667"/>
-<MatrixEintrag Signalbild="66734373" MatrixGeschw="16.6667"/>
+<MatrixEintrag Signalbild="16552521" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="16552521" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="16552521" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="16552521" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="16552521" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="16552521" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="16402725" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="16402725" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="16402725" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="16402725" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="16402725" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="16402725" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="16402725" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="16402725" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="16402725" MatrixGeschw="-1"/>
 <Ersatzsignal ErsatzsigBezeichnung="Befehl" ErsatzsigID="0000050D">
-<MatrixEintrag Signalbild="66659475" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="16327827" MatrixGeschw="11.1111">
 <Ereignis Er="32" Wert="70"/>
 <Ereignis Er="2000"/>
 </MatrixEintrag>
 </Ersatzsignal>
 <Ersatzsignal ErsatzsigBezeichnung="BefehlGegengleis" ErsatzsigID="0101050D">
-<MatrixEintrag Signalbild="66659475" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="16327827" MatrixGeschw="11.1111">
 <Ereignis Er="32" Wert="70"/>
 <Ereignis Er="28" Wert="20"/>
 <Ereignis Er="2000"/>
@@ -19844,7 +19811,9 @@
 <StrElement Nr="1451" kr="0.003155" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2299.7246" Y="-1051.8461" Z="400.7466"/>
 <b X="2296.668" Y="-1049.899" Z="400.7461"/>
-<InfoNormRichtung vMax="16.6667" km="412.6385" Reg="5091"/>
+<InfoNormRichtung vMax="16.6667" km="412.6385" Reg="5091">
+<Ereignis Er="6" Beschr="@sep=E 60@"/>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" Reg="5091">
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pw" Signalname="N3" SignalTyp="9" BoundingR="10">
 <p X="2298.5159" Y="-1053.7438" Z="400.7466"/>
@@ -19911,19 +19880,19 @@
 </SignalFrame>
 <SignalFrame>
 <p X="-0.4302" Y="-0.0002" Z="2.59"/>
-<phi/>
+<phi Z="0"/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalbeschriftung\Beschriftungsfeld.lod1.ls3"/>
 </SignalFrame>
 <SignalFrame>
 <p X="-0.4302" Y="0.0298" Z="2.59"/>
-<phi/>
+<phi Z="0"/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalbeschriftung\Beschriftungen\Gross\Sigbeschr_N.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
 <p X="-0.4302" Y="-0.0602" Z="2.59"/>
-<phi/>
+<phi Z="0"/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalbeschriftung\Beschriftungen\Gross\Sigbeschr_3.lod.ls3"/>
 </SignalFrame>
@@ -20884,7 +20853,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20896,7 +20865,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-4m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -20934,7 +20903,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20946,7 +20915,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-4m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -21141,7 +21110,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -21153,7 +21122,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -21179,7 +21148,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -21191,7 +21160,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -21218,7 +21187,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -21230,7 +21199,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -21262,7 +21231,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -21274,7 +21243,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -22403,6 +22372,7 @@
 <b X="1869.256" Y="-835.6799" Z="400.6829"/>
 <InfoNormRichtung vMax="38.8889" km="412.1431" pos="1"/>
 <InfoGegenRichtung vMax="-1">
+<Ereignis Er="6" Beschr="@sep=E 60@"/>
 <Signal BoundingR="10">
 <p X="1856.5955" Y="-829.7054" Z="400.681"/>
 <phi Z="2.700678"/>
@@ -24024,6 +23994,7 @@
 <b X="2247.1709" Y="-1011.583" Z="400.7379"/>
 <InfoNormRichtung vMax="33.3333" km="412.5917"/>
 <InfoGegenRichtung vMax="-1">
+<Ereignis Er="6" Beschr="@sep=E 60@"/>
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pw" Signalname="N1" SignalTyp="9" BoundingR="10">
 <p X="2262.4631" Y="-1022.3848" Z="400.7403"/>
 <phi Z="-0.49451"/>
@@ -24063,6 +24034,24 @@
 <sk/>
 <Datei Dateiname="signals\Deutschland\Indusi\Indusi-Sie_kl.lod.ls3"/>
 </SignalFrame>
+<SignalFrame>
+<p X="-0.4299" Y="0" Z="2.59"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalbeschriftung\Beschriftungsfeld.lod1.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.4299" Y="0.03" Z="2.59"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalbeschriftung\Beschriftungen\Gross\Sigbeschr_N.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.4299" Y="-0.06" Z="2.59"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalbeschriftung\Beschriftungen\Gross\Sigbeschr_1.lod.ls3"/>
+</SignalFrame>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="4"/>
 <HsigBegriff FahrstrTyp="6"/>
 <HsigBegriff HsigGeschw="2.7778" FahrstrTyp="4"/>
@@ -24081,33 +24070,33 @@
 <HsigBegriff HsigGeschw="38.8889" FahrstrTyp="4"/>
 <HsigBegriff HsigGeschw="41.6667" FahrstrTyp="4"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="2725" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="2451">
+<MatrixEintrag Signalbild="31397" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="31123">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="3273" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="3273" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="3273" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="3273" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="3273" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="3273" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="2725" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="2725" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="2725" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="2725" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="2725" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="2725" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="2725" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="2725" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="2725" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="31945" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="31945" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="31945" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="31945" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="31945" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="31945" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="31397" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="31397" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="31397" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="31397" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="31397" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="31397" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="31397" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="31397" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="31397" MatrixGeschw="-1"/>
 <Ersatzsignal ErsatzsigBezeichnung="Befehl" ErsatzsigID="0000050D">
-<MatrixEintrag Signalbild="2451" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="31123" MatrixGeschw="11.1111">
 <Ereignis Er="32" Wert="70"/>
 <Ereignis Er="2000"/>
 </MatrixEintrag>
 </Ersatzsignal>
 <Ersatzsignal ErsatzsigBezeichnung="BefehlGegengleis" ErsatzsigID="0001050D">
-<MatrixEintrag Signalbild="2451" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="31123" MatrixGeschw="11.1111">
 <Ereignis Er="32" Wert="70"/>
 <Ereignis Er="28" Wert="11"/>
 <Ereignis Er="2000"/>
