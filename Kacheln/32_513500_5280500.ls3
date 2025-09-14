@@ -1106,7 +1106,7 @@
 <phi Z="-2.031532"/>
 <sk X="2" Y="2" Z="2"/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2414" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Reklame\Plakat_Zusi_Hohenzollernbruecke.lod.ls3"/>
 <p X="-293.0601" Y="-478.8427" Z="400.5647"/>
 <phi Z="1.110061"/>

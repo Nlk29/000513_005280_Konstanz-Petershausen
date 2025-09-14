@@ -668,6 +668,12 @@
 <phi Z="2.700159"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Hektometertafeln" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Hektometertafeln\Hekto_Mast_410_2.ls3"/>
+<p X="-395.0886" Y="-498.6545" Z="399.4729"/>
+<phi Z="2.700157"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_511500_5281500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="2" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="6" MeshI="12">
 <RenderFlags TexVoreinstellung="1"/>

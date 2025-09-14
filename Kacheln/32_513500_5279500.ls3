@@ -2836,13 +2836,13 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="12.4605" Y="182.9132" Z="401.8796"/>
+<p X="12.4605" Y="182.6554" Z="401.8796"/>
 <phi Z="-1.258417"/>
 <sk X="0.9709" Y="0.9709" Z="0.9709"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="19" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="13.1712" Y="178.234" Z="401.9281"/>
+<p X="12.4212" Y="178.0816" Z="401.9281"/>
 <phi Z="-1.277915"/>
 <sk X="1.8183" Y="1.8183" Z="1.8183"/>
 </Verknuepfte>
@@ -5971,6 +5971,42 @@
 <p X="-225.4021" Y="470.6349" Z="401.637"/>
 <phi Z="-0.502569"/>
 <sk X="3" Y="3" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Hektometertafeln" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Hektometertafeln\Hekto_Mast_413_4.ls3"/>
+<p X="-36.001" Y="-213.2113" Z="403.0454"/>
+<phi Z="1.022602"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Hektometertafeln" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Hektometertafeln\Hekto_Mast_413_2.ls3"/>
+<p X="34.6858" Y="-25.5278" Z="403.9803"/>
+<phi Z="1.416976"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Hektometertafeln" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Hektometertafeln\Hekto_Mast_413_0.ls3"/>
+<p X="22.574" Y="174.6075" Z="402.1969"/>
+<phi Z="1.844469"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Hektometertafeln" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Hektometertafeln\Hekto_Mast_413_0.ls3"/>
+<p X="16.7888" Y="173.0164" Z="401.7781"/>
+<phi Z="-1.297123"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Hektometertafeln" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Hektometertafeln\Hekto_Mast_413_2.ls3"/>
+<p X="28.752" Y="-24.6393" Z="403.5619"/>
+<phi Z="-1.724616"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Hektometertafeln" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Hektometertafeln\Hekto_Mast_413_4.ls3"/>
+<p X="-41.1543" Y="-210.1376" Z="402.8361"/>
+<phi Z="-2.11899"/>
+<sk/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5279500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeshV="103" MeshI="231">
