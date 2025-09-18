@@ -3230,24 +3230,6 @@
 <phi/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Kilometersteine" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Kilometersteine\DRG_HB_vw_beids_411_8.ls3"/>
-<p X="6.194" Y="-161.0523" Z="400.5529"/>
-<phi Z="2.699457"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Kilometersteine" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Kilometersteine\DRG_HB_vw_beids_411_6.ls3"/>
-<p X="-174.5507" Y="-75.49" Z="400.4914"/>
-<phi Z="2.699461"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Kilometersteine" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\32T_0005_0053\000511_005281_Konstanz-Petershausen\Kilometersteine\DRG_HB_vw_beids_411_4.ls3"/>
-<p X="-359.4115" Y="0.9536" Z="400.4299"/>
-<phi Z="-0.442138"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Laeutewerk\Spindellaeutewerk\Spindellaeutewerk.lod.ls3"/>
 <p X="495.5688" Y="-395.5711" Z="401.0773"/>
