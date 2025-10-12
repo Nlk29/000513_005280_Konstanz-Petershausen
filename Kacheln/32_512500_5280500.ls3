@@ -6884,6 +6884,12 @@
 <phi Z="-0.441434"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Turmmaste\Anbauteile_bis14m\Masttrafo\Masttrafo_9m.lod.ls3"/>
+<p X="441.8292" Y="-371.6039" Z="413.5722"/>
+<phi Z="-1.964869"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_512500_5280500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeshV="420" MeshI="846">
 <RenderFlags TexVoreinstellung="3"/>
