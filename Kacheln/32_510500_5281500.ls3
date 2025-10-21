@@ -568,7 +568,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Bush04-2m.lod.ls3"/>
-<p X="-339.2922" Y="-47.0071" Z="398.7434"/>
+<p X="-335.9524" Y="-51.5774" Z="398.509"/>
 <phi Z="2.297347"/>
 <sk/>
 </Verknuepfte>
@@ -19100,8 +19100,8 @@
 <phi Z="-2.012524"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Altana_Byk_Guldenstr_2\KoPf_Altana_Byk_Guldenstr_2.lod.ls3"/>
+<Verknuepfte Flags="16" BoundingR="43" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\Altana_Byk_Guldenstr_2\Altana_Byk_Guldenstr_2.lod.ls3"/>
 <p X="459.1084" Y="-541.1932" Z="399.6007"/>
 <phi Z="2.700159"/>
 <sk/>

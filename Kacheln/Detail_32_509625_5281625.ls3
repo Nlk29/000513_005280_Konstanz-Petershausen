@@ -33,25 +33,16 @@
 <Datei Dateiname="PermanentWay\Default\rail.dds"/>
 </Textur>
 </SubSet>
-<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="72" MeshI="216">
-<RenderFlags TexVoreinstellung="1"/>
-</SubSet>
 <SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="84" MeshI="306">
 <RenderFlags TexVoreinstellung="1"/>
 </SubSet>
 <SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="93" MeshI="342">
 <RenderFlags TexVoreinstellung="1"/>
 </SubSet>
-<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="72" MeshI="216">
-<RenderFlags TexVoreinstellung="1"/>
-</SubSet>
 <SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="99" MeshI="360">
 <RenderFlags TexVoreinstellung="1"/>
 </SubSet>
 <SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="99" MeshI="360">
-<RenderFlags TexVoreinstellung="1"/>
-</SubSet>
-<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="72" MeshI="216">
 <RenderFlags TexVoreinstellung="1"/>
 </SubSet>
 <SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="72" MeshI="252">
@@ -64,15 +55,9 @@
 <RenderFlags TexVoreinstellung="1"/>
 </SubSet>
 <SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="63" MeshI="216">
-<RenderFlags TexVoreinstellung="1"/>
-</SubSet>
-<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="81" MeshI="252">
 <RenderFlags TexVoreinstellung="1"/>
 </SubSet>
 <SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="63" MeshI="225">
-<RenderFlags TexVoreinstellung="1"/>
-</SubSet>
-<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="57" MeshI="198">
 <RenderFlags TexVoreinstellung="1"/>
 </SubSet>
 <SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="66" MeshI="234">
@@ -93,19 +78,16 @@
 <SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="10" MeterProTex2="10" MeshV="60" MeshI="306">
 <RenderFlags TexVoreinstellung="1"/>
 </SubSet>
-<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="72" MeshI="270">
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="66" MeshI="198">
 <RenderFlags TexVoreinstellung="1"/>
 </SubSet>
-<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="66" MeshI="252">
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="66" MeshI="198">
 <RenderFlags TexVoreinstellung="1"/>
 </SubSet>
-<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="30" MeshI="108">
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="78" MeshI="234">
 <RenderFlags TexVoreinstellung="1"/>
 </SubSet>
-<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="30" MeshI="108">
-<RenderFlags TexVoreinstellung="1"/>
-</SubSet>
-<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="39" MeshI="144">
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="66" MeshI="198">
 <RenderFlags TexVoreinstellung="1"/>
 </SubSet>
 </Landschaft>

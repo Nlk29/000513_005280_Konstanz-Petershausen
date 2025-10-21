@@ -3170,12 +3170,6 @@
 <phi Z="-0.995791"/>
 <sk X="1.4613" Y="1.4613" Z="1.4613"/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
-<p X="-28.8571" Y="290.7687" Z="400.8238"/>
-<phi Z="-1.00542"/>
-<sk X="1.5382" Y="1.5382" Z="1.5382"/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_10m.lod.ls3"/>
 <p X="-26.1731" Y="286.4969" Z="400.8499"/>
@@ -5182,14 +5176,8 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\druckrolle_II.lod.ls3"/>
-<p X="-83.1961" Y="349.2859" Z="401.301"/>
+<p X="-82.8328" Y="349.3328" Z="401.301"/>
 <phi Z="11.792064"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\rollenhalter_hoch_2hauben_V2.lod.ls3"/>
-<p X="-87.5827" Y="354.392" Z="401.187"/>
-<phi Z="11.760631"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -5198,34 +5186,22 @@
 <phi Z="-0.93728"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_doppelt_signalantrieb.lod.ls3"/>
-<p X="33.9216" Y="122.9824" Z="402.4974"/>
-<phi Z="-1.41213"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\schotter\schotterhuegel.lod.ls3"/>
-<p X="-45.4011" Y="312.1472" Z="400.6583"/>
+<p X="-45.4011" Y="312.1472" Z="400.3993"/>
 <phi X="-0.07584" Z="2.175392"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\Ablenkung_40-40_links_I.lod.ls3"/>
-<p X="-45.4048" Y="312.1446" Z="400.7182"/>
-<phi Y="0.110202" Z="10.029376"/>
+<p X="-45.4048" Y="312.1446" Z="400.4592"/>
+<phi X="-0.032643" Y="-0.098174" Z="10.029376"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle_I_rechtskurve.lod.ls3"/>
-<p X="-31.285" Y="290.4317" Z="400.818"/>
+<p X="-30.6463" Y="290.4177" Z="400.818"/>
 <phi Z="5.277766"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\rollenhalter_hoch_2hauben_3doppeldraht.lod.ls3"/>
-<p X="-48.2486" Y="316.2348" Z="400.7668"/>
-<phi Z="-0.961638"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
@@ -5235,98 +5211,26 @@
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_doppelt_2signalantriebe.lod.ls3"/>
-<p X="-42.3235" Y="307.1744" Z="400.9009"/>
-<phi Z="-0.972431"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_doppelt_2signalantriebe.lod.ls3"/>
-<p X="-36.7954" Y="298.8164" Z="400.7838"/>
-<phi Z="-0.983675"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_doppelt_2signalantriebe.lod.ls3"/>
-<p X="-25.9495" Y="281.8495" Z="400.8732"/>
-<phi Z="-1.022897"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_doppelt_2signalantriebe.lod.ls3"/>
-<p X="-20.8249" Y="273.3378" Z="400.9472"/>
-<phi Z="-1.040785"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle_I_rechtskurve.lod.ls3"/>
-<p X="-15.5491" Y="264.7908" Z="401.0407"/>
+<p X="-15.2714" Y="265.3064" Z="401.0407"/>
 <phi Z="-1.058863"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_doppelt_2signalantriebe.lod.ls3"/>
-<p X="-10.9442" Y="255.7013" Z="401.1375"/>
-<phi Z="-1.081006"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_doppelt_2signalantriebe.lod.ls3"/>
-<p X="-6.5124" Y="247.1069" Z="401.234"/>
-<phi Z="-1.102854"/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle_I_rechtskurve.lod.ls3"/>
+<p X="-1.3336" Y="238.1727" Z="401.3331"/>
+<phi Z="-1.110019"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle_I_rechtskurve.lod.ls3"/>
-<p X="-1.6875" Y="237.9922" Z="401.3331"/>
-<phi Z="-1.122782"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_doppelt_2signalantriebe.lod.ls3"/>
-<p X="2.2069" Y="228.6613" Z="401.4307"/>
-<phi Z="-1.142191"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle_I_rechtskurve.lod.ls3"/>
-<p X="6.5171" Y="219.5778" Z="401.5276"/>
+<p X="6.9155" Y="219.6118" Z="401.5276"/>
 <phi Z="-1.181031"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_doppelt_2signalantriebe.lod.ls3"/>
-<p X="10.1011" Y="210.0833" Z="401.6245"/>
-<phi Z="-1.200191"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle-mit-erdfuss_I_rechtskurve.lod.ls3"/>
-<p X="13.8103" Y="200.8417" Z="401.7216"/>
-<phi Z="-1.219755"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_doppelt_2signalantriebe.lod.ls3"/>
-<p X="16.9572" Y="191.2641" Z="401.8185"/>
-<phi Z="-1.238985"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle-mit-erdfuss_I_rechtskurve.lod.ls3"/>
-<p X="20.2283" Y="181.7312" Z="401.9154"/>
-<phi Z="-1.277914"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_doppelt_2signalantriebe.lod.ls3"/>
-<p X="22.8939" Y="172.026" Z="402.0125"/>
-<phi Z="-1.297123"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle_I_rechtskurve.lod.ls3"/>
-<p X="25.4636" Y="162.1497" Z="402.1094"/>
+<p X="26.1316" Y="162.0208" Z="402.1094"/>
 <phi Z="-1.316554"/>
 <sk/>
 </Verknuepfte>
@@ -5337,21 +5241,9 @@
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_doppelt_2signalantriebe.lod.ls3"/>
-<p X="27.8566" Y="152.6513" Z="402.2063"/>
-<phi Z="-1.335985"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle_I_rechtskurve.lod.ls3"/>
-<p X="30.4078" Y="142.7465" Z="402.3033"/>
+<p X="30.6305" Y="142.4887" Z="402.3033"/>
 <phi Z="-1.370125"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_doppelt_2signalantriebe.lod.ls3"/>
-<p X="32.0304" Y="132.8867" Z="402.4004"/>
-<phi Z="-1.392787"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -5828,12 +5720,6 @@
 <phi Z="5.378384"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\7-8_Doppeldraht\blechkanal-2m_IV.lod.ls3"/>
-<p X="-71.7231" Y="347.6071" Z="400.6686"/>
-<phi Z="8.519977"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\7-8_Doppeldraht\rollenhalter_hoch_4hauben_7doppeldraht.lod.ls3"/>
 <p X="-81.8563" Y="360.7689" Z="400.7615"/>
@@ -5933,49 +5819,49 @@
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m_II.lod.ls3"/>
 <p X="-186.196" Y="450.7775" Z="400.6235"/>
-<phi X="0" Y="0.041479" Z="-2.123107"/>
+<phi Y="0.041479" Z="-2.123107"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
 <p X="-186.7202" Y="449.9269" Z="400.582"/>
-<phi X="0" Y="-0.068967" Z="-2.123107"/>
+<phi Y="-0.068967" Z="-2.123107"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
 <p X="-187.7671" Y="448.2283" Z="400.7198"/>
-<phi X="0" Y="0.026753" Z="-2.123107"/>
+<phi Y="0.026753" Z="-2.123107"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
 <p X="-188.8159" Y="446.5262" Z="400.6663"/>
-<phi X="0" Y="0.026753" Z="-2.123107"/>
+<phi Y="0.026753" Z="-2.123107"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
 <p X="-189.8647" Y="444.8242" Z="400.6128"/>
-<phi X="0" Y="-0.012517" Z="-2.123107"/>
+<phi Y="-0.012517" Z="-2.123107"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
 <p X="-190.9141" Y="443.1217" Z="400.6378"/>
-<phi X="0" Y="-0.012517" Z="-2.123107"/>
+<phi Y="-0.012517" Z="-2.123107"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\Ablenkung_40-40_rechts_II.lod.ls3"/>
 <p X="-192.4543" Y="440.5225" Z="400.6878"/>
-<phi X="0" Y="-0.012517" Z="-2.123107"/>
+<phi Y="-0.012517" Z="-2.123107"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-2m-anbau_I.lod.ls3"/>
 <p X="-191.3025" Y="439.889" Z="400.6871"/>
-<phi X="0.012517" Y="0" Z="2.589283"/>
+<phi X="0.012517" Z="2.589283"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -6014,10 +5900,508 @@
 <phi X="0.012518" Y="-0.012272" Z="-2.123107"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2539" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-1m_I.lod.ls3"/>
 <p X="-194.9121" Y="436.8605" Z="400.6812"/>
 <phi X="-0.012273" Y="-0.012517" Z="-0.552157"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m_II.lod.ls3"/>
+<p X="-66.9805" Y="349.6969" Z="400.5175"/>
+<phi Z="3.884247"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
+<p X="-67.717" Y="349.0206" Z="400.5175"/>
+<phi Z="-2.398938"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
+<p X="-69.1904" Y="347.6681" Z="400.5174"/>
+<phi Z="-2.398938"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
+<p X="-70.6638" Y="346.3156" Z="400.5174"/>
+<phi Z="-2.398938"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
+<p X="-72.1372" Y="344.963" Z="400.5174"/>
+<phi Z="-2.398938"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
+<p X="-73.6106" Y="343.6105" Z="400.5173"/>
+<phi Z="-2.398938"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
+<p X="-74.3457" Y="342.9376" Z="400.5173"/>
+<phi Z="-2.398938"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\Ablenkkasten_95x95.lod.ls3"/>
+<p X="-75.8069" Y="341.8677" Z="400.5173"/>
+<phi Z="2.313451"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\rollenhalter_hoch_2hauben_3doppeldraht.lod.ls3"/>
+<p X="-87.5827" Y="354.392" Z="401.187"/>
+<phi Z="11.760631"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
+<p X="-76.9969" Y="342.8654" Z="400.5172"/>
+<phi Z="5.455044"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-2m_I.lod.ls3"/>
+<p X="-91.0943" Y="357.8287" Z="400.6121"/>
+<phi Y="0.000094" Z="2.331172"/>
+<sk X="0.5" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-2m_I.lod.ls3"/>
+<p X="-148.6768" Y="412.5636" Z="400.6598"/>
+<phi Y="0.000098" Z="2.471425"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-2m_I.lod.ls3"/>
+<p X="-148.6768" Y="412.5636" Z="400.6598"/>
+<phi Y="0.000098" Z="2.471425"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-1m_I.lod.ls3"/>
+<p X="-147.8931" Y="411.9425" Z="400.6598"/>
+<phi Y="0.000098" Z="2.471426"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-1m_I.lod.ls3"/>
+<p X="-147.8931" Y="411.9425" Z="400.6598"/>
+<phi Y="0.000098" Z="2.471426"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-1m_I.lod.ls3"/>
+<p X="-147.8931" Y="411.9425" Z="400.6598"/>
+<phi Y="0.000098" Z="2.471426"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-2m-anbau_I.lod.ls3"/>
+<p X="-147.8931" Y="411.9425" Z="400.6598"/>
+<phi Y="-0.000098" Z="-0.670167"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-rollenkasten_I.lod.ls3"/>
+<p X="-146.3257" Y="410.7003" Z="400.66"/>
+<phi Y="-0.000098" Z="-0.670167"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-1m_I.lod.ls3"/>
+<p X="-93.1763" Y="360.19" Z="400.6331"/>
+<phi Y="-0.000094" Z="-0.798149"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-rollenkasten_I.lod.ls3"/>
+<p X="-93.8743" Y="360.9061" Z="400.6329"/>
+<phi Y="0.000094" Z="2.343444"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m_II.lod.ls3"/>
+<p X="-65.7464" Y="348.144" Z="400.5212"/>
+<phi Z="6.939939"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
+<p X="-66.5383" Y="347.5334" Z="400.5212"/>
+<phi Z="-2.484839"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
+<p X="-68.1223" Y="346.3124" Z="400.5211"/>
+<phi Z="-2.484839"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\Ablenkkasten_95x95.lod.ls3"/>
+<p X="-69.4258" Y="345.0551" Z="400.5211"/>
+<phi Z="0.656753"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m_II.lod.ls3"/>
+<p X="-68.6438" Y="343.7133" Z="400.5211"/>
+<phi Z="-0.914043"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-10m-anbau_II.lod.ls3"/>
+<p X="-68.0332" Y="342.9213" Z="400.5211"/>
+<phi Z="-0.914043"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\schotter\schotterhuegel.lod.ls3"/>
+<p X="-71.2499" Y="347.7406" Z="400.4742"/>
+<phi Z="-2.48484"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\schotter\schotterhuegel.lod.ls3"/>
+<p X="-70.3417" Y="346.3613" Z="400.4566"/>
+<phi Z="-2.48484"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\schotter\schotterhuegel.lod.ls3"/>
+<p X="-69.4077" Y="345.1953" Z="400.5668"/>
+<phi Z="-2.48484"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\rollenhalter_doppelt_1plus1haube.lod.ls3"/>
+<p X="-48.2486" Y="316.2348" Z="400.7668"/>
+<phi Z="-0.961638"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube.lod.ls3"/>
+<p X="-42.1758" Y="307.2764" Z="400.9009"/>
+<phi Z="-0.972431"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube.lod.ls3"/>
+<p X="-36.5013" Y="298.9523" Z="400.7838"/>
+<phi Z="-0.983675"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube.lod.ls3"/>
+<p X="-25.5628" Y="282.0487" Z="400.8732"/>
+<phi Z="-1.022897"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube.lod.ls3"/>
+<p X="-20.3561" Y="273.5253" Z="400.9472"/>
+<phi Z="-1.02115"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube.lod.ls3"/>
+<p X="-10.4872" Y="255.8935" Z="401.1375"/>
+<phi Z="-1.082479"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube.lod.ls3"/>
+<p X="-6.0882" Y="247.3225" Z="401.234"/>
+<phi Z="-1.102854"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube.lod.ls3"/>
+<p X="2.6803" Y="229.0363" Z="401.4307"/>
+<phi Z="-1.142191"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle_I_rechtskurve.lod.ls3"/>
+<p X="14.0869" Y="200.939" Z="401.7216"/>
+<phi Z="-1.219755"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube.lod.ls3"/>
+<p X="10.5101" Y="210.1278" Z="401.6245"/>
+<phi Z="-1.20829"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle_I_rechtskurve.lod.ls3"/>
+<p X="20.6338" Y="181.6714" Z="401.9154"/>
+<phi Z="-1.277914"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube.lod.ls3"/>
+<p X="17.2865" Y="191.3848" Z="401.8185"/>
+<phi Z="-1.244385"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube.lod.ls3"/>
+<p X="23.2806" Y="172.0612" Z="402.0125"/>
+<phi Z="-1.297123"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube.lod.ls3"/>
+<p X="28.2199" Y="152.7685" Z="402.2063"/>
+<phi Z="-1.335985"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\Aufschuettungen_Formsignale\Aufschuettung_gemauert.lod.ls3"/>
+<p X="33.929" Y="125.4677" Z="401.9736"/>
+<phi Z="1.729462"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube.lod.ls3"/>
+<p X="32.3468" Y="132.6992" Z="402.4004"/>
+<phi Z="-1.392787"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
+<p X="33.3916" Y="125.366" Z="402.4736"/>
+<phi Z="-1.412131"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
+<p X="34.9958" Y="115.5627" Z="402.5706"/>
+<phi Z="-1.426244"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
+<p X="37.5085" Y="95.442" Z="402.7646"/>
+<phi Z="-1.485323"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
+<p X="38.3401" Y="85.3629" Z="402.8617"/>
+<phi Z="-1.485544"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
+<p X="39.1672" Y="75.3698" Z="402.9586"/>
+<phi Z="-1.481796"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
+<p X="39.8696" Y="45.3074" Z="403.2498"/>
+<phi Z="-1.578045"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
+<p X="39.8059" Y="35.2533" Z="403.3463"/>
+<phi Z="-1.586882"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
+<p X="38.8826" Y="15.1658" Z="403.5241"/>
+<phi Z="-1.650977"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
+<p X="38.0129" Y="5.1414" Z="403.6012"/>
+<phi Z="-1.659463"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
+<p X="37.1997" Y="-4.9198" Z="403.6666"/>
+<phi Z="-1.664683"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
+<p X="32.8125" Y="-34.7767" Z="403.804"/>
+<phi Z="-1.7443"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
+<p X="31.063" Y="-44.5226" Z="403.8308"/>
+<phi Z="-1.758042"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
+<p X="26.7676" Y="-64.2461" Z="403.8528"/>
+<phi Z="-1.808773"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
+<p X="24.2341" Y="-74.0791" Z="403.8482"/>
+<phi Z="-1.828502"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
+<p X="21.726" Y="-83.8059" Z="403.8345"/>
+<phi Z="-1.832346"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
+<p X="12.2969" Y="-112.4746" Z="403.7338"/>
+<phi Z="-1.914883"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
+<p X="8.8608" Y="-121.8836" Z="403.6818"/>
+<phi Z="-1.921704"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
+<p X="-2.2824" Y="-149.7988" Z="403.4739"/>
+<phi Z="-2.009628"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
+<p X="-6.5745" Y="-158.9302" Z="403.3994"/>
+<phi Z="-2.01867"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
+<p X="-10.8479" Y="-168.0223" Z="403.3248"/>
+<phi Z="-2.013451"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
+<p X="-20.2403" Y="-185.8429" Z="403.176"/>
+<phi Z="-2.093219"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
+<p X="-25.3362" Y="-194.5321" Z="403.1011"/>
+<phi Z="-2.092232"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
+<p X="-30.4189" Y="-203.2026" Z="403.0266"/>
+<phi Z="-2.108291"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
+<p X="-35.4583" Y="-211.7981" Z="402.9522"/>
+<phi Z="-2.106718"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle_I_rechtskurve.lod.ls3"/>
+<p X="36.7029" Y="105.646" Z="402.6676"/>
+<phi Z="-1.448393"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle_I_rechtskurve.lod.ls3"/>
+<p X="40.053" Y="65.3038" Z="403.0557"/>
+<phi Z="-1.502939"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube.lod.ls3"/>
+<p X="39.9456" Y="55.2094" Z="403.1527"/>
+<phi Z="-1.569433"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle_I_rechtskurve.lod.ls3"/>
+<p X="39.7778" Y="25.2051" Z="403.4392"/>
+<phi Z="-1.615113"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle_I_rechtskurve.lod.ls3"/>
+<p X="36.396" Y="-14.8914" Z="403.7222"/>
+<phi Z="-1.70468"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
+<p X="34.5686" Y="-24.9424" Z="403.7684"/>
+<phi Z="-1.736888"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle_I_rechtskurve.lod.ls3"/>
+<p X="29.3286" Y="-54.5005" Z="403.8462"/>
+<phi Z="-1.776599"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2998" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\Mercedes_O307\Mercedes_O307_DB_rot.lod.ls3"/>
+<p X="-100.0417" Y="-297.4915" Z="401"/>
+<phi Z="1.012968"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
+<p X="15.8577" Y="-102.7166" Z="403.7772"/>
+<phi Z="-1.915193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle_I_rechtskurve.lod.ls3"/>
+<p X="19.2788" Y="-93.4557" Z="403.8116"/>
+<phi Z="-1.866364"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle_I_rechtskurve.lod.ls3"/>
+<p X="2.0234" Y="-140.7324" Z="403.5484"/>
+<phi Z="-1.971538"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
+<p X="5.4048" Y="-131.3589" Z="403.6183"/>
+<phi Z="-1.933259"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle_I_rechtskurve.lod.ls3"/>
+<p X="-15.0696" Y="-177.1085" Z="403.2504"/>
+<phi Z="-2.061496"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle_I_rechtskurve.lod.ls3"/>
+<p X="-40.4978" Y="-220.4639" Z="402.8778"/>
+<phi Z="-2.127274"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5279500.lsb"/>
@@ -6828,12 +7212,6 @@
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="36" MeshI="99">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\embankment.dds"/>
-</Textur>
-</SubSet>
 <SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="5" MeterProTex2="10" MeshV="26" MeshI="72">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
@@ -6871,12 +7249,6 @@
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="10" MeshI="24">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\embankment.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="15" MeshI="39">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
@@ -7174,6 +7546,12 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Routes\Deutschland\32U_0004_0057\000444_005689_Wennemen\Objekte\Wennemen_18_Suedstr\Wenn_81_Pflaster.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="20" MeshI="54">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>
