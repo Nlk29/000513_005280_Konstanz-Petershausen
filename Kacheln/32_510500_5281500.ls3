@@ -44,12 +44,6 @@
 <phi/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="33" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000293_005629_Aachen_West\Objekte\AC_Welkenratherstr\AC_Hochhaus_Welkenratherstr57.lod.ls3"/>
-<p X="456.5983" Y="-248.2272" Z="401.9202"/>
-<phi Z="3.080251"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Bush01-08m.lod.ls3"/>
 <p X="491.4892" Y="-439.1405" Z="400.7235"/>
@@ -20079,24 +20073,6 @@
 <Datei Dateiname="Terrain\Default\Brachland-1.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="24" MeshI="66">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\embankment.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="7" MeshI="15">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\embankment.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="3" MeshI="3">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\embankment.dds"/>
-</Textur>
-</SubSet>
 <SubSet Cd="00FFFFFF" BeleuchtungTyp="2" MeterProTex="10" MeterProTex2="10" MeshV="24" MeshI="90">
 <RenderFlags TexVoreinstellung="8"/>
 <Textur>
@@ -20412,12 +20388,6 @@
 <Datei Dateiname="Terrain\Default\terrain.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="1" TypGF="6" MeterProTex="10" MeshV="57" MeshI="135">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\terrain.dds"/>
-</Textur>
-</SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="15" TypGF="1" MeterProTex="100" MeterProTex2="10" MeshV="8" MeshI="18">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
@@ -20428,6 +20398,12 @@
 <RenderFlags TexVoreinstellung="2"/>
 <Textur>
 <Datei Dateiname="Terrain\General\forest\Wald_rand.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" MeterProTex="10" MeterProTex2="10" MeshV="28" MeshI="78">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

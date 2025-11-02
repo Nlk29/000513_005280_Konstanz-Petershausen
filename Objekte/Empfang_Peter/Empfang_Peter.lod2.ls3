@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<lsb Dateiname="Empfang_Peter.lod2.lsb"/>
+<SubSet Cd="FFFFFFFF" MeshV="275" MeshI="555">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Bahnsteig\holzverkleidung.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="44" MeshI="78">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="103" MeshI="207">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000591_005806_Wipshausen\Objekte\06_Ersestrasse\Dachziegel.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="228" MeshI="480">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000727_005446_Regenstauf\Objekte\NRGF_EG\NRGF_EG_Wand.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="133" MeshI="207">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000587_005811_Plockhorst\Objekte\Stw_Nw\FensterStw.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="104" MeshI="180">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0006_0059\000600_005866_KleinSuestedt\Objekte\Stein_01\Stein_01.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="84" MeshI="132">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000591_005806_Wipshausen\Objekte\06_Ersestrasse\ZiegelDunkelRot.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FF000000" MeshV="16" MeshI="36">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+</Landschaft>
+</Zusi>

@@ -2,17 +2,17 @@
 <Zusi>
 <Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
 <Landschaft>
-<lsb Dateiname="KoPf_Empfang_Peter.lod3.lsb"/>
-<SubSet Cd="00FFFFFF" MeshV="60" MeshI="90">
+<lsb Dateiname="Empfang_Peter.lod3.lsb"/>
+<SubSet Cd="FFFFFFFF" MeshV="60" MeshI="90">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Texturen\Holz_grau.dds"/>
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Bahnsteig\holzverkleidung.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeshV="66" MeshI="102">
+<SubSet Cd="00FFFFDC" TypGF="1" MeshV="66" MeshI="102">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Texturen\Wand.dds"/>
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000727_005446_Regenstauf\Objekte\NRGF_EG\NRGF_EG_Wand.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" MeshV="58" MeshI="114">
