@@ -1648,8 +1648,8 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Vehicles\1970-79\VW_T3\VW_T3_Kasten_ocker.lod.ls3"/>
-<p X="-33.6579" Y="-180.2159" Z="400.9875"/>
-<phi Y="0.024545" Z="1.329943"/>
+<p X="-33.6579" Y="-180.2159" Z="401.1633"/>
+<phi Y="-0.007362" Z="1.329943"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">

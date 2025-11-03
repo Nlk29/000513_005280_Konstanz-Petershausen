@@ -1888,7 +1888,9 @@
 <g X="2526.283" Y="-1554.408" Z="403.8469"/>
 <b X="2525.5281" Y="-1557.813" Z="403.8507"/>
 <InfoNormRichtung vMax="16.6667" km="413.2297" pos="1"/>
-<InfoGegenRichtung vMax="22.2222" km="413.2332"/>
+<InfoGegenRichtung vMax="22.2222" km="413.2332">
+<Ereignis Er="31" Wert="-2"/>
+</InfoGegenRichtung>
 <NachNorm Nr="69"/>
 <NachGegen Nr="67"/>
 </StrElement>
@@ -1939,6 +1941,7 @@
 <b X="2512.1641" Y="-1605.5601" Z="403.7631"/>
 <InfoNormRichtung vMax="16.6667" km="413.2733" pos="1"/>
 <InfoGegenRichtung vMax="22.2222" km="413.2826">
+<Ereignis Er="31" Wert="2"/>
 <Signal SignalTyp="1" BoundingR="1">
 <p X="2517.8733" Y="-1597.801" Z="405.499"/>
 <phi Z="1.255852"/>
@@ -2108,7 +2111,7 @@
 <g X="2465.3669" Y="-1705.214" Z="402.9976"/>
 <b X="2469.9951" Y="-1697.449" Z="403.0638"/>
 <InfoNormRichtung vMax="16.6667" km="413.3924">
-<Ereignis Er="31" Wert="-3"/>
+<Ereignis Er="31" Wert="-2"/>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="16.6667" km="413.3834" pos="1"/>
 <NachNorm Nr="94"/>
@@ -2119,7 +2122,7 @@
 <b X="2474.5171" Y="-1689.6219" Z="403.1325"/>
 <InfoNormRichtung vMax="16.6667" km="413.3835"/>
 <InfoGegenRichtung vMax="16.6667" km="413.3745" pos="1">
-<Ereignis Er="31" Wert="3"/>
+<Ereignis Er="31" Wert="2"/>
 </InfoGegenRichtung>
 <NachNorm Nr="95"/>
 <NachGegen Nr="93"/>
@@ -2139,7 +2142,7 @@
 <Ereignis Er="40" Beschr="720b"/>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="16.6667" km="413.4718" pos="1" Reg="5005">
-<Ereignis Er="31" Wert="-3"/>
+<Ereignis Er="31" Wert="-2"/>
 </InfoGegenRichtung>
 <NachNorm Nr="97"/>
 <NachGegenModul Nr="320">
@@ -3058,7 +3061,7 @@
 <g X="2257.769" Y="-1024.062" Z="400.7399"/>
 <b X="2260.9204" Y="-1025.5851" Z="400.7403"/>
 <InfoNormRichtung vMax="16.6667" Reg="5011">
-<Ereignis Er="6" Beschr="@sep=E 60@"/>
+<Ereignis Er="6" Beschr="@sep=A 60@"/>
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pw" Signalname="N2" SignalTyp="9" BoundingR="10">
 <p X="2259.9414" Y="-1027.6108" Z="400.7403"/>
 <phi Z="-0.450203"/>
@@ -8114,7 +8117,7 @@
 <g X="1995.3199" Y="-905.212" Z="400.7017"/>
 <b X="1905.474" Y="-862.7563" Z="400.6887"/>
 <InfoNormRichtung vMax="16.6667" km="412.3002" Reg="5037">
-<Ereignis Er="6" Beschr="@sep=E 60@"/>
+<Ereignis Er="6" Beschr="@sep=A 60@"/>
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pf" Signalname="P3" SignalTyp="9" BoundingR="10">
 <p X="1906.4353" Y="-860.722" Z="400.6887"/>
 <phi Z="2.700154"/>
@@ -8800,7 +8803,7 @@
 <g X="1859.864" Y="-836.2283" Z="400.6818"/>
 <b X="1853.9871" Y="-833.4514" Z="400.6808"/>
 <InfoNormRichtung vMax="16.6667" Reg="5044">
-<Ereignis Er="6" Beschr="@sep=E 60@"/>
+<Ereignis Er="6" Beschr="@sep=A 60@"/>
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pf" Signalname="P2" SignalTyp="9" BoundingR="10">
 <p X="1854.9482" Y="-831.4171" Z="400.6808"/>
 <phi Z="2.700187"/>
@@ -19609,7 +19612,7 @@
 <g X="2299.7246" Y="-1051.8461" Z="400.7466"/>
 <b X="2296.668" Y="-1049.899" Z="400.7461"/>
 <InfoNormRichtung vMax="16.6667" km="412.6385" Reg="5087">
-<Ereignis Er="6" Beschr="@sep=E 60@"/>
+<Ereignis Er="6" Beschr="@sep=A 60@"/>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" Reg="5087">
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pw" Signalname="N3" SignalTyp="9" BoundingR="10">
@@ -20428,7 +20431,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20440,7 +20443,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-4m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -20478,7 +20481,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20490,7 +20493,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-4m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -20685,7 +20688,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20697,7 +20700,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -20723,7 +20726,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20735,7 +20738,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -20762,7 +20765,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20774,7 +20777,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -20800,7 +20803,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20812,7 +20815,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -21966,7 +21969,7 @@
 <b X="1869.256" Y="-835.6799" Z="400.6829"/>
 <InfoNormRichtung vMax="38.8889" km="412.1431" pos="1"/>
 <InfoGegenRichtung vMax="-1">
-<Ereignis Er="6" Beschr="@sep=E 60@"/>
+<Ereignis Er="6" Beschr="@sep=A 60@"/>
 <Signal BoundingR="10">
 <p X="1856.5955" Y="-829.7054" Z="400.681"/>
 <phi Z="2.700678"/>
@@ -23560,7 +23563,7 @@
 <b X="2247.1709" Y="-1011.583" Z="400.7379"/>
 <InfoNormRichtung vMax="33.3333" km="412.5917" Reg="5103"/>
 <InfoGegenRichtung vMax="-1" Reg="5103">
-<Ereignis Er="6" Beschr="@sep=E 60@"/>
+<Ereignis Er="6" Beschr="@sep=A 60@"/>
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pw" Signalname="N1" SignalTyp="9" BoundingR="10">
 <p X="2262.4631" Y="-1022.3848" Z="400.7403"/>
 <phi Z="-0.49451"/>
@@ -24371,6 +24374,24 @@
 <FahrstrRegister Ref="11">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrRegister>
+<FahrstrAufloesung Ref="327">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="345">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="351">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="357">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="363">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="369">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrAufloesung>
 <FahrstrTeilaufloesung Ref="455">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrTeilaufloesung>
@@ -26331,6 +26352,24 @@
 <FahrstrRegister Ref="11">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrRegister>
+<FahrstrAufloesung Ref="327">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="345">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="351">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="357">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="363">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="369">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrAufloesung>
 <FahrstrTeilaufloesung Ref="455">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrTeilaufloesung>
@@ -26661,6 +26700,24 @@
 <FahrstrRegister Ref="11">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrRegister>
+<FahrstrAufloesung Ref="327">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="345">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="351">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="357">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="363">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="369">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrAufloesung>
 <FahrstrTeilaufloesung Ref="455">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrTeilaufloesung>
@@ -26717,6 +26774,24 @@
 <FahrstrRegister Ref="11">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrRegister>
+<FahrstrAufloesung Ref="327">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="345">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="351">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="357">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="363">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="369">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrAufloesung>
 <FahrstrTeilaufloesung Ref="493">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrTeilaufloesung>
