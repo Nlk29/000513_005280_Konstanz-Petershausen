@@ -6452,7 +6452,7 @@
 <phi Z="-0.879279"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RollingStock\Deutschland\Epoche3\Gueterwagen\BRD\Z-Wagen\4-Achser\SEAG-Kesselwagen\3D_Dateien\usatc_seag630_ep3.lod.ls3"/>
 <p X="-223.1157" Y="455.8999" Z="400.7434"/>
 <phi Z="2.616088"/>
@@ -6530,13 +6530,13 @@
 <phi Z="5.680668"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RollingStock\Deutschland\Epoche3\Gueterwagen\BRD\Z-Wagen\4-Achser\SEAG-Kesselwagen\3D_Dateien\usatc_seag630_ep3.lod.ls3"/>
 <p X="-314.2349" Y="478.3539" Z="400.7313"/>
 <phi Z="2.495821"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RollingStock\Deutschland\Epoche3\Gueterwagen\BRD\Z-Wagen\4-Achser\SEAG-Kesselwagen\3D_Dateien\usatc_seag630_ep3.lod.ls3"/>
 <p X="-304.281" Y="470.96" Z="400.7329"/>
 <phi Z="2.460914"/>
@@ -6566,7 +6566,7 @@
 <phi Z="-2.45297"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2707" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Strassen\Verkehrszeichen\1953_West\Zeichen4d_bis_4g_Warnkreuze\Zeichen4c_Betonmast_1953.lod.ls3"/>
 <p X="-60.5894" Y="341.5009" Z="401.0913"/>
 <phi Z="0.688623"/>
@@ -7762,6 +7762,12 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="2" TypGF="1" MeterProTex="10" MeshV="22" MeshI="42">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000444_005689_Wennemen\Objekte\Wennemen_24_Rampe\Wenn_24_Pflaster.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

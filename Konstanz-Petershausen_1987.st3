@@ -20431,7 +20431,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20443,7 +20443,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-4m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -20481,7 +20481,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20493,7 +20493,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-4m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -20688,7 +20688,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20700,7 +20700,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -20726,7 +20726,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20738,7 +20738,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -20765,7 +20765,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20777,7 +20777,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -20803,7 +20803,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20815,7 +20815,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -21806,7 +21806,7 @@
 <g X="2390.1936" Y="-1838.1624" Z="395.23"/>
 <b X="2644.115" Y="-1999.6802" Z="395.23"/>
 <NachNorm Nr="1596"/>
-<NachGegen Nr="1625"/>
+<NachGegen Nr="1754"/>
 </StrElement>
 <StrElement Nr="1596" spTrass="27.7778" Fkt="2">
 <g X="2644.115" Y="-1999.6802" Z="395.23"/>
@@ -21961,8 +21961,8 @@
 </StrElement>
 <StrElement Nr="1625" spTrass="27.7778" Fkt="2">
 <g X="2299.384" Y="-1777.8495" Z="395.23"/>
-<b X="2390.1936" Y="-1838.1624" Z="395.23"/>
-<NachNorm Nr="1595"/>
+<b X="2366.0249" Y="-1822.1102" Z="395.23"/>
+<NachNorm Nr="1754"/>
 </StrElement>
 <StrElement Nr="1628" Ueberh="-0.0052" kr="0.000107" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1856.5955" Y="-829.7054" Z="400.681"/>
@@ -23990,6 +23990,12 @@
 <g X="-1335.1893" Y="692.5312" Z="398.522"/>
 <b X="-1333.38" Y="696.2304" Z="398.5198"/>
 <NachGegen Nr="1752"/>
+</StrElement>
+<StrElement Nr="1754" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="2366.0249" Y="-1822.1102" Z="395.23"/>
+<b X="2390.1936" Y="-1838.1624" Z="395.23"/>
+<NachNorm Nr="1595"/>
+<NachGegen Nr="1625"/>
 </StrElement>
 <Fahrstrasse FahrstrName="Konstanz-Petershausen F -&gt; Konstanz-Petershausen P1" FahrstrTyp="TypZug" Laenge="910.476">
 <FahrstrStart Ref="429">
