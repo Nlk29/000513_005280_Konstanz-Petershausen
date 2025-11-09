@@ -1942,25 +1942,6 @@
 <InfoNormRichtung vMax="16.6667" km="413.2733" pos="1"/>
 <InfoGegenRichtung vMax="22.2222" km="413.2826">
 <Ereignis Er="31" Wert="2"/>
-<Signal SignalTyp="1" BoundingR="1">
-<p X="2517.8733" Y="-1597.801" Z="405.499"/>
-<phi Z="1.255852"/>
-<SignalFrame>
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Langsamfahrsignale\Lf7_Tafel.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Langsamfahrsignale\Ziffer\Lf_Ziffer-8.lod.ls3"/>
-</SignalFrame>
-<HsigBegriff HsigGeschw="-1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-</Signal>
 </InfoGegenRichtung>
 <NachNorm Nr="75"/>
 <NachGegen Nr="73"/>
@@ -2417,7 +2398,7 @@
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" km="412.5486" pos="1"/>
 <NachNorm Nr="129"/>
-<NachGegen Nr="1719"/>
+<NachGegen Nr="1758"/>
 </StrElement>
 <StrElement Nr="129" kr="0.000263" spTrass="27.7778" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2226.783" Y="-1000.751" Z="400.7348"/>
@@ -2590,25 +2571,6 @@
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="412.8419" pos="1">
 <Ereignis Er="1" Wert="18.0556"/>
-<Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pw" SignalTyp="1" BoundingR="10">
-<p X="2449.1296" Y="-1190.4248" Z="402"/>
-<phi Z="-0.953796"/>
-<SignalFrame>
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Langsamfahrsignale\Lf7_Tafel.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Langsamfahrsignale\Ziffer\Lf_Ziffer-6-alternativ.lod.ls3"/>
-</SignalFrame>
-<HsigBegriff HsigGeschw="-1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-</Signal>
 </InfoGegenRichtung>
 <NachNorm Nr="140"/>
 <NachGegen Nr="137"/>
@@ -3052,7 +3014,27 @@
 <StrElement Nr="172" Ueberh="0.0131" kr="-0.000617" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2250.1389" Y="-1020.44" Z="400.7388"/>
 <b X="2257.769" Y="-1024.062" Z="400.7399"/>
-<InfoNormRichtung vMax="38.8889" km="412.5789" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="412.5789" pos="1">
+<Signal SignalTyp="1" BoundingR="10">
+<p X="2256.8257" Y="-1026.0494" Z="401.3399"/>
+<phi Z="-0.443202"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Langsamfahrsignale\Lf7_Tafel.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Langsamfahrsignale\Ziffer\Lf_Ziffer-6-alternativ.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="16.6667" km="412.5873"/>
 <NachNorm Nr="173"/>
 <NachGegen Nr="171"/>
@@ -3061,7 +3043,6 @@
 <g X="2257.769" Y="-1024.062" Z="400.7399"/>
 <b X="2260.9204" Y="-1025.5851" Z="400.7403"/>
 <InfoNormRichtung vMax="16.6667" Reg="5011">
-<Ereignis Er="6" Beschr="@sep=A 60@"/>
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pw" Signalname="N2" SignalTyp="9" BoundingR="10">
 <p X="2259.9414" Y="-1027.6108" Z="400.7403"/>
 <phi Z="-0.450203"/>
@@ -3078,22 +3059,16 @@
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\egli_HSigBlende_HP1-Gas-DB.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p Y="-0.15" Z="5.7"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\egli_HSigBlende_HP2-Gas-DB.ls3"/>
-</SignalFrame>
-<SignalFrame>
 <p Y="0.045" Z="8"/>
 <phi/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\HP1-normal.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p Y="0.045" Z="6"/>
+<p/>
 <phi/>
 <sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\HP2-normal.ls3"/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\Mastblech-5Marken2begr-schmal.ls3"/>
 </SignalFrame>
 <SignalFrame>
 <p Y="0.045"/>
@@ -3102,22 +3077,10 @@
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\egli_8m-schmal-2begr.lod0.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p Y="0.045"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\egli_8m-schmal-3begr.lod0.ls3"/>
-</SignalFrame>
-<SignalFrame>
 <p/>
 <phi/>
 <sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\Mastblech-5Marken3begr-schmal.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-sonstigeFormsig\egli-Gsp-DB-Gas.ls3"/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-sonstigeFormsig\egli-Gsp-DB-Gas_warn.ls3"/>
 </SignalFrame>
 <SignalFrame>
 <p Y="2.25"/>
@@ -3162,36 +3125,36 @@
 <HsigBegriff HsigGeschw="41.6667" FahrstrTyp="4"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="2"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="65685797" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="64562323">
+<MatrixEintrag Signalbild="127653" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="125331">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="65835593" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="65835593" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="65835593" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="65835593" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="65835593" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="65835593" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="65685797" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="65685797" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="65685797" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="65685797" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="65685797" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="65685797" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="65685797" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="65685797" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="65685797" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="65610899" MatrixGeschw="6.9444"/>
+<MatrixEintrag Signalbild="128201" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="128201" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="128201" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="128201" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="128201" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="128201" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="127653" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="127653" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="127653" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="127653" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="127653" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="127653" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="127653" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="127653" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="127653" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="127379" MatrixGeschw="6.9444"/>
 <Ersatzsignal ErsatzsigBezeichnung="Befehl" ErsatzsigID="0000050D">
-<MatrixEintrag Signalbild="65610899" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="127379" MatrixGeschw="11.1111">
 <Ereignis Er="32" Wert="70"/>
 <Ereignis Er="2000"/>
 </MatrixEintrag>
 </Ersatzsignal>
 <Ersatzsignal ErsatzsigBezeichnung="BefehlGegengleis" ErsatzsigID="0001050D">
-<MatrixEintrag Signalbild="65610899" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="127379" MatrixGeschw="11.1111">
 <Ereignis Er="32" Wert="70"/>
-<Ereignis Er="28" Wert="20"/>
+<Ereignis Er="28" Wert="11"/>
 <Ereignis Er="2000"/>
 </MatrixEintrag>
 </Ersatzsignal>
@@ -3461,8 +3424,8 @@
 <NachGegen Nr="198"/>
 </StrElement>
 <StrElement Nr="200" kr="0.003155" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="2277.8181" Y="-1039.0699" Z="400.7432"/>
-<b X="2271.375" Y="-1035.75" Z="400.7422"/>
+<g X="2277.8179" Y="-1039.0698" Z="400.7432"/>
+<b X="2271.3748" Y="-1035.7499" Z="400.7422"/>
 <InfoNormRichtung vMax="16.6667" km="412.6134"/>
 <InfoGegenRichtung vMax="16.6667" km="412.6062" pos="1"/>
 <NachNorm Nr="201"/>
@@ -3478,12 +3441,11 @@
 </StrElement>
 <StrElement Nr="202" spTrass="16.6667" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2257.687" Y="-1034.168" Z="400.7405"/>
-<b X="2174.7009" Y="-994.954" Z="400.7284"/>
-<InfoNormRichtung vMax="16.6667" km="412.5929"/>
-<InfoGegenRichtung vMax="16.6667" km="412.5011" pos="1">
+<b X="2254.5225" Y="-1032.6726" Z="400.7401"/>
+<InfoGegenRichtung vMax="16.6667" km="412.5894" pos="1">
 <Ereignis Er="6"/>
 </InfoGegenRichtung>
-<NachNorm Nr="203"/>
+<NachNorm Nr="1760"/>
 <NachGegen Nr="234"/>
 </StrElement>
 <StrElement Nr="203" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
@@ -3514,7 +3476,7 @@
 <Ereignis Er="4"/>
 </InfoGegenRichtung>
 <NachNorm Nr="322"/>
-<NachGegen Nr="202"/>
+<NachGegen Nr="1760"/>
 </StrElement>
 <StrElement Nr="204" spTrass="16.6667" Anschluss="257" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2382.957" Y="-1115.632" Z="400.7577"/>
@@ -4225,7 +4187,7 @@
 <b X="1304.9049" Y="-573.4497" Z="400.3048"/>
 <InfoGegenRichtung vMax="38.8889" km="411.5335" pos="1"/>
 <NachNorm Nr="1449"/>
-<NachGegen Nr="1492"/>
+<NachGegen Nr="1756"/>
 </StrElement>
 <StrElement Nr="271" kr="-0.000017" spTrass="33.3333" Anschluss="1" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1285.749" Y="-564.385" Z="400.2915"/>
@@ -5423,6 +5385,77 @@
 <b X="-1455.7141" Y="732.8295" Z="398.6722"/>
 <InfoGegenRichtung vMax="38.8889" km="408.4775" pos="1">
 <Ereignis Er="1000009"/>
+<Signal NameBetriebsstelle="Reichenau (Baden)" Stellwerk="Reichenau (Baden) FD" Signalname="Dvw2" SignalTyp="6" BoundingR="10">
+<p X="-1432.6301" Y="718.4858" Z="398.6732"/>
+<phi Z="-0.441672"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_51\Mast51_4m10.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.41" Z="4.2"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_51\Vsig51.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.41" Z="4.2"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_51\Vsig51-zusatzlicht.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="0.8"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\Aufschuettungen_Formsignale\Aufschuettung_Erde.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_51\Schaltkasten51-einfach.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="4"/>
+<VsigBegriff VsigGeschw="-1"/>
+<VsigBegriff/>
+<VsigBegriff VsigGeschw="2.7778"/>
+<VsigBegriff VsigGeschw="5.5556"/>
+<VsigBegriff VsigGeschw="8.3333"/>
+<VsigBegriff VsigGeschw="11.1111"/>
+<VsigBegriff VsigGeschw="13.8889"/>
+<VsigBegriff VsigGeschw="16.6667"/>
+<VsigBegriff VsigGeschw="19.4444"/>
+<VsigBegriff VsigGeschw="22.2222"/>
+<VsigBegriff VsigGeschw="25"/>
+<VsigBegriff VsigGeschw="27.7778"/>
+<VsigBegriff VsigGeschw="30.5556"/>
+<VsigBegriff VsigGeschw="33.3333"/>
+<VsigBegriff VsigGeschw="36.1111"/>
+<VsigBegriff VsigGeschw="38.8889"/>
+<VsigBegriff VsigGeschw="41.6667"/>
+<VsigBegriff VsigGeschw="-2"/>
+<MatrixEintrag Signalbild="117" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="115" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="121" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="121" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="121" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="121" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="121" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="121" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="97" MatrixGeschw="-1"/>
+</Signal>
 </InfoGegenRichtung>
 <NachNorm Nr="1737"/>
 <NachGegen Nr="308"/>
@@ -5587,8 +5620,8 @@
 <b X="-1710.1074" Y="858.0905" Z="398.6618"/>
 <InfoNormRichtung vMax="38.8889" Reg="5024">
 <Signal NameBetriebsstelle="Reichenau (Baden)" Stellwerk="Reichenau (Baden) FD" Signalname="B" SignalTyp="9" BoundingR="10">
-<p X="-1708.7396" Y="860.9834" Z="398.1618"/>
-<phi Z="2.69992"/>
+<p X="-1708.7395" Y="860.9834" Z="398.1618"/>
+<phi Z="2.699914"/>
 <SignalFrame>
 <p/>
 <phi/>
@@ -5620,19 +5653,31 @@
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\egli_8m-gitter-2begr.lod0.ls3"/>
 </SignalFrame>
 <SignalFrame>
+<p X="-0.5" Z="5.44"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\Zs1gehause.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.3" Z="6.84"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_69\Zs1_8-69.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
 <p Y="3.2" Z="0.5"/>
 <phi/>
 <sk/>
-<Datei Dateiname="Signals\Deutschland\Indusi\Indusi-Sie_kl.lod.ls3"/>
+<Datei Dateiname="signals\Deutschland\Indusi\Indusi-Sie_kl.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p X="-0.4301" Z="2.59"/>
+<p X="-0.4302" Y="-0.0001" Z="2.5899"/>
 <phi/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalbeschriftung\Beschriftungsfeld.lod1.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p X="-0.4301" Z="2.59"/>
+<p X="-0.4302" Y="-0.0001" Z="2.5899"/>
 <phi/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalbeschriftung\Beschriftungen\Gross\Sigbeschr_B.lod.ls3"/>
@@ -5655,35 +5700,33 @@
 <HsigBegriff HsigGeschw="38.8889" FahrstrTyp="4"/>
 <HsigBegriff HsigGeschw="41.6667" FahrstrTyp="4"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="15013" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="14739">
+<MatrixEintrag Signalbild="117413" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117139">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="15561" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="15561" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="15561" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="15561" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="15561" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="15561" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="15013" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="15013" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="15013" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="15013" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="15013" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="15013" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="15013" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="15013" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="15013" MatrixGeschw="-1"/>
-<Ersatzsignal ErsatzsigBezeichnung="Befehl" ErsatzsigID="0000050D">
-<MatrixEintrag Signalbild="14739" MatrixGeschw="11.1111">
-<Ereignis Er="32" Wert="70"/>
+<MatrixEintrag Signalbild="117961" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="117961" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="117961" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="117961" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="117961" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="117961" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="117413" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117413" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117413" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117413" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117413" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117413" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117413" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117413" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117413" MatrixGeschw="-1"/>
+<Ersatzsignal ErsatzsigBezeichnung="Zs1">
+<MatrixEintrag Signalbild="121235" MatrixGeschw="11.1111">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
 </Ersatzsignal>
-<Ersatzsignal ErsatzsigBezeichnung="BefehlGegengleis" ErsatzsigID="0101050D">
-<MatrixEintrag Signalbild="14739" MatrixGeschw="11.1111">
-<Ereignis Er="32" Wert="70"/>
-<Ereignis Er="28" Wert="11"/>
+<Ersatzsignal ErsatzsigBezeichnung="Zs8" ErsatzsigID="00000001">
+<MatrixEintrag Signalbild="125331" MatrixGeschw="11.1111">
+<Ereignis Er="28" Wert="12"/>
 <Ereignis Er="2000"/>
 </MatrixEintrag>
 </Ersatzsignal>
@@ -8111,7 +8154,7 @@
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="16.6667" km="412.4449" pos="1"/>
 <NachNorm Nr="1486"/>
-<NachGegen Nr="1717"/>
+<NachGegen Nr="1759"/>
 </StrElement>
 <StrElement Nr="514" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1995.3199" Y="-905.212" Z="400.7017"/>
@@ -8215,12 +8258,12 @@
 <MatrixEintrag Signalbild="16327827">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="16552521" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="16552521" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="16552521" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="16552521" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="16552521" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="16552521" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="16552521" MatrixGeschw="16.6667"/>
+<MatrixEintrag Signalbild="16552521" MatrixGeschw="16.6667"/>
+<MatrixEintrag Signalbild="16552521" MatrixGeschw="16.6667"/>
+<MatrixEintrag Signalbild="16552521" MatrixGeschw="16.6667"/>
+<MatrixEintrag Signalbild="16552521" MatrixGeschw="16.6667"/>
+<MatrixEintrag Signalbild="16552521" MatrixGeschw="16.6667"/>
 <MatrixEintrag Signalbild="16402725" MatrixGeschw="-1"/>
 <MatrixEintrag Signalbild="16402725" MatrixGeschw="-1"/>
 <MatrixEintrag Signalbild="16402725" MatrixGeschw="-1"/>
@@ -8532,23 +8575,10 @@
 </StrElement>
 <StrElement Nr="533" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1441.084" Y="-633.362" Z="400.3977"/>
-<b X="1364.271" Y="-597.065" Z="400.3446"/>
-<InfoNormRichtung vMax="33.3333" km="411.6825"/>
-<InfoGegenRichtung vMax="38.8889" km="411.5975" pos="1"/>
-<NachNorm Nr="534"/>
+<b X="1369.9774" Y="-599.7615" Z="400.3485"/>
+<InfoGegenRichtung vMax="38.8889" km="411.6038" pos="1"/>
+<NachNorm Nr="1755"/>
 <NachGegen Nr="1567"/>
-</StrElement>
-<StrElement Nr="534" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="1364.271" Y="-597.065" Z="400.3446"/>
-<b X="1325.8645" Y="-578.9164" Z="400.3181"/>
-<InfoNormRichtung vMax="33.3333" Reg="5042">
-<Ereignis Er="1000007" Beschr="Konstanz-Fürstenberg Hp"/>
-</InfoNormRichtung>
-<InfoGegenRichtung vMax="38.8889" km="411.5549" pos="1" Reg="5042">
-<Ereignis Er="4"/>
-</InfoGegenRichtung>
-<NachNorm Nr="1456"/>
-<NachGegen Nr="533"/>
 </StrElement>
 <StrElement Nr="535" spTrass="27.7778" Anschluss="256" Fkt="4" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1758.076" Y="-783.152" Z="400.6169"/>
@@ -8901,12 +8931,12 @@
 <MatrixEintrag Signalbild="16327827">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="16552521" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="16552521" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="16552521" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="16552521" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="16552521" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="16552521" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="16552521" MatrixGeschw="16.6667"/>
+<MatrixEintrag Signalbild="16552521" MatrixGeschw="16.6667"/>
+<MatrixEintrag Signalbild="16552521" MatrixGeschw="16.6667"/>
+<MatrixEintrag Signalbild="16552521" MatrixGeschw="16.6667"/>
+<MatrixEintrag Signalbild="16552521" MatrixGeschw="16.6667"/>
+<MatrixEintrag Signalbild="16552521" MatrixGeschw="16.6667"/>
 <MatrixEintrag Signalbild="16402725" MatrixGeschw="-1"/>
 <MatrixEintrag Signalbild="16402725" MatrixGeschw="-1"/>
 <MatrixEintrag Signalbild="16402725" MatrixGeschw="-1"/>
@@ -17402,12 +17432,36 @@
 </StrElement>
 <StrElement Nr="1340" Ueberh="0.0078" kr="-0.000357" spTrass="33.3333" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1964.9659" Y="-877.5725" Z="400.6967"/>
-<b X="1952.463" Y="-872.4827" Z="400.6949"/>
-<InfoNormRichtung vMax="33.3333" km="412.262">
-<Ereignis Er="1000012" Beschr="Konstanz-Petershausen"/>
+<b X="1955.704" Y="-873.8021" Z="400.6953"/>
+<InfoNormRichtung vMax="-1">
+<Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Stw 1" SignalTyp="1" BoundingR="10">
+<p X="1954.4785" Y="-876.8122" Z="402.4953"/>
+<phi Z="2.75499"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Nebensignale\DB_Ne5_weiss.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Z="0.3"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Kennzeichen\Betonpfosten-oA.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Z="0.33"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Nebensignale\DB_Zuordnungspfeil-re.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="7" MatrixGeschw="-1"/>
+</Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="38.8889" km="412.2485" pos="1"/>
-<NachNorm Nr="1342"/>
+<InfoGegenRichtung vMax="38.8889" km="412.252" pos="1"/>
+<NachNorm Nr="1762"/>
 <NachGegen Nr="1338"/>
 </StrElement>
 <StrElement Nr="1342" Ueberh="0.0313" kr="-0.000641" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
@@ -17417,7 +17471,7 @@
 <Ereignis Er="1000007" Beschr="Konstanz-Petershausen"/>
 </InfoGegenRichtung>
 <NachNorm Nr="1422"/>
-<NachGegen Nr="1340"/>
+<NachGegen Nr="1762"/>
 </StrElement>
 <StrElement Nr="1344" Ueberh="0.0313" kr="-0.000641" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1925.42" Y="-861.1281" Z="400.691"/>
@@ -17433,7 +17487,7 @@
 <InfoGegenRichtung vMax="33.3333" km="412.1431" Reg="5082">
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pf" Signalname="P1" SignalTyp="9" BoundingR="10">
 <p X="1857.0566" Y="-826.3846" Z="400.1809"/>
-<phi Z="2.700711"/>
+<phi Z="2.70071"/>
 <SignalFrame>
 <p/>
 <phi/>
@@ -17510,12 +17564,12 @@
 <MatrixEintrag Signalbild="31123">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="31945" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="31945" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="31945" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="31945" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="31945" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="31945" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="31945" MatrixGeschw="16.6667"/>
+<MatrixEintrag Signalbild="31945" MatrixGeschw="16.6667"/>
+<MatrixEintrag Signalbild="31945" MatrixGeschw="16.6667"/>
+<MatrixEintrag Signalbild="31945" MatrixGeschw="16.6667"/>
+<MatrixEintrag Signalbild="31945" MatrixGeschw="16.6667"/>
+<MatrixEintrag Signalbild="31945" MatrixGeschw="16.6667"/>
 <MatrixEintrag Signalbild="31397" MatrixGeschw="-1"/>
 <MatrixEintrag Signalbild="31397" MatrixGeschw="-1"/>
 <MatrixEintrag Signalbild="31397" MatrixGeschw="-1"/>
@@ -18924,7 +18978,7 @@
 <p X="-1.5"/>
 <phi/>
 <sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-VSIG\DB_egli-VSig-Standard-3begr-Gas.Lod.ls3"/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-VSIG\DB_egli-VSig-Standard-2begr-Gas.Lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
 <p/>
@@ -18937,18 +18991,6 @@
 <phi/>
 <sk/>
 <Datei Dateiname="signals\Deutschland\Indusi\Indusi-Sie_kl.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p X="-0.4299" Y="0.0001" Z="2.59"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalbeschriftung\Beschriftungsfeld.lod1.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p X="-0.4299" Y="0.0001" Z="2.59"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalbeschriftung\Beschriftungen\Gross\Sigbeschr_A.lod.ls3"/>
 </SignalFrame>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="4"/>
 <HsigBegriff FahrstrTyp="6"/>
@@ -18985,614 +19027,613 @@
 <VsigBegriff VsigGeschw="38.8889"/>
 <VsigBegriff VsigGeschw="41.6667"/>
 <VsigBegriff VsigGeschw="-2"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="255478053" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="255478053" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="255403155">
+<MatrixEintrag Signalbild="54076563">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="255403155">
+<MatrixEintrag Signalbild="54076563">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="255403155">
+<MatrixEintrag Signalbild="54076563">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="255403155">
+<MatrixEintrag Signalbild="54076563">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="255403155">
+<MatrixEintrag Signalbild="54076563">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="255403155">
+<MatrixEintrag Signalbild="54076563">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="255403155">
+<MatrixEintrag Signalbild="54076563">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="255403155">
+<MatrixEintrag Signalbild="54076563">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="255403155">
+<MatrixEintrag Signalbild="54076563">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="255403155">
+<MatrixEintrag Signalbild="54076563">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="255403155">
+<MatrixEintrag Signalbild="54076563">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="255403155">
+<MatrixEintrag Signalbild="54076563">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="255403155">
+<MatrixEintrag Signalbild="54076563">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="255403155">
+<MatrixEintrag Signalbild="54076563">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="255403155">
+<MatrixEintrag Signalbild="54076563">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="255403155">
+<MatrixEintrag Signalbild="54076563">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="255403155">
+<MatrixEintrag Signalbild="54076563">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="255403155">
+<MatrixEintrag Signalbild="54076563">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="255627849" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="255627849" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="255627849" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="255627849" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="255627849" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="255627849" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="255627849" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="255627849" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="255627849" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="255627849" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="255627849" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261919305" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="257725001" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="255627849" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="56398409" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="54301257" MatrixGeschw="11.1111">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="255478053" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="255478053" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="255478053" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="255478053" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="255478053" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="255478053" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="255478053" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="255478053" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="255478053" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="255478053" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="255478053" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="255478053" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="255478053" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="255478053" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="255478053" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="255478053" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="255478053" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="1000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="261769509" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="257575205" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="255478053" MatrixGeschw="-1">
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="56248613" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="54151461" MatrixGeschw="-1">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
 <Ersatzsignal ErsatzsigBezeichnung="Befehl" ErsatzsigID="00000B01">
-<MatrixEintrag Signalbild="253306003" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="51979411" MatrixGeschw="11.1111">
 <Ereignis Er="32" Wert="70"/>
 <Ereignis Er="2000"/>
 </MatrixEintrag>
 </Ersatzsignal>
-<Ersatzsignal ErsatzsigBezeichnung="BefehlGegengleis" ErsatzsigID="0001050D">
-<MatrixEintrag Signalbild="253306003" MatrixGeschw="11.1111">
+<Ersatzsignal ErsatzsigBezeichnung="BefehlGegengleis" ErsatzsigID="00010B01">
+<MatrixEintrag Signalbild="51979411" MatrixGeschw="11.1111">
 <Ereignis Er="32" Wert="70"/>
-<Ereignis Er="28" Wert="20"/>
 <Ereignis Er="2000"/>
 </MatrixEintrag>
 </Ersatzsignal>
@@ -19611,9 +19652,7 @@
 <StrElement Nr="1451" kr="0.003155" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2299.7246" Y="-1051.8461" Z="400.7466"/>
 <b X="2296.668" Y="-1049.899" Z="400.7461"/>
-<InfoNormRichtung vMax="16.6667" km="412.6385" Reg="5087">
-<Ereignis Er="6" Beschr="@sep=A 60@"/>
-</InfoNormRichtung>
+<InfoNormRichtung vMax="16.6667" km="412.6385" Reg="5087"/>
 <InfoGegenRichtung vMax="-1" Reg="5087">
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pw" Signalname="N3" SignalTyp="9" BoundingR="10">
 <p X="2298.5159" Y="-1053.7438" Z="400.7466"/>
@@ -19631,22 +19670,16 @@
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\egli_HSigBlende_HP1-Gas-DB.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p Y="-0.15" Z="5.7"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\egli_HSigBlende_HP2-Gas-DB.ls3"/>
-</SignalFrame>
-<SignalFrame>
 <p Y="0.045" Z="8"/>
 <phi/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\HP1-normal.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p Y="0.045" Z="6"/>
+<p/>
 <phi/>
 <sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\HP2-normal.ls3"/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\Mastblech-5Marken2begr-schmal.ls3"/>
 </SignalFrame>
 <SignalFrame>
 <p Y="0.045"/>
@@ -19655,22 +19688,10 @@
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\egli_8m-schmal-2begr.lod0.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p Y="0.045"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\egli_8m-schmal-3begr.lod0.ls3"/>
-</SignalFrame>
-<SignalFrame>
 <p/>
 <phi/>
 <sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\Mastblech-5Marken3begr-schmal.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-sonstigeFormsig\egli-Gsp-DB-Gas.ls3"/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-sonstigeFormsig\egli-Gsp-DB-Gas_warn.ls3"/>
 </SignalFrame>
 <SignalFrame>
 <p Y="2.25"/>
@@ -19715,36 +19736,36 @@
 <HsigBegriff HsigGeschw="41.6667" FahrstrTyp="4"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="2"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="65685797" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="64562323">
+<MatrixEintrag Signalbild="127653" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="125331">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="65835593" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="65835593" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="65835593" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="65835593" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="65835593" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="65835593" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="65685797" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="65685797" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="65685797" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="65685797" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="65685797" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="65685797" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="65685797" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="65685797" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="65685797" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="65610899" MatrixGeschw="6.9444"/>
+<MatrixEintrag Signalbild="128201" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="128201" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="128201" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="128201" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="128201" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="128201" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="127653" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="127653" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="127653" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="127653" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="127653" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="127653" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="127653" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="127653" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="127653" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="127379" MatrixGeschw="6.9444"/>
 <Ersatzsignal ErsatzsigBezeichnung="Befehl" ErsatzsigID="0000050D">
-<MatrixEintrag Signalbild="65610899" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="127379" MatrixGeschw="11.1111">
 <Ereignis Er="32" Wert="70"/>
 <Ereignis Er="2000"/>
 </MatrixEintrag>
 </Ersatzsignal>
 <Ersatzsignal ErsatzsigBezeichnung="BefehlGegengleis" ErsatzsigID="0001050D">
-<MatrixEintrag Signalbild="65610899" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="127379" MatrixGeschw="11.1111">
 <Ereignis Er="32" Wert="70"/>
-<Ereignis Er="28" Wert="20"/>
+<Ereignis Er="28" Wert="11"/>
 <Ereignis Er="2000"/>
 </MatrixEintrag>
 </Ersatzsignal>
@@ -19819,7 +19840,7 @@
 <Ereignis Er="1000012" Beschr="Konstanz-Fürstenberg Hp"/>
 </InfoGegenRichtung>
 <NachNorm Nr="1734"/>
-<NachGegen Nr="534"/>
+<NachGegen Nr="1757"/>
 </StrElement>
 <StrElement Nr="1457" Ueberh="0.0128" kr="-0.000638" spTrass="27.7778" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2274.199" Y="-1026.193" Z="400.7419"/>
@@ -20408,12 +20429,11 @@
 </StrElement>
 <StrElement Nr="1492" kr="0.000034" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1367.3224" Y="-603.0847" Z="400.3479"/>
-<b X="1341.9559" Y="-591.0056" Z="400.3304"/>
-<InfoNormRichtung vMax="33.3333" km="411.6027" Reg="5091"/>
+<b X="1353.7301" Y="-596.6086" Z="400.3385"/>
 <InfoGegenRichtung vMax="38.8889" Reg="5091">
 <Ereignis Er="3"/>
 </InfoGegenRichtung>
-<NachNorm Nr="270"/>
+<NachNorm Nr="1756"/>
 <NachGegen Nr="269"/>
 </StrElement>
 <StrElement Nr="1493" spTrass="27.7778" Fkt="2">
@@ -20431,7 +20451,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20443,7 +20463,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-4m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -20481,7 +20501,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20493,7 +20513,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-4m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -20688,7 +20708,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20700,7 +20720,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -20726,7 +20746,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20738,7 +20758,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -20765,7 +20785,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20777,7 +20797,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -20803,7 +20823,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20815,7 +20835,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -21101,7 +21121,7 @@
 <Ereignis Er="28" Beschr="720b"/>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" Reg="5092"/>
-<NachNorm Nr="1568"/>
+<NachNorm Nr="1761"/>
 <NachGegen Nr="312"/>
 </StrElement>
 <StrElement Nr="1508" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
@@ -21362,27 +21382,7 @@
 <StrElement Nr="1539" Ueberh="0.0213" kr="-0.000904" spTrass="27.7778" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2284.2275" Y="-1031.7314" Z="400.7434"/>
 <b X="2287.563" Y="-1033.5909" Z="400.7439"/>
-<InfoGegenRichtung vMax="33.3333">
-<Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pw" SignalTyp="1" BoundingR="10">
-<p X="2286.0522" Y="-1029.0677" Z="402.4434"/>
-<phi Z="2.633013"/>
-<SignalFrame>
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Langsamfahrsignale\Lf7_Tafel.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Langsamfahrsignale\Ziffer\Lf_Ziffer-12.lod.ls3"/>
-</SignalFrame>
-<HsigBegriff HsigGeschw="-1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-</Signal>
-</InfoGegenRichtung>
+<InfoGegenRichtung vMax="33.3333"/>
 <NachNorm Nr="121"/>
 <NachGegen Nr="120"/>
 </StrElement>
@@ -21629,31 +21629,6 @@
 <InfoGegenRichtung vMax="-1" Reg="5097"/>
 <NachNorm Nr="533"/>
 <NachGegen Nr="532"/>
-</StrElement>
-<StrElement Nr="1568" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="-1714.0728" Y="854.9873" Z="398.6617"/>
-<b X="-1785.426" Y="888.725" Z="398.6589"/>
-<InfoNormRichtung vMax="38.8889" km="408.1922" Reg="5098">
-<Ereignis Er="4"/>
-<Ereignis Er="22"/>
-<Signal SignalTyp="5" BoundingR="10">
-<p X="-1786.7682" Y="885.8863" Z="398.5089"/>
-<phi Z="2.69992"/>
-<SignalFrame>
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\DB_Ra10.ls3"/>
-</SignalFrame>
-<HsigBegriff FahrstrTyp="2"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="2"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="1"/>
-<MatrixEintrag Signalbild="1" MatrixGeschw="-1"/>
-</Signal>
-</InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" Reg="5098"/>
-<NachGegen Nr="1507"/>
 </StrElement>
 <StrElement Nr="1569" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1711.9155" Y="858.9454" Z="398.6617"/>
@@ -23545,10 +23520,9 @@
 </StrElement>
 <StrElement Nr="1717" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2258.981" Y="-1029.8019" Z="400.7403"/>
-<b X="2175.012" Y="-990.1233" Z="400.7281"/>
-<InfoNormRichtung vMax="16.6667" km="412.5919"/>
+<b X="2255.8164" Y="-1028.3065" Z="400.7398"/>
 <InfoGegenRichtung vMax="-1"/>
-<NachNorm Nr="512"/>
+<NachNorm Nr="1759"/>
 <NachGegen Nr="1716"/>
 </StrElement>
 <StrElement Nr="1718" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
@@ -23560,18 +23534,16 @@
 </StrElement>
 <StrElement Nr="1719" kr="0.000263" spTrass="27.7778" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2263.531" Y="-1020.4043" Z="400.7403"/>
-<b X="2247.1709" Y="-1011.583" Z="400.7379"/>
-<InfoNormRichtung vMax="33.3333" km="412.5917" Reg="5103"/>
+<b X="2260.4502" Y="-1018.7432" Z="400.7398"/>
 <InfoGegenRichtung vMax="-1" Reg="5103">
-<Ereignis Er="6" Beschr="@sep=A 60@"/>
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pw" Signalname="N1" SignalTyp="9" BoundingR="10">
-<p X="2262.4631" Y="-1022.3848" Z="400.7403"/>
-<phi Z="-0.49451"/>
+<p X="2262.3445" Y="-1022.6048" Z="400.7403"/>
+<phi Z="-0.494488"/>
 <SignalFrame>
 <p/>
 <phi/>
 <sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\egli_Schmalmast-8m_warn.ls3"/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\egli_Gittermast-8m.ls3"/>
 </SignalFrame>
 <SignalFrame>
 <p Y="-0.15" Z="7.7"/>
@@ -23589,34 +23561,34 @@
 <p/>
 <phi/>
 <sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\Mastblech-5Marken2begr-schmal.ls3"/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\Mastblech-5Marken2begr-breit.ls3"/>
 </SignalFrame>
 <SignalFrame>
 <p Y="0.045"/>
 <phi/>
 <sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\egli_8m-schmal-2begr.lod0.ls3"/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\egli_8m-gitter-2begr.lod0.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p Y="2.25"/>
+<p Y="2.5"/>
 <phi/>
 <sk/>
 <Datei Dateiname="signals\Deutschland\Indusi\Indusi-Sie_kl.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p X="-0.4299" Z="2.59"/>
+<p X="-0.4297" Z="2.59"/>
 <phi/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalbeschriftung\Beschriftungsfeld.lod1.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p X="-0.4299" Y="0.03" Z="2.59"/>
+<p X="-0.4297" Y="0.03" Z="2.59"/>
 <phi/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalbeschriftung\Beschriftungen\Gross\Sigbeschr_N.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p X="-0.4299" Y="-0.06" Z="2.59"/>
+<p X="-0.4297" Y="-0.06" Z="2.59"/>
 <phi/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalbeschriftung\Beschriftungen\Gross\Sigbeschr_1.lod.ls3"/>
@@ -23673,7 +23645,7 @@
 </Ersatzsignal>
 </Signal>
 </InfoGegenRichtung>
-<NachNorm Nr="128"/>
+<NachNorm Nr="1758"/>
 <NachGegen Nr="127"/>
 </StrElement>
 <StrElement Nr="1720" spTrass="27.7778" Fkt="2">
@@ -23806,7 +23778,7 @@
 <InfoGegenRichtung vMax="-1" Reg="5105">
 <Signal NameBetriebsstelle="Reichenau (Baden)" Stellwerk="Reichenau (Baden) FD" Signalname="D" SignalTyp="9" BoundingR="10">
 <p X="-1227.9478" Y="621.5635" Z="398.1886"/>
-<phi Z="-0.44265"/>
+<phi Z="-0.442652"/>
 <SignalFrame>
 <p/>
 <phi/>
@@ -23838,19 +23810,31 @@
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\egli_8m-gitter-2begr.lod0.ls3"/>
 </SignalFrame>
 <SignalFrame>
+<p X="-0.5" Z="5.44"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\Zs1gehause.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.3" Z="6.84"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_69\Zs1_8-69.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
 <p Y="3.2" Z="0.5"/>
 <phi/>
 <sk/>
 <Datei Dateiname="signals\Deutschland\Indusi\Indusi-Sie_kl.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p X="-0.4302" Y="0.0001" Z="2.59"/>
+<p X="-0.4302" Z="2.5899"/>
 <phi/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalbeschriftung\Beschriftungsfeld.lod1.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p X="-0.4302" Y="0.0001" Z="2.59"/>
+<p X="-0.4302" Z="2.5899"/>
 <phi/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalbeschriftung\Beschriftungen\Gross\Sigbeschr_D.lod.ls3"/>
@@ -23873,35 +23857,33 @@
 <HsigBegriff HsigGeschw="38.8889" FahrstrTyp="4"/>
 <HsigBegriff HsigGeschw="41.6667" FahrstrTyp="4"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="15013" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="14739">
+<MatrixEintrag Signalbild="117413" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117139">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="15561" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="15561" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="15561" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="15561" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="15561" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="15561" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="15013" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="15013" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="15013" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="15013" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="15013" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="15013" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="15013" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="15013" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="15013" MatrixGeschw="-1"/>
-<Ersatzsignal ErsatzsigBezeichnung="Befehl" ErsatzsigID="0000050D">
-<MatrixEintrag Signalbild="14739" MatrixGeschw="11.1111">
-<Ereignis Er="32" Wert="70"/>
+<MatrixEintrag Signalbild="117961" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="117961" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="117961" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="117961" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="117961" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="117961" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="117413" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117413" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117413" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117413" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117413" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117413" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117413" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117413" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117413" MatrixGeschw="-1"/>
+<Ersatzsignal ErsatzsigBezeichnung="Zs1">
+<MatrixEintrag Signalbild="121235" MatrixGeschw="11.1111">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
 </Ersatzsignal>
-<Ersatzsignal ErsatzsigBezeichnung="BefehlGegengleis" ErsatzsigID="0101050D">
-<MatrixEintrag Signalbild="14739" MatrixGeschw="11.1111">
-<Ereignis Er="32" Wert="70"/>
-<Ereignis Er="28" Wert="11"/>
+<Ersatzsignal ErsatzsigBezeichnung="Zs8" ErsatzsigID="00000001">
+<MatrixEintrag Signalbild="125331" MatrixGeschw="11.1111">
+<Ereignis Er="28" Wert="12"/>
 <Ereignis Er="2000"/>
 </MatrixEintrag>
 </Ersatzsignal>
@@ -23996,6 +23978,279 @@
 <b X="2390.1936" Y="-1838.1624" Z="395.23"/>
 <NachNorm Nr="1595"/>
 <NachGegen Nr="1625"/>
+</StrElement>
+<StrElement Nr="1755" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="1369.9774" Y="-599.7615" Z="400.3485"/>
+<b X="1355.5112" Y="-592.9256" Z="400.3385"/>
+<InfoGegenRichtung vMax="-1">
+<Ereignis Er="1000007" Beschr="Konstanz-Fürstenberg Hp"/>
+</InfoGegenRichtung>
+<NachNorm Nr="1757"/>
+<NachGegen Nr="533"/>
+</StrElement>
+<StrElement Nr="1756" kr="0.000034" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="1353.7301" Y="-596.6086" Z="400.3385"/>
+<b X="1341.9559" Y="-591.0056" Z="400.3304"/>
+<InfoNormRichtung vMax="33.3333" km="411.5876" Reg="5091"/>
+<InfoGegenRichtung vMax="-1">
+<Signal SignalTyp="1" BoundingR="3">
+<p X="1352.3981" Y="-599.4078" Z="399.7385"/>
+<phi Z="-0.444162"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Langsamfahrsignale\DB_Lf6_transparent_gas.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.23" Z="2.96"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Langsamfahrsignale\Ziffer\Lf_Ziffer-6-alternativ.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="3.1" Z="0.6"/>
+<phi/>
+<sk/>
+<Datei Dateiname="signals\Deutschland\Indusi\Indusi-Sie_gr.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="7" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+</Signal>
+</InfoGegenRichtung>
+<NachNorm Nr="270"/>
+<NachGegen Nr="1492"/>
+</StrElement>
+<StrElement Nr="1757" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="1355.5112" Y="-592.9256" Z="400.3385"/>
+<b X="1325.8645" Y="-578.9164" Z="400.3181"/>
+<InfoNormRichtung vMax="33.3333" km="411.5879">
+<Ereignis Er="4"/>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="-1">
+<Signal SignalTyp="1" BoundingR="3">
+<p X="1354.6567" Y="-594.7339" Z="400.3385"/>
+<phi Z="-0.441438"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Langsamfahrsignale\DB_Lf6_transparent_GB.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.23" Z="0.45"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Langsamfahrsignale\Ziffer\Lf_Ziffer-6-alternativ.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="2"/>
+<phi/>
+<sk/>
+<Datei Dateiname="signals\Deutschland\Indusi\Indusi-Sie_gr.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="7" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+</Signal>
+</InfoGegenRichtung>
+<NachNorm Nr="1456"/>
+<NachGegen Nr="1755"/>
+</StrElement>
+<StrElement Nr="1758" kr="0.000263" spTrass="27.7778" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="2260.4502" Y="-1018.7432" Z="400.7398"/>
+<b X="2247.1709" Y="-1011.583" Z="400.7379"/>
+<InfoNormRichtung vMax="33.3333" km="412.5882" Reg="5103"/>
+<InfoGegenRichtung vMax="-1">
+<Signal SignalTyp="1" BoundingR="10">
+<p X="2259.406" Y="-1020.6797" Z="401.5"/>
+<phi Z="-0.494515"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Langsamfahrsignale\Lf7_Tafel.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Langsamfahrsignale\Ziffer\Lf_Ziffer-6-alternativ.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+<NachNorm Nr="128"/>
+<NachGegen Nr="1719"/>
+</StrElement>
+<StrElement Nr="1759" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="2255.8164" Y="-1028.3065" Z="400.7398"/>
+<b X="2175.012" Y="-990.1233" Z="400.7281"/>
+<InfoNormRichtung vMax="16.6667" km="412.5884"/>
+<InfoGegenRichtung vMax="-1">
+<Signal SignalTyp="1" BoundingR="10">
+<p X="2254.8765" Y="-1030.2957" Z="401.3398"/>
+<phi Z="-0.441438"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Langsamfahrsignale\Lf7_Tafel.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Langsamfahrsignale\Ziffer\Lf_Ziffer-6-alternativ.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+<NachNorm Nr="512"/>
+<NachGegen Nr="1717"/>
+</StrElement>
+<StrElement Nr="1760" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="2254.5225" Y="-1032.6726" Z="400.7401"/>
+<b X="2174.7009" Y="-994.954" Z="400.7284"/>
+<InfoNormRichtung vMax="16.6667" km="412.5894"/>
+<InfoGegenRichtung vMax="-1">
+<Signal SignalTyp="1" BoundingR="10">
+<p X="2253.5825" Y="-1034.6617" Z="401.3401"/>
+<phi Z="-0.441437"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Langsamfahrsignale\Lf7_Tafel.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Langsamfahrsignale\Ziffer\Lf_Ziffer-6-alternativ.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+<NachNorm Nr="203"/>
+<NachGegen Nr="202"/>
+</StrElement>
+<StrElement Nr="1761" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="-1714.0728" Y="854.9873" Z="398.6617"/>
+<b X="-1785.426" Y="888.725" Z="398.6589"/>
+<InfoNormRichtung vMax="38.8889" km="408.1527" Reg="5098">
+<Ereignis Er="4"/>
+<Ereignis Er="22"/>
+<Signal SignalTyp="5" BoundingR="10">
+<p X="-1784.9601" Y="885.0314" Z="398.5089"/>
+<phi Z="2.69992"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\DB_Ra10.ls3"/>
+</SignalFrame>
+<HsigBegriff FahrstrTyp="2"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="2"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="1"/>
+<MatrixEintrag Signalbild="1" MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="-1">
+<Signal NameBetriebsstelle="Reichenau (Baden)" Stellwerk="Reichenau (Baden) FD" Signalname="Dvw" SignalTyp="6" BoundingR="10">
+<p X="-1717.2059" Y="853.0397" Z="398.6617"/>
+<phi Z="-0.441673"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_51\Mast51_4m10.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.41" Z="4.2"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_51\Vsig51.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.41" Z="4.2"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_51\Vsig51-zusatzlicht.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="0.8"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\Aufschuettungen_Formsignale\Aufschuettung_Erde.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_51\Schaltkasten51-einfach.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="4"/>
+<VsigBegriff VsigGeschw="-1"/>
+<VsigBegriff/>
+<VsigBegriff VsigGeschw="2.7778"/>
+<VsigBegriff VsigGeschw="5.5556"/>
+<VsigBegriff VsigGeschw="8.3333"/>
+<VsigBegriff VsigGeschw="11.1111"/>
+<VsigBegriff VsigGeschw="13.8889"/>
+<VsigBegriff VsigGeschw="16.6667"/>
+<VsigBegriff VsigGeschw="19.4444"/>
+<VsigBegriff VsigGeschw="22.2222"/>
+<VsigBegriff VsigGeschw="25"/>
+<VsigBegriff VsigGeschw="27.7778"/>
+<VsigBegriff VsigGeschw="30.5556"/>
+<VsigBegriff VsigGeschw="33.3333"/>
+<VsigBegriff VsigGeschw="36.1111"/>
+<VsigBegriff VsigGeschw="38.8889"/>
+<VsigBegriff VsigGeschw="41.6667"/>
+<VsigBegriff VsigGeschw="-2"/>
+<MatrixEintrag Signalbild="117" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="115" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="121" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="121" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="121" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="121" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="121" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="121" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="117" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="97" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+<NachGegen Nr="1507"/>
+</StrElement>
+<StrElement Nr="1762" Ueberh="0.0078" kr="-0.000357" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="1955.704" Y="-873.8021" Z="400.6953"/>
+<b X="1952.463" Y="-872.4827" Z="400.6949"/>
+<InfoNormRichtung vMax="33.3333" km="412.252">
+<Ereignis Er="1000012" Beschr="Konstanz-Petershausen"/>
+</InfoNormRichtung>
+<NachNorm Nr="1342"/>
+<NachGegen Nr="1340"/>
 </StrElement>
 <Fahrstrasse FahrstrName="Konstanz-Petershausen F -&gt; Konstanz-Petershausen P1" FahrstrTyp="TypZug" Laenge="910.476">
 <FahrstrStart Ref="429">
@@ -24389,10 +24644,16 @@
 <FahrstrAufloesung Ref="351">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrAufloesung>
-<FahrstrAufloesung Ref="357">
+<FahrstrAufloesung Ref="444">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrAufloesung>
-<FahrstrAufloesung Ref="363">
+<FahrstrAufloesung Ref="444">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="435">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="444">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrAufloesung>
 <FahrstrAufloesung Ref="369">
@@ -24403,6 +24664,12 @@
 </FahrstrTeilaufloesung>
 <FahrstrSigHaltfall Ref="443">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrSigHaltfall>
+<FahrstrSigHaltfall Ref="432">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrSigHaltfall>
+<FahrstrSigHaltfall Ref="429">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrSigHaltfall>
 <FahrstrWeiche Ref="449" FahrstrWeichenlage="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
@@ -26367,10 +26634,16 @@
 <FahrstrAufloesung Ref="351">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrAufloesung>
-<FahrstrAufloesung Ref="357">
+<FahrstrAufloesung Ref="444">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrAufloesung>
-<FahrstrAufloesung Ref="363">
+<FahrstrAufloesung Ref="444">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="435">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="444">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrAufloesung>
 <FahrstrAufloesung Ref="369">
@@ -26381,6 +26654,12 @@
 </FahrstrTeilaufloesung>
 <FahrstrSigHaltfall Ref="79">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrSigHaltfall>
+<FahrstrSigHaltfall Ref="432">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrSigHaltfall>
+<FahrstrSigHaltfall Ref="429">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrSigHaltfall>
 <FahrstrWeiche Ref="82" FahrstrWeichenlage="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
@@ -26715,10 +26994,16 @@
 <FahrstrAufloesung Ref="351">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrAufloesung>
-<FahrstrAufloesung Ref="357">
+<FahrstrAufloesung Ref="444">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrAufloesung>
-<FahrstrAufloesung Ref="363">
+<FahrstrAufloesung Ref="444">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="435">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="444">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrAufloesung>
 <FahrstrAufloesung Ref="369">
@@ -26727,6 +27012,12 @@
 <FahrstrTeilaufloesung Ref="455">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrTeilaufloesung>
+<FahrstrSigHaltfall Ref="432">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrSigHaltfall>
+<FahrstrSigHaltfall Ref="429">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrSigHaltfall>
 <FahrstrWeiche Ref="82" FahrstrWeichenlage="2">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrWeiche>
@@ -26789,10 +27080,16 @@
 <FahrstrAufloesung Ref="351">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrAufloesung>
-<FahrstrAufloesung Ref="357">
+<FahrstrAufloesung Ref="444">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrAufloesung>
-<FahrstrAufloesung Ref="363">
+<FahrstrAufloesung Ref="444">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="435">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrAufloesung>
+<FahrstrAufloesung Ref="444">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrAufloesung>
 <FahrstrAufloesung Ref="369">
@@ -26806,6 +27103,12 @@
 </FahrstrTeilaufloesung>
 <FahrstrSigHaltfall Ref="456">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrSigHaltfall>
+<FahrstrSigHaltfall Ref="432">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
+</FahrstrSigHaltfall>
+<FahrstrSigHaltfall Ref="429">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrSigHaltfall>
 <FahrstrWeiche Ref="437" FahrstrWeichenlage="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>

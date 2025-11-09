@@ -3254,12 +3254,6 @@
 <phi Z="2.582721"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="24" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Fernmeldeamt\KoPf_Fernmeldeamt.lod.ls3"/>
-<p X="99.7224" Y="298.0968" Z="400.6589"/>
-<phi Z="2.629407"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Fahne\KoPf_Fahne.lod.ls3"/>
 <p X="-43.4099" Y="-227.7853" Z="401"/>
@@ -6452,7 +6446,7 @@
 <phi Z="-0.879279"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RollingStock\Deutschland\Epoche3\Gueterwagen\BRD\Z-Wagen\4-Achser\SEAG-Kesselwagen\3D_Dateien\usatc_seag630_ep3.lod.ls3"/>
 <p X="-223.1157" Y="455.8999" Z="400.7434"/>
 <phi Z="2.616088"/>
@@ -6530,13 +6524,13 @@
 <phi Z="5.680668"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RollingStock\Deutschland\Epoche3\Gueterwagen\BRD\Z-Wagen\4-Achser\SEAG-Kesselwagen\3D_Dateien\usatc_seag630_ep3.lod.ls3"/>
 <p X="-314.2349" Y="478.3539" Z="400.7313"/>
 <phi Z="2.495821"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RollingStock\Deutschland\Epoche3\Gueterwagen\BRD\Z-Wagen\4-Achser\SEAG-Kesselwagen\3D_Dateien\usatc_seag630_ep3.lod.ls3"/>
 <p X="-304.281" Y="470.96" Z="400.7329"/>
 <phi Z="2.460914"/>
@@ -6570,6 +6564,54 @@
 <Datei Dateiname="Terrain\Deutschland\Strassen\Verkehrszeichen\1953_West\Zeichen4d_bis_4g_Warnkreuze\Zeichen4c_Betonmast_1953.lod.ls3"/>
 <p X="-60.5894" Y="341.5009" Z="401.0913"/>
 <phi Z="0.688623"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="57" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\Fernmeldeamt\Fernmeldeamt.lod.ls3"/>
+<p X="120.6404" Y="284.5499" Z="400.6589"/>
+<phi Z="1.537213"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
+<p X="-320.8447" Y="494.6461" Z="400.7295"/>
+<phi Z="-1.970505"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
+<p X="-254.2495" Y="468.1544" Z="400.739"/>
+<phi Z="-1.995052"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
+<p X="-218.9138" Y="449.9952" Z="400.7443"/>
+<phi Z="-2.07912"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
+<p X="-184.5811" Y="429.5386" Z="400.7497"/>
+<phi Z="-2.091162"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
+<p X="-151.498" Y="407.8416" Z="400.7536"/>
+<phi Z="-2.223826"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
+<p X="-123.2463" Y="380.3224" Z="400.7575"/>
+<phi Z="-2.399309"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
+<p X="-97.7856" Y="349.6414" Z="400.7614"/>
+<phi Z="-2.441554"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5279500.lsb"/>

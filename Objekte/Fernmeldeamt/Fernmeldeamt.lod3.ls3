@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<lsb Dateiname="Fernmeldeamt.lod3.lsb"/>
+<SubSet Cd="FF1E1E1E" MeshV="16" MeshI="24">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FF7B898F" MeshV="8" MeshI="24">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FF565656" MeshV="17" MeshI="36">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="80" MeshI="114">
+<RenderFlags TexVoreinstellung="4"/>
+<Textur TransparentModus="1">
+<Datei Dateiname="Fernmeldeamt.dds"/>
+</Textur>
+</SubSet>
+</Landschaft>
+</Zusi>

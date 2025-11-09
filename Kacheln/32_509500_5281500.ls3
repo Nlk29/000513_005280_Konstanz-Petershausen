@@ -12238,7 +12238,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
-<p X="67.3781" Y="216.7615" Z="398.6636"/>
+<p X="68.5265" Y="216.3513" Z="398.6636"/>
 <phi Z="-1.278218"/>
 <sk X="1.2687" Y="1.2687" Z="1.2687"/>
 </Verknuepfte>

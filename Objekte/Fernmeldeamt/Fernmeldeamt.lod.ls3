@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<Verknuepfte BoundingR="40" SichtbarBis="3000" Vorlade="1" LODbit="15">
+<Datei Dateiname="Fernmeldeamt.lod3.ls3"/>
+<p/>
+<phi/>
+<sk/>
+</Verknuepfte>
+</Landschaft>
+</Zusi>

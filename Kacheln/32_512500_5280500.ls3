@@ -7016,7 +7016,7 @@
 <phi Z="6.099788"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2153" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Personen\1950\Bahnpersonal\Fahrdienstleiter_Uniform_1.lod.ls3"/>
 <p X="460.1379" Y="-372.0296" Z="401.0717"/>
 <phi Z="5.896585"/>
