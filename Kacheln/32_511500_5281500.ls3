@@ -410,6 +410,24 @@
 <phi/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0057\000563_005692_Eichenberg\Objekte\Eichenberg_01_EG_Links\EG_Links.LOD.ls3"/>
+<p X="-418.9395" Y="-527.2616" Z="400.1672"/>
+<phi Z="10.508143"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000422_005705_Wickede\Objekte\Wickede_01_P183\Wickede_01_P183.lod.ls3"/>
+<p X="-422.5371" Y="-544.0077" Z="400.1086"/>
+<phi Z="7.403366"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="68" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000532_005686_Kassel_Bahndreieck\Objekte\Bahndreieck_02_Lokschuppen\Ka_BDrei_02_Schorn.lod.ls3"/>
+<p X="-394.2231" Y="-454.5754" Z="403.5265"/>
+<phi Z="5.841753"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_511500_5281500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="2" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="6" MeshI="12">
 <RenderFlags TexVoreinstellung="1"/>

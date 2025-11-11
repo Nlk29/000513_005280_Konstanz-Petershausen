@@ -58,7 +58,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
-<p X="-424.5832" Y="478.4039" Z="400.0606"/>
+<p X="-434.4387" Y="488.4352" Z="399.7911"/>
 <phi Z="2.697204"/>
 <sk/>
 </Verknuepfte>
@@ -2486,7 +2486,7 @@
 <phi Z="-0.441433"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="297" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Hektometertafeln\Hekto_Mast_410_4.ls3"/>
 <p X="-220.0148" Y="407.5364" Z="399.5978"/>
 <phi Z="5.841752"/>
