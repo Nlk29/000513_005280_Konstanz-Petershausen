@@ -5353,7 +5353,23 @@
 <g X="-859.5649" Y="455.462" Z="398.7983"/>
 <b X="-947.1072" Y="496.9594" Z="398.772"/>
 <InfoNormRichtung vMax="38.8889" km="409.125"/>
-<InfoGegenRichtung vMax="38.8889" km="409.0281" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="409.0281" pos="1">
+<Signal SignalTyp="5" BoundingR="10">
+<p X="-864.7593" Y="460.846" Z="398.6483"/>
+<phi Z="-0.442654"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\DB_Ra10.ls3"/>
+</SignalFrame>
+<HsigBegriff FahrstrTyp="2"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="2"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="1"/>
+<MatrixEintrag Signalbild="1" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
 <NachNorm Nr="305"/>
 <NachGegen Nr="1426"/>
 </StrElement>
@@ -5644,7 +5660,7 @@
 <p Y="-0.15" Z="7.7"/>
 <phi/>
 <sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\egli_HSigBlende_HP1-Gas-DB.ls3"/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\egli_HSigBlende_HP1-el-DB.ls3"/>
 </SignalFrame>
 <SignalFrame>
 <p Y="0.045" Z="8"/>
@@ -5684,13 +5700,13 @@
 </SignalFrame>
 <SignalFrame>
 <p X="-0.4302" Y="-0.0001" Z="2.5899"/>
-<phi/>
+<phi Z="0"/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalbeschriftung\Beschriftungsfeld.lod1.ls3"/>
 </SignalFrame>
 <SignalFrame>
 <p X="-0.4302" Y="-0.0001" Z="2.5899"/>
-<phi/>
+<phi Z="0"/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalbeschriftung\Beschriftungen\Gross\Sigbeschr_B.lod.ls3"/>
 </SignalFrame>
@@ -20467,7 +20483,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20479,7 +20495,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-4m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -20517,7 +20533,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20529,7 +20545,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="5.75" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-4m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -20724,7 +20740,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20736,7 +20752,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -20762,7 +20778,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20774,7 +20790,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -20801,7 +20817,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20813,7 +20829,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -20839,7 +20855,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20851,7 +20867,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -21463,23 +21479,7 @@
 <g X="-990.8786" Y="517.7081" Z="398.7589"/>
 <b X="-1034.65" Y="538.4567" Z="398.7457"/>
 <InfoNormRichtung vMax="38.8889" km="408.9819" Reg="5094"/>
-<InfoGegenRichtung vMax="-1" Reg="5094">
-<Signal SignalTyp="5" BoundingR="10">
-<p X="-989.5336" Y="520.5455" Z="398.6089"/>
-<phi Z="-0.44265"/>
-<SignalFrame>
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\DB_Ra10.ls3"/>
-</SignalFrame>
-<HsigBegriff FahrstrTyp="2"/>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="2"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="1"/>
-<MatrixEintrag Signalbild="1" MatrixGeschw="-1"/>
-</Signal>
-</InfoGegenRichtung>
+<InfoGegenRichtung vMax="-1" Reg="5094"/>
 <NachNorm Nr="306"/>
 <NachGegen Nr="305"/>
 </StrElement>
@@ -23806,7 +23806,7 @@
 <p Y="-0.15" Z="7.7"/>
 <phi/>
 <sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\egli_HSigBlende_HP1-Gas-DB.ls3"/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\egli_HSigBlende_HP1-el-DB.ls3"/>
 </SignalFrame>
 <SignalFrame>
 <p Y="0.045" Z="8"/>
@@ -23839,20 +23839,26 @@
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_69\Zs1_8-69.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
+<p Y="-0.5"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-sonstigeFormsig\59_GSP_Signal.ls3"/>
+</SignalFrame>
+<SignalFrame>
 <p Y="3.2" Z="0.5"/>
 <phi/>
 <sk/>
 <Datei Dateiname="signals\Deutschland\Indusi\Indusi-Sie_kl.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p X="-0.4302" Z="2.5899"/>
-<phi/>
+<p X="-0.4302" Y="0" Z="2.5899"/>
+<phi Z="0"/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalbeschriftung\Beschriftungsfeld.lod1.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p X="-0.4302" Z="2.5899"/>
-<phi/>
+<p X="-0.4302" Y="0" Z="2.5899"/>
+<phi Z="0"/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalbeschriftung\Beschriftungen\Gross\Sigbeschr_D.lod.ls3"/>
 </SignalFrame>
@@ -23873,33 +23879,35 @@
 <HsigBegriff HsigGeschw="36.1111" FahrstrTyp="4"/>
 <HsigBegriff HsigGeschw="38.8889" FahrstrTyp="4"/>
 <HsigBegriff HsigGeschw="41.6667" FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="2"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="117413" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="117139">
+<MatrixEintrag Signalbild="494245" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="477587">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="117961" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="117961" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="117961" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="117961" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="117961" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="117961" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="117413" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="117413" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="117413" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="117413" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="117413" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="117413" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="117413" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="117413" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="117413" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="494793" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="494793" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="494793" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="494793" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="494793" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="494793" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="494245" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="494245" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="494245" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="494245" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="494245" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="494245" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="494245" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="494245" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="494245" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="493971" MatrixGeschw="6.9444"/>
 <Ersatzsignal ErsatzsigBezeichnung="Zs1">
-<MatrixEintrag Signalbild="121235" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="498067" MatrixGeschw="11.1111">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
 </Ersatzsignal>
 <Ersatzsignal ErsatzsigBezeichnung="Zs8" ErsatzsigID="00000001">
-<MatrixEintrag Signalbild="125331" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="502163" MatrixGeschw="11.1111">
 <Ereignis Er="28" Wert="12"/>
 <Ereignis Er="2000"/>
 </MatrixEintrag>
