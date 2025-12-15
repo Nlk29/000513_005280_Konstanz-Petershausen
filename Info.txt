@@ -45,4 +45,4 @@ Geschwindigkeiten:
 	- Brücke Sternenplatz - Bf Konstanz 			60km/h
 
 WICHTIG:
-	- Bei Bau Konstanz Streckensound Stahlbrücke start an Modulgrenze einbauen
+	-X Bei Bau Konstanz Streckensound Stahlbrücke start an Modulgrenze einbauen
