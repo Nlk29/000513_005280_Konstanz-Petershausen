@@ -6904,32 +6904,32 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RollingStock\Deutschland\Epoche1\Gueterwagen\offene_Wagen\O_Breslau-Om12\3D_Dateien\db_om12_kohle.lod.ls3"/>
-<p X="-210.2759" Y="-73.2978" Z="400.2557"/>
-<phi Z="2.79474"/>
+<p X="-210.2759" Y="-73.3212" Z="400.2557"/>
+<phi Z="2.765288"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RollingStock\Deutschland\Epoche1\Gueterwagen\offene_Wagen\O_Breslau-Om12\3D_Dateien\db_om12_kohle.lod.ls3"/>
 <p X="-218.864" Y="-70.2914" Z="400.2306"/>
-<phi Z="2.821995"/>
+<phi Z="2.807269"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RollingStock\Deutschland\Epoche1\Gueterwagen\offene_Wagen\O_Breslau-Om12\3D_Dateien\db_om12_kohle.lod.ls3"/>
 <p X="-227.5665" Y="-67.6352" Z="400.2055"/>
-<phi Z="2.876477"/>
+<phi Z="2.847025"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RollingStock\Deutschland\Epoche1\Gueterwagen\offene_Wagen\O_Breslau-Om12\3D_Dateien\db_om12_kohle.lod.ls3"/>
 <p X="-236.3785" Y="-65.3675" Z="400.1805"/>
-<phi Z="2.90373"/>
+<phi Z="2.889004"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RollingStock\Deutschland\Epoche1\Gueterwagen\offene_Wagen\O_Breslau-Om12\3D_Dateien\db_om12_kohle.lod.ls3"/>
 <p X="-245.2805" Y="-63.4859" Z="400.1554"/>
-<phi Z="2.958195"/>
+<phi Z="2.941014"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
@@ -7012,7 +7012,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Personen\1950\Bahnpersonal\Zugschaffner_DB_1960_vorne_1.lod.ls3"/>
-<p X="-244.5933" Y="-62.4007" Z="400.712"/>
+<p X="-244.5933" Y="-62.4241" Z="400.712"/>
 <phi Z="6.099788"/>
 <sk/>
 </Verknuepfte>
