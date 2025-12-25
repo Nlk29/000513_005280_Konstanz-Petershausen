@@ -28028,10 +28028,16 @@
 <phi Z="-0.441679"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1546" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Vehicles\1960-69\VW_T2\vw_t2_pritsche_hb_plane.lod.ls3"/>
 <p X="31.5741" Y="253.9816" Z="399.6526"/>
 <phi Z="5.411028"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1523" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Schilder\db_anlage.lod.ls3"/>
+<p X="176.5267" Y="190.4541" Z="399.1917"/>
+<phi X="0.105538" Y="-0.33134" Z="5.841516"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_509500_5281500.lsb"/>
