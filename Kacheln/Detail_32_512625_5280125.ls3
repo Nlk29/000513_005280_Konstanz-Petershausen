@@ -2,6 +2,24 @@
 <Zusi>
 <Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
 <Landschaft>
+<Verknuepfte Flags="16" BoundingR="1875" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\DB_Ra12.lod.ls3"/>
+<p X="82.8331" Y="103.1932" Z="400.5854"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1896" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\DB_Ra12.lod.ls3"/>
+<p X="105.7338" Y="101.8239" Z="400.5989"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1849" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\DB_Ra12.lod.ls3"/>
+<p X="63.681" Y="122.2508" Z="400.5691"/>
+<phi/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="Detail_32_512625_5280125.lsb"/>
 <SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="81" MeshI="243">
 <RenderFlags TexVoreinstellung="1"/>

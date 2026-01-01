@@ -2,6 +2,60 @@
 <Zusi>
 <Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
 <Landschaft>
+<Verknuepfte Flags="16" BoundingR="2142" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\DB_Ra12.lod.ls3"/>
+<p X="72.9999" Y="-15.5213" Z="400.6953"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2182" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\DB_Ra12.lod.ls3"/>
+<p X="109.2269" Y="-32.3352" Z="400.6998"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2054" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\DB_Ra12.lod.ls3"/>
+<p X="-7.0621" Y="21.71" Z="400.6837"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2086" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\DB_Ra12.lod.ls3"/>
+<p X="21.8596" Y="8.9122" Z="400.6877"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1968" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\DB_Ra12.lod.ls3"/>
+<p X="-84.585" Y="58.7875" Z="400.6022"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1928" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\DB_Ra12.lod.ls3"/>
+<p X="-119.2788" Y="80.0204" Z="400.6188"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1921" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\DB_Ra12.lod.ls3"/>
+<p X="-119.6927" Y="95.0648" Z="400.6145"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1921" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\DB_Ra12.lod.ls3"/>
+<p X="-119.6456" Y="95.0284" Z="400.6144"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1917" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\DB_Ra12.lod.ls3"/>
+<p X="-121.7334" Y="100.8531" Z="400.6119"/>
+<phi/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="Detail_32_512875_5280125.lsb"/>
 <SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="72" MeshI="216">
 <RenderFlags TexVoreinstellung="1"/>

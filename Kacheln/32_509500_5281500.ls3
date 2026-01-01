@@ -28614,7 +28614,7 @@
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="10" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="52" MeshI="87">
+<SubSet Cd="00FFFFFF" TypLs3="10" TypGF="1" MeterProTex="10" MeshV="52" MeshI="87">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Laderampe\116cm\116cm_Naturstein_Laderampe.dds"/>

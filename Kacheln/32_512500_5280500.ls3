@@ -6362,12 +6362,6 @@
 <phi Z="-0.441434"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\Aufschuettungen_Formsignale\Aufschuettung_gemauert.lod.ls3"/>
-<p X="357.0568" Y="-326.3846" Z="400.2981"/>
-<phi Z="2.70068"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh0-scheibe.lod.ls3"/>
 <p X="464.2888" Y="-426.9265" Z="401.5966"/>

@@ -5168,12 +5168,6 @@
 <phi Z="-0.774307"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_doppelt_signalantrieb.lod.ls3"/>
-<p X="-59.531" Y="331.9655" Z="400.765"/>
-<phi Z="-0.93728"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\schotter\schotterhuegel.lod.ls3"/>
 <p X="-45.4009" Y="312.1471" Z="400.3993"/>
@@ -6434,7 +6428,7 @@
 <phi Z="-0.879279"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RollingStock\Deutschland\Epoche3\Gueterwagen\BRD\Z-Wagen\4-Achser\SEAG-Kesselwagen\3D_Dateien\usatc_seag630_ep3.lod.ls3"/>
 <p X="-223.1155" Y="455.8998" Z="400.7434"/>
 <phi Z="2.616088"/>
@@ -6512,13 +6506,13 @@
 <phi Z="-0.602517"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RollingStock\Deutschland\Epoche3\Gueterwagen\BRD\Z-Wagen\4-Achser\SEAG-Kesselwagen\3D_Dateien\usatc_seag630_ep3.lod.ls3"/>
 <p X="-314.2346" Y="478.3538" Z="400.7313"/>
 <phi Z="2.495821"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RollingStock\Deutschland\Epoche3\Gueterwagen\BRD\Z-Wagen\4-Achser\SEAG-Kesselwagen\3D_Dateien\usatc_seag630_ep3.lod.ls3"/>
 <p X="-304.2808" Y="470.9598" Z="400.7329"/>
 <phi Z="2.460914"/>
