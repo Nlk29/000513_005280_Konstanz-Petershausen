@@ -2,7 +2,7 @@
 <Zusi>
 <Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
 <Landschaft>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="1000" Vorlade="1" LODbit="15">
+<Verknuepfte Flags="16" BoundingR="45" SichtbarBis="1000" Vorlade="1" LODbit="15">
 <Datei Dateiname="Altana_Byk_Guldenstr_2.lod3.ls3"/>
 <p/>
 <phi/>

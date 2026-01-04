@@ -6,9 +6,6 @@
 <SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="45" MeshI="135">
 <RenderFlags TexVoreinstellung="1"/>
 </SubSet>
-<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="15" MeshI="45">
-<RenderFlags TexVoreinstellung="1"/>
-</SubSet>
 <SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="33" MeshI="99">
 <RenderFlags TexVoreinstellung="1"/>
 </SubSet>
@@ -50,6 +47,30 @@
 <Textur>
 <Datei Dateiname="PermanentWay\Default\rail.dds"/>
 </Textur>
+</SubSet>
+<SubSet Ca="00808080" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="3" MeterProTex2="10" MeshV="138" MeshI="714">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00808080" TypLs3="14" GruppenName="Kettenlinien" MeshV="84" MeshI="396">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00808080" TypLs3="14" GruppenName="Kettenlinien" MeshV="156" MeshI="864">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00808080" TypLs3="14" GruppenName="Kettenlinien" MeshV="156" MeshI="864">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00808080" TypLs3="14" GruppenName="Kettenlinien" MeshV="306" MeshI="1728">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00808080" TypLs3="14" GruppenName="Kettenlinien" MeshV="156" MeshI="864">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00808080" TypLs3="14" GruppenName="Kettenlinien" MeshV="162" MeshI="870">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00808080" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="10" MeshV="156" MeshI="864">
+<RenderFlags TexVoreinstellung="1"/>
 </SubSet>
 </Landschaft>
 </Zusi>

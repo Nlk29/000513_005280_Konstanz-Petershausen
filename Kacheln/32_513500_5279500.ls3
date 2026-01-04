@@ -45,39 +45,9 @@
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bnstg_Leuchte_Leuchtstoff.lod.ls3"/>
-<p X="-239.5432" Y="477.9977" Z="400.7529"/>
-<phi Z="2.695502"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bnstg_Leuchte_Leuchtstoff.lod.ls3"/>
-<p X="-256.8105" Y="486.5488" Z="400.7493"/>
-<phi Z="2.700333"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bnstg_Leuchte_Leuchtstoff.lod.ls3"/>
-<p X="-274.3267" Y="495.3154" Z="400.7456"/>
-<phi Z="2.700333"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gleisfeldleuchte_10m_Rundmast.lod.ls3"/>
-<p X="-154.72" Y="425.2999" Z="400.771"/>
-<phi Z="2.566294"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gleisfeldleuchte_10m_Rundmast.lod.ls3"/>
 <p X="-206.6194" Y="454.8047" Z="400.76"/>
 <phi Z="2.619209"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gleisfeldleuchte_10m_Rundmast.lod.ls3"/>
-<p X="-234.2996" Y="469.3082" Z="400.7546"/>
-<phi Z="2.68644"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
@@ -749,7 +719,7 @@
 <Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0003_0056\000293_005629_Aachen_West\Objekte\AachenWest_Stw_R3\Stw_R3_Stall.lod.ls3"/>
 <p X="-297.5542" Y="458.0232" Z="401.1"/>
-<phi Z="-2.019073"/>
+<phi Z="-2.019074"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
@@ -1415,7 +1385,7 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\People\1975\Adults\man01-b.lod.ls3"/>
 <p X="-10.0979" Y="-133.2664" Z="399.7563"/>
-<phi Y="-0.044245" Z="-2.038518"/>
+<phi Y="-0.044246" Z="-2.038518"/>
 <sk X="1.1005" Y="1.1005" Z="1.1005"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -1451,7 +1421,7 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\People\1975\Adults\woman02-c.lod.ls3"/>
 <p X="-6.3391" Y="-114.0933" Z="399.1548"/>
-<phi Y="0.075694" Z="2.053752"/>
+<phi Y="0.075693" Z="2.053752"/>
 <sk X="1.4349" Y="1.4349" Z="1.4349"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -1703,7 +1673,7 @@
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_1m_10m.lod.ls3"/>
 <p X="4.0063" Y="-57.163" Z="399.442"/>
-<phi Z="-0.26368"/>
+<phi Z="-0.263681"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
@@ -3236,124 +3206,10 @@
 <phi Z="1.31309"/>
 <sk X="2.5" Y="1.2" Z="1"/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="56" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Suedkurier\KoPf_Suedkurier.lod.ls3"/>
-<p X="-380.7891" Y="486.3744" Z="400.7294"/>
-<phi Z="-2.017995"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="97" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Rheinbruecke\KoPf_Rheinbruecke.lod.ls3"/>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\Rheinbruecke\Rheinbruecke.lod.ls3"/>
 <p X="-88.3669" Y="-276.198" Z="400.9992"/>
 <phi Z="2.582721"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Fahne\KoPf_Fahne.lod.ls3"/>
-<p X="-43.4097" Y="-227.7854" Z="401"/>
-<phi X="-0.349066" Z="-2.130206"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Fahne\KoPf_Fahne.lod.ls3"/>
-<p X="-52.0332" Y="-241.5583" Z="401"/>
-<phi X="-0.349066" Z="-2.130206"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Fahne\KoPf_Fahne.lod.ls3"/>
-<p X="-60.657" Y="-255.3314" Z="401"/>
-<phi X="-0.349066" Z="-2.130206"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Fahne\KoPf_Fahne.lod.ls3"/>
-<p X="-69.2805" Y="-269.1044" Z="401"/>
-<phi X="-0.349066" Z="-2.130206"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Fahne\KoPf_Fahne.lod.ls3"/>
-<p X="-77.9043" Y="-282.8774" Z="401"/>
-<phi X="-0.349066" Z="-2.130206"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Fahne\KoPf_Fahne.lod.ls3"/>
-<p X="-86.5278" Y="-296.6504" Z="401"/>
-<phi X="-0.349066" Z="-2.130206"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Fahne\KoPf_Fahne.lod.ls3"/>
-<p X="-95.1514" Y="-310.4233" Z="401"/>
-<phi X="-0.349066" Z="-2.130206"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Fahne\KoPf_Fahne.lod.ls3"/>
-<p X="-103.7751" Y="-324.1964" Z="401"/>
-<phi X="-0.349066" Z="-2.130206"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Fahne\KoPf_Fahne.lod.ls3"/>
-<p X="-112.3987" Y="-337.9694" Z="401"/>
-<phi X="-0.349066" Z="-2.130206"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Fahne\KoPf_Fahne.lod.ls3"/>
-<p X="-133.4768" Y="-324.8658" Z="401"/>
-<phi X="-0.349066" Z="1.011389"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Fahne\KoPf_Fahne.lod.ls3"/>
-<p X="-124.8533" Y="-311.0929" Z="401"/>
-<phi X="-0.349066" Z="1.011389"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Fahne\KoPf_Fahne.lod.ls3"/>
-<p X="-116.2295" Y="-297.3198" Z="401"/>
-<phi X="-0.349066" Z="1.011389"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Fahne\KoPf_Fahne.lod.ls3"/>
-<p X="-107.606" Y="-283.547" Z="401"/>
-<phi X="-0.349066" Z="1.011389"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Fahne\KoPf_Fahne.lod.ls3"/>
-<p X="-98.9822" Y="-269.7738" Z="401"/>
-<phi X="-0.349066" Z="1.011389"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Fahne\KoPf_Fahne.lod.ls3"/>
-<p X="-90.3586" Y="-256.0009" Z="401"/>
-<phi X="-0.349066" Z="1.011389"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Fahne\KoPf_Fahne.lod.ls3"/>
-<p X="-81.7351" Y="-242.2279" Z="401"/>
-<phi X="-0.349066" Z="1.011389"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Fahne\KoPf_Fahne.lod.ls3"/>
-<p X="-73.1113" Y="-228.4548" Z="401"/>
-<phi X="-0.349066" Z="1.011389"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Fahne\KoPf_Fahne.lod.ls3"/>
-<p X="-64.4878" Y="-214.6819" Z="401"/>
-<phi X="-0.349066" Z="1.011389"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
@@ -4403,7 +4259,7 @@
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="32.8538" Y="132.9717" Z="408.1772"/>
-<phi X="0.002213" Z="-2.83991"/>
+<phi X="0.002213" Z="-2.839911"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
@@ -4547,7 +4403,7 @@
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-180.126" Y="430.3755" Z="408.6505"/>
-<phi X="-1.463438" Z="-2.080685"/>
+<phi X="-1.463438" Z="-2.080686"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -4787,7 +4643,7 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Turmmaste\QTW_Gittermast11m.lod.ls3"/>
 <p X="-214.1738" Y="471.3348" Z="400.7429"/>
-<phi Z="-2.079377"/>
+<phi Z="-2.079376"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -5026,13 +4882,13 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
-<p X="-295.2986" Y="479.1658" Z="400.7335"/>
+<p X="-295.2986" Y="478.8494" Z="400.7335"/>
 <phi Z="2.80662"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh0-scheibe.lod.ls3"/>
-<p X="-294.728" Y="478.0671" Z="401.9335"/>
+<p X="-294.728" Y="477.7507" Z="401.9335"/>
 <phi Z="2.80662"/>
 <sk/>
 </Verknuepfte>
@@ -5123,7 +4979,7 @@
 <Verknuepfte Flags="16" BoundingR="48" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\10_02_Kaserne_km_124_571\10_02_Unterkunft.lod.ls3"/>
 <p X="29.4727" Y="325.7925" Z="400.7615"/>
-<phi Z="-2.167457"/>
+<phi Z="-2.167456"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
@@ -5162,34 +5018,22 @@
 <phi Z="-0.503149"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\druckrolle_II.lod.ls3"/>
-<p X="-82.8325" Y="349.3326" Z="401.301"/>
-<phi Z="-0.774307"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\schotter\schotterhuegel.lod.ls3"/>
 <p X="-45.4009" Y="312.1471" Z="400.3993"/>
 <phi X="-0.07584" Z="2.175392"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\Ablenkung_40-40_links_I.lod.ls3"/>
-<p X="-45.4045" Y="312.1444" Z="400.4592"/>
-<phi X="-0.032643" Y="-0.098175" Z="-2.536995"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle_I_rechtskurve.lod.ls3"/>
 <p X="-30.646" Y="290.4176" Z="400.818"/>
-<phi Z="-1.005419"/>
+<phi Z="-1.00542"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m_II.lod.ls3"/>
 <p X="-55.4978" Y="326.4055" Z="400.6333"/>
-<phi Z="-0.945727"/>
+<phi Z="-0.945728"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -5217,12 +5061,6 @@
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_doppelt_2signalantriebe.lod.ls3"/>
-<p X="1.0708" Y="161.5389" Z="400.881"/>
-<phi Z="0.206301"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle_I_rechtskurve.lod.ls3"/>
 <p X="30.6309" Y="142.4885" Z="402.3033"/>
 <phi Z="-1.370125"/>
@@ -5234,24 +5072,6 @@
 <phi Z="1.729463"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\Ablenkung_40-40_links_II.lod.ls3"/>
-<p X="-184.6658" Y="453.3553" Z="400.748"/>
-<phi X="0.041479" Z="-0.552311"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\schotter\schotterhuegel.lod.ls3"/>
-<p X="-184.4597" Y="453.1178" Z="400.6789"/>
-<phi Z="2.589282"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_dummy_signalantrieb.lod.ls3"/>
-<p X="-200.8818" Y="440.1331" Z="400.7473"/>
-<phi Z="-0.537525"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_dummy_signalantrieb.lod.ls3"/>
 <p X="-240.2837" Y="472.3535" Z="400.7102"/>
@@ -5261,7 +5081,7 @@
 <Verknuepfte Flags="16" BoundingR="21" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0003_0056\000295_005628_Aachen_Hauptbahnhof\Objekte\AC_WH_Kamperstr\AC_WH_KamperStr19.lod.ls3"/>
 <p X="112.3765" Y="-18.2307" Z="399.8436"/>
-<phi Z="-1.466336"/>
+<phi Z="-1.466337"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="117" SichtbarBis="3000" Vorlade="1">
@@ -5357,7 +5177,7 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\hausanschluss_2-2.lod.ls3"/>
 <p X="-65.8066" Y="297.7313" Z="408.7451"/>
-<phi Z="-0.913569"/>
+<phi Z="-0.913568"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -5399,7 +5219,7 @@
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-117.3577" Y="381.5337" Z="407.4831"/>
-<phi X="-0.012518" Z="-2.318732"/>
+<phi X="-0.012518" Z="-2.318733"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -5431,42 +5251,6 @@
 <p X="-270.6379" Y="483.7518" Z="406.6854"/>
 <phi X="-0.000073" Z="-0.428166"/>
 <sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Blumenkuebel\blumenkuebel_beton01_1x1m.lod.ls3"/>
-<p X="-278.1797" Y="497.243" Z="401.1144"/>
-<phi Z="-0.482339"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Blumenkuebel\blumenkuebel_beton01_1x1m.lod.ls3"/>
-<p X="-251.1729" Y="483.7848" Z="401.1184"/>
-<phi Z="-0.494508"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Blumenkuebel\blumenkuebel_beton01_1x1m.lod.ls3"/>
-<p X="-225.4019" Y="470.6348" Z="401.127"/>
-<phi Z="-0.502569"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\Flowers\flower_pink01.lod.ls3"/>
-<p X="-278.1797" Y="497.243" Z="401.6244"/>
-<phi Z="-0.482339"/>
-<sk X="3" Y="3" Z="1"/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\Flowers\flower_pink01.lod.ls3"/>
-<p X="-251.1729" Y="483.7848" Z="401.6284"/>
-<phi Z="-0.494508"/>
-<sk X="3" Y="3" Z="1"/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\Flowers\flower_blue01.lod.ls3"/>
-<p X="-225.4019" Y="470.6348" Z="401.637"/>
-<phi Z="-0.502569"/>
-<sk X="3" Y="3" Z="1"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Hektometertafeln" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Hektometertafeln\Hekto_Mast_413_4.ls3"/>
@@ -5666,240 +5450,6 @@
 <phi Z="2.432837"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\Stw_Gruppenablenkung\gruppenablenkung_beton_bohlenbelag.lod.ls3"/>
-<p X="-67.5461" Y="350.4523" Z="400.5373"/>
-<phi Z="0.665995"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\Stw_Gruppenablenkung\gruppenablenkung_beton_bohlenbelag.lod.ls3"/>
-<p X="-70.3845" Y="348.2384" Z="400.5889"/>
-<phi Z="0.657651"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\Stw_Gruppenablenkung\gruppenablenkung_beton_bohlenbelag.lod.ls3"/>
-<p X="-68.9619" Y="349.3424" Z="400.5596"/>
-<phi Z="0.656754"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\Stw_Gruppenablenkung\gruppenablenkung_beton_bohlenbelag.lod.ls3"/>
-<p X="-71.731" Y="347.7125" Z="400.61"/>
-<phi Z="-0.904801"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\7-8_Doppeldraht\rollenhalter_hoch_4hauben_7doppeldraht.lod.ls3"/>
-<p X="-81.856" Y="360.7688" Z="400.7615"/>
-<phi Z="2.250408"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\7-8_Doppeldraht\rollenhalter_hoch_4hauben_7doppeldraht.lod.ls3"/>
-<p X="-88.4075" Y="368.9767" Z="400.7606"/>
-<phi Z="2.27386"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\7-8_Doppeldraht\druckrolle_IV.lod.ls3"/>
-<p X="-94.4395" Y="376.3389" Z="400.7597"/>
-<phi Z="2.286659"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\7-8_Doppeldraht\druckrolle_IV.lod.ls3"/>
-<p X="-107.8137" Y="391.3522" Z="400.7578"/>
-<phi Z="2.333366"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\7-8_Doppeldraht\rollenhalter_hoch_4hauben_7doppeldraht.lod.ls3"/>
-<p X="-101.0549" Y="383.9366" Z="400.7587"/>
-<phi Z="2.300716"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\7-8_Doppeldraht\druckrolle_IV.lod.ls3"/>
-<p X="-129.4324" Y="412.4174" Z="400.7549"/>
-<phi Z="2.412445"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\7-8_Doppeldraht\rollenhalter_hoch_4hauben_7doppeldraht.lod.ls3"/>
-<p X="-114.9067" Y="398.4857" Z="400.7569"/>
-<phi Z="2.351671"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\7-8_Doppeldraht\rollenhalter_hoch_4hauben_7doppeldraht.lod.ls3"/>
-<p X="-122.1497" Y="405.5732" Z="400.7559"/>
-<phi Z="2.371572"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\7-8_Doppeldraht\druckrolle_IV.lod.ls3"/>
-<p X="-145.1936" Y="425.783" Z="400.7531"/>
-<phi Z="2.453306"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\7-8_Doppeldraht\rollenhalter_hoch_4hauben_7doppeldraht.lod.ls3"/>
-<p X="-137.0923" Y="419.1204" Z="400.754"/>
-<phi Z="2.432837"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\7-8_Doppeldraht\druckrolle_IV.lod.ls3"/>
-<p X="-160.9163" Y="437.807" Z="400.7512"/>
-<phi Z="2.51474"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\7-8_Doppeldraht\rollenhalter_hoch_4hauben_7doppeldraht.lod.ls3"/>
-<p X="-152.9429" Y="431.856" Z="400.7521"/>
-<phi Z="2.494152"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\7-8_Doppeldraht\druckrolle_IV.lod.ls3"/>
-<p X="-177.2996" Y="449.1671" Z="400.7491"/>
-<phi Z="2.55515"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\7-8_Doppeldraht\rollenhalter_hoch_4hauben_7doppeldraht.lod.ls3"/>
-<p X="-169.0571" Y="443.5911" Z="400.7869"/>
-<phi Z="2.534431"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\druckrolle_II.lod.ls3"/>
-<p X="-195.2302" Y="460.3314" Z="400.7463"/>
-<phi Z="2.603272"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\rollenhalter_hoch_2hauben_3doppeldraht.lod.ls3"/>
-<p X="-186.0208" Y="454.6318" Z="400.7469"/>
-<phi Z="2.589282"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m_II.lod.ls3"/>
-<p X="-186.1958" Y="450.7773" Z="400.6235"/>
-<phi Y="0.041479" Z="-2.123107"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
-<p X="-186.72" Y="449.9268" Z="400.582"/>
-<phi Y="-0.068967" Z="-2.123107"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
-<p X="-187.7668" Y="448.2281" Z="400.7198"/>
-<phi Y="0.026752" Z="-2.123107"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
-<p X="-188.8157" Y="446.5261" Z="400.6663"/>
-<phi Y="0.026752" Z="-2.123107"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
-<p X="-189.8645" Y="444.8241" Z="400.6128"/>
-<phi Y="-0.012518" Z="-2.123107"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
-<p X="-190.9138" Y="443.1216" Z="400.6378"/>
-<phi Y="-0.012518" Z="-2.123107"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\Ablenkung_40-40_rechts_II.lod.ls3"/>
-<p X="-192.4541" Y="440.5223" Z="400.6878"/>
-<phi Y="-0.012518" Z="-2.123107"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-2m-anbau_I.lod.ls3"/>
-<p X="-191.3022" Y="439.8889" Z="400.6871"/>
-<phi X="0.012518" Z="2.589283"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_dummy_signalantrieb.lod.ls3"/>
-<p X="-202.6411" Y="446.9984" Z="400.7466"/>
-<phi Z="-0.567169"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_dummy_signalantrieb.lod.ls3"/>
-<p X="-201.7119" Y="446.2472" Z="400.7166"/>
-<phi Z="-0.567169"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-2m_I.lod.ls3"/>
-<p X="-193.0193" Y="439.9417" Z="400.6826"/>
-<phi X="-0.012518" Y="-0.026998" Z="1.018485"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-2m-anbau_I.lod.ls3"/>
-<p X="-193.5437" Y="439.0908" Z="400.6555"/>
-<phi X="0.012518" Y="-0.012271" Z="-2.123107"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-1m_I.lod.ls3"/>
-<p X="-194.3938" Y="437.7047" Z="400.6801"/>
-<phi X="-0.012518" Y="0.012271" Z="1.018485"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\Ablenkkasten_42x42.lod.ls3"/>
-<p X="-194.8596" Y="436.9462" Z="400.72"/>
-<phi X="0.012518" Y="-0.012271" Z="-2.123107"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-1m_I.lod.ls3"/>
-<p X="-194.9119" Y="436.8604" Z="400.6812"/>
-<phi X="-0.012273" Y="-0.012518" Z="-0.552158"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m_II.lod.ls3"/>
-<p X="-66.9802" Y="349.6968" Z="400.5175"/>
-<phi Z="-2.398937"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
-<p X="-67.7168" Y="349.0205" Z="400.5175"/>
-<phi Z="-2.398938"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
-<p X="-69.1902" Y="347.668" Z="400.5174"/>
-<phi Z="-2.398938"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
-<p X="-70.6636" Y="346.3156" Z="400.5174"/>
-<phi Z="-2.398938"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
 <p X="-72.137" Y="344.9629" Z="400.5174"/>
@@ -5912,94 +5462,10 @@
 <phi Z="-2.398938"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
-<p X="-74.3455" Y="342.9375" Z="400.5173"/>
-<phi Z="-2.398938"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\Ablenkkasten_95x95.lod.ls3"/>
-<p X="-75.8066" Y="341.8676" Z="400.5173"/>
-<phi Z="2.313451"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\rollenhalter_hoch_2hauben_3doppeldraht.lod.ls3"/>
-<p X="-87.5825" Y="354.3918" Z="401.187"/>
-<phi Z="-0.80574"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m-anbau_II.lod.ls3"/>
-<p X="-76.9966" Y="342.8652" Z="400.5172"/>
-<phi Z="-0.828142"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-2m_I.lod.ls3"/>
-<p X="-91.094" Y="357.8286" Z="400.6121"/>
-<phi Y="0.000047" Z="2.331172"/>
-<sk X="0.5" Y="1" Z="1"/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-2m_I.lod.ls3"/>
-<p X="-148.6765" Y="412.5635" Z="400.6598"/>
-<phi Y="0.000098" Z="2.471425"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-2m_I.lod.ls3"/>
-<p X="-148.6765" Y="412.5635" Z="400.6598"/>
-<phi Y="0.000098" Z="2.471425"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-1m_I.lod.ls3"/>
-<p X="-147.8928" Y="411.9424" Z="400.6598"/>
-<phi Y="0.000098" Z="2.471426"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-1m_I.lod.ls3"/>
-<p X="-147.8928" Y="411.9424" Z="400.6598"/>
-<phi Y="0.000098" Z="2.471426"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-1m_I.lod.ls3"/>
-<p X="-147.8928" Y="411.9424" Z="400.6598"/>
-<phi Y="0.000098" Z="2.471426"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-2m-anbau_I.lod.ls3"/>
-<p X="-147.8928" Y="411.9424" Z="400.6598"/>
-<phi Y="-0.000098" Z="-0.670166"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-rollenkasten_I.lod.ls3"/>
-<p X="-146.3254" Y="410.7002" Z="400.66"/>
-<phi Y="-0.000098" Z="-0.670166"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-1m_I.lod.ls3"/>
-<p X="-93.176" Y="360.1898" Z="400.6331"/>
-<phi Y="-0.000094" Z="-0.79815"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-rollenkasten_I.lod.ls3"/>
-<p X="-93.874" Y="360.906" Z="400.6329"/>
-<phi Y="0.000094" Z="2.343445"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-2m_II.lod.ls3"/>
 <p X="-65.7461" Y="348.1439" Z="400.5212"/>
-<phi Z="0.656754"/>
+<phi Z="0.656753"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
@@ -6030,18 +5496,6 @@
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\3-4_Doppeldraht\blechkanal-10m-anbau_II.lod.ls3"/>
 <p X="-68.033" Y="342.9211" Z="400.5211"/>
 <phi Z="-0.914043"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\schotter\schotterhuegel.lod.ls3"/>
-<p X="-71.2498" Y="347.7405" Z="400.4742"/>
-<phi Z="-2.484839"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\schotter\schotterhuegel.lod.ls3"/>
-<p X="-70.3416" Y="346.3612" Z="400.4566"/>
-<phi Z="-2.484839"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
@@ -6134,12 +5588,6 @@
 <phi Z="-1.335985"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\Aufschuettungen_Formsignale\Aufschuettung_gemauert.lod.ls3"/>
-<p X="33.9292" Y="125.4675" Z="401.9736"/>
-<phi Z="1.729463"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube.lod.ls3"/>
 <p X="32.3469" Y="132.6991" Z="402.4004"/>
@@ -6148,13 +5596,13 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
-<p X="33.3918" Y="125.3658" Z="402.4736"/>
+<p X="33.5078" Y="125.3658" Z="402.4736"/>
 <phi Z="-1.41213"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
-<p X="34.9961" Y="115.5626" Z="402.5706"/>
+<p X="35.084" Y="115.5626" Z="402.5706"/>
 <phi Z="-1.426245"/>
 <sk/>
 </Verknuepfte>
@@ -6428,52 +5876,10 @@
 <phi Z="-0.879279"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RollingStock\Deutschland\Epoche3\Gueterwagen\BRD\Z-Wagen\4-Achser\SEAG-Kesselwagen\3D_Dateien\usatc_seag630_ep3.lod.ls3"/>
-<p X="-223.1155" Y="455.8998" Z="400.7434"/>
-<phi Z="2.616088"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RollingStock\Deutschland\Epoche3\Gueterwagen\BRD\T-Wagen\Tnoms59\3D_Dateien\db_ibblps393.lod.ls3"/>
-<p X="-223.1155" Y="455.8998" Z="400.7434"/>
-<phi Z="-0.496534"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RollingStock\Deutschland\Epoche3\Gueterwagen\BRD\K-Wagen\Kds54\3D_Dateien\db_ucs908_quarz.lod.ls3"/>
-<p X="-234.147" Y="461.8025" Z="400.7417"/>
-<phi Z="-0.460372"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RollingStock\Deutschland\Epoche2\Gueterwagen\offene_Wagen\Om21\3D_Dateien\db_Om21_Kohle.lod.ls3"/>
-<p X="-241.863" Y="465.6128" Z="400.7406"/>
-<phi Z="-0.443567"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RollingStock\Deutschland\Epoche3\Gueterwagen\BRD\Pwg-Wagen\Pwghs54\3D_Dateien\db_pwghs054.lod.ls3"/>
-<p X="-250.1333" Y="469.5273" Z="400.7394"/>
-<phi Z="-0.441437"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RollingStock\Deutschland\Epoche3\Gueterwagen\BRD\K-Wagen\Kds54\3D_Dateien\db_kds54.lod.ls3"/>
-<p X="-260.2144" Y="474.2911" Z="400.7379"/>
-<phi Z="-0.441435"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RollingStock\Deutschland\Epoche3\Gueterwagen\BRD\K-Wagen\Kds54\3D_Dateien\db_kds54.lod.ls3"/>
-<p X="-267.99" Y="477.9654" Z="400.7368"/>
-<phi Z="-0.441435"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="18" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RollingStock\Deutschland\Epoche3\Elektroloks\BRD\Einheitsloks\3D_Daten\E40\DB_E40.11-gn3.lod.ls3"/>
-<p X="-276.0369" Y="481.7679" Z="400.7356"/>
-<phi Z="-0.441437"/>
+<Datei Dateiname="RollingStock\Deutschland\Epoche3\Gueterwagen\BRD\Z-Wagen\4-Achser\SEAG-Kesselwagen\3D_Dateien\usatc_seag630_ep3.lod.ls3"/>
+<p X="-303.8308" Y="473.8018" Z="400.7328"/>
+<phi Z="2.474004"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -6491,31 +5897,25 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Signals\Deutschland\zugschluss\zsscheibe_ws.lod.ls3"/>
 <p X="-212.3328" Y="450.9292" Z="402.0809"/>
-<phi Z="-0.537529"/>
+<phi Z="-0.537528"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Signals\Deutschland\zugschluss\zsscheibe_ws.lod.ls3"/>
 <p X="-213.3875" Y="449.0775" Z="402.0692"/>
-<phi Z="-0.537529"/>
+<phi Z="-0.537528"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RollingStock\Deutschland\Epoche3\Gueterwagen\BRD\O-Wagen\Otmm61\3D_Dateien\db_Fc089_Kohle.lod.ls3"/>
-<p X="-314.2346" Y="478.3538" Z="400.7313"/>
-<phi Z="-0.602517"/>
+<p X="-314.2346" Y="480.8733" Z="400.7313"/>
+<phi Z="-0.536249"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RollingStock\Deutschland\Epoche3\Gueterwagen\BRD\Z-Wagen\4-Achser\SEAG-Kesselwagen\3D_Dateien\usatc_seag630_ep3.lod.ls3"/>
-<p X="-314.2346" Y="478.3538" Z="400.7313"/>
-<phi Z="2.495821"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RollingStock\Deutschland\Epoche3\Gueterwagen\BRD\Z-Wagen\4-Achser\SEAG-Kesselwagen\3D_Dateien\usatc_seag630_ep3.lod.ls3"/>
-<p X="-304.2808" Y="470.9598" Z="400.7329"/>
-<phi Z="2.460914"/>
+<p X="-314.1968" Y="480.8598" Z="400.7311"/>
+<phi Z="2.548181"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -6551,7 +5951,7 @@
 <Verknuepfte Flags="16" BoundingR="57" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\Fernmeldeamt\Fernmeldeamt.lod.ls3"/>
 <p X="77.3047" Y="310.6475" Z="400.6589"/>
-<phi Z="-1.572473"/>
+<phi Z="-1.572474"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -6563,7 +5963,7 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
 <p X="-254.2493" Y="468.1543" Z="400.739"/>
-<phi Z="-1.995052"/>
+<phi Z="-1.995053"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -6575,13 +5975,13 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
 <p X="-184.5808" Y="429.5385" Z="400.7497"/>
-<phi Z="-2.091162"/>
+<phi Z="-2.091163"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
 <p X="-151.4978" Y="407.8414" Z="400.7536"/>
-<phi Z="-2.223826"/>
+<phi Z="-2.223825"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -6593,13 +5993,13 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
 <p X="-97.7854" Y="349.6412" Z="400.7614"/>
-<phi Z="-2.441554"/>
+<phi Z="-2.441553"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
 <p X="-50.8379" Y="-227.058" Z="403.2941"/>
-<phi Z="1.009072"/>
+<phi Z="1.009073"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -6611,7 +6011,7 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle_I.lod.ls3"/>
 <p X="-30.5828" Y="-192.9991" Z="403.0305"/>
-<phi Z="1.046907"/>
+<phi Z="1.046906"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -6629,7 +6029,7 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
 <p X="-27.6147" Y="-187.4667" Z="403.1396"/>
-<phi Z="1.087643"/>
+<phi Z="1.087644"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -6659,13 +6059,13 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
 <p X="-1.6123" Y="-133.6991" Z="403.5843"/>
-<phi Z="1.179746"/>
+<phi Z="1.179747"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
 <p X="5.4243" Y="-115.274" Z="403.7095"/>
-<phi Z="1.219197"/>
+<phi Z="1.219196"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -6677,7 +6077,7 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
 <p X="11.7976" Y="-96.3002" Z="403.7969"/>
-<phi Z="1.255851"/>
+<phi Z="1.255852"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -6689,25 +6089,25 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
 <p X="19.5029" Y="-67.8728" Z="403.8517"/>
-<phi Z="1.330366"/>
+<phi Z="1.330367"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
 <p X="21.905" Y="-58.1775" Z="403.8511"/>
-<phi Z="1.344051"/>
+<phi Z="1.34405"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
 <p X="24.2917" Y="-48.1781" Z="403.7225"/>
-<phi Z="1.364993"/>
+<phi Z="1.364992"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
 <p X="28.0068" Y="-28.7584" Z="403.7868"/>
-<phi Z="1.416976"/>
+<phi Z="1.416975"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -6719,7 +6119,7 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
 <p X="30.7617" Y="-9.178" Z="403.6944"/>
-<phi Z="1.452366"/>
+<phi Z="1.452365"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -6731,13 +6131,13 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
 <p X="33.9688" Y="60.3458" Z="403.1033"/>
-<phi Z="1.600609"/>
+<phi Z="1.600608"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
 <p X="33.7041" Y="70.2959" Z="403.0063"/>
-<phi Z="1.619019"/>
+<phi Z="1.61902"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -6755,7 +6155,7 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
 <p X="29.9653" Y="109.8711" Z="402.5796"/>
-<phi Z="1.706043"/>
+<phi Z="1.706044"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -6773,7 +6173,7 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
 <p X="22.8516" Y="148.996" Z="402.1891"/>
-<phi Z="1.786295"/>
+<phi Z="1.786296"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -6803,13 +6203,13 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
 <p X="1.7378" Y="215.1022" Z="401.446"/>
-<phi Z="1.960561"/>
+<phi Z="1.960562"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle_I.lod.ls3"/>
 <p X="2.4138" Y="-124.1378" Z="403.6523"/>
-<phi Z="1.203388"/>
+<phi Z="1.203389"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -6821,7 +6221,7 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle_I.lod.ls3"/>
 <p X="26.5474" Y="-38.6758" Z="403.7244"/>
-<phi Z="1.383551"/>
+<phi Z="1.38355"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -6851,7 +6251,7 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
 <p X="33.8914" Y="30.5197" Z="403.3933"/>
-<phi Z="1.52648"/>
+<phi Z="1.526481"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -6878,12 +6278,6 @@
 <phi Z="1.921838"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_dummy_signalantrieb.lod.ls3"/>
-<p X="-1.5007" Y="223.0234" Z="400.8206"/>
-<phi Z="1.980099"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Lademass\lademass.lod.ls3"/>
 <p X="-297.0403" Y="486.7552" Z="400.7211"/>
@@ -6894,6 +6288,144 @@
 <Datei Dateiname="Catenary\Deutschland\Turmmaste\QTW_Gittermast14.lod.ls3"/>
 <p X="-335.4731" Y="500.3432" Z="400.7263"/>
 <phi Z="2.701328"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-2m_I.lod.ls3"/>
+<p X="-46.4461" Y="313.1741" Z="400.7588"/>
+<phi Y="0.000094" Z="2.157934"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\Bahnhofsschilder\Petershausen\Schild_zweiseitig-stehend_4m80.lod.ls3"/>
+<p X="7.8723" Y="224.989" Z="400.7605"/>
+<phi Z="-0.223348"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\Fahne\Niederlande\Fahne.lod.ls3"/>
+<p X="-48.3515" Y="-235.6452" Z="401"/>
+<phi X="-0.349066" Z="-2.130206"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\Fahne\Liechtenstein\Fahne.lod.ls3"/>
+<p X="-56.975" Y="-249.4181" Z="401"/>
+<phi X="-0.349066" Z="-2.130206"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\Fahne\Italien\Fahne.lod.ls3"/>
+<p X="-65.5988" Y="-263.1912" Z="401"/>
+<phi X="-0.349066" Z="-2.130206"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\Fahne\Frankreich\Fahne.lod.ls3"/>
+<p X="-74.2223" Y="-276.9642" Z="401"/>
+<phi X="-0.349066" Z="-2.130206"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\Fahne\Tschechien\Fahne.lod.ls3"/>
+<p X="-82.8461" Y="-290.7372" Z="401"/>
+<phi X="-0.349066" Z="-2.130206"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\Fahne\Oesterreich\Fahne.lod.ls3"/>
+<p X="-91.4696" Y="-304.5102" Z="401"/>
+<phi X="-0.349066" Z="-2.130206"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\Fahne\Ukraine\Fahne.lod.ls3"/>
+<p X="-100.0932" Y="-318.2831" Z="401"/>
+<phi X="-0.349066" Z="-2.130206"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\Fahne\Polen\Fahne.lod.ls3"/>
+<p X="-108.7169" Y="-332.0562" Z="401"/>
+<phi X="-0.349066" Z="-2.130206"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\Fahne\Pride\Fahne.lod.ls3"/>
+<p X="-128.7873" Y="-317.4515" Z="401"/>
+<phi X="-0.349066" Z="1.011389"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\Fahne\Schweiz\Fahne.lod.ls3"/>
+<p X="-120.1635" Y="-303.6784" Z="401"/>
+<phi X="-0.349066" Z="1.011389"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\Fahne\Belgien\Fahne.lod.ls3"/>
+<p X="-111.54" Y="-289.9056" Z="401"/>
+<phi X="-0.349066" Z="1.011389"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\Fahne\Israel\Fahne.lod.ls3"/>
+<p X="-102.9162" Y="-276.1324" Z="401"/>
+<phi X="-0.349066" Z="1.011389"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\Fahne\Baden-Wuerttemberg\Fahne.lod.ls3"/>
+<p X="-94.2926" Y="-262.3595" Z="401"/>
+<phi X="-0.349066" Z="1.011389"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\Fahne\Daenemark\Fahne.lod.ls3"/>
+<p X="-85.6691" Y="-248.5865" Z="401"/>
+<phi X="-0.349066" Z="1.011389"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\Fahne\Vereinigtes Koenigreich\Fahne.lod.ls3"/>
+<p X="-77.0453" Y="-234.8134" Z="401"/>
+<phi X="-0.349066" Z="1.011389"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\Fahne\USA\Fahne.lod.ls3"/>
+<p X="-68.4218" Y="-221.0405" Z="401"/>
+<phi X="-0.349066" Z="1.011389"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="56" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\Suedkurier\Suedkurier.lod.ls3"/>
+<p X="-380.7891" Y="486.3744" Z="400.7294"/>
+<phi Z="-2.017995"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="55" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000392_005691_Hagen_Hbf\Objekte\Hagen_Hbf_21_Stadtkulisse\Hagen_Hbf_21_Boeler-Block-8-1b.lod.ls3"/>
+<p X="2.0892" Y="161.5401" Z="400.881"/>
+<phi Z="0.206301"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_dummy_signalantrieb.lod.ls3"/>
+<p X="-3.0532" Y="226.7081" Z="400.7812"/>
+<phi Z="1.999403"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\Aufschuettungen_Formsignale\Aufschuettung_Naturstein.lod.ls3"/>
+<p X="-2.9006" Y="226.302" Z="400.9314"/>
+<phi Z="-1.14219"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2883" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\Aufschuettungen_Formsignale\Aufschuettung_Naturstein.lod.ls3"/>
+<p X="33.929" Y="125.4677" Z="401.9736"/>
+<phi Z="1.729462"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5279500.lsb"/>
@@ -7056,12 +6588,6 @@
 <Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="5" MeshI="9">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\gravel06_3m.dds"/>
-</Textur>
-</SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="18" MeshI="48">
 <RenderFlags TexVoreinstellung="3"/>
 <Textur>
@@ -7159,24 +6685,6 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment01.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="18" MeshI="48">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\gravel06_3m.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="58" MeshI="168">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\gravel06_3m.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="107" MeshI="312">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\gravel06_3m.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="20" MeshI="54">
@@ -7338,13 +6846,13 @@
 <SubSet Cd="00FFFFFF" TypLs3="1" TypGF="6" MeterProTex="10" MeterProTex2="10" MeshV="185" MeshI="855">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Terrain\Default\terrain.dds"/>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="1" TypGF="6" MeterProTex="10" MeterProTex2="10" MeshV="107" MeshI="474">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Terrain\Default\terrain.dds"/>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="42" MeshI="120">
@@ -7480,12 +6988,6 @@
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="3" MeshI="3">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\embankment.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="99" MeshI="291">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
@@ -8017,6 +7519,66 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="PermanentWay\Default\cess.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="34" MeshI="96">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel06_3m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="66" MeshI="192">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel06_3m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="47" MeshI="135">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel06_3m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="6" MeshI="12">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel06_3m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="7" MeshI="15">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel06_3m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="22" MeshI="60">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel06_3m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="38" MeshI="108">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel06_3m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="7" MeshI="15">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="81" MeshI="237">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="36" MeshI="102">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

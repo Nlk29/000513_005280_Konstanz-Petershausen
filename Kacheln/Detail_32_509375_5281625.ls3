@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<lsb Dateiname="Detail_32_509375_5281625.lsb"/>
+<SubSet Ca="00808080" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="3" MeterProTex2="10" MeshV="167" MeshI="798">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+</Landschaft>
+</Zusi>

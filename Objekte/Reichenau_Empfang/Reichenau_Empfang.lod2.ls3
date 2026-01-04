@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<lsb Dateiname="Reichenau_Empfang.lod2.lsb"/>
+<SubSet Cd="FFFFFFFF" MeshV="111" MeshI="240">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0006_0054\000637_005359_Augsburg-Oberhausen\Objekte\MAOB_Schuhfabrik\MAOB_Schuhfabrik_Dach.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FF232323" MeshV="120" MeshI="216">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFA9A9A9" MeshV="76" MeshI="156">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="0FFFFFFF" Ca="FFFFFFFF" MeshV="413" MeshI="990">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Christuskirche\WandGelb.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="546" MeshI="1338">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000727_005446_Regenstauf\Objekte\NRGF_EG\NRGF_EG_Wand.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="651" MeshI="1158">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000587_005811_Plockhorst\Objekte\Bahnhofsbruecke\P_Gebaede.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" Ca="FFFFFFFF" MeshV="328" MeshI="492">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000587_005811_Plockhorst\Objekte\Stw_Nw\FensterStw.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="32" MeshI="48">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000591_005806_Wipshausen\Objekte\06_Ersestrasse\ZiegelDunkelRot.dds"/>
+</Textur>
+</SubSet>
+</Landschaft>
+</Zusi>

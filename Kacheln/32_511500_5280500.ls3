@@ -58,15 +58,9 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0006_0058\000555_005781_Nordstemmen\Objekte\02_Stellwerke\Posten28.lod.ls3"/>
-<p X="-429.5039" Y="498.481" Z="400.2679"/>
+<p X="-429.5039" Y="498.481" Z="399.2132"/>
 <phi Z="-0.400062"/>
 <sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
-<p X="-424.3459" Y="493.2897" Z="400.3823"/>
-<phi Z="-0.860513"/>
-<sk X="1.1864" Y="1.1864" Z="1.1864"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
@@ -172,12 +166,6 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
-<p X="490.444" Y="108.2341" Z="403.8371"/>
-<phi Z="1.362385"/>
-<sk X="0.8748" Y="0.8748" Z="0.8748"/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
 <p X="469.5675" Y="125.6267" Z="404.2288"/>
 <phi Z="1.959397"/>
 <sk X="0.9417" Y="0.9417" Z="0.9417"/>
@@ -206,23 +194,11 @@
 <phi Z="1.503575"/>
 <sk X="0.976" Y="0.976" Z="0.976"/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
-<p X="407.8492" Y="134.2719" Z="402.6528"/>
-<phi Z="1.348713"/>
-<sk X="0.8457" Y="0.8457" Z="0.8457"/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
 <p X="411.6819" Y="154.5922" Z="402.4384"/>
 <phi Z="2.211658"/>
 <sk X="1.1338" Y="1.1338" Z="1.1338"/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
-<p X="380.6291" Y="160.9622" Z="402.4294"/>
-<phi Z="2.9099"/>
-<sk X="0.8842" Y="0.8842" Z="0.8842"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
@@ -235,12 +211,6 @@
 <p X="344.7672" Y="173.4952" Z="401.8558"/>
 <phi Z="-1.69372"/>
 <sk X="0.9088" Y="0.9088" Z="0.9088"/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
-<p X="335.682" Y="172.4314" Z="401.746"/>
-<phi Z="2.410491"/>
-<sk X="1.2811" Y="1.2811" Z="1.2811"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
@@ -830,12 +800,6 @@
 <phi Z="0.892752"/>
 <sk X="0.6965" Y="0.6965" Z="0.6965"/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
-<p X="375.4243" Y="154.2075" Z="402.2562"/>
-<phi Z="0.638994"/>
-<sk X="1.0066" Y="1.0066" Z="1.0066"/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
 <p X="383.8427" Y="147.6333" Z="402.3438"/>
@@ -860,12 +824,6 @@
 <phi Z="-0.009093"/>
 <sk X="1.2641" Y="1.2641" Z="1.2641"/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
-<p X="441.1234" Y="124.4053" Z="403.4223"/>
-<phi Z="-0.509731"/>
-<sk X="1.1245" Y="1.1245" Z="1.1245"/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
 <p X="456.1402" Y="117.4722" Z="403.5192"/>
@@ -878,12 +836,6 @@
 <phi Z="-0.01689"/>
 <sk X="0.7907" Y="0.7907" Z="0.7907"/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
-<p X="474.9818" Y="107.7974" Z="403.4629"/>
-<phi Z="-1.126528"/>
-<sk X="1.1938" Y="1.1938" Z="1.1938"/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="26" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\04_30_Leostr_41\04_30_WHaus.lod.ls3"/>
 <p X="-199.1639" Y="492.5425" Z="400.1238"/>
@@ -894,48 +846,6 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000463_005293_Grimmelshofen\ObjekteLausheim-Blumegg\Gaststaette\Gaststaette_Wutachschlucht.lod.ls3"/>
 <p X="-237.7221" Y="447.2519" Z="400.9711"/>
 <phi Z="1.128659"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bnstg_Leuchte_1-seitig.lod.ls3"/>
-<p X="-399.2284" Y="490.9819" Z="400.0764"/>
-<phi Z="2.716638"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bnstg_Leuchte_1-seitig.lod.ls3"/>
-<p X="-381.1516" Y="482.4245" Z="400.0826"/>
-<phi Z="2.716638"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bnstg_Leuchte_1-seitig.lod.ls3"/>
-<p X="-363.0748" Y="473.8671" Z="400.0887"/>
-<phi Z="2.716638"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bnstg_Leuchte_1-seitig.lod.ls3"/>
-<p X="-344.998" Y="465.3097" Z="400.0948"/>
-<phi Z="2.716637"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bnstg_Leuchte_1-seitig.lod.ls3"/>
-<p X="-326.9212" Y="456.7523" Z="400.101"/>
-<phi Z="2.716637"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bnstg_Leuchte_1-seitig.lod.ls3"/>
-<p X="-308.8444" Y="448.1949" Z="400.1071"/>
-<phi Z="2.716637"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bnstg_Leuchte_1-seitig.lod.ls3"/>
-<p X="-290.7676" Y="439.6375" Z="400.1133"/>
-<phi Z="2.716637"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
@@ -1970,12 +1880,6 @@
 <phi Z="-2.539359"/>
 <sk X="0.939" Y="0.939" Z="0.939"/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="70" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Sounds\BUe_Gong.lod.ls3"/>
-<p X="427.1681" Y="-114.1398" Z="399.6345"/>
-<phi Z="-0.442142"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="21" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_3m_20m.lod.ls3"/>
 <p X="287.9561" Y="161.8584" Z="401.244"/>
@@ -2052,12 +1956,6 @@
 <Datei Dateiname="Terrain\Deutschland\Zaeune\Holzgelaender\holzgelaender_250cm.lod.ls3"/>
 <p X="199.1079" Y="208.3823" Z="399.9749"/>
 <phi X="3.141593" Z="-0.455954"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="19" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\KoPf_Erich_Bloch_Weg\KoPf_Erich_Bloch_Weg.lod.ls3"/>
-<p X="483.2513" Y="138.7258" Z="404.6343"/>
-<phi Z="-0.442134"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="4" SichtbarBis="3000" Vorlade="1">
@@ -2398,13 +2296,13 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2-2.lod.ls3"/>
-<p X="-315.0359" Y="449.1353" Z="401.9278"/>
+<p X="-315.0359" Y="449.1353" Z="401.4473"/>
 <phi Z="2.70016"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2-2.lod.ls3"/>
-<p X="-360.2429" Y="470.4971" Z="401.8648"/>
+<p X="-360.2429" Y="470.4971" Z="401.4792"/>
 <phi Z="2.921054"/>
 <sk/>
 </Verknuepfte>
@@ -2422,7 +2320,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\stuetze_rechtskurve.lod.ls3"/>
-<p X="-360.4444" Y="470.5533" Z="399.5648"/>
+<p X="-360.4444" Y="470.5533" Z="399.1792"/>
 <phi Z="-0.317732"/>
 <sk/>
 </Verknuepfte>
@@ -2434,7 +2332,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2-2.lod.ls3"/>
-<p X="-390.923" Y="476.9728" Z="401.8528"/>
+<p X="-390.923" Y="476.9728" Z="401.438"/>
 <phi Z="3.036409"/>
 <sk/>
 </Verknuepfte>
@@ -2464,19 +2362,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Hektometertafeln" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Hektometertafeln\Hekto_Mast_410_2.ls3"/>
-<p X="-399.3055" Y="492.2735" Z="399.473"/>
-<phi Z="-0.441433"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Hektometertafeln" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Hektometertafeln\Hekto_Mast_410_2.ls3"/>
-<p X="-399.3055" Y="492.2735" Z="399.473"/>
-<phi Z="-0.441433"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Hektometertafeln" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Hektometertafeln\Hekto_Mast_410_2.ls3"/>
-<p X="-399.3055" Y="492.2735" Z="399.473"/>
+<p X="-399.3055" Y="490.32" Z="399.473"/>
 <phi Z="-0.441433"/>
 <sk/>
 </Verknuepfte>
@@ -2502,6 +2388,42 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Hektometertafeln\Hekto_Mast_410_4.ls3"/>
 <p X="-220.0148" Y="407.5364" Z="399.5978"/>
 <phi Z="-0.441433"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Freileitungen\Niederspannung\Einzelteile\Anbausaetze\Anbausatz_2Stuetzen.lod.ls3"/>
+<p X="-428.5153" Y="495.5565" Z="404.1632"/>
+<phi Z="2.700161"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
+<p X="-322.5029" Y="454.7632" Z="399.3249"/>
+<phi Z="2.70029"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
+<p X="-358.6707" Y="471.8478" Z="399.2992"/>
+<phi Z="2.70029"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
+<p X="-394.8386" Y="488.9325" Z="399.2734"/>
+<phi Z="2.70029"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
+<p X="-289.011" Y="438.7631" Z="399.391"/>
+<phi Z="2.668145"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\Aufschuettungen_Formsignale\Aufschuettung_Naturstein.lod.ls3"/>
+<p X="-22.4973" Y="313.9982" Z="399.2336"/>
+<phi Z="-0.441434"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_511500_5280500.lsb"/>
@@ -2538,7 +2460,7 @@
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="24" MeshI="57">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="24" MeshI="51">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
@@ -2547,7 +2469,7 @@
 <SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="7" MeshI="15">
 <RenderFlags TexVoreinstellung="3"/>
 <Textur>
-<Datei Dateiname="Terrain\Default\terrain.dds"/>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Strassen\Allein\waldweg_2m.dds"/>
@@ -2556,13 +2478,13 @@
 <SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="13" MeshI="33">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Terrain\Default\terrain.dds"/>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="6" MeshI="12">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Terrain\Default\terrain.dds"/>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" BeleuchtungTyp="2" MeterProTex="10" MeterProTex2="10" MeshV="36" MeshI="144">
@@ -2577,34 +2499,10 @@
 <Datei Dateiname="Terrain\Default\terrain.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="17" MeshI="45">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\embankment_verlauf.dds"/>
-</Textur>
-</SubSet>
 <SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="8" MeshI="18">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment_verlauf.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="3" MeshI="3">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\embankment_verlauf.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="3" MeshI="3">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\embankment_verlauf.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="5" MeshI="9">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\gravel03.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="32" MeshI="90">
@@ -2853,18 +2751,6 @@
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="11" MeshI="27">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\embankment_verlauf.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="6" MeshI="9">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\embankment_verlauf.dds"/>
-</Textur>
-</SubSet>
 <SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
@@ -2874,13 +2760,13 @@
 <SubSet Cd="00FFFFFF" TypLs3="1" TypGF="6" MeterProTex="10" MeterProTex2="10" MeshV="1007" MeshI="5082">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Terrain\Default\terrain.dds"/>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="1" TypGF="6" MeterProTex="10" MeterProTex2="10" MeshV="443" MeshI="2400">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Terrain\Default\terrain.dds"/>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="3" MeshI="3">
@@ -2895,7 +2781,7 @@
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="26" MeshI="72">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="26" MeshI="51">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
@@ -2977,12 +2863,6 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m_oMstr.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="13" MeshI="33">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\embankment_verlauf.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="11" MeshI="24">
@@ -3094,6 +2974,24 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteig\19cm\betonstein.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="5" MeterProTex2="10" MeshV="5" MeshI="9">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Pflaster\Kopfsteinpflaster\kopfsteinplaster_01.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="22" MeshI="60">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment_verlauf.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="12" MeshI="30">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment_verlauf.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

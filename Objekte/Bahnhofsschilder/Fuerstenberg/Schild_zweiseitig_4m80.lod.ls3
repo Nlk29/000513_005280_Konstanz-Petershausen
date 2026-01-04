@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.1" MinVersion="A.1">
+<AutorEintrag AutorID="3" AutorName="Klaus Zimmermann" AutorEmail="klaus@ahrenszimmermann.de"/>
+</Info>
+<Landschaft>
+<Verknuepfte BoundingR="10" SichtbarAb="100" SichtbarBis="500" Vorlade="1" Wichtig="2" LODbit="3">
+<Datei Dateiname="Schild_zweiseitig_4m80.lod3.ls3"/>
+<p/>
+<phi Z="1.570796"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte BoundingR="10" SichtbarBis="100" Vorlade="1" Wichtig="1" LODbit="4">
+<Datei Dateiname="Schild_zweiseitig_4m80.lod1.ls3"/>
+<p/>
+<phi Z="1.570796"/>
+<sk/>
+</Verknuepfte>
+</Landschaft>
+</Zusi>

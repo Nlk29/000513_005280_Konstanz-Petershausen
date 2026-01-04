@@ -2,7 +2,13 @@
 <Zusi>
 <Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
 <Landschaft>
-<Verknuepfte Flags="16" BoundingR="30" SichtbarBis="1000" Vorlade="1" LODbit="15">
+<Verknuepfte Flags="16" BoundingR="30" SichtbarBis="200" Vorlade="1" LODbit="14">
+<Datei Dateiname="Reichenau_Lagerhalle.lod2.ls3"/>
+<p/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="30" SichtbarAb="200" SichtbarBis="1000" Vorlade="1" LODbit="1">
 <Datei Dateiname="Reichenau_Lagerhalle.lod3.ls3"/>
 <p/>
 <phi/>

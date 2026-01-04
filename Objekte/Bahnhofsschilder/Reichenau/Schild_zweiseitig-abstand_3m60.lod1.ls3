@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.1" MinVersion="A.1">
+<AutorEintrag AutorID="3" AutorName="Klaus Zimmermann" AutorEmail="klaus@ahrenszimmermann.de"/>
+</Info>
+<Landschaft>
+<lsb Dateiname="Schild_zweiseitig-abstand_3m60.lod1.lsb"/>
+<SubSet Cd="00FFFFFF" MeshV="80" MeshI="120">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="schild_blanko_1Zeile_3m60.dds"/>
+</Textur>
+</SubSet>
+</Landschaft>
+</Zusi>

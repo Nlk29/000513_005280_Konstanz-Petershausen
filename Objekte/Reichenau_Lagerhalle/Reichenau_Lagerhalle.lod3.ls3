@@ -6,28 +6,28 @@
 <SubSet Cd="FFFFFFFF" MeshV="10" MeshI="24">
 <RenderFlags TexVoreinstellung="1"/>
 </SubSet>
-<SubSet Cd="FFFFFFFF" MeshV="20" MeshI="30">
+<SubSet Cd="FFFFFFFF" MeshV="16" MeshI="24">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000591_005806_Wipshausen\Objekte\06_Ersestrasse\Dachziegel.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="FFFFFFFF" MeshV="133" MeshI="282">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Bahnsteig\holzverkleidung.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="FFFFFFFF" MeshV="4" MeshI="6">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Routes\Deutschland\32U_0006_0059\000607_005926_Buechen\Objekte\03_Bahnsteig\Buechen_Tor.dds"/>
+<Datei Dateiname="Routes\Deutschland\32U_0006_0054\000637_005359_Augsburg-Oberhausen\Objekte\MAOB_Schuhfabrik\MAOB_Schuhfabrik_Dach.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="FFFFFFFF" MeshV="24" MeshI="36">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Routes\Deutschland\32U_0006_0058\000587_005811_Plockhorst\Objekte\Stw_Nw\FensterStw.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000434_005696_Arnsberg\Objekte\Arnsberg_09_Industrie\Arns_09_Halle_3.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="69" MeshI="162">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000565_005804_Lehrte_West\Objekte\LehrteZentrum02\LehrteNZ_West\LehrteZentrum_West_Holzdecke.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

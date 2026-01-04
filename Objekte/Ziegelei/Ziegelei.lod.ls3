@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<Verknuepfte Flags="16" BoundingR="400" SichtbarAb="550" SichtbarBis="1000" Vorlade="1" LODbit="1">
+<Datei Dateiname="Ziegelei.lod3.ls3"/>
+<p/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="400" SichtbarBis="550" Vorlade="1" LODbit="14">
+<Datei Dateiname="Ziegelei.lod2.ls3"/>
+<p/>
+<phi/>
+<sk/>
+</Verknuepfte>
+</Landschaft>
+</Zusi>

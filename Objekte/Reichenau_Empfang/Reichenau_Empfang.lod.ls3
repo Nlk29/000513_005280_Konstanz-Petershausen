@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarAb="360" SichtbarBis="1000" Vorlade="1" LODbit="1">
+<Datei Dateiname="Reichenau_Empfang.lod3.ls3"/>
+<p/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarAb="120" SichtbarBis="360" Vorlade="1" LODbit="2">
+<Datei Dateiname="Reichenau_Empfang.lod2.ls3"/>
+<p/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="120" Vorlade="1" LODbit="12">
+<Datei Dateiname="Reichenau_Empfang.lod1.ls3"/>
+<p/>
+<phi/>
+<sk/>
+</Verknuepfte>
+</Landschaft>
+</Zusi>
