@@ -206,29 +206,11 @@
 <phi Z="-2.575074"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
-<p X="469.3959" Y="-372.9399" Z="395.6817"/>
-<phi Z="1.180551"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
-<p X="466.5834" Y="-371.6509" Z="395.6817"/>
-<phi Z="1.143735"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
 <p X="424.6265" Y="-353.3576" Z="400.7736"/>
 <phi Z="-0.56404"/>
 <sk X="0.9294" Y="0.9294" Z="0.9294"/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
-<p X="465.51" Y="-364.4622" Z="400.5407"/>
-<phi Z="-0.597159"/>
-<sk X="0.9098" Y="0.9098" Z="0.9098"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
@@ -4508,12 +4490,6 @@
 <phi Z="-0.441259"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="35" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\Empfang_Peter\Empfang_Peter.lod.ls3"/>
-<p X="441.0034" Y="-359.0779" Z="400.7009"/>
-<phi Z="-1.971596"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Turmmaste\QTW_Gittermast14.lod.ls3"/>
 <p X="498.0364" Y="-396.2276" Z="400.7015"/>
@@ -6914,6 +6890,30 @@
 <phi Z="2.710322"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="35" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\Petershausen_Empfang\Petershausen_Empfang.lod.ls3"/>
+<p X="441.0034" Y="-359.0779" Z="400.7009"/>
+<phi Z="-1.971596"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2139" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-1m5.lod.ls3"/>
+<p X="450.1897" Y="-375.1124" Z="400.6949"/>
+<phi Z="5.890523"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
+<p X="469.4861" Y="-372.7712" Z="400.702"/>
+<phi Z="-0.404482"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
+<p X="466.6736" Y="-371.4822" Z="400.702"/>
+<phi Z="-0.404481"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_512500_5280500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeshV="48" MeshI="72">
 <RenderFlags TexVoreinstellung="3"/>
@@ -7908,7 +7908,7 @@
 <Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="10" TypGF="1" MeterProTex="2" MeterProTex2="10" MeshV="40" MeshI="84">
+<SubSet Cd="00FFFFFF" TypLs3="10" TypGF="1" GruppenName="Bahnsteig" MeterProTex="2" MeshV="40" MeshI="84">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteig\38cm\38cm_Beton_Asphalt-grau_Streifen.dds"/>

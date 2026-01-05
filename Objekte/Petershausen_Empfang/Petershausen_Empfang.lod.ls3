@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<Verknuepfte Flags="16" BoundingR="40" SichtbarAb="600" SichtbarBis="1000" Vorlade="1" LODbit="1">
+<Datei Dateiname="Petershausen_Empfang.lod3.ls3"/>
+<p/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="40" SichtbarAb="200" SichtbarBis="600" Vorlade="1" LODbit="2">
+<Datei Dateiname="Petershausen_Empfang.lod2.ls3"/>
+<p/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="40" SichtbarBis="200" Vorlade="1" LODbit="12">
+<Datei Dateiname="Petershausen_Empfang.lod1.ls3"/>
+<p/>
+<phi/>
+<sk/>
+</Verknuepfte>
+</Landschaft>
+</Zusi>
