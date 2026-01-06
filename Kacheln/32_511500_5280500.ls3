@@ -856,13 +856,13 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\Spruce\Spruce02-12m.lod.ls3"/>
-<p X="-417.151" Y="497.2731" Z="400.498"/>
+<p X="-417.151" Y="494.0387" Z="399.6542"/>
 <phi Z="0.80236"/>
 <sk X="1.1842" Y="1.1842" Z="1.1842"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\Spruce\Spruce02-12m.lod.ls3"/>
-<p X="-414.8443" Y="490.4878" Z="400.4646"/>
+<p X="-407.8951" Y="481.7339" Z="399.5505"/>
 <phi Z="0.565003"/>
 <sk X="1.4468" Y="1.4468" Z="1.4468"/>
 </Verknuepfte>
@@ -1054,7 +1054,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
-<p X="-366.3451" Y="459.0956" Z="400.655"/>
+<p X="-366.3451" Y="459.0956" Z="400.4089"/>
 <phi Z="0.87646"/>
 <sk X="1.39" Y="1.39" Z="1.39"/>
 </Verknuepfte>
@@ -2424,6 +2424,24 @@
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\Aufschuettungen_Formsignale\Aufschuettung_Naturstein.lod.ls3"/>
 <p X="-22.4973" Y="313.9982" Z="399.2336"/>
 <phi Z="-0.441434"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000426_005703_Vosswinkel\Objekte\Vosswinkel_08_Klaerwerk\Vosswinkel_08_Klaer.lod.ls3"/>
+<p X="-509.7256" Y="181.2195" Z="399.055"/>
+<phi Z="-3.512203"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000531_005696_Immenhausen\Objekte\Immenhausen_07-Haus_am_Lagerschuppen\Klaerbecken_22m.lod.ls3"/>
+<p X="-490.8875" Y="198.3838" Z="399.0794"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="281" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000531_005696_Immenhausen\Objekte\Immenhausen_07-Haus_am_Lagerschuppen\Klaerbecken_22m.lod.ls3"/>
+<p X="-483.83" Y="219.7562" Z="399.1284"/>
+<phi/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_511500_5280500.lsb"/>

@@ -37,7 +37,7 @@
 </Textur>
 </SubSet>
 <SubSet Cd="FFFFFFFF" MeshV="360" MeshI="540">
-<RenderFlags TexVoreinstellung="1"/>
+<RenderFlags TexVoreinstellung="4"/>
 <Textur>
 <Datei Dateiname="Routes\Deutschland\32U_0006_0058\000587_005811_Plockhorst\Objekte\Stw_Nw\FensterStw.dds"/>
 </Textur>

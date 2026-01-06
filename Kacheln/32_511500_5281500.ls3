@@ -384,7 +384,7 @@
 <Datei Dateiname="Routes\Deutschland\32U_0005_0057\000532_005686_Kassel_Bahndreieck\Objekte\Bahndreieck_02_Lokschuppen\Ka_BDrei_02_Schorn.lod.ls3"/>
 <p X="-393.0278" Y="-454.2121" Z="403.5265"/>
 <phi Z="-0.441432"/>
-<sk X="0.25" Y="0.25" Z="0.5"/>
+<sk X="0.3" Y="0.3" Z="0.5"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Objekte\Bahnhofsschilder\Petershausen\Schild_zweiseitig-stehend_4m80.lod.ls3"/>

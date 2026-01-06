@@ -6896,19 +6896,19 @@
 <phi Z="-1.971596"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2139" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Bush03-1m5.lod.ls3"/>
 <p X="450.1897" Y="-375.1124" Z="400.6949"/>
 <phi Z="5.890523"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
 <p X="469.4861" Y="-372.7712" Z="400.702"/>
 <phi Z="-0.404482"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
 <p X="466.6736" Y="-371.4822" Z="400.702"/>
 <phi Z="-0.404481"/>

@@ -734,6 +734,18 @@
 <phi Z="-2.712317"/>
 <sk X="0.6365" Y="0.6365" Z="0.6365"/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000531_005696_Immenhausen\Objekte\Immenhausen_07-Haus_am_Lagerschuppen\Klaerbecken_22m.lod.ls3"/>
+<p X="488.1846" Y="206.4467" Z="398.8471"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000531_005696_Immenhausen\Objekte\Immenhausen_07-Haus_am_Lagerschuppen\Klaerbecken_22m.lod.ls3"/>
+<p X="495.8869" Y="227.6912" Z="398.9031"/>
+<phi/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_510500_5280500.lsb"/>
 <SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="27" MeshI="75">
 <RenderFlags TexVoreinstellung="1"/>
