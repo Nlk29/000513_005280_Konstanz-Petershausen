@@ -380,7 +380,7 @@
 <phi Z="-0.061196"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0005_0057\000532_005686_Kassel_Bahndreieck\Objekte\Bahndreieck_02_Lokschuppen\Ka_BDrei_02_Schorn.lod.ls3"/>
 <p X="-393.0278" Y="-454.2121" Z="403.5265"/>
 <phi Z="-0.441432"/>

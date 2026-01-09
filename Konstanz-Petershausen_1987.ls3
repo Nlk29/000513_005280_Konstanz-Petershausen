@@ -2,7 +2,7 @@
 <Zusi>
 <Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
 <Landschaft>
-<Verknuepfte Flags="4" BoundingR="730" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="4" BoundingR="772" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Kacheln\32_511500_5281500.ls3"/>
 <p X="500" Y="500"/>
 <phi/>
@@ -20,13 +20,13 @@
 <phi/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="4" BoundingR="718" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="4" BoundingR="736" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Kacheln\32_511500_5280500.ls3"/>
 <p X="500" Y="-500"/>
 <phi/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="4" BoundingR="744" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="4" BoundingR="713" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Kacheln\32_512500_5280500.ls3"/>
 <p X="1500" Y="-500"/>
 <phi/>
@@ -44,7 +44,7 @@
 <phi/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="4" BoundingR="715" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="4" BoundingR="727" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Kacheln\32_510500_5281500.ls3"/>
 <p X="-500" Y="500"/>
 <phi/>
@@ -104,7 +104,7 @@
 <phi/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="4" BoundingR="708" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="4" BoundingR="719" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Kacheln\32_509500_5280500.ls3"/>
 <p X="-1500" Y="-500"/>
 <phi/>
@@ -137,6 +137,24 @@
 <Verknuepfte Flags="4" BoundingR="708" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Kacheln\32_510500_5283500.ls3"/>
 <p X="-500" Y="2500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte GruppenName="Nachbarmodul" BoundingR="2553" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.ls3"/>
+<p X="2000" Y="-2000"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="4" BoundingR="708" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Kacheln\32_510500_5279500.ls3"/>
+<p X="-500" Y="-1500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="4" BoundingR="708" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Kacheln\32_508500_5280500.ls3"/>
+<p X="-2500" Y="-500"/>
 <phi/>
 <sk/>
 </Verknuepfte>
