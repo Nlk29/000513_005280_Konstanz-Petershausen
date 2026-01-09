@@ -426,6 +426,13 @@
 <ReferenzElemente ReferenzNr="399" StrElement="1525" StrNorm="1" RefTyp="4" Info="Signal:  "/>
 <ReferenzElemente ReferenzNr="400" StrElement="1525" StrNorm="1" RefTyp="2" Info="Register-Nr. 5087"/>
 <ReferenzElemente ReferenzNr="401" StrElement="1525" RefTyp="2" Info="Register-Nr. 5087"/>
+<ReferenzElemente ReferenzNr="402" StrElement="1526" RefTyp="4" Info="Reisende"/>
+<ReferenzElemente ReferenzNr="403" StrElement="1528" RefTyp="4" Info="Reisende"/>
+<ReferenzElemente ReferenzNr="404" StrElement="1529" RefTyp="4" Info="Reisende"/>
+<ReferenzElemente ReferenzNr="405" StrElement="1530" RefTyp="4" Info="Reisende"/>
+<ReferenzElemente ReferenzNr="406" StrElement="1531" RefTyp="4" Info="Reisende"/>
+<ReferenzElemente ReferenzNr="407" StrElement="1532" RefTyp="4" Info="Reisende"/>
+<ReferenzElemente ReferenzNr="408" StrElement="1533" RefTyp="4" Info="Reisende"/>
 <StrElement Nr="1" Ueberh="0.0366" kr="-0.001412" spTrass="22.2222" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2453.0029" Y="-1190.38" Z="400.7674"/>
 <b X="2457.4199" Y="-1196.859" Z="400.7712"/>
@@ -4190,9 +4197,30 @@
 <StrElement Nr="260" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="209.9102" Y="-56.0163" Z="399.5476"/>
 <b X="120.2567" Y="-13.6522" Z="399.4856"/>
-<InfoNormRichtung vMax="-1" km="410.3195"/>
+<InfoNormRichtung vMax="-1" km="410.3195">
+<Signal NameBetriebsstelle="Konstanz-Wollmatingen Hp" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="1">
+<p X="209.9102" Y="-56.0163" Z="399.5476"/>
+<phi/>
+<KoppelSignal ReferenzNr="405">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="410.2204" pos="1">
 <Ereignis Er="1000008" Beschr="Konstanz-Wollmatingen Hp"/>
+<Signal NameBetriebsstelle="Konstanz-Wollmatingen Hp" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="1">
+<p X="209.9102" Y="-56.0163" Z="399.5476"/>
+<phi/>
+<KoppelSignal ReferenzNr="405">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
 </InfoGegenRichtung>
 <NachNorm Nr="261"/>
 <NachGegen Nr="1452"/>
@@ -4312,8 +4340,29 @@
 <b X="1197.8051" Y="-518.4036" Z="400.2295"/>
 <InfoNormRichtung vMax="-1" km="411.5121">
 <Ereignis Er="1000008" Beschr="Konstanz-Fürstenberg Hp"/>
+<Signal NameBetriebsstelle="Konstanz-Fürstenberg Hp" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="1">
+<p X="1287.458" Y="-560.7679" Z="400.2915"/>
+<phi/>
+<KoppelSignal ReferenzNr="403">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="411.413" pos="1"/>
+<InfoGegenRichtung vMax="-1" km="411.413" pos="1">
+<Signal NameBetriebsstelle="Konstanz-Fürstenberg Hp" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="1">
+<p X="1287.458" Y="-560.7679" Z="400.2915"/>
+<phi/>
+<KoppelSignal ReferenzNr="403">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
 <NachNorm Nr="273"/>
 <NachGegen Nr="1456"/>
 </StrElement>
@@ -8279,8 +8328,30 @@
 <StrElement Nr="508" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2088.5281" Y="-944.2798" Z="400.7152"/>
 <b X="2073.9744" Y="-937.4026" Z="400.713"/>
+<InfoNormRichtung vMax="-1">
+<Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pf" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="1">
+<p X="2088.5281" Y="-944.2798" Z="400.7152"/>
+<phi/>
+<KoppelSignal ReferenzNr="402">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="412.3751" pos="1">
 <Ereignis Er="6"/>
+<Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pf" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="1">
+<p X="2088.5281" Y="-944.2798" Z="400.7152"/>
+<phi/>
+<KoppelSignal ReferenzNr="402">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
 </InfoGegenRichtung>
 <NachNorm Nr="1488"/>
 <NachGegen Nr="507"/>
@@ -18833,9 +18904,12 @@
 <b X="-1586.2817" Y="794.5652" Z="398.6669"/>
 <InfoNormRichtung vMax="-1">
 <Ereignis Er="1000012"/>
-<Signal SignalTyp="1" BoundingR="10">
-<p X="-1586.297" Y="792.1942" Z="399.5"/>
+<Signal NameBetriebsstelle="Reichenau (Baden)" Stellwerk="Reichenau (Baden) FD" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="1">
+<p X="10" Y="792.1942" Z="399.5"/>
 <phi Z="2.699921"/>
+<KoppelSignal ReferenzNr="408">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</KoppelSignal>
 <SignalFrame>
 <p/>
 <phi/>
@@ -18850,11 +18924,21 @@
 </SignalFrame>
 <HsigBegriff HsigGeschw="-1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1">
 <Ereignis Er="1000008"/>
+<Signal NameBetriebsstelle="Reichenau (Baden)" Stellwerk="Reichenau (Baden) FD" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="1">
+<p X="-1519.835" Y="763.1475" Z="398.6696"/>
+<phi/>
+<KoppelSignal ReferenzNr="408">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
 </InfoGegenRichtung>
 <NachNorm Nr="1448"/>
 <NachGegen Nr="1479"/>
@@ -18912,9 +18996,29 @@
 <b X="-57.3397" Y="74.6967" Z="399.3616"/>
 <InfoNormRichtung vMax="-1" km="410.1168">
 <Ereignis Er="1000008" Beschr="Konstanz-Wollmatingen Hp"/>
+<Signal NameBetriebsstelle="Konstanz-Wollmatingen Hp" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="1">
+<p X="28.6968" Y="34.0414" Z="399.4211"/>
+<phi/>
+<KoppelSignal ReferenzNr="406">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1">
 <Ereignis Er="1000012" Beschr="Konstanz-Wollmatingen Hp"/>
+<Signal NameBetriebsstelle="Konstanz-Wollmatingen Hp" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="1">
+<p X="28.6968" Y="34.0414" Z="399.4211"/>
+<phi/>
+<KoppelSignal ReferenzNr="406">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
 </InfoGegenRichtung>
 <NachNorm Nr="287"/>
 <NachGegen Nr="286"/>
@@ -18972,9 +19076,30 @@
 <StrElement Nr="1453" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1240.9225" Y="-543.2029" Z="400.2605"/>
 <b X="1196.0959" Y="-522.0209" Z="400.2295"/>
-<InfoNormRichtung vMax="-1" km="411.4625"/>
+<InfoNormRichtung vMax="-1" km="411.4625">
+<Signal NameBetriebsstelle="Konstanz-Fürstenberg Hp" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="1">
+<p X="1240.9225" Y="-543.2029" Z="400.2605"/>
+<phi/>
+<KoppelSignal ReferenzNr="404">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="-1">
 <Ereignis Er="1000008" Beschr="Konstanz-Fürstenberg Hp"/>
+<Signal NameBetriebsstelle="Konstanz-Fürstenberg Hp" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="1">
+<p X="1240.9225" Y="-543.2029" Z="400.2605"/>
+<phi/>
+<KoppelSignal ReferenzNr="404">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
 </InfoGegenRichtung>
 <NachNorm Nr="249"/>
 <NachGegen Nr="1454"/>
@@ -20413,7 +20538,30 @@
 <StrElement Nr="1485" kr="0.000286" spTrass="27.7778" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2111.7002" Y="-942.5246" Z="400.7178"/>
 <b X="2103.1111" Y="-938.3736" Z="400.7166"/>
-<InfoNormRichtung vMax="-1" km="412.4109"/>
+<InfoNormRichtung vMax="-1" km="412.4109">
+<Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pf" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="1">
+<p X="2111.7002" Y="-942.5246" Z="400.7178"/>
+<phi/>
+<KoppelSignal ReferenzNr="402">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="-1">
+<Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pf" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="1">
+<p X="2111.7002" Y="-942.5246" Z="400.7178"/>
+<phi/>
+<KoppelSignal ReferenzNr="402">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
 <NachNorm Nr="1287"/>
 <NachGegen Nr="134"/>
 </StrElement>
@@ -20756,7 +20904,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20768,7 +20916,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -20794,7 +20942,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20806,7 +20954,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -20833,7 +20981,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20845,7 +20993,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -20871,7 +21019,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20883,7 +21031,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -21028,11 +21176,24 @@
 <InfoNormRichtung vMax="-1" km="408.4177">
 <Ereignis Er="6"/>
 <Ereignis Er="1000008"/>
+<Signal NameBetriebsstelle="Reichenau (Baden)" Stellwerk="Reichenau (Baden) FD" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="1">
+<p X="-1507.8741" Y="762.4696" Z="398.6701"/>
+<phi/>
+<KoppelSignal ReferenzNr="407">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1">
-<Signal SignalTyp="1" BoundingR="10">
-<p X="-1506.7231" Y="766.0734" Z="400.4701"/>
+<Signal NameBetriebsstelle="Reichenau (Baden)" Stellwerk="Reichenau (Baden) FD" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="1">
+<p X="10" Y="766.0734" Z="400.4701"/>
 <phi Z="-0.441675"/>
+<KoppelSignal ReferenzNr="407">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</KoppelSignal>
 <SignalFrame>
 <p/>
 <phi/>
@@ -21059,7 +21220,7 @@
 </SignalFrame>
 <HsigBegriff HsigGeschw="-1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="15" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
 </Signal>
 </InfoGegenRichtung>
 <NachNorm Nr="314"/>
@@ -22169,6 +22330,469 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" Reg="5087"/>
+</StrElement>
+<StrElement Nr="1526" spTrass="27.7778" Fkt="2">
+<g X="2120.6079" Y="-954.1533" Z="401"/>
+<b X="2127.52" Y="-954.7824" Z="401"/>
+<InfoGegenRichtung vMax="-1">
+<Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pf" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="76">
+<p X="2120.6079" Y="-954.1533" Z="401"/>
+<phi/>
+<SignalFrame>
+<p X="1.1216" Y="-0.6994" Z="0.0998"/>
+<phi Z="0.969837"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-05b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-8.9277" Y="2.8179" Z="0.0984"/>
+<phi Z="1.070499"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-06a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-5.1453" Y="3.3768" Z="0.0988"/>
+<phi Z="0.643421"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-02b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="9.2405" Y="-4.1996" Z="0.1009"/>
+<phi Z="1.415078"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-06a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-1.438" Y="1.7961" Z="0.0993"/>
+<phi Z="-1.577906"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-07b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="23.6104" Y="-9.6717" Z="0.1029"/>
+<phi Z="-1.818089"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-08b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="2.5366" Y="2.2176" Z="0.0997"/>
+<phi Z="-1.986195"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-06b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="13.9075" Y="-7.5906" Z="0.1017"/>
+<phi Z="1.576584"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\Travellers_2000_Pram_1.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="33.5073" Y="-17.0566" Z="0.1045"/>
+<phi Z="1.07923"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-09b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="43.5176" Y="-18.7748" Z="0.1058"/>
+<phi Z="-2.438682"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-05b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-16.0908" Y="5.473" Z="0.0974"/>
+<phi Z="0.822845"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\Travellers_2000_Man_young_3a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="5.5703" Y="0.8149" Z="0.1002"/>
+<phi Z="-2.316962"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-08b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-5.7483" Y="6.1202" Z="0.0985"/>
+<phi Z="-1.73747"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\Travellers_2000_Man_young_3a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-65.676" Y="35.4218" Z="0.0898"/>
+<phi Z="-2.063702"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\1975\Adults\man01-b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="11.5593" Y="-3.6324" Z="0.1012"/>
+<phi Z="-2.336732"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\1975\Travellers\travellers01-c.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-3.603" Y="4.7332" Z="0.0988"/>
+<phi Z="-2.451709"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-05b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="33.0713" Y="-12.8032" Z="0.1042"/>
+<phi Z="-1.869686"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-10a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-2.1685" Y="-0.0738" Z="0.0993"/>
+<phi Z="1.175925"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-01a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="30.8977" Y="-12.0757" Z="0.1039"/>
+<phi Z="-2.073342"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-08a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="38.4819" Y="-18.5396" Z="0.1052"/>
+<phi Z="1.512592"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-06b.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+</StrElement>
+<StrElement Nr="1528" spTrass="27.7778" Fkt="2">
+<g X="1286.6329" Y="-552.9585" Z="400.2904"/>
+<b X="1297.946" Y="-558.3755" Z="400.2921"/>
+<InfoGegenRichtung vMax="-1">
+<Signal NameBetriebsstelle="Konstanz-Fürstenberg Hp" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="33">
+<p X="1286.6329" Y="-552.9585" Z="400.2904"/>
+<phi/>
+<SignalFrame>
+<p X="-12.8" Y="3.7354" Z="-0.2085"/>
+<phi Z="0.677195"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\1975\Adults\man01-a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="2.4344" Y="-4.2034" Z="-0.1038"/>
+<phi Z="0.693572"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\1975\Adults\woman02-a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-3.6563" Y="-0.6656" Z="-0.192"/>
+<phi Z="1.17288"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-04b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="25.7908" Y="-16.3103" Z="0.0487"/>
+<phi Z="0.751505"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\Travellers_2000_Man_young_3a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-11.2129" Y="0.8062" Z="0.07"/>
+<phi Z="1.476517"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-09b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="10.4395" Y="-8.5316" Z="-0.0287"/>
+<phi Z="0.908556"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-08b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-21.4323" Y="5.5136" Z="0.0784"/>
+<phi Z="0.795611"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-10a.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+</StrElement>
+<StrElement Nr="1529" spTrass="27.7778" Fkt="2">
+<g X="1227.0081" Y="-544.5392" Z="400.0141"/>
+<b X="1233.3131" Y="-546.2429" Z="400.0347"/>
+<InfoGegenRichtung vMax="-1">
+<Signal NameBetriebsstelle="Konstanz-Fürstenberg Hp" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="56">
+<p X="1227.0081" Y="-544.5392" Z="400.0141"/>
+<phi/>
+<SignalFrame>
+<p X="-0.5027" Y="3.2674" Z="0.0675"/>
+<phi Z="-2.134598"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-06b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-47.0591" Y="26.704" Z="0.2175"/>
+<phi Z="-1.765575"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-09b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="3.6443" Y="1.363" Z="0.0774"/>
+<phi Z="-1.696053"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-01b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="22.4539" Y="-6.5574" Z="0.2131"/>
+<phi Z="-1.651359"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-03a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="8.1036" Y="-0.0338" Z="0.1706"/>
+<phi Z="-2.103703"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-06b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-19.2693" Y="13.6873" Z="0.2513"/>
+<phi Z="-2.236049"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-09a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="41.4261" Y="-16.4336" Z="0.1107"/>
+<phi Z="-1.828084"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\Travellers_2000_Man_young_3a.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+</StrElement>
+<StrElement Nr="1530" spTrass="27.7778" Fkt="2">
+<g X="104.3826" Y="-12.9577" Z="399.2745"/>
+<b X="112.0591" Y="-15.8812" Z="399.2791"/>
+<InfoGegenRichtung vMax="-1">
+<Signal NameBetriebsstelle="Konstanz-Wollmatingen Hp" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="47">
+<p X="104.3826" Y="-12.9577" Z="399.2745"/>
+<phi/>
+<SignalFrame>
+<p X="6.9271" Y="-0.4165" Z="0.1541"/>
+<phi Z="-1.704682"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\Travellers_2000_Man_young_3a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-33.2759" Y="19.5949" Z="0.2549"/>
+<phi Z="-1.90798"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\1975\Travellers\travellers01-a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-13.822" Y="9.5717" Z="0.1631"/>
+<phi Z="-1.822572"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-10b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="1.6304" Y="2.6436" Z="0.2211"/>
+<phi Z="-2.27421"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-10a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="41.4316" Y="-15.9547" Z="0.2752"/>
+<phi Z="-2.052681"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-10b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-20.4315" Y="12.3135" Z="0.1102"/>
+<phi Z="-1.654613"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\1975\Travellers\travellers01-c.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="3.8572" Y="0.2153" Z="0.0482"/>
+<phi Z="-2.410475"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\1975\Travellers\travellers01-c.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+</StrElement>
+<StrElement Nr="1531" spTrass="27.7778" Fkt="2">
+<g X="10.1046" Y="49.8305" Z="399.493"/>
+<b X="15.7537" Y="46.9559" Z="399.4807"/>
+<InfoGegenRichtung vMax="-1">
+<Signal NameBetriebsstelle="Konstanz-Wollmatingen Hp" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="90">
+<p X="10.1046" Y="49.8305" Z="399.493"/>
+<phi/>
+<SignalFrame>
+<p X="-9.6643" Y="0.3194" Z="0.0086"/>
+<phi Z="1.045779"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-10b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-82.2779" Y="34.5687" Z="-0.0346"/>
+<phi Z="1.334944"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-02a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-16.6133" Y="4.107" Z="-0.0614"/>
+<phi Z="0.80906"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-05a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-2.4918" Y="-1.3115" Z="-0.1934"/>
+<phi Z="1.206756"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-10b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="1.8134" Y="-4.8255" Z="0.0035"/>
+<phi Z="1.218489"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-09b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="5.7371" Y="-6.4423" Z="-0.0184"/>
+<phi Z="0.701165"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\1975\Travellers\travellers01-a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-53.4367" Y="20.9128" Z="-0.0114"/>
+<phi Z="1.204283"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-10b.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+</StrElement>
+<StrElement Nr="1532" spTrass="27.7778" Fkt="2">
+<g X="-1528.5128" Y="778.64" Z="398.6546"/>
+<b X="-1526.3282" Y="776.3133" Z="398.5886"/>
+<InfoGegenRichtung vMax="-1">
+<Signal NameBetriebsstelle="Reichenau (Baden)" Stellwerk="Reichenau (Baden) FD" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="36">
+<p X="-1528.5128" Y="778.64" Z="398.6546"/>
+<phi/>
+<SignalFrame>
+<p X="4.0179" Y="-4.9449" Z="-0.0076"/>
+<phi Z="1.332214"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\Travellers_2000_Pram_1.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-6.1772" Y="0.2365" Z="0.0044"/>
+<phi Z="1.366545"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-07b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-10.4579" Y="2.7316" Z="-0.0553"/>
+<phi Z="1.310185"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-01b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="2.3104" Y="-3.3172" Z="-0.1004"/>
+<phi Z="0.987171"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-05a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-3.0626" Y="-0.086" Z="-0.1566"/>
+<phi Z="1.194704"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-09b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-32.437" Y="11.7469" Z="0.1358"/>
+<phi Z="1.102252"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-10b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="12.849" Y="-9.1912" Z="-0.0481"/>
+<phi Z="1.128359"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\Travellers_2000_Man_young_3a.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+</StrElement>
+<StrElement Nr="1533" spTrass="27.7778" Fkt="2">
+<g X="-1539.8666" Y="765.6699" Z="398.7772"/>
+<b X="-1532.0364" Y="762.713" Z="398.7242"/>
+<InfoGegenRichtung vMax="-1">
+<Signal NameBetriebsstelle="Reichenau (Baden)" Stellwerk="Reichenau (Baden) FD" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="30">
+<p X="-1539.8666" Y="765.6699" Z="398.7772"/>
+<phi/>
+<SignalFrame>
+<p X="2.5216" Y="0.481" Z="-0.0856"/>
+<phi Z="-2.067455"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-06a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="1.4766" Y="3.2803" Z="0.0367"/>
+<phi Z="-1.530812"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\Travellers_2000_Man_young_3a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="12.1904" Y="-3.8646" Z="-0.0778"/>
+<phi Z="-2.052972"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-10a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="0.5977" Y="1.1339" Z="-0.0973"/>
+<phi Z="-1.890686"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-05b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="26.7045" Y="-10.189" Z="-0.0201"/>
+<phi Z="-1.515623"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-08b.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-4.0865" Y="5.8943" Z="0.0356"/>
+<phi Z="-2.506373"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-08a.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="6.4382" Y="-0.8456" Z="-0.0615"/>
+<phi Z="-2.031178"/>
+<sk/>
+<Datei Dateiname="Terrain\General\People\1975\Travellers\travellers01-c.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
 </StrElement>
 <Fahrstrasse FahrstrName="Konstanz-Petershausen F -&gt; Konstanz-Petershausen P1" FahrstrTyp="TypZug" Laenge="880.4792">
 <FahrstrStart Ref="9">
