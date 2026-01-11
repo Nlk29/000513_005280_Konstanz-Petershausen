@@ -652,7 +652,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="70" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Sounds\BUe_Glocke.lod.ls3"/>
-<p X="-61.6343" Y="331.1469" Z="400.7946"/>
+<p X="-61.6343" Y="331.1469" Z="400.068"/>
 <phi/>
 <sk/>
 </Verknuepfte>
@@ -5894,18 +5894,6 @@
 <phi Z="-0.887929"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Signals\Deutschland\zugschluss\zsscheibe_ws.lod.ls3"/>
-<p X="-212.3328" Y="450.9292" Z="402.0809"/>
-<phi Z="-0.537528"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Signals\Deutschland\zugschluss\zsscheibe_ws.lod.ls3"/>
-<p X="-213.3875" Y="449.0775" Z="402.0692"/>
-<phi Z="-0.537528"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RollingStock\Deutschland\Epoche3\Gueterwagen\BRD\O-Wagen\Otmm61\3D_Dateien\db_Fc089_Kohle.lod.ls3"/>
 <p X="-314.2346" Y="480.8733" Z="400.7313"/>
@@ -7575,7 +7563,7 @@
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="36" MeshI="102">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="38" MeshI="108">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
