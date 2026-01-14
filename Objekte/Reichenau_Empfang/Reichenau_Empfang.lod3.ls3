@@ -44,9 +44,6 @@
 </SubSet>
 <SubSet Cd="FFA3A3A3" MeshV="16" MeshI="24">
 <RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="..\..\..\niklas\Documents\KoPf_Reichenau_Empfang_lod3\texture6.jpg"/>
-</Textur>
 </SubSet>
 </Landschaft>
 </Zusi>
