@@ -22467,12 +22467,6 @@
 <sk X="0.9783" Y="0.9783" Z="0.9783"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\grasses\gras05.lod.ls3"/>
-<p X="-448.9447" Y="164.425" Z="398.269"/>
-<phi Z="-1.955949"/>
-<sk X="1.4414" Y="1.4414" Z="1.4414"/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\grasses\gras01.lod.ls3"/>
 <p X="-451.1589" Y="156.3228" Z="398.2353"/>
 <phi Z="-1.92692"/>
@@ -22495,12 +22489,6 @@
 <p X="-451.3665" Y="156.0041" Z="398.2343"/>
 <phi Z="0.890964"/>
 <sk X="1.4068" Y="1.4068" Z="1.4068"/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\grasses\gras01.lod.ls3"/>
-<p X="-447.9727" Y="163.7862" Z="398.263"/>
-<phi Z="1.085768"/>
-<sk X="1.0621" Y="1.0621" Z="1.0621"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\grasses\gras02.lod.ls3"/>
@@ -23384,12 +23372,6 @@
 <phi Z="-2.011221"/>
 <sk X="1.4461" Y="1.4461" Z="1.4461"/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\grasses\gras05.lod.ls3"/>
-<p X="-441.3103" Y="158.9411" Z="398.2196"/>
-<phi Z="-1.675701"/>
-<sk X="1.6151" Y="1.6151" Z="1.6151"/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\grasses\gras02.lod.ls3"/>
 <p X="-446.5991" Y="152.5977" Z="398.2036"/>
@@ -24176,12 +24158,6 @@
 <phi Z="-1.88708"/>
 <sk X="0.8994" Y="0.8994" Z="0.8994"/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\grasses\gras01.lod.ls3"/>
-<p X="-448.281" Y="169.1283" Z="398.2903"/>
-<phi Z="-2.224342"/>
-<sk X="1.9162" Y="1.9162" Z="1.9162"/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\grasses\gras05.lod.ls3"/>
 <p X="-450.0006" Y="162.1978" Z="398.261"/>
@@ -24217,12 +24193,6 @@
 <p X="-453.337" Y="159.3019" Z="398.2564"/>
 <phi Z="0.64781"/>
 <sk X="1.4448" Y="1.4448" Z="1.4448"/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\grasses\gras01.lod.ls3"/>
-<p X="-449.8569" Y="167.985" Z="398.2892"/>
-<phi Z="0.676975"/>
-<sk X="1.4937" Y="1.4937" Z="1.4937"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\grasses\gras02.lod.ls3"/>
@@ -28365,12 +28335,6 @@
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Nebensignale\DB_Zuordnungspfeil-re.lod.ls3"/>
-<p X="-86.297" Y="292.1942" Z="399.8499"/>
-<phi Z="2.699921"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Freileitungen\Niederspannung\Holzmast_I-8m.lod.ls3"/>
 <p X="27.2231" Y="314.0784" Z="399.6964"/>
 <phi/>
@@ -28378,7 +28342,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\Aufschuettungen_Formsignale\Aufschuettung_Naturstein.lod.ls3"/>
-<p X="-199.6992" Y="356.7089" Z="398.1622"/>
+<p X="-199.6992" Y="356.7089" Z="398.1974"/>
 <phi Z="2.699924"/>
 <sk/>
 </Verknuepfte>
@@ -28680,7 +28644,7 @@
 <SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="10" MeshI="27">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Terrain\Deutschland\Strassen\Autobahn\autobahn_2spurig_2950cm.dds"/>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="5" MeshI="9">
@@ -28842,7 +28806,7 @@
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="1" TypGF="6" MeterProTex="10" MeterProTex2="10" MeshV="4402" MeshI="20670">
+<SubSet Cd="00FFFFFF" TypLs3="1" TypGF="6" MeterProTex="10" MeterProTex2="10" MeshV="4402" MeshI="19860">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\terrain.dds"/>
@@ -28956,7 +28920,7 @@
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="103" MeshI="303">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="103" MeshI="300">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>

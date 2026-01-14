@@ -1854,9 +1854,15 @@
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_69\Schaltkasten69-einfach.lod.ls3"/>
 </SignalFrame>
+<SignalFrame WeichenbaugruppeIndex="6881380" WeichenbaugruppeNr="7209061" WeichenbaugruppePos0="1">
+<p X="-1" Z="5"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Sonstiges\Ungueltigkeitskreuz.ls3"/>
+</SignalFrame>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="4"/>
 <VsigBegriff/>
-<MatrixEintrag Signalbild="97" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="225" MatrixGeschw="-1"/>
 </Signal>
 </InfoGegenRichtung>
 <NachNorm Nr="69"/>
@@ -18952,16 +18958,12 @@
 <NachGegen Nr="314"/>
 </StrElement>
 <StrElement Nr="1444" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="-1519.835" Y="763.1475" Z="398.6696"/>
-<b X="-1586.2817" Y="794.5652" Z="398.6669"/>
+<g X="-1519.8348" Y="763.1475" Z="398.6696"/>
+<b X="-1583.1176" Y="793.0692" Z="398.667"/>
 <InfoNormRichtung vMax="-1">
-<Ereignis Er="1000012"/>
-<Signal NameBetriebsstelle="Reichenau (Baden)" Stellwerk="Reichenau (Baden) FD" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="1">
-<p X="10" Y="792.1942" Z="399.5"/>
+<Signal SignalTyp="1" BoundingR="10">
+<p X="-1585.8447" Y="791.9805" Z="399.5"/>
 <phi Z="2.699921"/>
-<KoppelSignal ReferenzNr="408">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</KoppelSignal>
 <SignalFrame>
 <p/>
 <phi/>
@@ -18974,15 +18976,21 @@
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Kennzeichen\Betonpfosten-oA.lod.ls3"/>
 </SignalFrame>
+<SignalFrame>
+<p Z="0.33"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Nebensignale\DB_Zuordnungspfeil-re.lod.ls3"/>
+</SignalFrame>
 <HsigBegriff HsigGeschw="-1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="7" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1">
 <Ereignis Er="1000008"/>
 <Signal NameBetriebsstelle="Reichenau (Baden)" Stellwerk="Reichenau (Baden) FD" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="1">
-<p X="-1519.835" Y="763.1475" Z="398.6696"/>
+<p X="-1519.8348" Y="763.1475" Z="398.6696"/>
 <phi/>
 <KoppelSignal ReferenzNr="408">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
@@ -18992,7 +19000,7 @@
 <MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
 </Signal>
 </InfoGegenRichtung>
-<NachNorm Nr="1448"/>
+<NachNorm Nr="1534"/>
 <NachGegen Nr="1479"/>
 </StrElement>
 <StrElement Nr="1448" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
@@ -19030,7 +19038,7 @@
 </Signal>
 </InfoGegenRichtung>
 <NachNorm Nr="311"/>
-<NachGegen Nr="1444"/>
+<NachGegen Nr="1534"/>
 </StrElement>
 <StrElement Nr="1449" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-106.6153" Y="97.9812" Z="399.3275"/>
@@ -20962,7 +20970,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20974,7 +20982,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -21000,7 +21008,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -21012,7 +21020,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -21039,7 +21047,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -21051,7 +21059,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -21077,7 +21085,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -21089,7 +21097,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -22851,6 +22859,25 @@
 <MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
 </Signal>
 </InfoGegenRichtung>
+</StrElement>
+<StrElement Nr="1534" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="-1583.1177" Y="793.0692" Z="398.667"/>
+<b X="-1586.2817" Y="794.5652" Z="398.6669"/>
+<InfoNormRichtung vMax="-1">
+<Ereignis Er="1000012"/>
+<Signal NameBetriebsstelle="Reichenau (Baden)" Stellwerk="Reichenau (Baden) FD" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="1">
+<p X="10" Y="792.1942" Z="399.5"/>
+<phi Z="2.699921"/>
+<KoppelSignal ReferenzNr="408">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="4611686018427387903" MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
+<NachNorm Nr="1448"/>
+<NachGegen Nr="1444"/>
 </StrElement>
 <Fahrstrasse FahrstrName="Konstanz-Petershausen F -&gt; Konstanz-Petershausen P1" FahrstrTyp="TypZug" Laenge="880.4792">
 <FahrstrStart Ref="9">
