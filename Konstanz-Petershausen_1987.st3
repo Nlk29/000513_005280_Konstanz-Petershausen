@@ -2971,72 +2971,72 @@
 <StrElement Nr="170" Ueberh="-0.0523" kr="0.00235" spTrass="16.6667" Anschluss="257" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2295.21" Y="-1043.4351" Z="400.7455"/>
 <b X="2287.8979" Y="-1039.332" Z="400.7443"/>
-<InfoNormRichtung vMax="-1" km="412.6306"/>
-<InfoGegenRichtung vMax="-1" km="412.6223" pos="1"/>
+<InfoNormRichtung vMax="33.3333" km="412.6306"/>
+<InfoGegenRichtung vMax="38.8889" km="412.6223" pos="1"/>
 <NachNorm Nr="176"/>
 <NachGegen Nr="1464"/>
 </StrElement>
 <StrElement Nr="171" Ueberh="0.0044" kr="-0.000281" spTrass="16.6667" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2242.4971" Y="-1016.845" Z="400.7377"/>
 <b X="2250.1389" Y="-1020.44" Z="400.7388"/>
-<InfoNormRichtung vMax="-1" km="412.5699" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="412.5784"/>
+<InfoNormRichtung vMax="38.8889" km="412.5699" pos="1"/>
+<InfoGegenRichtung vMax="33.3333" km="412.5784"/>
 <NachNorm Nr="172"/>
 <NachGegen Nr="177"/>
 </StrElement>
 <StrElement Nr="172" Ueberh="0.0131" kr="-0.000531" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2250.1389" Y="-1020.44" Z="400.7388"/>
 <b X="2257.769" Y="-1024.062" Z="400.7399"/>
-<InfoNormRichtung vMax="-1" km="412.5789" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="412.5873"/>
+<InfoNormRichtung vMax="38.8889" km="412.5789" pos="1"/>
+<InfoGegenRichtung vMax="33.3333" km="412.5873"/>
 <NachNorm Nr="173"/>
 <NachGegen Nr="171"/>
 </StrElement>
 <StrElement Nr="173" Ueberh="0.0218" kr="-0.001023" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2257.769" Y="-1024.062" Z="400.7399"/>
 <b X="2265.373" Y="-1027.7371" Z="400.7408"/>
-<InfoNormRichtung vMax="-1" km="412.5879" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="412.5963"/>
+<InfoNormRichtung vMax="38.8889" km="412.5879" pos="1"/>
+<InfoGegenRichtung vMax="33.3333" km="412.5963"/>
 <NachNorm Nr="174"/>
 <NachGegen Nr="172"/>
 </StrElement>
 <StrElement Nr="174" Ueberh="0.0305" kr="-0.001426" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2265.373" Y="-1027.7371" Z="400.7408"/>
 <b X="2272.938" Y="-1031.49" Z="400.7421"/>
-<InfoNormRichtung vMax="-1" km="412.5969" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="412.6053"/>
+<InfoNormRichtung vMax="38.8889" km="412.5969" pos="1"/>
+<InfoGegenRichtung vMax="33.3333" km="412.6053"/>
 <NachNorm Nr="175"/>
 <NachGegen Nr="173"/>
 </StrElement>
 <StrElement Nr="175" Ueberh="0.0392" kr="-0.001817" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2272.938" Y="-1031.49" Z="400.7421"/>
 <b X="2280.4519" Y="-1035.347" Z="400.7432"/>
-<InfoNormRichtung vMax="-1" km="412.6051" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="412.6136"/>
+<InfoNormRichtung vMax="38.8889" km="412.6051" pos="1"/>
+<InfoGegenRichtung vMax="33.3333" km="412.6136"/>
 <NachNorm Nr="176"/>
 <NachGegen Nr="174"/>
 </StrElement>
 <StrElement Nr="176" Ueberh="0.0479" kr="-0.002217" spTrass="16.6667" Anschluss="257" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2280.4519" Y="-1035.347" Z="400.7432"/>
 <b X="2287.8979" Y="-1039.332" Z="400.7443"/>
-<InfoNormRichtung vMax="-1" km="412.6137" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="412.6221"/>
+<InfoNormRichtung vMax="38.8889" km="412.6137" pos="1"/>
+<InfoGegenRichtung vMax="33.3333" km="412.6221"/>
 <NachNorm Nr="170"/>
 <NachGegen Nr="175"/>
 </StrElement>
 <StrElement Nr="177" spTrass="16.6667" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2242.4971" Y="-1016.845" Z="400.7377"/>
 <b X="2185.863" Y="-990.245" Z="400.7294"/>
-<InfoNormRichtung vMax="-1" km="412.5699"/>
-<InfoGegenRichtung vMax="-1" km="412.5074" pos="1"/>
+<InfoNormRichtung vMax="33.3333" km="412.5699"/>
+<InfoGegenRichtung vMax="38.8889" km="412.5074" pos="1"/>
 <NachNorm Nr="1434"/>
 <NachGegen Nr="171"/>
 </StrElement>
 <StrElement Nr="179" spTrass="16.6667" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1610.865" Y="-718.568" Z="400.5164"/>
 <b X="1602.4399" Y="-714.587" Z="400.5106"/>
-<InfoNormRichtung vMax="-1" km="411.8728"/>
-<InfoGegenRichtung vMax="-1" km="411.8635" pos="1"/>
+<InfoNormRichtung vMax="33.3333" km="411.8728"/>
+<InfoGegenRichtung vMax="38.8889" km="411.8635" pos="1"/>
 <NachNorm Nr="560"/>
 <NachGegen Nr="545"/>
 </StrElement>
@@ -3184,10 +3184,10 @@
 <StrElement Nr="191" spTrass="16.6667" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1701.245" Y="-766.251" Z="400.5803"/>
 <b X="1695.325" Y="-763.453" Z="400.5762"/>
-<InfoNormRichtung vMax="-1" km="411.9751" Reg="5013">
+<InfoNormRichtung vMax="38.8889" km="411.9751" Reg="5013">
 <Ereignis Er="3"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="411.9686" pos="1" Reg="5013"/>
+<InfoGegenRichtung vMax="38.8889" km="411.9686" pos="1" Reg="5013"/>
 <NachNorm Nr="529"/>
 <NachGegen Nr="475"/>
 </StrElement>
@@ -3433,16 +3433,16 @@
 <StrElement Nr="200" kr="0.001882" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2277.8181" Y="-1039.0699" Z="400.7432"/>
 <b X="2271.375" Y="-1035.75" Z="400.7422"/>
-<InfoNormRichtung vMax="-1" km="412.6134"/>
-<InfoGegenRichtung vMax="-1" km="412.6062" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="412.6134"/>
+<InfoGegenRichtung vMax="38.8889" km="412.6062" pos="1"/>
 <NachNorm Nr="201"/>
 <NachGegen Nr="199"/>
 </StrElement>
 <StrElement Nr="201" kr="0.001685" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2271.375" Y="-1035.75" Z="400.7422"/>
 <b X="2264.8579" Y="-1032.579" Z="400.7412"/>
-<InfoNormRichtung vMax="-1" km="412.6059"/>
-<InfoGegenRichtung vMax="-1" km="412.5987" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="412.6059"/>
+<InfoGegenRichtung vMax="38.8889" km="412.5987" pos="1"/>
 <NachNorm Nr="468"/>
 <NachGegen Nr="200"/>
 </StrElement>
@@ -4034,82 +4034,82 @@
 <StrElement Nr="248" spTrass="33.3333" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1285.749" Y="-564.385" Z="400.2915"/>
 <b X="1276.2556" Y="-559.899" Z="400.2849"/>
-<InfoNormRichtung vMax="-1">
+<InfoNormRichtung vMax="33.3333">
 <Ereignis Er="1000010" Beschr="Konstanz-Fürstenberg Hp"/>
 <Ereignis Er="6" Beschr="Konstanz-Fürstenberg Hp"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="411.5017" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="411.5017" pos="1"/>
 <NachNorm Nr="1454"/>
 <NachGegen Nr="271"/>
 </StrElement>
 <StrElement Nr="249" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1196.0959" Y="-522.0209" Z="400.2295"/>
 <b X="1193.9788" Y="-521.0204" Z="400.228"/>
-<InfoGegenRichtung vMax="-1" km="411.4105" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="411.4105" pos="1"/>
 <NachNorm Nr="1486"/>
 <NachGegen Nr="1453"/>
 </StrElement>
 <StrElement Nr="250" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1106.443" Y="-479.6569" Z="400.1675"/>
 <b X="1016.789" Y="-437.2928" Z="400.1055"/>
-<InfoNormRichtung vMax="-1" km="411.3134"/>
-<InfoGegenRichtung vMax="-1" km="411.2142" pos="1"/>
+<InfoNormRichtung vMax="33.3333" km="411.3134"/>
+<InfoGegenRichtung vMax="38.8889" km="411.2142" pos="1"/>
 <NachNorm Nr="251"/>
 <NachGegen Nr="1455"/>
 </StrElement>
 <StrElement Nr="251" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1016.789" Y="-437.2928" Z="400.1055"/>
 <b X="927.136" Y="-394.9288" Z="400.0435"/>
-<InfoNormRichtung vMax="-1" km="411.214"/>
-<InfoGegenRichtung vMax="-1" km="411.1148" pos="1"/>
+<InfoNormRichtung vMax="33.3333" km="411.214"/>
+<InfoGegenRichtung vMax="38.8889" km="411.1148" pos="1"/>
 <NachNorm Nr="252"/>
 <NachGegen Nr="250"/>
 </StrElement>
 <StrElement Nr="252" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="927.136" Y="-394.9288" Z="400.0435"/>
 <b X="837.4828" Y="-352.5647" Z="399.9815"/>
-<InfoNormRichtung vMax="-1" km="411.1146"/>
-<InfoGegenRichtung vMax="-1" km="411.0155" pos="1"/>
+<InfoNormRichtung vMax="33.3333" km="411.1146"/>
+<InfoGegenRichtung vMax="38.8889" km="411.0155" pos="1"/>
 <NachNorm Nr="253"/>
 <NachGegen Nr="251"/>
 </StrElement>
 <StrElement Nr="253" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="837.4828" Y="-352.5647" Z="399.9815"/>
 <b X="747.8296" Y="-310.2007" Z="399.9196"/>
-<InfoNormRichtung vMax="-1" km="411.0152"/>
-<InfoGegenRichtung vMax="-1" km="410.9161" pos="1"/>
+<InfoNormRichtung vMax="33.3333" km="411.0152"/>
+<InfoGegenRichtung vMax="38.8889" km="410.9161" pos="1"/>
 <NachNorm Nr="254"/>
 <NachGegen Nr="252"/>
 </StrElement>
 <StrElement Nr="254" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="747.8296" Y="-310.2007" Z="399.9196"/>
 <b X="658.1763" Y="-267.8366" Z="399.8575"/>
-<InfoNormRichtung vMax="-1" km="410.9159"/>
-<InfoGegenRichtung vMax="-1" km="410.8167" pos="1"/>
+<InfoNormRichtung vMax="33.3333" km="410.9159"/>
+<InfoGegenRichtung vMax="38.8889" km="410.8167" pos="1"/>
 <NachNorm Nr="255"/>
 <NachGegen Nr="253"/>
 </StrElement>
 <StrElement Nr="255" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="658.1763" Y="-267.8366" Z="399.8575"/>
 <b X="568.5231" Y="-225.4725" Z="399.7956"/>
-<InfoNormRichtung vMax="-1" km="410.8165"/>
-<InfoGegenRichtung vMax="-1" km="410.7173" pos="1"/>
+<InfoNormRichtung vMax="33.3333" km="410.8165"/>
+<InfoGegenRichtung vMax="38.8889" km="410.7173" pos="1"/>
 <NachNorm Nr="256"/>
 <NachGegen Nr="254"/>
 </StrElement>
 <StrElement Nr="256" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="568.5231" Y="-225.4725" Z="399.7956"/>
 <b X="478.8698" Y="-183.1085" Z="399.7336"/>
-<InfoNormRichtung vMax="-1" km="410.7171"/>
-<InfoGegenRichtung vMax="-1" km="410.6179" pos="1"/>
+<InfoNormRichtung vMax="33.3333" km="410.7171"/>
+<InfoGegenRichtung vMax="38.8889" km="410.6179" pos="1"/>
 <NachNorm Nr="257"/>
 <NachGegen Nr="255"/>
 </StrElement>
 <StrElement Nr="257" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="478.8698" Y="-183.1085" Z="399.7336"/>
 <b X="389.2166" Y="-140.7444" Z="399.6716"/>
-<InfoNormRichtung vMax="-1" km="410.6177"/>
-<InfoGegenRichtung vMax="-1" km="410.5186" pos="1">
+<InfoNormRichtung vMax="33.3333" km="410.6177"/>
+<InfoGegenRichtung vMax="38.8889" km="410.5186" pos="1">
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pf" Signalname="Av" SignalTyp="6" BoundingR="10">
 <p X="477.5027" Y="-186.0018" Z="399.2336"/>
 <phi Z="-0.441434"/>
@@ -4198,7 +4198,7 @@
 <StrElement Nr="258" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="389.2166" Y="-140.7444" Z="399.6716"/>
 <b X="321.4061" Y="-108.7018" Z="399.6247"/>
-<InfoGegenRichtung vMax="-1" km="410.4434" pos="1">
+<InfoGegenRichtung vMax="38.8889" km="410.4434" pos="1">
 <Signal SignalTyp="1" BoundingR="10">
 <p X="389.2166" Y="-140.7444" Z="399.6716"/>
 <phi Z="-0.441433"/>
@@ -4225,14 +4225,14 @@
 <StrElement Nr="259" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="299.5634" Y="-98.3804" Z="399.6096"/>
 <b X="253.5956" Y="-76.6591" Z="399.5778"/>
-<InfoGegenRichtung vMax="-1" km="410.3681" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="410.3681" pos="1"/>
 <NachNorm Nr="1492"/>
 <NachGegen Nr="1491"/>
 </StrElement>
 <StrElement Nr="260" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="209.9102" Y="-56.0163" Z="399.5476"/>
 <b X="120.2567" Y="-13.6522" Z="399.4856"/>
-<InfoNormRichtung vMax="-1" km="410.3195">
+<InfoNormRichtung vMax="33.3333" km="410.3195">
 <Signal NameBetriebsstelle="Konstanz-Wollmatingen Hp" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="1">
 <p X="209.9102" Y="-56.0163" Z="399.5476"/>
 <phi/>
@@ -4244,7 +4244,7 @@
 <MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="410.2204" pos="1">
+<InfoGegenRichtung vMax="38.8889" km="410.2204" pos="1">
 <Ereignis Er="1000008" Beschr="Konstanz-Wollmatingen Hp"/>
 <Signal NameBetriebsstelle="Konstanz-Wollmatingen Hp" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="1">
 <p X="209.9102" Y="-56.0163" Z="399.5476"/>
@@ -4263,34 +4263,34 @@
 <StrElement Nr="261" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="120.2567" Y="-13.6522" Z="399.4856"/>
 <b X="66.4604" Y="11.7683" Z="399.4484"/>
-<InfoNormRichtung vMax="-1">
+<InfoNormRichtung vMax="33.3333">
 <Ereignis Er="1000012" Beschr="Konstanz-Wollmatingen Hp"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="410.1607" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="410.1607" pos="1"/>
 <NachNorm Nr="1451"/>
 <NachGegen Nr="260"/>
 </StrElement>
 <StrElement Nr="262" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="30.6036" Y="28.7118" Z="399.4236"/>
 <b X="-59.0497" Y="71.0759" Z="399.3616"/>
-<InfoNormRichtung vMax="-1" km="410.1208"/>
-<InfoGegenRichtung vMax="-1" km="410.0216" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="410.1208"/>
+<InfoGegenRichtung vMax="38.8889" km="410.0216" pos="1"/>
 <NachNorm Nr="263"/>
 <NachGegen Nr="1471"/>
 </StrElement>
 <StrElement Nr="263" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-59.0497" Y="71.0759" Z="399.3616"/>
 <b X="-148.7029" Y="113.4399" Z="399.2996"/>
-<InfoNormRichtung vMax="-1" km="410.0214"/>
-<InfoGegenRichtung vMax="-1" km="409.9222" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="410.0214"/>
+<InfoGegenRichtung vMax="38.8889" km="409.9222" pos="1"/>
 <NachNorm Nr="296"/>
 <NachGegen Nr="262"/>
 </StrElement>
 <StrElement Nr="264" kr="-0.000017" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1510.5291" Y="-671.156" Z="400.4471"/>
 <b X="1505.104" Y="-668.5924" Z="400.4433"/>
-<InfoNormRichtung vMax="-1" km="411.7616"/>
-<InfoGegenRichtung vMax="-1" km="411.7556" pos="1">
+<InfoNormRichtung vMax="33.3333" km="411.7616"/>
+<InfoGegenRichtung vMax="38.8889" km="411.7556" pos="1">
 <Signal SignalTyp="1" BoundingR="3">
 <p X="1505.5881" Y="-672.2499" Z="399.8471"/>
 <phi Z="-0.441446"/>
@@ -4325,55 +4325,55 @@
 <StrElement Nr="265" kr="-0.000034" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1505.115" Y="-668.5964" Z="400.4433"/>
 <b X="1454.298" Y="-644.5177" Z="400.4082"/>
-<InfoNormRichtung vMax="-1" km="411.7556"/>
-<InfoGegenRichtung vMax="-1" km="411.6993" pos="1"/>
+<InfoNormRichtung vMax="33.3333" km="411.7556"/>
+<InfoGegenRichtung vMax="38.8889" km="411.6993" pos="1"/>
 <NachNorm Nr="1461"/>
 <NachGegen Nr="264"/>
 </StrElement>
 <StrElement Nr="267" kr="0.000017" spTrass="33.3333" Anschluss="1" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1398.101" Y="-617.7532" Z="400.3693"/>
 <b X="1403.516" Y="-620.3383" Z="400.373"/>
-<InfoNormRichtung vMax="-1" km="411.6368" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.6428"/>
+<InfoNormRichtung vMax="38.8889" km="411.6368" pos="1"/>
+<InfoGegenRichtung vMax="33.3333" km="411.6428"/>
 <NachNorm Nr="1462"/>
 <NachGegen Nr="268"/>
 </StrElement>
 <StrElement Nr="268" kr="0.000017" spTrass="33.3333" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1398.101" Y="-617.7532" Z="400.3693"/>
 <b X="1392.687" Y="-615.1681" Z="400.3655"/>
-<InfoNormRichtung vMax="-1" km="411.6368"/>
-<InfoGegenRichtung vMax="-1" km="411.6308" pos="1"/>
+<InfoNormRichtung vMax="33.3333" km="411.6368"/>
+<InfoGegenRichtung vMax="38.8889" km="411.6308" pos="1"/>
 <NachNorm Nr="269"/>
 <NachGegen Nr="267"/>
 </StrElement>
 <StrElement Nr="269" kr="0.000034" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1392.689" Y="-615.1639" Z="400.3655"/>
 <b X="1341.9561" Y="-591.0057" Z="400.3304"/>
-<InfoNormRichtung vMax="-1" km="411.6308"/>
-<InfoGegenRichtung vMax="-1" km="411.5746" pos="1"/>
+<InfoNormRichtung vMax="33.3333" km="411.6308"/>
+<InfoGegenRichtung vMax="38.8889" km="411.5746" pos="1"/>
 <NachNorm Nr="270"/>
 <NachGegen Nr="268"/>
 </StrElement>
 <StrElement Nr="270" kr="0.000034" spTrass="33.3333" Anschluss="257" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1341.9561" Y="-591.0057" Z="400.3304"/>
 <b X="1291.176" Y="-566.9446" Z="400.2953"/>
-<InfoNormRichtung vMax="-1" km="411.5745"/>
-<InfoGegenRichtung vMax="-1" km="411.5183" pos="1"/>
+<InfoNormRichtung vMax="33.3333" km="411.5745"/>
+<InfoGegenRichtung vMax="38.8889" km="411.5183" pos="1"/>
 <NachNorm Nr="271"/>
 <NachGegen Nr="269"/>
 </StrElement>
 <StrElement Nr="271" kr="-0.000017" spTrass="33.3333" Anschluss="1" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1285.749" Y="-564.385" Z="400.2915"/>
 <b X="1291.174" Y="-566.9486" Z="400.2953"/>
-<InfoNormRichtung vMax="-1" km="411.5121" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.5182"/>
+<InfoNormRichtung vMax="38.8889" km="411.5121" pos="1"/>
+<InfoGegenRichtung vMax="33.3333" km="411.5182"/>
 <NachNorm Nr="270"/>
 <NachGegen Nr="248"/>
 </StrElement>
 <StrElement Nr="272" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1287.458" Y="-560.7679" Z="400.2915"/>
 <b X="1197.8051" Y="-518.4036" Z="400.2295"/>
-<InfoNormRichtung vMax="-1" km="411.5121">
+<InfoNormRichtung vMax="33.3333" km="411.5121">
 <Ereignis Er="1000008" Beschr="Konstanz-Fürstenberg Hp"/>
 <Signal NameBetriebsstelle="Konstanz-Fürstenberg Hp" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="1">
 <p X="1287.458" Y="-560.7679" Z="400.2915"/>
@@ -4413,7 +4413,7 @@
 <StrElement Nr="274" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1108.152" Y="-476.0393" Z="400.1675"/>
 <b X="1018.498" Y="-433.675" Z="400.1055"/>
-<InfoNormRichtung vMax="-1" km="411.3134"/>
+<InfoNormRichtung vMax="33.3333" km="411.3134"/>
 <InfoGegenRichtung vMax="-1" km="411.2142" pos="1"/>
 <NachNorm Nr="275"/>
 <NachGegen Nr="1457"/>
@@ -4421,7 +4421,7 @@
 <StrElement Nr="275" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1018.498" Y="-433.675" Z="400.1055"/>
 <b X="928.8453" Y="-391.3107" Z="400.0435"/>
-<InfoNormRichtung vMax="-1" km="411.214"/>
+<InfoNormRichtung vMax="33.3333" km="411.214"/>
 <InfoGegenRichtung vMax="-1" km="411.1148" pos="1"/>
 <NachNorm Nr="276"/>
 <NachGegen Nr="274"/>
@@ -4429,7 +4429,7 @@
 <StrElement Nr="276" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="928.8453" Y="-391.3107" Z="400.0435"/>
 <b X="839.1921" Y="-348.9464" Z="399.9815"/>
-<InfoNormRichtung vMax="-1" km="411.1146">
+<InfoNormRichtung vMax="33.3333" km="411.1146">
 <Signal SignalTyp="1" BoundingR="1">
 <p X="840.3884" Y="-346.4148" Z="401.1965"/>
 <phi Z="2.176558"/>
@@ -4451,7 +4451,7 @@
 <StrElement Nr="277" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="839.1921" Y="-348.9464" Z="399.9815"/>
 <b X="749.5389" Y="-306.5821" Z="399.9196"/>
-<InfoNormRichtung vMax="-1" km="411.0152"/>
+<InfoNormRichtung vMax="33.3333" km="411.0152"/>
 <InfoGegenRichtung vMax="-1" km="410.9161" pos="1"/>
 <NachNorm Nr="278"/>
 <NachGegen Nr="276"/>
@@ -4459,7 +4459,7 @@
 <StrElement Nr="278" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="749.5389" Y="-306.5821" Z="399.9196"/>
 <b X="659.8857" Y="-264.2177" Z="399.8575"/>
-<InfoNormRichtung vMax="-1" km="410.9158"/>
+<InfoNormRichtung vMax="33.3333" km="410.9158"/>
 <InfoGegenRichtung vMax="-1" km="410.8167" pos="1"/>
 <NachNorm Nr="279"/>
 <NachGegen Nr="277"/>
@@ -4467,7 +4467,7 @@
 <StrElement Nr="279" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="659.8857" Y="-264.2177" Z="399.8575"/>
 <b X="570.2325" Y="-221.8535" Z="399.7956"/>
-<InfoNormRichtung vMax="-1" km="410.8165"/>
+<InfoNormRichtung vMax="33.3333" km="410.8165"/>
 <InfoGegenRichtung vMax="-1" km="410.7173" pos="1"/>
 <NachNorm Nr="280"/>
 <NachGegen Nr="278"/>
@@ -4475,7 +4475,7 @@
 <StrElement Nr="280" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="570.2325" Y="-221.8535" Z="399.7956"/>
 <b X="480.5793" Y="-179.4891" Z="399.7336"/>
-<InfoNormRichtung vMax="-1" km="410.7171"/>
+<InfoNormRichtung vMax="33.3333" km="410.7171"/>
 <InfoGegenRichtung vMax="-1" km="410.6179" pos="1"/>
 <NachNorm Nr="281"/>
 <NachGegen Nr="279"/>
@@ -4483,7 +4483,7 @@
 <StrElement Nr="281" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="480.5793" Y="-179.4891" Z="399.7336"/>
 <b X="390.9261" Y="-137.1248" Z="399.6716"/>
-<InfoNormRichtung vMax="-1" km="410.6177"/>
+<InfoNormRichtung vMax="33.3333" km="410.6177"/>
 <InfoGegenRichtung vMax="-1" km="410.5186" pos="1"/>
 <NachNorm Nr="282"/>
 <NachGegen Nr="280"/>
@@ -4491,7 +4491,7 @@
 <StrElement Nr="282" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="390.9261" Y="-137.1248" Z="399.6716"/>
 <b X="301.273" Y="-94.7605" Z="399.6096"/>
-<InfoNormRichtung vMax="-1" km="410.5183"/>
+<InfoNormRichtung vMax="33.3333" km="410.5183"/>
 <InfoGegenRichtung vMax="-1" km="410.4192" pos="1"/>
 <NachNorm Nr="283"/>
 <NachGegen Nr="281"/>
@@ -4499,7 +4499,7 @@
 <StrElement Nr="283" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="301.273" Y="-94.7605" Z="399.6096"/>
 <b X="257.5876" Y="-74.1176" Z="399.5794"/>
-<InfoNormRichtung vMax="-1">
+<InfoNormRichtung vMax="33.3333">
 <Signal SignalTyp="1" BoundingR="10">
 <p X="257.5876" Y="-74.1176" Z="399.5794"/>
 <phi Z="2.700157"/>
@@ -4527,7 +4527,7 @@
 <StrElement Nr="284" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="211.6199" Y="-52.3962" Z="399.5476"/>
 <b X="189.7771" Y="-42.0747" Z="399.5325"/>
-<InfoNormRichtung vMax="-1">
+<InfoNormRichtung vMax="33.3333">
 <Signal SignalTyp="1" BoundingR="10">
 <p X="189.7771" Y="-42.0747" Z="399.5325"/>
 <phi Z="2.700157"/>
@@ -5405,39 +5405,39 @@
 <StrElement Nr="296" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-148.709" Y="113.447" Z="399.2996"/>
 <b X="-237.7805" Y="155.7473" Z="399.237"/>
-<InfoNormRichtung vMax="-1" km="409.922"/>
-<InfoGegenRichtung vMax="-1" km="409.8234" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="409.922"/>
+<InfoGegenRichtung vMax="38.8889" km="409.8234" pos="1"/>
 <NachNorm Nr="297"/>
 <NachGegen Nr="263"/>
 </StrElement>
 <StrElement Nr="297" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-237.7805" Y="155.7473" Z="399.237"/>
 <b X="-326.852" Y="198.0475" Z="399.1743"/>
-<InfoNormRichtung vMax="-1" km="409.8224"/>
-<InfoGegenRichtung vMax="-1" km="409.7238" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="409.8224"/>
+<InfoGegenRichtung vMax="38.8889" km="409.7238" pos="1"/>
 <NachNorm Nr="298"/>
 <NachGegen Nr="296"/>
 </StrElement>
 <StrElement Nr="298" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-326.852" Y="198.0475" Z="399.1743"/>
 <b X="-415.9235" Y="240.3478" Z="399.1116"/>
-<InfoNormRichtung vMax="-1" km="409.7227"/>
-<InfoGegenRichtung vMax="-1" km="409.6241" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="409.7227"/>
+<InfoGegenRichtung vMax="38.8889" km="409.6241" pos="1"/>
 <NachNorm Nr="299"/>
 <NachGegen Nr="297"/>
 </StrElement>
 <StrElement Nr="299" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-415.9235" Y="240.3478" Z="399.1116"/>
 <b X="-504.995" Y="282.648" Z="399.049"/>
-<InfoNormRichtung vMax="-1" km="409.6231"/>
-<InfoGegenRichtung vMax="-1" km="409.5245" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="409.6231"/>
+<InfoGegenRichtung vMax="38.8889" km="409.5245" pos="1"/>
 <NachNorm Nr="300"/>
 <NachGegen Nr="298"/>
 </StrElement>
 <StrElement Nr="300" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-504.995" Y="282.648" Z="399.049"/>
 <b X="-590.9174" Y="323.4527" Z="398.9885"/>
-<InfoNormRichtung vMax="-1">
+<InfoNormRichtung vMax="38.8889">
 <Signal NameBetriebsstelle="Reichenau (Baden)" Stellwerk="Reichenau (Baden) FD" Signalname="500 Hz (A\)" SignalTyp="14" BoundingR="3">
 <p X="-590.9174" Y="323.4527" Z="398.9885"/>
 <phi Y="0.000636" Z="2.698225"/>
@@ -5456,30 +5456,30 @@
 <MatrixEintrag Signalbild="1" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="409.4284" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="409.4284" pos="1"/>
 <NachNorm Nr="1478"/>
 <NachGegen Nr="299"/>
 </StrElement>
 <StrElement Nr="301" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-594.0665" Y="324.9482" Z="398.9863"/>
 <b X="-683.138" Y="367.2485" Z="398.9236"/>
-<InfoNormRichtung vMax="-1" km="409.4239"/>
-<InfoGegenRichtung vMax="-1" km="409.3253" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="409.4239"/>
+<InfoGegenRichtung vMax="38.8889" km="409.3253" pos="1"/>
 <NachNorm Nr="302"/>
 <NachGegen Nr="1478"/>
 </StrElement>
 <StrElement Nr="302" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-683.138" Y="367.2485" Z="398.9236"/>
 <b X="-772.2095" Y="409.5488" Z="398.861"/>
-<InfoNormRichtung vMax="-1" km="409.3242"/>
-<InfoGegenRichtung vMax="-1" km="409.2256" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="409.3242"/>
+<InfoGegenRichtung vMax="38.8889" km="409.2256" pos="1"/>
 <NachNorm Nr="303"/>
 <NachGegen Nr="301"/>
 </StrElement>
 <StrElement Nr="303" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-772.2095" Y="409.5488" Z="398.861"/>
 <b X="-816.7452" Y="430.6989" Z="398.8297"/>
-<InfoNormRichtung vMax="-1" Reg="5021">
+<InfoNormRichtung vMax="38.8889" Reg="5021">
 <Signal NameBetriebsstelle="Reichenau (Baden)" Stellwerk="Reichenau (Baden) FD" Signalname="A\" SignalTyp="13" BoundingR="1">
 <p X="-816.7452" Y="430.6989" Z="398.8297"/>
 <phi Z="2.698225"/>
@@ -5505,7 +5505,7 @@
 </Ersatzsignal>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="409.1753" pos="1" Reg="5021"/>
+<InfoGegenRichtung vMax="38.8889" km="409.1753" pos="1" Reg="5021"/>
 <NachNorm Nr="1460"/>
 <NachGegen Nr="302"/>
 </StrElement>
@@ -5574,23 +5574,23 @@
 <StrElement Nr="307" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1254.244" Y="637.5699" Z="398.6803"/>
 <b X="-1342.774" Y="679.4291" Z="398.6767"/>
-<InfoNormRichtung vMax="-1" km="408.7"/>
-<InfoGegenRichtung vMax="-1" km="408.6021" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="408.7"/>
+<InfoGegenRichtung vMax="38.8889" km="408.6021" pos="1"/>
 <NachNorm Nr="308"/>
 <NachGegen Nr="1245"/>
 </StrElement>
 <StrElement Nr="308" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1342.774" Y="679.4291" Z="398.6767"/>
 <b X="-1414.6042" Y="713.3918" Z="398.6739"/>
-<InfoGegenRichtung vMax="-1" km="408.5228" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="408.5228" pos="1"/>
 <NachNorm Nr="1484"/>
 <NachGegen Nr="307"/>
 </StrElement>
 <StrElement Nr="309" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1431.3051" Y="721.2883" Z="398.6732"/>
 <b X="-1476.9885" Y="742.8886" Z="398.6713"/>
-<InfoNormRichtung vMax="-1"/>
-<InfoGegenRichtung vMax="-1" km="408.454" pos="1">
+<InfoNormRichtung vMax="38.8889"/>
+<InfoGegenRichtung vMax="38.8889" km="408.454" pos="1">
 <Ereignis Er="1000009"/>
 <Ereignis Er="6"/>
 </InfoGegenRichtung>
@@ -5600,15 +5600,15 @@
 <StrElement Nr="311" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1608.365" Y="805.0066" Z="398.666"/>
 <b X="-1696.896" Y="846.8658" Z="398.6624"/>
-<InfoNormRichtung vMax="-1" km="408.309"/>
-<InfoGegenRichtung vMax="-1" km="408.211" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="408.309"/>
+<InfoGegenRichtung vMax="38.8889" km="408.211" pos="1"/>
 <NachNorm Nr="312"/>
 <NachGegen Nr="1448"/>
 </StrElement>
 <StrElement Nr="312" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1696.896" Y="846.8658" Z="398.6624"/>
 <b X="-1702.9983" Y="849.7511" Z="398.6622"/>
-<InfoNormRichtung vMax="-1" Reg="5023">
+<InfoNormRichtung vMax="38.8889" Reg="5023">
 <Signal NameBetriebsstelle="Reichenau (Baden)" Stellwerk="Reichenau (Baden) FD" Signalname="Gleis 2" SignalTyp="5" BoundingR="10">
 <p X="-1704.3405" Y="846.9124" Z="398.5122"/>
 <phi Z="2.699921"/>
@@ -5654,7 +5654,7 @@
 </Ersatzsignal>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="408.2045" pos="1" Reg="5023"/>
+<InfoGegenRichtung vMax="38.8889" km="408.2045" pos="1" Reg="5023"/>
 <NachNorm Nr="1458"/>
 <NachGegen Nr="311"/>
 </StrElement>
@@ -5856,8 +5856,8 @@
 <StrElement Nr="317" spTrass="38.8889" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1083.2679" Y="556.5229" Z="398.7317"/>
 <b X="-1092.979" Y="561.126" Z="398.7288"/>
-<InfoNormRichtung vMax="-1" km="408.885" Reg="5027"/>
-<InfoGegenRichtung vMax="-1" km="408.8743" pos="1" Reg="5027">
+<InfoNormRichtung vMax="38.8889" km="408.885" Reg="5027"/>
+<InfoGegenRichtung vMax="38.8889" km="408.8743" pos="1" Reg="5027">
 <Ereignis Er="4"/>
 <Ereignis Er="39" Beschr="720a"/>
 </InfoGegenRichtung>
@@ -5867,16 +5867,16 @@
 <StrElement Nr="318" kr="0.00005" spTrass="38.8889" Anschluss="1" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1083.264" Y="556.5263" Z="398.7317"/>
 <b X="-1035.917" Y="534.1583" Z="398.7459"/>
-<InfoNormRichtung vMax="-1" km="408.885" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="408.9374"/>
+<InfoNormRichtung vMax="38.8889" km="408.885" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="408.9374"/>
 <NachNorm Nr="321"/>
 <NachGegen Nr="317"/>
 </StrElement>
 <StrElement Nr="319" kr="0.00005" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-861.2883" Y="451.8546" Z="398.7983"/>
 <b X="-908.7876" Y="474.3356" Z="398.784"/>
-<InfoNormRichtung vMax="-1" km="409.125"/>
-<InfoGegenRichtung vMax="-1" km="409.0724" pos="1">
+<InfoNormRichtung vMax="38.8889" km="409.125"/>
+<InfoGegenRichtung vMax="38.8889" km="409.0724" pos="1">
 <Signal SignalTyp="1" BoundingR="1">
 <p X="-872.6983" Y="454.4192" Z="400.0133"/>
 <phi Z="-0.965652"/>
@@ -5897,16 +5897,16 @@
 <StrElement Nr="320" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-908.781" Y="474.333" Z="398.784"/>
 <b X="-972.351" Y="504.2465" Z="398.765"/>
-<InfoNormRichtung vMax="-1" km="409.0736"/>
-<InfoGegenRichtung vMax="-1" km="409.0034" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="409.0736"/>
+<InfoGegenRichtung vMax="38.8889" km="409.0034" pos="1"/>
 <NachNorm Nr="321"/>
 <NachGegen Nr="319"/>
 </StrElement>
 <StrElement Nr="321" spTrass="38.8889" Anschluss="257" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-972.351" Y="504.2465" Z="398.765"/>
 <b X="-1035.921" Y="534.16" Z="398.7459"/>
-<InfoNormRichtung vMax="-1" km="409.0049"/>
-<InfoGegenRichtung vMax="-1" km="408.9347" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="409.0049"/>
+<InfoGegenRichtung vMax="38.8889" km="408.9347" pos="1"/>
 <NachNorm Nr="318"/>
 <NachGegen Nr="320"/>
 </StrElement>
@@ -7319,7 +7319,7 @@
 <StrElement Nr="437" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1808.241" Y="-821.788" Z="400.6556"/>
 <b X="1754.976" Y="-796.618" Z="400.6187"/>
-<InfoNormRichtung vMax="-1" km="412.0959" Reg="5036">
+<InfoNormRichtung vMax="38.8889" km="412.0959" Reg="5036">
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pf" Signalname="Gleis 4" SignalTyp="13" BoundingR="10">
 <p X="1754.976" Y="-796.618" Z="400.6187"/>
 <phi Z="2.70015"/>
@@ -7365,7 +7365,7 @@
 </Ersatzsignal>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="412.037" pos="1" Reg="5036"/>
+<InfoGegenRichtung vMax="38.8889" km="412.037" pos="1" Reg="5036"/>
 <NachNorm Nr="453"/>
 <NachGegen Nr="441"/>
 </StrElement>
@@ -7451,8 +7451,8 @@
 <StrElement Nr="441" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1810.604" Y="-822.9041" Z="400.6572"/>
 <b X="1808.2419" Y="-821.7881" Z="400.6556"/>
-<InfoNormRichtung vMax="-1" km="412.0985"/>
-<InfoGegenRichtung vMax="-1" km="412.0959" pos="1">
+<InfoNormRichtung vMax="38.8889" km="412.0985"/>
+<InfoGegenRichtung vMax="38.8889" km="412.0959" pos="1">
 <Ereignis Er="31" Wert="1"/>
 </InfoGegenRichtung>
 <NachNorm Nr="437"/>
@@ -7551,7 +7551,7 @@
 <StrElement Nr="453" spTrass="27.7778" Anschluss="256" Fkt="4" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1754.976" Y="-796.618" Z="400.6187"/>
 <b X="1753.891" Y="-796.1053" Z="400.618"/>
-<InfoNormRichtung vMax="-1" km="412.0368" pos="1" Reg="5038">
+<InfoNormRichtung vMax="38.8889" km="412.0368" pos="1" Reg="5038">
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pf" Signalname="107" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="1754.976" Y="-796.618" Z="400.6187"/>
 <phi Y="0.000626" Z="2.700155"/>
@@ -7592,7 +7592,7 @@
 <MatrixEintrag Signalbild="45" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="412.0356" pos="1" Reg="5038"/>
+<InfoGegenRichtung vMax="38.8889" km="412.0356" pos="1" Reg="5038"/>
 <NachNorm Nr="454"/>
 <NachNorm Nr="456"/>
 <NachGegen Nr="437"/>
@@ -7608,18 +7608,18 @@
 <StrElement Nr="455" kr="-0.00326" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1747.433" Y="-792.8469" Z="400.6135"/>
 <b X="1744.252" Y="-791.1279" Z="400.6112"/>
-<InfoNormRichtung vMax="-1" km="412.0284" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="412.0247" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="412.0284" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="412.0247" pos="1"/>
 <NachNorm Nr="458"/>
 <NachGegen Nr="457"/>
 </StrElement>
 <StrElement Nr="456" kr="-0.002833" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1753.891" Y="-796.1053" Z="400.618"/>
 <b X="1750.6479" Y="-794.5053" Z="400.6158"/>
-<InfoNormRichtung vMax="-1" km="412.0356">
+<InfoNormRichtung vMax="38.8889" km="412.0356">
 <Ereignis Er="1" Wert="11.1111"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="412.032" pos="1">
+<InfoGegenRichtung vMax="38.8889" km="412.032" pos="1">
 <Ereignis Er="1" Wert="11.1111"/>
 </InfoGegenRichtung>
 <NachNorm Nr="457"/>
@@ -7628,24 +7628,24 @@
 <StrElement Nr="457" kr="-0.003068" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1750.6479" Y="-794.5053" Z="400.6158"/>
 <b X="1747.433" Y="-792.8469" Z="400.6135"/>
-<InfoNormRichtung vMax="-1" km="412.032" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="412.0284" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="412.032" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="412.0284" pos="1"/>
 <NachNorm Nr="455"/>
 <NachGegen Nr="456"/>
 </StrElement>
 <StrElement Nr="458" kr="-0.004068" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1744.252" Y="-791.1279" Z="400.6112"/>
 <b X="1740.35" Y="-788.9113" Z="400.6084"/>
-<InfoNormRichtung vMax="-1" km="412.0247" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="412.0203" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="412.0247" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="412.0203" pos="1"/>
 <NachNorm Nr="459"/>
 <NachGegen Nr="455"/>
 </StrElement>
 <StrElement Nr="459" kr="-0.003173" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1740.35" Y="-788.9113" Z="400.6084"/>
 <b X="1736.502" Y="-786.6031" Z="400.6056"/>
-<InfoNormRichtung vMax="-1" km="412.0203" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="412.0158" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="412.0203" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="412.0158" pos="1"/>
 <NachNorm Nr="461"/>
 <NachGegen Nr="458"/>
 </StrElement>
@@ -7664,11 +7664,11 @@
 <StrElement Nr="461" kr="0.0001" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1736.502" Y="-786.6031" Z="400.6056"/>
 <b X="1734.432" Y="-785.3272" Z="400.6041"/>
-<InfoNormRichtung vMax="-1" km="412.0158" pos="1">
+<InfoNormRichtung vMax="38.8889" km="412.0158" pos="1">
 <Ereignis Er="31" Wert="1"/>
 <Ereignis Er="1" Wert="11.1111"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="412.0133" pos="1">
+<InfoGegenRichtung vMax="38.8889" km="412.0133" pos="1">
 <Ereignis Er="31" Wert="1"/>
 <Ereignis Er="1" Wert="11.1111"/>
 </InfoGegenRichtung>
@@ -7686,8 +7686,8 @@
 <StrElement Nr="463" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1734.432" Y="-785.3272" Z="400.6041"/>
 <b X="1731.3149" Y="-783.4077" Z="400.6018"/>
-<InfoNormRichtung vMax="-1" km="412.0134" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="412.0097" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="412.0134" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="412.0097" pos="1"/>
 <NachNorm Nr="467"/>
 <NachGegen Nr="461"/>
 </StrElement>
@@ -7718,30 +7718,30 @@
 <StrElement Nr="467" spTrass="11.1111" Anschluss="257" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1731.313" Y="-783.407" Z="400.6018"/>
 <b X="1724.908" Y="-779.462" Z="400.5972"/>
-<InfoNormRichtung vMax="-1" km="412.0097"/>
-<InfoGegenRichtung vMax="-1" km="412.0022" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="412.0097"/>
+<InfoGegenRichtung vMax="38.8889" km="412.0022" pos="1"/>
 <NachNorm Nr="485"/>
 <NachGegen Nr="463"/>
 </StrElement>
 <StrElement Nr="468" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2264.8579" Y="-1032.579" Z="400.7412"/>
 <b X="2179.4167" Y="-992.2048" Z="400.7287"/>
-<InfoGegenRichtung vMax="-1" km="412.5039" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="412.5039" pos="1"/>
 <NachNorm Nr="1468"/>
 <NachGegen Nr="201"/>
 </StrElement>
 <StrElement Nr="469" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2175.012" Y="-990.1233" Z="400.7281"/>
 <b X="2085.166" Y="-947.6677" Z="400.715"/>
-<InfoNormRichtung vMax="-1" km="412.493"/>
-<InfoGegenRichtung vMax="-1" km="412.3936" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="412.493"/>
+<InfoGegenRichtung vMax="38.8889" km="412.3936" pos="1"/>
 <NachNorm Nr="470"/>
 <NachGegen Nr="1468"/>
 </StrElement>
 <StrElement Nr="470" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2085.166" Y="-947.6677" Z="400.715"/>
 <b X="2071.5881" Y="-941.2516" Z="400.713"/>
-<InfoGegenRichtung vMax="-1" km="412.3753" pos="1">
+<InfoGegenRichtung vMax="38.8889" km="412.3753" pos="1">
 <Ereignis Er="6"/>
 </InfoGegenRichtung>
 <NachNorm Nr="1476"/>
@@ -7750,7 +7750,7 @@
 <StrElement Nr="471" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1995.3199" Y="-905.212" Z="400.7017"/>
 <b X="1951.8165" Y="-884.6549" Z="400.6954"/>
-<InfoNormRichtung vMax="-1">
+<InfoNormRichtung vMax="38.8889">
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pf" Signalname="500 Hz (P3)" SignalTyp="14" BoundingR="3">
 <p X="1951.8165" Y="-884.6549" Z="400.6954"/>
 <phi Y="0.000131" Z="2.700154"/>
@@ -7769,22 +7769,22 @@
 <MatrixEintrag Signalbild="1" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="412.2521" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="412.2521" pos="1"/>
 <NachNorm Nr="1481"/>
 <NachGegen Nr="1476"/>
 </StrElement>
 <StrElement Nr="472" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1905.474" Y="-862.7563" Z="400.6887"/>
 <b X="1845.072" Y="-834.214" Z="400.6797"/>
-<InfoNormRichtung vMax="-1" km="412.2013"/>
-<InfoGegenRichtung vMax="-1" km="412.1345" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="412.2013"/>
+<InfoGegenRichtung vMax="38.8889" km="412.1345" pos="1"/>
 <NachNorm Nr="473"/>
 <NachGegen Nr="1481"/>
 </StrElement>
 <StrElement Nr="473" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1845.072" Y="-834.214" Z="400.6797"/>
 <b X="1815.6281" Y="-820.3007" Z="400.6594"/>
-<InfoNormRichtung vMax="-1" km="412.1346">
+<InfoNormRichtung vMax="38.8889" km="412.1346">
 <Signal NameBetriebsstelle="BÜ Schneckenburger Straße" Stellwerk="BÜ Schneckenburger Straße" SignalTyp="14" BoundingR="1">
 <p X="1844.52" Y="-833.95" Z="400.68"/>
 <phi/>
@@ -7798,7 +7798,7 @@
 <MatrixEintrag MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="412.102" pos="1">
+<InfoGegenRichtung vMax="38.8889" km="412.102" pos="1">
 <Signal NameBetriebsstelle="BÜ Schneckenburger Straße" Stellwerk="BÜ Schneckenburger Straße" SignalTyp="14" BoundingR="1">
 <p X="1844.52" Y="-833.95" Z="400.68"/>
 <phi Z="3.141593"/>
@@ -7818,7 +7818,7 @@
 <StrElement Nr="474" spTrass="16.6667" Anschluss="257" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1815.6281" Y="-820.3007" Z="400.6594"/>
 <b X="1725.782" Y="-777.845" Z="400.5972"/>
-<InfoNormRichtung vMax="-1" km="412.1019" Reg="5039">
+<InfoNormRichtung vMax="38.8889" km="412.1019" Reg="5039">
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pf" Signalname="P3" SignalTyp="9" BoundingR="10">
 <p X="1726.7433" Y="-775.8107" Z="400.5972"/>
 <phi Z="2.700154"/>
@@ -7946,7 +7946,7 @@
 </Ersatzsignal>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="412.0026" pos="1" Reg="5039">
+<InfoGegenRichtung vMax="38.8889" km="412.0026" pos="1" Reg="5039">
 <Ereignis Er="4"/>
 </InfoGegenRichtung>
 <NachNorm Nr="484"/>
@@ -7955,7 +7955,7 @@
 <StrElement Nr="475" spTrass="27.7778" Fkt="4" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1701.245" Y="-766.251" Z="400.5803"/>
 <b X="1702.33" Y="-766.7637" Z="400.581"/>
-<InfoNormRichtung vMax="-1" km="411.9751" pos="1" Reg="5040">
+<InfoNormRichtung vMax="38.8889" km="411.9751" pos="1" Reg="5040">
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pf" Signalname="106" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="1701.245" Y="-766.251" Z="400.5803"/>
 <phi Y="-0.000626" Z="-0.441437"/>
@@ -7996,7 +7996,7 @@
 <MatrixEintrag Signalbild="45" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="411.9763" Reg="5040"/>
+<InfoGegenRichtung vMax="38.8889" km="411.9763" Reg="5040"/>
 <NachNorm Nr="476"/>
 <NachNorm Nr="478"/>
 <NachGegen Nr="191"/>
@@ -8004,26 +8004,26 @@
 <StrElement Nr="476" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1702.33" Y="-766.7637" Z="400.581"/>
 <b X="1706.811" Y="-768.8812" Z="400.5841"/>
-<InfoNormRichtung vMax="-1" km="411.9763" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.9813"/>
+<InfoNormRichtung vMax="38.8889" km="411.9763" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="411.9813"/>
 <NachNorm Nr="487"/>
 <NachGegen Nr="475"/>
 </StrElement>
 <StrElement Nr="477" kr="-0.004769" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1708.788" Y="-770.0221" Z="400.5855"/>
 <b X="1711.97" Y="-771.7411" Z="400.5878"/>
-<InfoNormRichtung vMax="-1" km="411.9836" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.9872"/>
+<InfoNormRichtung vMax="38.8889" km="411.9836" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="411.9872"/>
 <NachNorm Nr="480"/>
 <NachGegen Nr="479"/>
 </StrElement>
 <StrElement Nr="478" kr="-0.003503" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1702.33" Y="-766.7637" Z="400.581"/>
 <b X="1705.573" Y="-768.3637" Z="400.5833"/>
-<InfoNormRichtung vMax="-1" km="411.9763" pos="1">
+<InfoNormRichtung vMax="38.8889" km="411.9763" pos="1">
 <Ereignis Er="1" Wert="11.1111"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="411.9799">
+<InfoGegenRichtung vMax="38.8889" km="411.9799">
 <Ereignis Er="1" Wert="11.1111"/>
 </InfoGegenRichtung>
 <NachNorm Nr="479"/>
@@ -8032,34 +8032,34 @@
 <StrElement Nr="479" kr="-0.004428" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1705.573" Y="-768.3637" Z="400.5833"/>
 <b X="1708.788" Y="-770.0221" Z="400.5855"/>
-<InfoNormRichtung vMax="-1" km="411.9799" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.9836"/>
+<InfoNormRichtung vMax="38.8889" km="411.9799" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="411.9836"/>
 <NachNorm Nr="477"/>
 <NachGegen Nr="478"/>
 </StrElement>
 <StrElement Nr="480" kr="-0.004071" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1711.97" Y="-771.7411" Z="400.5878"/>
 <b X="1715.8719" Y="-773.9578" Z="400.5906"/>
-<InfoNormRichtung vMax="-1" km="411.9872" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.9917"/>
+<InfoNormRichtung vMax="38.8889" km="411.9872" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="411.9917"/>
 <NachNorm Nr="481"/>
 <NachGegen Nr="477"/>
 </StrElement>
 <StrElement Nr="481" kr="-0.003175" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1715.8719" Y="-773.9578" Z="400.5906"/>
 <b X="1719.719" Y="-776.2659" Z="400.5934"/>
-<InfoNormRichtung vMax="-1" km="411.9917" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.9962"/>
+<InfoNormRichtung vMax="38.8889" km="411.9917" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="411.9962"/>
 <NachNorm Nr="483"/>
 <NachGegen Nr="480"/>
 </StrElement>
 <StrElement Nr="482" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1720.255" Y="-775.2337" Z="400.5934"/>
 <b X="1722.473" Y="-776.2821" Z="400.5949"/>
-<InfoNormRichtung vMax="-1" km="411.9962" pos="1">
+<InfoNormRichtung vMax="38.8889" km="411.9962" pos="1">
 <Ereignis Er="31" Wert="1"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="411.9986">
+<InfoGegenRichtung vMax="38.8889" km="411.9986">
 <Ereignis Er="31" Wert="1"/>
 </InfoGegenRichtung>
 <NachNorm Nr="484"/>
@@ -8068,11 +8068,11 @@
 <StrElement Nr="483" kr="0.0001" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1719.719" Y="-776.2659" Z="400.5934"/>
 <b X="1721.79" Y="-777.5417" Z="400.5949"/>
-<InfoNormRichtung vMax="-1" km="411.9962" pos="1">
+<InfoNormRichtung vMax="38.8889" km="411.9962" pos="1">
 <Ereignis Er="31" Wert="1"/>
 <Ereignis Er="1" Wert="11.1111"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="411.9986">
+<InfoGegenRichtung vMax="38.8889" km="411.9986">
 <Ereignis Er="31" Wert="1"/>
 <Ereignis Er="1" Wert="11.1111"/>
 </InfoGegenRichtung>
@@ -8082,47 +8082,47 @@
 <StrElement Nr="484" spTrass="27.7778" Anschluss="257" Fkt="12" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1722.473" Y="-776.2821" Z="400.5949"/>
 <b X="1725.783" Y="-777.8458" Z="400.5972"/>
-<InfoNormRichtung vMax="-1" km="411.9987" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="412.0023"/>
+<InfoNormRichtung vMax="38.8889" km="411.9987" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="412.0023"/>
 <NachNorm Nr="474"/>
 <NachGegen Nr="482"/>
 </StrElement>
 <StrElement Nr="485" spTrass="27.7778" Anschluss="257" Fkt="20" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1721.79" Y="-777.5417" Z="400.5949"/>
 <b X="1724.906" Y="-779.4613" Z="400.5972"/>
-<InfoNormRichtung vMax="-1" km="411.9986" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="412.0022"/>
+<InfoNormRichtung vMax="38.8889" km="411.9986" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="412.0022"/>
 <NachNorm Nr="467"/>
 <NachGegen Nr="483"/>
 </StrElement>
 <StrElement Nr="486" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1711.292" Y="-770.9987" Z="400.5872"/>
 <b X="1715.7729" Y="-773.1161" Z="400.5903"/>
-<InfoNormRichtung vMax="-1" km="411.9863" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.9912"/>
+<InfoNormRichtung vMax="38.8889" km="411.9863" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="411.9912"/>
 <NachNorm Nr="488"/>
 <NachGegen Nr="487"/>
 </StrElement>
 <StrElement Nr="487" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1706.811" Y="-768.8812" Z="400.5841"/>
 <b X="1711.292" Y="-770.9987" Z="400.5872"/>
-<InfoNormRichtung vMax="-1" km="411.9813" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.9862"/>
+<InfoNormRichtung vMax="38.8889" km="411.9813" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="411.9862"/>
 <NachNorm Nr="486"/>
 <NachGegen Nr="476"/>
 </StrElement>
 <StrElement Nr="488" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1715.7729" Y="-773.1161" Z="400.5903"/>
 <b X="1720.255" Y="-775.2337" Z="400.5934"/>
-<InfoNormRichtung vMax="-1" km="411.9912" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.9962"/>
+<InfoNormRichtung vMax="38.8889" km="411.9912" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="411.9962"/>
 <NachNorm Nr="482"/>
 <NachGegen Nr="486"/>
 </StrElement>
 <StrElement Nr="489" spTrass="16.6667" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1517.897" Y="-669.6591" Z="400.4508"/>
 <b X="1441.084" Y="-633.362" Z="400.3977"/>
-<InfoNormRichtung vMax="-1" km="411.7676" Reg="5041">
+<InfoNormRichtung vMax="33.3333" km="411.7676" Reg="5041">
 <Ereignis Er="4"/>
 <Ereignis Er="39" Beschr="720b"/>
 </InfoNormRichtung>
@@ -8168,7 +8168,7 @@
 <StrElement Nr="491" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1364.271" Y="-597.065" Z="400.3446"/>
 <b X="1325.8451" Y="-578.9073" Z="400.3181"/>
-<InfoNormRichtung vMax="-1">
+<InfoNormRichtung vMax="33.3333">
 <Ereignis Er="1000007" Beschr="Konstanz-Fürstenberg Hp"/>
 <Ereignis Er="6" Beschr="Konstanz-Fürstenberg Hp"/>
 </InfoNormRichtung>
@@ -8179,7 +8179,7 @@
 <StrElement Nr="492" spTrass="27.7778" Anschluss="256" Fkt="4" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1758.076" Y="-783.152" Z="400.6169"/>
 <b X="1756.991" Y="-782.6393" Z="400.6161"/>
-<InfoNormRichtung vMax="-1" km="412.0339" pos="1" Reg="5042">
+<InfoNormRichtung vMax="38.8889" km="412.0339" pos="1" Reg="5042">
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pf" Signalname="109" SignalFlags="3" SignalTyp="2" BoundingR="43">
 <p X="1758.076" Y="-783.152" Z="400.6169"/>
 <phi Y="0.000626" Z="2.700157"/>
@@ -8226,7 +8226,7 @@
 <MatrixEintrag Signalbild="93" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="412.0327" pos="1" Reg="5042"/>
+<InfoGegenRichtung vMax="38.8889" km="412.0327" pos="1" Reg="5042"/>
 <NachNorm Nr="493"/>
 <NachNorm Nr="494"/>
 <NachGegen Nr="591"/>
@@ -8242,10 +8242,10 @@
 <StrElement Nr="494" kr="0.001371" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1756.991" Y="-782.6393" Z="400.6161"/>
 <b X="1752.048" Y="-780.3525" Z="400.6128"/>
-<InfoNormRichtung vMax="-1" km="412.0327" pos="1">
+<InfoNormRichtung vMax="38.8889" km="412.0327" pos="1">
 <Ereignis Er="1" Wert="18.0556"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="412.0272" pos="1">
+<InfoGegenRichtung vMax="38.8889" km="412.0272" pos="1">
 <Ereignis Er="1" Wert="18.0556"/>
 </InfoGegenRichtung>
 <NachNorm Nr="495"/>
@@ -8254,50 +8254,50 @@
 <StrElement Nr="495" kr="0.001635" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1752.048" Y="-780.3525" Z="400.6128"/>
 <b X="1746.353" Y="-777.7963" Z="400.6089"/>
-<InfoNormRichtung vMax="-1" km="412.0272" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="412.0209" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="412.0272" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="412.0209" pos="1"/>
 <NachNorm Nr="496"/>
 <NachGegen Nr="494"/>
 </StrElement>
 <StrElement Nr="496" kr="0.001999" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1746.353" Y="-777.7963" Z="400.6089"/>
 <b X="1740.627" Y="-775.3115" Z="400.6049"/>
-<InfoNormRichtung vMax="-1" km="412.0209" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="412.0147" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="412.0209" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="412.0147" pos="1"/>
 <NachNorm Nr="497"/>
 <NachGegen Nr="495"/>
 </StrElement>
 <StrElement Nr="497" kr="0.001996" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1740.627" Y="-775.3115" Z="400.6049"/>
 <b X="1734.87" Y="-772.8983" Z="400.601"/>
-<InfoNormRichtung vMax="-1" km="412.0147" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="412.0084" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="412.0147" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="412.0084" pos="1"/>
 <NachNorm Nr="498"/>
 <NachGegen Nr="496"/>
 </StrElement>
 <StrElement Nr="498" kr="0.001773" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1734.87" Y="-772.8983" Z="400.601"/>
 <b X="1729.083" Y="-770.5571" Z="400.5972"/>
-<InfoNormRichtung vMax="-1" km="412.0085" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="412.0022" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="412.0085" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="412.0022" pos="1"/>
 <NachNorm Nr="499"/>
 <NachGegen Nr="497"/>
 </StrElement>
 <StrElement Nr="499" kr="0.001487" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1729.083" Y="-770.5571" Z="400.5972"/>
 <b X="1723.2679" Y="-768.2884" Z="400.5933"/>
-<InfoNormRichtung vMax="-1" km="412.0022" pos="1">
+<InfoNormRichtung vMax="38.8889" km="412.0022" pos="1">
 <Ereignis Er="31" Wert="1"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="411.9959" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="411.9959" pos="1"/>
 <NachNorm Nr="500"/>
 <NachGegen Nr="498"/>
 </StrElement>
 <StrElement Nr="500" kr="0.001173" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1723.2679" Y="-768.2884" Z="400.5933"/>
 <b X="1719.796" Y="-766.9734" Z="400.5909"/>
-<InfoNormRichtung vMax="-1" km="411.9959" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.9922" pos="1">
+<InfoNormRichtung vMax="38.8889" km="411.9959" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="411.9922" pos="1">
 <Ereignis Er="31" Wert="1"/>
 </InfoGegenRichtung>
 <NachNorm Nr="506"/>
@@ -8350,23 +8350,23 @@
 <StrElement Nr="506" spTrass="13.8889" Anschluss="257" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1719.795" Y="-766.973" Z="400.5909"/>
 <b X="1708.094" Y="-762.6021" Z="400.5832"/>
-<InfoNormRichtung vMax="-1" km="411.9922"/>
-<InfoGegenRichtung vMax="-1" km="411.9798" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="411.9922"/>
+<InfoGegenRichtung vMax="38.8889" km="411.9798" pos="1"/>
 <NachNorm Nr="522"/>
 <NachGegen Nr="500"/>
 </StrElement>
 <StrElement Nr="507" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2164.749" Y="-980.297" Z="400.7263"/>
 <b X="2088.5281" Y="-944.2798" Z="400.7152"/>
-<InfoNormRichtung vMax="-1" km="412.4785"/>
-<InfoGegenRichtung vMax="-1" km="412.3942" pos="1"/>
+<InfoNormRichtung vMax="33.3333" km="412.4785"/>
+<InfoGegenRichtung vMax="38.8889" km="412.3942" pos="1"/>
 <NachNorm Nr="508"/>
 <NachGegen Nr="1439"/>
 </StrElement>
 <StrElement Nr="508" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2088.5281" Y="-944.2798" Z="400.7152"/>
 <b X="2073.9744" Y="-937.4026" Z="400.713"/>
-<InfoNormRichtung vMax="-1">
+<InfoNormRichtung vMax="33.3333">
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pf" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="1">
 <p X="2088.5281" Y="-944.2798" Z="400.7152"/>
 <phi/>
@@ -8378,7 +8378,7 @@
 <MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="412.3751" pos="1">
+<InfoGegenRichtung vMax="38.8889" km="412.3751" pos="1">
 <Ereignis Er="6"/>
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pf" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="1">
 <p X="2088.5281" Y="-944.2798" Z="400.7152"/>
@@ -8397,23 +8397,23 @@
 <StrElement Nr="510" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1936.085" Y="-872.2455" Z="400.6929"/>
 <b X="1859.864" Y="-836.2283" Z="400.6818"/>
-<InfoNormRichtung vMax="-1" km="412.233"/>
-<InfoGegenRichtung vMax="-1" km="412.1487" pos="1"/>
+<InfoNormRichtung vMax="33.3333" km="412.233"/>
+<InfoGegenRichtung vMax="38.8889" km="412.1487" pos="1"/>
 <NachNorm Nr="511"/>
 <NachGegen Nr="1437"/>
 </StrElement>
 <StrElement Nr="511" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1859.864" Y="-836.2283" Z="400.6818"/>
 <b X="1847.0229" Y="-830.1607" Z="400.6797"/>
-<InfoNormRichtung vMax="-1" km="412.1488"/>
-<InfoGegenRichtung vMax="-1" km="412.1346" pos="1"/>
+<InfoNormRichtung vMax="33.3333" km="412.1488"/>
+<InfoGegenRichtung vMax="38.8889" km="412.1346" pos="1"/>
 <NachNorm Nr="512"/>
 <NachGegen Nr="510"/>
 </StrElement>
 <StrElement Nr="512" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1847.0229" Y="-830.1607" Z="400.6797"/>
 <b X="1783.642" Y="-800.2111" Z="400.6359"/>
-<InfoNormRichtung vMax="-1" km="412.1346">
+<InfoNormRichtung vMax="33.3333" km="412.1346">
 <Signal NameBetriebsstelle="BÜ Schneckenburger Straße" Stellwerk="BÜ Schneckenburger Straße" SignalTyp="14" BoundingR="1">
 <p X="1846.35" Y="-829.84" Z="400.68"/>
 <phi/>
@@ -8427,7 +8427,7 @@
 <MatrixEintrag MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="412.0645" pos="1">
+<InfoGegenRichtung vMax="38.8889" km="412.0645" pos="1">
 <Signal NameBetriebsstelle="BÜ Schneckenburger Straße" Stellwerk="BÜ Schneckenburger Straße" SignalTyp="14" BoundingR="1">
 <p X="1846.35" Y="-829.84" Z="400.68"/>
 <phi Z="3.141593"/>
@@ -8447,7 +8447,7 @@
 <StrElement Nr="513" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1783.642" Y="-800.2111" Z="400.6359"/>
 <b X="1756.5178" Y="-787.394" Z="400.6171"/>
-<InfoNormRichtung vMax="-1" Reg="5043">
+<InfoNormRichtung vMax="33.3333" Reg="5043">
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pf" Signalname="P2" SignalTyp="9" BoundingR="10">
 <p X="1757.4791" Y="-785.3597" Z="400.6171"/>
 <phi Z="2.700156"/>
@@ -8587,14 +8587,14 @@
 </Ersatzsignal>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="412.0343" pos="1" Reg="5043"/>
+<InfoGegenRichtung vMax="38.8889" km="412.0343" pos="1" Reg="5043"/>
 <NachNorm Nr="1466"/>
 <NachGegen Nr="512"/>
 </StrElement>
 <StrElement Nr="514" spTrass="27.7778" Fkt="4" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1669.814" Y="-746.423" Z="400.5572"/>
 <b X="1670.899" Y="-746.9357" Z="400.558"/>
-<InfoNormRichtung vMax="-1" km="411.9381" pos="1" Reg="5044">
+<InfoNormRichtung vMax="38.8889" km="411.9381" pos="1" Reg="5044">
 <Signal NameBetriebsstelle="BÜ Kindlebildstraße" Stellwerk="Konstanz-Petershausen Pf" Signalname="108" SignalFlags="3" SignalTyp="2" BoundingR="43">
 <p X="1669.814" Y="-746.423" Z="400.5572"/>
 <phi Y="-0.000623" Z="-0.441434"/>
@@ -8641,7 +8641,7 @@
 <MatrixEintrag Signalbild="93" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="411.9393" Reg="5044"/>
+<InfoGegenRichtung vMax="33.3333" km="411.9393" Reg="5044"/>
 <NachNorm Nr="515"/>
 <NachNorm Nr="516"/>
 <NachGegen Nr="544"/>
@@ -8649,18 +8649,18 @@
 <StrElement Nr="515" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1670.899" Y="-746.9357" Z="400.558"/>
 <b X="1676.033" Y="-749.3615" Z="400.5615"/>
-<InfoNormRichtung vMax="-1" km="411.9394" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.945"/>
+<InfoNormRichtung vMax="38.8889" km="411.9394" pos="1"/>
+<InfoGegenRichtung vMax="33.3333" km="411.945"/>
 <NachNorm Nr="525"/>
 <NachGegen Nr="514"/>
 </StrElement>
 <StrElement Nr="516" kr="0.001227" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1670.899" Y="-746.9357" Z="400.558"/>
 <b X="1675.842" Y="-749.2224" Z="400.5614"/>
-<InfoNormRichtung vMax="-1" km="411.9394" pos="1">
+<InfoNormRichtung vMax="38.8889" km="411.9394" pos="1">
 <Ereignis Er="1" Wert="18.0556"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="411.9448">
+<InfoGegenRichtung vMax="38.8889" km="411.9448">
 <Ereignis Er="1" Wert="18.0556"/>
 </InfoGegenRichtung>
 <NachNorm Nr="517"/>
@@ -8669,50 +8669,50 @@
 <StrElement Nr="517" kr="0.001453" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1675.842" Y="-749.2224" Z="400.5614"/>
 <b X="1681.537" Y="-751.7786" Z="400.5653"/>
-<InfoNormRichtung vMax="-1" km="411.9448" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.9511"/>
+<InfoNormRichtung vMax="38.8889" km="411.9448" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="411.9511"/>
 <NachNorm Nr="518"/>
 <NachGegen Nr="516"/>
 </StrElement>
 <StrElement Nr="518" kr="0.001999" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1681.537" Y="-751.7786" Z="400.5653"/>
 <b X="1687.2629" Y="-754.2635" Z="400.5692"/>
-<InfoNormRichtung vMax="-1" km="411.9511" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.9573"/>
+<InfoNormRichtung vMax="38.8889" km="411.9511" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="411.9573"/>
 <NachNorm Nr="519"/>
 <NachGegen Nr="517"/>
 </StrElement>
 <StrElement Nr="519" kr="0.001996" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1687.2629" Y="-754.2635" Z="400.5692"/>
 <b X="1693.02" Y="-756.6766" Z="400.5731"/>
-<InfoNormRichtung vMax="-1" km="411.9573" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.9636"/>
+<InfoNormRichtung vMax="38.8889" km="411.9573" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="411.9636"/>
 <NachNorm Nr="520"/>
 <NachGegen Nr="518"/>
 </StrElement>
 <StrElement Nr="520" kr="0.001772" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1693.02" Y="-756.6766" Z="400.5731"/>
 <b X="1698.806" Y="-759.0178" Z="400.577"/>
-<InfoNormRichtung vMax="-1" km="411.9636" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.9698"/>
+<InfoNormRichtung vMax="38.8889" km="411.9636" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="411.9698"/>
 <NachNorm Nr="521"/>
 <NachGegen Nr="519"/>
 </StrElement>
 <StrElement Nr="521" kr="0.001488" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1698.806" Y="-759.0178" Z="400.577"/>
 <b X="1704.6219" Y="-761.2865" Z="400.5808"/>
-<InfoNormRichtung vMax="-1" km="411.9698" pos="1">
+<InfoNormRichtung vMax="38.8889" km="411.9698" pos="1">
 <Ereignis Er="31" Wert="1"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="411.9761"/>
+<InfoGegenRichtung vMax="38.8889" km="411.9761"/>
 <NachNorm Nr="522"/>
 <NachGegen Nr="520"/>
 </StrElement>
 <StrElement Nr="522" kr="0.001172" spTrass="27.7778" Anschluss="257" Fkt="12" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1704.6219" Y="-761.2865" Z="400.5808"/>
 <b X="1708.094" Y="-762.6014" Z="400.5832"/>
-<InfoNormRichtung vMax="-1" km="411.976" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.9798">
+<InfoNormRichtung vMax="38.8889" km="411.976" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="411.9798">
 <Ereignis Er="31" Wert="1"/>
 </InfoGegenRichtung>
 <NachNorm Nr="506"/>
@@ -8721,8 +8721,8 @@
 <StrElement Nr="523" spTrass="27.7778" Anschluss="257" Fkt="20" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1704.097" Y="-762.623" Z="400.5809"/>
 <b X="1707.421" Y="-764.1934" Z="400.5832"/>
-<InfoNormRichtung vMax="-1" km="411.9762" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.9798">
+<InfoNormRichtung vMax="38.8889" km="411.9762" pos="1"/>
+<InfoGegenRichtung vMax="33.3333" km="411.9798">
 <Ereignis Er="31" Wert="1"/>
 </InfoGegenRichtung>
 <NachNorm Nr="1466"/>
@@ -8731,34 +8731,34 @@
 <StrElement Nr="524" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1687.152" Y="-754.6157" Z="400.5692"/>
 <b X="1692.804" Y="-757.2867" Z="400.5731"/>
-<InfoNormRichtung vMax="-1" km="411.9574" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.9636"/>
+<InfoNormRichtung vMax="38.8889" km="411.9574" pos="1"/>
+<InfoGegenRichtung vMax="33.3333" km="411.9636"/>
 <NachNorm Nr="527"/>
 <NachGegen Nr="525"/>
 </StrElement>
 <StrElement Nr="525" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1676.033" Y="-749.3615" Z="400.5615"/>
 <b X="1687.152" Y="-754.6157" Z="400.5692"/>
-<InfoNormRichtung vMax="-1" km="411.945" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.9573"/>
+<InfoNormRichtung vMax="38.8889" km="411.945" pos="1"/>
+<InfoGegenRichtung vMax="33.3333" km="411.9573"/>
 <NachNorm Nr="524"/>
 <NachGegen Nr="515"/>
 </StrElement>
 <StrElement Nr="526" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1698.454" Y="-759.9562" Z="400.577"/>
 <b X="1704.097" Y="-762.623" Z="400.5809"/>
-<InfoNormRichtung vMax="-1" km="411.9699" pos="1">
+<InfoNormRichtung vMax="38.8889" km="411.9699" pos="1">
 <Ereignis Er="31" Wert="1"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="411.9762"/>
+<InfoGegenRichtung vMax="33.3333" km="411.9762"/>
 <NachNorm Nr="523"/>
 <NachGegen Nr="527"/>
 </StrElement>
 <StrElement Nr="527" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1692.804" Y="-757.2867" Z="400.5731"/>
 <b X="1698.454" Y="-759.9562" Z="400.577"/>
-<InfoNormRichtung vMax="-1" km="411.9636" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.9699"/>
+<InfoNormRichtung vMax="38.8889" km="411.9636" pos="1"/>
+<InfoGegenRichtung vMax="33.3333" km="411.9699"/>
 <NachNorm Nr="526"/>
 <NachGegen Nr="524"/>
 </StrElement>
@@ -8773,7 +8773,7 @@
 <StrElement Nr="529" spTrass="27.7778" Anschluss="256" Fkt="4" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1695.325" Y="-763.453" Z="400.5762"/>
 <b X="1694.24" Y="-762.9403" Z="400.5754"/>
-<InfoNormRichtung vMax="-1" km="411.9686" pos="1" Reg="5045">
+<InfoNormRichtung vMax="38.8889" km="411.9686" pos="1" Reg="5045">
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pf" Signalname="104" SignalFlags="3" SignalTyp="2" BoundingR="43">
 <p X="1695.325" Y="-763.453" Z="400.5762"/>
 <phi Y="0.000626" Z="2.700155"/>
@@ -8820,7 +8820,7 @@
 <MatrixEintrag Signalbild="93" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="411.9674" pos="1" Reg="5045"/>
+<InfoGegenRichtung vMax="38.8889" km="411.9674" pos="1" Reg="5045"/>
 <NachNorm Nr="530"/>
 <NachNorm Nr="531"/>
 <NachGegen Nr="191"/>
@@ -8836,10 +8836,10 @@
 <StrElement Nr="531" kr="-0.001549" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1694.24" Y="-762.9403" Z="400.5754"/>
 <b X="1689.335" Y="-760.5736" Z="400.572"/>
-<InfoNormRichtung vMax="-1" km="411.9673" pos="1">
+<InfoNormRichtung vMax="38.8889" km="411.9673" pos="1">
 <Ereignis Er="1" Wert="18.0556"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="411.9619" pos="1">
+<InfoGegenRichtung vMax="38.8889" km="411.9619" pos="1">
 <Ereignis Er="1" Wert="18.0556"/>
 </InfoGegenRichtung>
 <NachNorm Nr="532"/>
@@ -8848,50 +8848,50 @@
 <StrElement Nr="532" kr="-0.001796" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1689.335" Y="-760.5736" Z="400.572"/>
 <b X="1683.744" Y="-757.7969" Z="400.5681"/>
-<InfoNormRichtung vMax="-1" km="411.9619" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.9557" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="411.9619" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="411.9557" pos="1"/>
 <NachNorm Nr="533"/>
 <NachGegen Nr="531"/>
 </StrElement>
 <StrElement Nr="533" kr="-0.002" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1683.744" Y="-757.7969" Z="400.5681"/>
 <b X="1678.189" Y="-754.9508" Z="400.5642"/>
-<InfoNormRichtung vMax="-1" km="411.9557" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.9494" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="411.9557" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="411.9494" pos="1"/>
 <NachNorm Nr="534"/>
 <NachGegen Nr="532"/>
 </StrElement>
 <StrElement Nr="534" kr="-0.001997" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1678.189" Y="-754.9508" Z="400.5642"/>
 <b X="1672.6689" Y="-752.0353" Z="400.5603"/>
-<InfoNormRichtung vMax="-1" km="411.9494" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.9431" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="411.9494" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="411.9431" pos="1"/>
 <NachNorm Nr="535"/>
 <NachGegen Nr="533"/>
 </StrElement>
 <StrElement Nr="535" kr="-0.00176" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1672.6689" Y="-752.0353" Z="400.5603"/>
 <b X="1667.186" Y="-749.0513" Z="400.5564"/>
-<InfoNormRichtung vMax="-1" km="411.9431" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.9369" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="411.9431" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="411.9369" pos="1"/>
 <NachNorm Nr="536"/>
 <NachGegen Nr="534"/>
 </StrElement>
 <StrElement Nr="536" kr="-0.001474" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1667.186" Y="-749.0513" Z="400.5564"/>
 <b X="1661.741" Y="-745.999" Z="400.5525"/>
-<InfoNormRichtung vMax="-1" km="411.9369" pos="1">
+<InfoNormRichtung vMax="38.8889" km="411.9369" pos="1">
 <Ereignis Er="31" Wert="1"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="411.9306" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="411.9306" pos="1"/>
 <NachNorm Nr="537"/>
 <NachGegen Nr="535"/>
 </StrElement>
 <StrElement Nr="537" kr="-0.00115" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1661.741" Y="-745.999" Z="400.5525"/>
 <b X="1658.521" Y="-744.1513" Z="400.5502"/>
-<InfoNormRichtung vMax="-1" km="411.9307" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.9269" pos="1">
+<InfoNormRichtung vMax="38.8889" km="411.9307" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="411.9269" pos="1">
 <Ereignis Er="31" Wert="1"/>
 </InfoGegenRichtung>
 <NachNorm Nr="543"/>
@@ -8944,23 +8944,23 @@
 <StrElement Nr="543" spTrass="13.8889" Anschluss="257" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1658.52" Y="-744.151" Z="400.5502"/>
 <b X="1647.6689" Y="-737.87" Z="400.5424"/>
-<InfoNormRichtung vMax="-1" km="411.9269"/>
-<InfoGegenRichtung vMax="-1" km="411.9144" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="411.9269"/>
+<InfoGegenRichtung vMax="38.8889" km="411.9144" pos="1"/>
 <NachNorm Nr="553"/>
 <NachGegen Nr="537"/>
 </StrElement>
 <StrElement Nr="544" spTrass="16.6667" Anschluss="1" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1669.814" Y="-746.423" Z="400.5572"/>
 <b X="1648.472" Y="-736.339" Z="400.5424"/>
-<InfoNormRichtung vMax="-1" km="411.9381"/>
-<InfoGegenRichtung vMax="-1" km="411.9146" pos="1"/>
+<InfoNormRichtung vMax="33.3333" km="411.9381"/>
+<InfoGegenRichtung vMax="38.8889" km="411.9146" pos="1"/>
 <NachNorm Nr="554"/>
 <NachGegen Nr="514"/>
 </StrElement>
 <StrElement Nr="545" spTrass="27.7778" Fkt="4" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1610.865" Y="-718.568" Z="400.5164"/>
 <b X="1611.95" Y="-719.0807" Z="400.5172"/>
-<InfoNormRichtung vMax="-1" km="411.8728" pos="1" Reg="5046">
+<InfoNormRichtung vMax="38.8889" km="411.8728" pos="1" Reg="5046">
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pf" Signalname="103" SignalFlags="3" SignalTyp="2" BoundingR="43">
 <p X="1610.865" Y="-718.568" Z="400.5164"/>
 <phi Y="-0.000626" Z="-0.441434"/>
@@ -9007,7 +9007,7 @@
 <MatrixEintrag Signalbild="93" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="411.874" Reg="5046"/>
+<InfoGegenRichtung vMax="33.3333" km="411.874" Reg="5046"/>
 <NachNorm Nr="546"/>
 <NachNorm Nr="547"/>
 <NachGegen Nr="179"/>
@@ -9015,18 +9015,18 @@
 <StrElement Nr="546" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1611.95" Y="-719.0807" Z="400.5172"/>
 <b X="1617.084" Y="-721.5065" Z="400.5208"/>
-<InfoNormRichtung vMax="-1" km="411.874" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.8797"/>
+<InfoNormRichtung vMax="38.8889" km="411.874" pos="1"/>
+<InfoGegenRichtung vMax="33.3333" km="411.8797"/>
 <NachNorm Nr="556"/>
 <NachGegen Nr="545"/>
 </StrElement>
 <StrElement Nr="547" kr="-0.001462" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1611.95" Y="-719.0807" Z="400.5172"/>
 <b X="1616.855" Y="-721.4474" Z="400.5206"/>
-<InfoNormRichtung vMax="-1" km="411.874" pos="1">
+<InfoNormRichtung vMax="38.8889" km="411.874" pos="1">
 <Ereignis Er="1" Wert="18.0556"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="411.8794">
+<InfoGegenRichtung vMax="38.8889" km="411.8794">
 <Ereignis Er="1" Wert="18.0556"/>
 </InfoGegenRichtung>
 <NachNorm Nr="548"/>
@@ -9035,50 +9035,50 @@
 <StrElement Nr="548" kr="-0.001725" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1616.855" Y="-721.4474" Z="400.5206"/>
 <b X="1622.446" Y="-724.224" Z="400.5245"/>
-<InfoNormRichtung vMax="-1" km="411.8795" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.8857"/>
+<InfoNormRichtung vMax="38.8889" km="411.8795" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="411.8857"/>
 <NachNorm Nr="549"/>
 <NachGegen Nr="547"/>
 </StrElement>
 <StrElement Nr="549" kr="-0.002001" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1622.446" Y="-724.224" Z="400.5245"/>
 <b X="1628.001" Y="-727.0701" Z="400.5284"/>
-<InfoNormRichtung vMax="-1" km="411.8857" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.892"/>
+<InfoNormRichtung vMax="38.8889" km="411.8857" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="411.892"/>
 <NachNorm Nr="550"/>
 <NachGegen Nr="548"/>
 </StrElement>
 <StrElement Nr="550" kr="-0.001997" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1628.001" Y="-727.0701" Z="400.5284"/>
 <b X="1633.521" Y="-729.9856" Z="400.5323"/>
-<InfoNormRichtung vMax="-1" km="411.892" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.8982"/>
+<InfoNormRichtung vMax="38.8889" km="411.892" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="411.8982"/>
 <NachNorm Nr="551"/>
 <NachGegen Nr="549"/>
 </StrElement>
 <StrElement Nr="551" kr="-0.001761" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1633.521" Y="-729.9856" Z="400.5323"/>
 <b X="1639.004" Y="-732.9696" Z="400.5362"/>
-<InfoNormRichtung vMax="-1" km="411.8982" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.9045"/>
+<InfoNormRichtung vMax="38.8889" km="411.8982" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="411.9045"/>
 <NachNorm Nr="552"/>
 <NachGegen Nr="550"/>
 </StrElement>
 <StrElement Nr="552" kr="-0.001474" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1639.004" Y="-732.9696" Z="400.5362"/>
 <b X="1644.449" Y="-736.0219" Z="400.5401"/>
-<InfoNormRichtung vMax="-1" km="411.9045" pos="1">
+<InfoNormRichtung vMax="38.8889" km="411.9045" pos="1">
 <Ereignis Er="31" Wert="1"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="411.9107"/>
+<InfoGegenRichtung vMax="38.8889" km="411.9107"/>
 <NachNorm Nr="553"/>
 <NachGegen Nr="551"/>
 </StrElement>
 <StrElement Nr="553" kr="-0.00115" spTrass="27.7778" Anschluss="257" Fkt="20" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1644.449" Y="-736.0219" Z="400.5401"/>
 <b X="1647.6689" Y="-737.8696" Z="400.5424"/>
-<InfoNormRichtung vMax="-1" km="411.9107" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.9144">
+<InfoNormRichtung vMax="38.8889" km="411.9107" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="411.9144">
 <Ereignis Er="31" Wert="1"/>
 </InfoGegenRichtung>
 <NachNorm Nr="543"/>
@@ -9087,8 +9087,8 @@
 <StrElement Nr="554" spTrass="27.7778" Anschluss="257" Fkt="12" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1645.1479" Y="-734.768" Z="400.5402"/>
 <b X="1648.472" Y="-736.3384" Z="400.5424"/>
-<InfoNormRichtung vMax="-1" km="411.9108" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.9145">
+<InfoNormRichtung vMax="38.8889" km="411.9108" pos="1"/>
+<InfoGegenRichtung vMax="33.3333" km="411.9145">
 <Ereignis Er="31" Wert="1"/>
 </InfoGegenRichtung>
 <NachNorm Nr="544"/>
@@ -9097,41 +9097,41 @@
 <StrElement Nr="555" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1628.203" Y="-726.7607" Z="400.5284"/>
 <b X="1633.855" Y="-729.4318" Z="400.5323"/>
-<InfoNormRichtung vMax="-1" km="411.892" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.8983"/>
+<InfoNormRichtung vMax="38.8889" km="411.892" pos="1"/>
+<InfoGegenRichtung vMax="33.3333" km="411.8983"/>
 <NachNorm Nr="558"/>
 <NachGegen Nr="556"/>
 </StrElement>
 <StrElement Nr="556" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1617.084" Y="-721.5065" Z="400.5208"/>
 <b X="1628.203" Y="-726.7607" Z="400.5284"/>
-<InfoNormRichtung vMax="-1" km="411.8797" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.892"/>
+<InfoNormRichtung vMax="38.8889" km="411.8797" pos="1"/>
+<InfoGegenRichtung vMax="33.3333" km="411.892"/>
 <NachNorm Nr="555"/>
 <NachGegen Nr="546"/>
 </StrElement>
 <StrElement Nr="557" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1639.505" Y="-732.1013" Z="400.5363"/>
 <b X="1645.1479" Y="-734.768" Z="400.5402"/>
-<InfoNormRichtung vMax="-1" km="411.9045" pos="1">
+<InfoNormRichtung vMax="38.8889" km="411.9045" pos="1">
 <Ereignis Er="31" Wert="1"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="411.9108"/>
+<InfoGegenRichtung vMax="33.3333" km="411.9108"/>
 <NachNorm Nr="554"/>
 <NachGegen Nr="558"/>
 </StrElement>
 <StrElement Nr="558" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1633.855" Y="-729.4318" Z="400.5323"/>
 <b X="1639.505" Y="-732.1013" Z="400.5363"/>
-<InfoNormRichtung vMax="-1" km="411.8983" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.9045"/>
+<InfoNormRichtung vMax="38.8889" km="411.8983" pos="1"/>
+<InfoGegenRichtung vMax="33.3333" km="411.9045"/>
 <NachNorm Nr="557"/>
 <NachGegen Nr="555"/>
 </StrElement>
 <StrElement Nr="559" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1564.833" Y="-696.816" Z="400.4846"/>
 <b X="1537.681" Y="-683.986" Z="400.4659"/>
-<InfoNormRichtung vMax="-1" Reg="5047">
+<InfoNormRichtung vMax="33.3333" Reg="5047">
 <Ereignis Er="4"/>
 <Ereignis Er="28" Beschr="720b"/>
 <Signal SignalTyp="5" BoundingR="10">
@@ -9150,14 +9150,14 @@
 <MatrixEintrag Signalbild="1" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="411.7917" pos="1" Reg="5047"/>
+<InfoGegenRichtung vMax="38.8889" km="411.7917" pos="1" Reg="5047"/>
 <NachNorm Nr="1473"/>
 <NachGegen Nr="569"/>
 </StrElement>
 <StrElement Nr="560" spTrass="27.7778" Anschluss="256" Fkt="4" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1602.4399" Y="-714.587" Z="400.5106"/>
 <b X="1601.355" Y="-714.0743" Z="400.5099"/>
-<InfoNormRichtung vMax="-1" km="411.8635" pos="1" Reg="5048">
+<InfoNormRichtung vMax="33.3333" km="411.8635" pos="1" Reg="5048">
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pf" Signalname="102" SignalFlags="3" SignalTyp="2" BoundingR="43">
 <p X="1602.4399" Y="-714.587" Z="400.5106"/>
 <phi Y="0.000626" Z="2.700159"/>
@@ -9204,7 +9204,7 @@
 <MatrixEintrag Signalbild="93" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="411.8623" pos="1" Reg="5048"/>
+<InfoGegenRichtung vMax="38.8889" km="411.8623" pos="1" Reg="5048"/>
 <NachNorm Nr="561"/>
 <NachNorm Nr="562"/>
 <NachGegen Nr="179"/>
@@ -9212,15 +9212,15 @@
 <StrElement Nr="561" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1601.355" Y="-714.0743" Z="400.5099"/>
 <b X="1596.2209" Y="-711.6485" Z="400.5063"/>
-<InfoNormRichtung vMax="-1" km="411.8623" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.8566" pos="1"/>
+<InfoNormRichtung vMax="33.3333" km="411.8623" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="411.8566" pos="1"/>
 <NachNorm Nr="571"/>
 <NachGegen Nr="560"/>
 </StrElement>
 <StrElement Nr="562" kr="-0.001462" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1601.355" Y="-714.0743" Z="400.5099"/>
 <b X="1596.45" Y="-711.7076" Z="400.5065"/>
-<InfoNormRichtung vMax="-1" km="411.8623" pos="1">
+<InfoNormRichtung vMax="33.3333" km="411.8623" pos="1">
 <Ereignis Er="1" Wert="18.0556"/>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="411.8568" pos="1">
@@ -9232,7 +9232,7 @@
 <StrElement Nr="563" kr="-0.001725" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1596.45" Y="-711.7076" Z="400.5065"/>
 <b X="1590.859" Y="-708.931" Z="400.5026"/>
-<InfoNormRichtung vMax="-1" km="411.8568" pos="1"/>
+<InfoNormRichtung vMax="33.3333" km="411.8568" pos="1"/>
 <InfoGegenRichtung vMax="-1" km="411.8506" pos="1"/>
 <NachNorm Nr="564"/>
 <NachGegen Nr="562"/>
@@ -9240,7 +9240,7 @@
 <StrElement Nr="564" kr="-0.002001" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1590.859" Y="-708.931" Z="400.5026"/>
 <b X="1585.304" Y="-706.0849" Z="400.4987"/>
-<InfoNormRichtung vMax="-1" km="411.8506" pos="1"/>
+<InfoNormRichtung vMax="33.3333" km="411.8506" pos="1"/>
 <InfoGegenRichtung vMax="-1" km="411.8443" pos="1"/>
 <NachNorm Nr="565"/>
 <NachGegen Nr="563"/>
@@ -9248,7 +9248,7 @@
 <StrElement Nr="565" kr="-0.001996" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1585.304" Y="-706.0849" Z="400.4987"/>
 <b X="1579.7841" Y="-703.1694" Z="400.4948"/>
-<InfoNormRichtung vMax="-1" km="411.8443" pos="1"/>
+<InfoNormRichtung vMax="33.3333" km="411.8443" pos="1"/>
 <InfoGegenRichtung vMax="-1" km="411.838" pos="1"/>
 <NachNorm Nr="566"/>
 <NachGegen Nr="564"/>
@@ -9256,7 +9256,7 @@
 <StrElement Nr="566" kr="-0.001751" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1579.7841" Y="-703.1694" Z="400.4948"/>
 <b X="1574.301" Y="-700.1854" Z="400.4909"/>
-<InfoNormRichtung vMax="-1" km="411.838" pos="1"/>
+<InfoNormRichtung vMax="33.3333" km="411.838" pos="1"/>
 <InfoGegenRichtung vMax="-1" km="411.8318" pos="1"/>
 <NachNorm Nr="567"/>
 <NachGegen Nr="565"/>
@@ -9264,7 +9264,7 @@
 <StrElement Nr="567" kr="-0.001464" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1574.301" Y="-700.1854" Z="400.4909"/>
 <b X="1568.856" Y="-697.1332" Z="400.487"/>
-<InfoNormRichtung vMax="-1" km="411.8318" pos="1">
+<InfoNormRichtung vMax="33.3333" km="411.8318" pos="1">
 <Ereignis Er="31" Wert="1"/>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="411.8255" pos="1"/>
@@ -9274,7 +9274,7 @@
 <StrElement Nr="568" kr="-0.001139" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1568.856" Y="-697.1332" Z="400.487"/>
 <b X="1565.635" Y="-695.2855" Z="400.4846"/>
-<InfoNormRichtung vMax="-1" km="411.8256" pos="1"/>
+<InfoNormRichtung vMax="33.3333" km="411.8256" pos="1"/>
 <InfoGegenRichtung vMax="-1" km="411.8218" pos="1">
 <Ereignis Er="31" Wert="1"/>
 </InfoGegenRichtung>
@@ -9284,10 +9284,10 @@
 <StrElement Nr="569" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1568.157" Y="-698.3871" Z="400.4869"/>
 <b X="1564.833" Y="-696.8166" Z="400.4846"/>
-<InfoNormRichtung vMax="-1" km="411.8255" pos="1">
+<InfoNormRichtung vMax="33.3333" km="411.8255" pos="1">
 <Ereignis Er="1000002"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="411.8218" pos="1">
+<InfoGegenRichtung vMax="38.8889" km="411.8218" pos="1">
 <Ereignis Er="31" Wert="1"/>
 </InfoGegenRichtung>
 <NachNorm Nr="559"/>
@@ -9296,41 +9296,41 @@
 <StrElement Nr="570" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1585.1021" Y="-706.3943" Z="400.4986"/>
 <b X="1579.449" Y="-703.7233" Z="400.4947"/>
-<InfoNormRichtung vMax="-1" km="411.8442"/>
-<InfoGegenRichtung vMax="-1" km="411.838" pos="1"/>
+<InfoNormRichtung vMax="33.3333" km="411.8442"/>
+<InfoGegenRichtung vMax="38.8889" km="411.838" pos="1"/>
 <NachNorm Nr="573"/>
 <NachGegen Nr="571"/>
 </StrElement>
 <StrElement Nr="571" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1596.2209" Y="-711.6485" Z="400.5063"/>
 <b X="1585.1021" Y="-706.3943" Z="400.4986"/>
-<InfoNormRichtung vMax="-1" km="411.8566"/>
-<InfoGegenRichtung vMax="-1" km="411.8443" pos="1"/>
+<InfoNormRichtung vMax="33.3333" km="411.8566"/>
+<InfoGegenRichtung vMax="38.8889" km="411.8443" pos="1"/>
 <NachNorm Nr="570"/>
 <NachGegen Nr="561"/>
 </StrElement>
 <StrElement Nr="572" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1573.8" Y="-701.0538" Z="400.4908"/>
 <b X="1568.157" Y="-698.3871" Z="400.4869"/>
-<InfoNormRichtung vMax="-1" km="411.8317">
+<InfoNormRichtung vMax="33.3333" km="411.8317">
 <Ereignis Er="31" Wert="1"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="411.8255" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="411.8255" pos="1"/>
 <NachNorm Nr="569"/>
 <NachGegen Nr="573"/>
 </StrElement>
 <StrElement Nr="573" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1579.449" Y="-703.7233" Z="400.4947"/>
 <b X="1573.8" Y="-701.0538" Z="400.4908"/>
-<InfoNormRichtung vMax="-1" km="411.838"/>
-<InfoGegenRichtung vMax="-1" km="411.8317" pos="1"/>
+<InfoNormRichtung vMax="33.3333" km="411.838"/>
+<InfoGegenRichtung vMax="38.8889" km="411.8317" pos="1"/>
 <NachNorm Nr="572"/>
 <NachGegen Nr="570"/>
 </StrElement>
 <StrElement Nr="574" spTrass="13.8889" Anschluss="257" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1565.635" Y="-695.285" Z="400.4846"/>
 <b X="1554.701" Y="-688.9611" Z="400.4768"/>
-<InfoNormRichtung vMax="-1" km="411.8218"/>
+<InfoNormRichtung vMax="33.3333" km="411.8218"/>
 <InfoGegenRichtung vMax="-1" km="411.8092" pos="1"/>
 <NachNorm Nr="585"/>
 <NachGegen Nr="568"/>
@@ -9401,7 +9401,7 @@
 <MatrixEintrag Signalbild="93" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="411.7688" Reg="5049">
+<InfoGegenRichtung vMax="33.3333" km="411.7688" Reg="5049">
 <Ereignis Er="1000002"/>
 </InfoGegenRichtung>
 <NachNorm Nr="578"/>
@@ -9422,7 +9422,7 @@
 <InfoNormRichtung vMax="-1" km="411.7688" pos="1">
 <Ereignis Er="1" Wert="18.0556"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="411.7742">
+<InfoGegenRichtung vMax="33.3333" km="411.7742">
 <Ereignis Er="1" Wert="18.0556"/>
 </InfoGegenRichtung>
 <NachNorm Nr="580"/>
@@ -9432,7 +9432,7 @@
 <g X="1523.887" Y="-672.5385" Z="400.455"/>
 <b X="1529.478" Y="-675.3151" Z="400.4589"/>
 <InfoNormRichtung vMax="-1" km="411.7743" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.7805"/>
+<InfoGegenRichtung vMax="33.3333" km="411.7805"/>
 <NachNorm Nr="581"/>
 <NachGegen Nr="579"/>
 </StrElement>
@@ -9440,7 +9440,7 @@
 <g X="1529.478" Y="-675.3151" Z="400.4589"/>
 <b X="1535.033" Y="-678.1613" Z="400.4628"/>
 <InfoNormRichtung vMax="-1" km="411.7805" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.7868"/>
+<InfoGegenRichtung vMax="33.3333" km="411.7868"/>
 <NachNorm Nr="582"/>
 <NachGegen Nr="580"/>
 </StrElement>
@@ -9448,7 +9448,7 @@
 <g X="1535.033" Y="-678.1613" Z="400.4628"/>
 <b X="1540.553" Y="-681.0767" Z="400.4667"/>
 <InfoNormRichtung vMax="-1" km="411.7868" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.793"/>
+<InfoGegenRichtung vMax="33.3333" km="411.793"/>
 <NachNorm Nr="583"/>
 <NachGegen Nr="581"/>
 </StrElement>
@@ -9456,7 +9456,7 @@
 <g X="1540.553" Y="-681.0767" Z="400.4667"/>
 <b X="1546.036" Y="-684.0607" Z="400.4706"/>
 <InfoNormRichtung vMax="-1" km="411.793" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.7993"/>
+<InfoGegenRichtung vMax="33.3333" km="411.7993"/>
 <NachNorm Nr="584"/>
 <NachGegen Nr="582"/>
 </StrElement>
@@ -9466,7 +9466,7 @@
 <InfoNormRichtung vMax="-1" km="411.7993" pos="1">
 <Ereignis Er="31" Wert="1"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="411.8055"/>
+<InfoGegenRichtung vMax="33.3333" km="411.8055"/>
 <NachNorm Nr="585"/>
 <NachGegen Nr="583"/>
 </StrElement>
@@ -9474,7 +9474,7 @@
 <g X="1551.481" Y="-687.113" Z="400.4745"/>
 <b X="1554.701" Y="-688.9607" Z="400.4768"/>
 <InfoNormRichtung vMax="-1" km="411.8055" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="411.8092">
+<InfoGegenRichtung vMax="33.3333" km="411.8092">
 <Ereignis Er="31" Wert="1"/>
 </InfoGegenRichtung>
 <NachNorm Nr="574"/>
@@ -9527,15 +9527,15 @@
 <StrElement Nr="591" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1767.76" Y="-787.728" Z="400.6236"/>
 <b X="1758.076" Y="-783.152" Z="400.6169"/>
-<InfoNormRichtung vMax="-1" km="412.0446"/>
-<InfoGegenRichtung vMax="-1" km="412.0339" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="412.0446"/>
+<InfoGegenRichtung vMax="38.8889" km="412.0339" pos="1"/>
 <NachNorm Nr="492"/>
 <NachGegen Nr="601"/>
 </StrElement>
 <StrElement Nr="592" spTrass="27.7778" Fkt="4" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1797.806" Y="-801.926" Z="400.6444"/>
 <b X="1796.178" Y="-801.157" Z="400.6432"/>
-<InfoNormRichtung vMax="-1" km="412.0779" pos="1" Reg="5050">
+<InfoNormRichtung vMax="38.8889" km="412.0779" pos="1" Reg="5050">
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pf" Signalname="110" SignalFlags="3" SignalTyp="2" BoundingR="34">
 <p X="1797.806" Y="-801.926" Z="400.6444"/>
 <phi Y="0.000626" Z="2.700157"/>
@@ -9576,7 +9576,7 @@
 <MatrixEintrag Signalbild="45" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="412.0761" pos="1" Reg="5050"/>
+<InfoGegenRichtung vMax="38.8889" km="412.0761" pos="1" Reg="5050"/>
 <NachNorm Nr="593"/>
 <NachNorm Nr="595"/>
 <NachGegen Nr="1285"/>
@@ -9584,8 +9584,8 @@
 <StrElement Nr="593" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1796.178" Y="-801.157" Z="400.6432"/>
 <b X="1784.7321" Y="-795.7482" Z="400.6353"/>
-<InfoNormRichtung vMax="-1" km="412.0761" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="412.0634" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="412.0761" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="412.0634" pos="1"/>
 <NachNorm Nr="599"/>
 <NachGegen Nr="592"/>
 </StrElement>
@@ -9638,10 +9638,10 @@
 <StrElement Nr="599" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1784.7321" Y="-795.7482" Z="400.6353"/>
 <b X="1771.277" Y="-789.39" Z="400.626"/>
-<InfoNormRichtung vMax="-1" km="412.0634" pos="1">
+<InfoNormRichtung vMax="38.8889" km="412.0634" pos="1">
 <Ereignis Er="31" Wert="1"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="412.0485" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="412.0485" pos="1"/>
 <NachNorm Nr="601"/>
 <NachGegen Nr="593"/>
 </StrElement>
@@ -9658,8 +9658,8 @@
 <StrElement Nr="601" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1771.277" Y="-789.39" Z="400.626"/>
 <b X="1767.76" Y="-787.7285" Z="400.6236"/>
-<InfoNormRichtung vMax="-1" km="412.0485" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="412.0446" pos="1">
+<InfoNormRichtung vMax="38.8889" km="412.0485" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="412.0446" pos="1">
 <Ereignis Er="31" Wert="1"/>
 </InfoGegenRichtung>
 <NachNorm Nr="591"/>
@@ -16376,10 +16376,10 @@
 <StrElement Nr="1244" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1123.007" Y="575.36" Z="398.7197"/>
 <b X="-1188.625" Y="606.465" Z="398.7"/>
-<InfoNormRichtung vMax="-1" km="408.842" Reg="5070">
+<InfoNormRichtung vMax="38.8889" km="408.842" Reg="5070">
 <Ereignis Er="4"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="408.7694" pos="1" Reg="5070">
+<InfoGegenRichtung vMax="38.8889" km="408.7694" pos="1" Reg="5070">
 <Ereignis Er="3"/>
 </InfoGegenRichtung>
 <NachNorm Nr="1245"/>
@@ -16388,8 +16388,8 @@
 <StrElement Nr="1245" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1188.625" Y="606.465" Z="398.7"/>
 <b X="-1254.244" Y="637.5699" Z="398.6803"/>
-<InfoNormRichtung vMax="-1" km="408.771" Reg="5071"/>
-<InfoGegenRichtung vMax="-1" km="408.6984" pos="1" Reg="5071">
+<InfoNormRichtung vMax="38.8889" km="408.771" Reg="5071"/>
+<InfoGegenRichtung vMax="38.8889" km="408.6984" pos="1" Reg="5071">
 <Signal NameBetriebsstelle="Reichenau (Baden)" Stellwerk="Reichenau (Baden) FD" Signalname="D" SignalTyp="9" BoundingR="10">
 <p X="-1189.9957" Y="603.5734" Z="398.2"/>
 <phi Z="-0.44265"/>
@@ -16513,7 +16513,7 @@
 <StrElement Nr="1246" spTrass="27.7778" Anschluss="256" Fkt="4" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1092.979" Y="561.126" Z="398.7288"/>
 <b X="-1094.605" Y="561.897" Z="398.7283"/>
-<InfoNormRichtung vMax="-1" km="408.8745" pos="1" Reg="5072">
+<InfoNormRichtung vMax="38.8889" km="408.8745" pos="1" Reg="5072">
 <Signal NameBetriebsstelle="Reichenau (Baden)" Stellwerk="Reichenau (Baden) FD" Signalname="9" SignalFlags="3" SignalTyp="2" BoundingR="34">
 <p X="-1092.979" Y="561.126" Z="398.7288"/>
 <phi Y="0.000272" Z="2.698939"/>
@@ -16554,7 +16554,7 @@
 <MatrixEintrag Signalbild="45" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="408.8727" pos="1" Reg="5072">
+<InfoGegenRichtung vMax="38.8889" km="408.8727" pos="1" Reg="5072">
 <Ereignis Er="1000002"/>
 </InfoGegenRichtung>
 <NachNorm Nr="1247"/>
@@ -16564,8 +16564,8 @@
 <StrElement Nr="1247" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1094.605" Y="561.897" Z="398.7283"/>
 <b X="-1106.045" Y="567.3198" Z="398.7248"/>
-<InfoNormRichtung vMax="-1" km="408.8727" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="408.8601" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="408.8727" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="408.8601" pos="1"/>
 <NachNorm Nr="1253"/>
 <NachGegen Nr="1246"/>
 </StrElement>
@@ -16618,10 +16618,10 @@
 <StrElement Nr="1253" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1106.045" Y="567.3198" Z="398.7248"/>
 <b X="-1119.493" Y="573.6943" Z="398.7208"/>
-<InfoNormRichtung vMax="-1" km="408.8604" pos="1">
+<InfoNormRichtung vMax="38.8889" km="408.8604" pos="1">
 <Ereignis Er="31" Wert="1"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="408.8455" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="408.8455" pos="1"/>
 <NachNorm Nr="1255"/>
 <NachGegen Nr="1247"/>
 </StrElement>
@@ -16638,10 +16638,10 @@
 <StrElement Nr="1255" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1119.493" Y="573.6943" Z="398.7208"/>
 <b X="-1123.007" Y="575.3602" Z="398.7197"/>
-<InfoNormRichtung vMax="-1" km="408.8458" pos="1">
+<InfoNormRichtung vMax="38.8889" km="408.8458" pos="1">
 <Ereignis Er="1000002"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="408.8419" pos="1">
+<InfoGegenRichtung vMax="38.8889" km="408.8419" pos="1">
 <Ereignis Er="31" Wert="1"/>
 </InfoGegenRichtung>
 <NachNorm Nr="1244"/>
@@ -17084,15 +17084,15 @@
 <StrElement Nr="1285" spTrass="33.3333" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1797.806" Y="-801.926" Z="400.6444"/>
 <b X="1804.1851" Y="-804.9401" Z="400.6488"/>
-<InfoNormRichtung vMax="-1" km="412.0779" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="412.085"/>
+<InfoNormRichtung vMax="38.8889" km="412.0779" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="412.085"/>
 <NachNorm Nr="1286"/>
 <NachGegen Nr="592"/>
 </StrElement>
 <StrElement Nr="1286" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1804.1851" Y="-804.9401" Z="400.6488"/>
 <b X="1855.691" Y="-829.2786" Z="400.6809"/>
-<InfoNormRichtung vMax="-1" km="412.085" pos="1" Reg="5074">
+<InfoNormRichtung vMax="38.8889" km="412.085" pos="1" Reg="5074">
 <Ereignis Er="4"/>
 <Ereignis Er="1000027" Wert="369" Beschr="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
 <Signal NameBetriebsstelle="BÜ Schneckenburger Straße" Stellwerk="BÜ Schneckenburger Straße" SignalTyp="14" BoundingR="1">
@@ -17108,7 +17108,7 @@
 <MatrixEintrag MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="412.1419" Reg="5074">
+<InfoGegenRichtung vMax="38.8889" km="412.1419" Reg="5074">
 <Ereignis Er="3"/>
 <Ereignis Er="1000027" Wert="368" Beschr="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
 <Signal NameBetriebsstelle="BÜ Schneckenburger Straße" Stellwerk="BÜ Schneckenburger Straße" SignalTyp="14" BoundingR="1">
@@ -17260,24 +17260,24 @@
 <StrElement Nr="1299" Ueberh="0.0313" kr="-0.000631" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1925.42" Y="-861.1281" Z="400.691"/>
 <b X="1910.912" Y="-854.7917" Z="400.6889"/>
-<InfoNormRichtung vMax="-1" km="412.2188"/>
-<InfoGegenRichtung vMax="-1" km="412.203" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="412.2188"/>
+<InfoGegenRichtung vMax="38.8889" km="412.203" pos="1"/>
 <NachNorm Nr="1300"/>
 <NachGegen Nr="1298"/>
 </StrElement>
 <StrElement Nr="1300" Ueberh="0.0313" kr="-0.000594" spTrass="33.3333" Anschluss="257" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1910.912" Y="-854.7917" Z="400.6889"/>
 <b X="1896.469" Y="-848.3084" Z="400.6869"/>
-<InfoNormRichtung vMax="-1" km="412.203"/>
-<InfoGegenRichtung vMax="-1" km="412.1871" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="412.203"/>
+<InfoGegenRichtung vMax="38.8889" km="412.1871" pos="1"/>
 <NachNorm Nr="1303"/>
 <NachGegen Nr="1299"/>
 </StrElement>
 <StrElement Nr="1301" Ueberh="-0.0052" kr="0.000149" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1855.691" Y="-829.2786" Z="400.6809"/>
 <b X="1869.256" Y="-835.6799" Z="400.6829"/>
-<InfoNormRichtung vMax="-1" km="412.1421" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="412.1571">
+<InfoNormRichtung vMax="38.8889" km="412.1421" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="412.1571">
 <Signal SignalTyp="1" BoundingR="10">
 <p X="1826.7139" Y="-811.6613" Z="403.7987"/>
 <phi Z="2.700157"/>
@@ -17304,16 +17304,16 @@
 <StrElement Nr="1302" Ueberh="-0.0157" kr="0.000287" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1869.256" Y="-835.6799" Z="400.6829"/>
 <b X="1882.842" Y="-842.0377" Z="400.6849"/>
-<InfoNormRichtung vMax="-1" km="412.1571" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="412.1721"/>
+<InfoNormRichtung vMax="38.8889" km="412.1571" pos="1"/>
+<InfoGegenRichtung vMax="38.8889" km="412.1721"/>
 <NachNorm Nr="1303"/>
 <NachGegen Nr="1301"/>
 </StrElement>
 <StrElement Nr="1303" Ueberh="-0.0261" kr="0.000487" spTrass="33.3333" Anschluss="257" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1882.842" Y="-842.0377" Z="400.6849"/>
 <b X="1896.469" Y="-848.3083" Z="400.6869"/>
-<InfoNormRichtung vMax="-1" km="412.1722" pos="1" Reg="5075"/>
-<InfoGegenRichtung vMax="-1" km="412.1872" Reg="5075">
+<InfoNormRichtung vMax="38.8889" km="412.1722" pos="1" Reg="5075"/>
+<InfoGegenRichtung vMax="38.8889" km="412.1872" Reg="5075">
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pf" Signalname="P1" SignalTyp="9" BoundingR="10">
 <p X="1884.1797" Y="-839.1307" Z="400.1849"/>
 <phi Z="2.710322"/>
@@ -18853,10 +18853,10 @@
 <StrElement Nr="1434" kr="-0.0001" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2185.8621" Y="-990.2437" Z="400.7294"/>
 <b X="2176.8157" Y="-985.9819" Z="400.7281"/>
-<InfoNormRichtung vMax="-1">
+<InfoNormRichtung vMax="33.3333">
 <Ereignis Er="1000007" Beschr="Konstanz-Petershausen"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1">
+<InfoGegenRichtung vMax="38.8889">
 <Ereignis Er="1000012" Beschr="Konstanz-Petershausen"/>
 </InfoGegenRichtung>
 <NachNorm Nr="1439"/>
@@ -18865,7 +18865,7 @@
 <StrElement Nr="1436" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2012.306" Y="-908.2626" Z="400.7039"/>
 <b X="1982.5527" Y="-894.2031" Z="400.6996"/>
-<InfoNormRichtung vMax="-1">
+<InfoNormRichtung vMax="33.3333">
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pf" Signalname="500 Hz (P2)" SignalTyp="14" BoundingR="3">
 <p X="1982.5527" Y="-894.2031" Z="400.6996"/>
 <phi Y="0.00013" Z="2.700158"/>
@@ -18884,7 +18884,7 @@
 <MatrixEintrag Signalbild="1" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1">
+<InfoGegenRichtung vMax="38.8889">
 <Ereignis Er="1000011" Beschr="Konstanz-Petershausen"/>
 </InfoGegenRichtung>
 <NachNorm Nr="1482"/>
@@ -18893,7 +18893,7 @@
 <StrElement Nr="1437" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1949.6943" Y="-878.6764" Z="400.6949"/>
 <b X="1936.085" Y="-872.2455" Z="400.6929"/>
-<InfoGegenRichtung vMax="-1">
+<InfoGegenRichtung vMax="38.8889">
 <Ereignis Er="1000010" Beschr="Konstanz-Petershausen"/>
 </InfoGegenRichtung>
 <NachNorm Nr="510"/>
@@ -18909,7 +18909,7 @@
 <StrElement Nr="1439" kr="-0.0001" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2176.8157" Y="-985.9819" Z="400.7281"/>
 <b X="2164.749" Y="-980.2973" Z="400.7263"/>
-<InfoNormRichtung vMax="-1" km="412.4934"/>
+<InfoNormRichtung vMax="33.3333" km="412.4934"/>
 <NachNorm Nr="507"/>
 <NachGegen Nr="1434"/>
 </StrElement>
@@ -18960,7 +18960,7 @@
 <StrElement Nr="1444" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1519.8348" Y="763.1475" Z="398.6696"/>
 <b X="-1583.1176" Y="793.0692" Z="398.667"/>
-<InfoNormRichtung vMax="-1">
+<InfoNormRichtung vMax="38.8889">
 <Signal SignalTyp="1" BoundingR="10">
 <p X="-1585.8447" Y="791.9805" Z="399.5"/>
 <phi Z="2.699921"/>
@@ -18987,7 +18987,7 @@
 <MatrixEintrag Signalbild="7" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1">
+<InfoGegenRichtung vMax="38.8889">
 <Ereignis Er="1000008"/>
 <Signal NameBetriebsstelle="Reichenau (Baden)" Stellwerk="Reichenau (Baden) FD" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="1">
 <p X="-1519.8348" Y="763.1475" Z="398.6696"/>
@@ -19006,7 +19006,7 @@
 <StrElement Nr="1448" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1586.2817" Y="794.5652" Z="398.6669"/>
 <b X="-1608.365" Y="805.0066" Z="398.666"/>
-<InfoNormRichtung vMax="-1">
+<InfoNormRichtung vMax="38.8889">
 <Ereignis Er="1000027" Wert="323" Beschr="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
 <Signal NameBetriebsstelle="BÜ Kindlebildstraße" Stellwerk="BÜ Kindlebildstraße" SignalTyp="14" BoundingR="1">
 <p X="-1588.36" Y="795.55" Z="398.67"/>
@@ -19021,7 +19021,7 @@
 <MatrixEintrag MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1">
+<InfoGegenRichtung vMax="38.8889">
 <Ereignis Er="1000007"/>
 <Ereignis Er="1000027" Wert="322" Beschr="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
 <Signal NameBetriebsstelle="BÜ Kindlebildstraße" Stellwerk="BÜ Kindlebildstraße" SignalTyp="14" BoundingR="1">
@@ -19101,7 +19101,7 @@
 <MatrixEintrag MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1">
+<InfoGegenRichtung vMax="38.8889">
 <Ereignis Er="1000007" Beschr="Konstanz-Wollmatingen Hp"/>
 <Ereignis Er="6" Beschr="Konstanz-Wollmatingen Hp"/>
 <Ereignis Er="1000027" Wert="332" Beschr="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
@@ -19124,10 +19124,10 @@
 <StrElement Nr="1452" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="215.2523" Y="-58.5406" Z="399.5513"/>
 <b X="209.9102" Y="-56.0163" Z="399.5476"/>
-<InfoNormRichtung vMax="-1" km="410.3257">
+<InfoNormRichtung vMax="33.3333" km="410.3257">
 <Ereignis Er="1000011" Beschr="Konstanz-Wollmatingen Hp"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1">
+<InfoGegenRichtung vMax="38.8889">
 <Ereignis Er="1000009" Beschr="Konstanz-Wollmatingen Hp"/>
 </InfoGegenRichtung>
 <NachNorm Nr="260"/>
@@ -19136,7 +19136,7 @@
 <StrElement Nr="1453" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1240.9225" Y="-543.2029" Z="400.2605"/>
 <b X="1196.0959" Y="-522.0209" Z="400.2295"/>
-<InfoNormRichtung vMax="-1" km="411.4625">
+<InfoNormRichtung vMax="33.3333" km="411.4625">
 <Signal NameBetriebsstelle="Konstanz-Fürstenberg Hp" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="1">
 <p X="1240.9225" Y="-543.2029" Z="400.2605"/>
 <phi/>
@@ -19148,7 +19148,7 @@
 <MatrixEintrag Signalbild="-1" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1">
+<InfoGegenRichtung vMax="38.8889">
 <Ereignis Er="1000008" Beschr="Konstanz-Fürstenberg Hp"/>
 <Signal NameBetriebsstelle="Konstanz-Fürstenberg Hp" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="1">
 <p X="1240.9225" Y="-543.2029" Z="400.2605"/>
@@ -19167,10 +19167,10 @@
 <StrElement Nr="1454" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1276.2556" Y="-559.899" Z="400.2849"/>
 <b X="1240.9225" Y="-543.2029" Z="400.2605"/>
-<InfoNormRichtung vMax="-1">
+<InfoNormRichtung vMax="33.3333">
 <Ereignis Er="1000011" Beschr="Konstanz-Fürstenberg Hp"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1">
+<InfoGegenRichtung vMax="38.8889">
 <Ereignis Er="1000009" Beschr="Konstanz-Fürstenberg Hp"/>
 </InfoGegenRichtung>
 <NachNorm Nr="1453"/>
@@ -19179,8 +19179,8 @@
 <StrElement Nr="1455" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1136.8748" Y="-494.0369" Z="400.1885"/>
 <b X="1106.443" Y="-479.6569" Z="400.1675"/>
-<InfoNormRichtung vMax="-1" km="411.3473"/>
-<InfoGegenRichtung vMax="-1">
+<InfoNormRichtung vMax="33.3333" km="411.3473"/>
+<InfoGegenRichtung vMax="38.8889">
 <Ereignis Er="1000007" Beschr="Konstanz-Fürstenberg Hp"/>
 <Ereignis Er="6" Beschr="Konstanz-Fürstenberg Hp"/>
 </InfoGegenRichtung>
@@ -19190,7 +19190,7 @@
 <StrElement Nr="1456" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1325.8451" Y="-578.9073" Z="400.3181"/>
 <b X="1287.458" Y="-560.7679" Z="400.2915"/>
-<InfoNormRichtung vMax="-1" km="411.5548"/>
+<InfoNormRichtung vMax="33.3333" km="411.5548"/>
 <InfoGegenRichtung vMax="-1">
 <Ereignis Er="1000012" Beschr="Konstanz-Fürstenberg Hp"/>
 </InfoGegenRichtung>
@@ -19200,7 +19200,7 @@
 <StrElement Nr="1457" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1182.4347" Y="-511.1406" Z="400.2189"/>
 <b X="1108.152" Y="-476.0393" Z="400.1675"/>
-<InfoNormRichtung vMax="-1" km="411.3958"/>
+<InfoNormRichtung vMax="33.3333" km="411.3958"/>
 <InfoGegenRichtung vMax="-1">
 <Ereignis Er="1000010" Beschr="Konstanz-Fürstenberg Hp"/>
 <Ereignis Er="6" Beschr="Konstanz-Fürstenberg Hp"/>
@@ -19211,7 +19211,7 @@
 <StrElement Nr="1458" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1702.9983" Y="849.7511" Z="398.6622"/>
 <b X="-1785.426" Y="888.725" Z="398.6589"/>
-<InfoNormRichtung vMax="-1" km="408.2045" Reg="5079">
+<InfoNormRichtung vMax="38.8889" km="408.2045" Reg="5079">
 <Ereignis Er="4"/>
 <Ereignis Er="28" Beschr="720b"/>
 </InfoNormRichtung>
@@ -19261,7 +19261,7 @@
 <StrElement Nr="1460" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-816.7452" Y="430.6989" Z="398.8297"/>
 <b X="-861.281" Y="451.849" Z="398.7983"/>
-<InfoNormRichtung vMax="-1" km="409.1753">
+<InfoNormRichtung vMax="38.8889" km="409.1753">
 <Ereignis Er="1000027" Wert="329" Beschr="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
 <Signal NameBetriebsstelle="BÜ Mühlenweg" Stellwerk="BÜ Mühlenweg" SignalTyp="14" BoundingR="1">
 <p X="-851.98" Y="447.43" Z="398.8"/>
@@ -19276,7 +19276,7 @@
 <MatrixEintrag MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1">
+<InfoGegenRichtung vMax="38.8889">
 <Ereignis Er="1000027" Wert="328" Beschr="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
 <Signal NameBetriebsstelle="BÜ Mühlenweg" Stellwerk="BÜ Mühlenweg" SignalTyp="14" BoundingR="1">
 <p X="-851.98" Y="447.43" Z="398.8"/>
@@ -19297,8 +19297,8 @@
 <StrElement Nr="1461" kr="-0.000034" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1454.298" Y="-644.5177" Z="400.4082"/>
 <b X="1419.8838" Y="-628.1304" Z="400.3843"/>
-<InfoNormRichtung vMax="-1" Reg="5081"/>
-<InfoGegenRichtung vMax="-1" Reg="5081">
+<InfoNormRichtung vMax="33.3333" Reg="5081"/>
+<InfoGegenRichtung vMax="38.8889" Reg="5081">
 <Ereignis Er="3"/>
 </InfoGegenRichtung>
 <NachNorm Nr="1462"/>
@@ -19307,8 +19307,8 @@
 <StrElement Nr="1462" kr="-0.000034" spTrass="33.3333" Anschluss="257" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1419.8838" Y="-628.1304" Z="400.3843"/>
 <b X="1403.527" Y="-620.3416" Z="400.373"/>
-<InfoNormRichtung vMax="-1" km="411.6611" Reg="5082"/>
-<InfoGegenRichtung vMax="-1" Reg="5082">
+<InfoNormRichtung vMax="33.3333" km="411.6611" Reg="5082"/>
+<InfoGegenRichtung vMax="38.8889" Reg="5082">
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pf" Signalname="A" SignalTyp="7" BoundingR="10">
 <p X="1418.809" Y="-630.3876" Z="400.3843"/>
 <phi Z="-0.444412"/>
@@ -20050,7 +20050,7 @@
 <StrElement Nr="1463" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1421.645" Y="-624.1763" Z="400.3843"/>
 <b X="1364.271" Y="-597.065" Z="400.3446"/>
-<InfoNormRichtung vMax="-1" km="411.661" Reg="5083"/>
+<InfoNormRichtung vMax="33.3333" km="411.661" Reg="5083"/>
 <InfoGegenRichtung vMax="-1" Reg="5083">
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pf" Signalname="A\" SignalTyp="13" BoundingR="1">
 <p X="1421.645" Y="-624.1763" Z="400.3843"/>
@@ -20083,8 +20083,8 @@
 <StrElement Nr="1464" Ueberh="-0.0523" kr="0.002418" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2299.2048" Y="-1045.7854" Z="400.7461"/>
 <b X="2295.21" Y="-1043.4351" Z="400.7455"/>
-<InfoNormRichtung vMax="-1" km="412.6353" Reg="5084"/>
-<InfoGegenRichtung vMax="-1" Reg="5084">
+<InfoNormRichtung vMax="33.3333" km="412.6353" Reg="5084"/>
+<InfoGegenRichtung vMax="38.8889" Reg="5084">
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pw" Signalname="N2" SignalTyp="9" BoundingR="10">
 <p X="2298.064" Y="-1047.7246" Z="400.7461"/>
 <phi Z="-0.531802"/>
@@ -20269,10 +20269,10 @@
 <StrElement Nr="1466" spTrass="16.6667" Anschluss="257" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1756.5178" Y="-787.394" Z="400.6171"/>
 <b X="1707.421" Y="-764.194" Z="400.5832"/>
-<InfoNormRichtung vMax="-1" km="412.0343" Reg="5085">
+<InfoNormRichtung vMax="33.3333" km="412.0343" Reg="5085">
 <Ereignis Er="3"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" Reg="5085">
+<InfoGegenRichtung vMax="38.8889" Reg="5085">
 <Ereignis Er="4"/>
 </InfoGegenRichtung>
 <NachNorm Nr="523"/>
@@ -20281,8 +20281,8 @@
 <StrElement Nr="1468" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2179.4167" Y="-992.2048" Z="400.7287"/>
 <b X="2175.012" Y="-990.1233" Z="400.7281"/>
-<InfoNormRichtung vMax="-1" km="412.5039"/>
-<InfoGegenRichtung vMax="-1" pos="1"/>
+<InfoNormRichtung vMax="38.8889" km="412.5039"/>
+<InfoGegenRichtung vMax="38.8889" pos="1"/>
 <NachNorm Nr="469"/>
 <NachGegen Nr="468"/>
 </StrElement>
@@ -20414,7 +20414,7 @@
 <StrElement Nr="1471" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="48.685" Y="20.1677" Z="399.4361"/>
 <b X="30.6036" Y="28.7118" Z="399.4236"/>
-<InfoNormRichtung vMax="-1" km="410.1411"/>
+<InfoNormRichtung vMax="38.8889" km="410.1411"/>
 <NachNorm Nr="262"/>
 <NachGegen Nr="1451"/>
 </StrElement>
@@ -20429,8 +20429,8 @@
 <StrElement Nr="1473" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1537.681" Y="-683.986" Z="400.4659"/>
 <b X="1510.5291" Y="-671.156" Z="400.4471"/>
-<InfoNormRichtung vMax="-1" km="411.7678"/>
-<InfoGegenRichtung vMax="-1"/>
+<InfoNormRichtung vMax="33.3333" km="411.7678"/>
+<InfoGegenRichtung vMax="38.8889"/>
 <NachNorm Nr="264"/>
 <NachGegen Nr="559"/>
 </StrElement>
@@ -20491,10 +20491,10 @@
 <StrElement Nr="1476" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2071.5881" Y="-941.2516" Z="400.713"/>
 <b X="1995.3199" Y="-905.212" Z="400.7017"/>
-<InfoNormRichtung vMax="-1" km="412.3754">
+<InfoNormRichtung vMax="38.8889" km="412.3754">
 <Ereignis Er="6"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1">
+<InfoGegenRichtung vMax="38.8889">
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pw" Signalname="500 Hz (N3)" SignalTyp="14" BoundingR="3">
 <p X="2071.5881" Y="-941.2516" Z="400.713"/>
 <phi Y="-0.000134" Z="-0.441438"/>
@@ -20526,14 +20526,14 @@
 <StrElement Nr="1478" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-590.9174" Y="323.4527" Z="398.9885"/>
 <b X="-594.0665" Y="324.9482" Z="398.9863"/>
-<InfoNormRichtung vMax="-1" km="409.4284"/>
+<InfoNormRichtung vMax="38.8889" km="409.4284"/>
 <NachNorm Nr="301"/>
 <NachGegen Nr="300"/>
 </StrElement>
 <StrElement Nr="1479" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1476.9885" Y="742.8886" Z="398.6713"/>
 <b X="-1519.835" Y="763.1475" Z="398.6696"/>
-<InfoNormRichtung vMax="-1" km="408.4539">
+<InfoNormRichtung vMax="38.8889" km="408.4539">
 <Ereignis Er="1000011"/>
 <Ereignis Er="6"/>
 </InfoNormRichtung>
@@ -20549,14 +20549,14 @@
 <StrElement Nr="1481" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1951.8165" Y="-884.6549" Z="400.6954"/>
 <b X="1905.474" Y="-862.7563" Z="400.6887"/>
-<InfoNormRichtung vMax="-1" km="412.2521"/>
+<InfoNormRichtung vMax="38.8889" km="412.2521"/>
 <NachNorm Nr="472"/>
 <NachGegen Nr="471"/>
 </StrElement>
 <StrElement Nr="1482" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1982.5527" Y="-894.2031" Z="400.6996"/>
 <b X="1949.6943" Y="-878.6764" Z="400.6949"/>
-<InfoNormRichtung vMax="-1">
+<InfoNormRichtung vMax="33.3333">
 <Ereignis Er="1000009" Beschr="Konstanz-Petershausen"/>
 </InfoNormRichtung>
 <NachNorm Nr="1437"/>
@@ -20575,10 +20575,10 @@
 <StrElement Nr="1484" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1414.6042" Y="713.3918" Z="398.6739"/>
 <b X="-1431.3051" Y="721.2883" Z="398.6732"/>
-<InfoNormRichtung vMax="-1" km="408.5227" Reg="5087">
+<InfoNormRichtung vMax="38.8889" km="408.5227" Reg="5087">
 <Ereignis Er="1000010"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" Reg="5087">
+<InfoGegenRichtung vMax="38.8889" Reg="5087">
 <Ereignis Er="4"/>
 <Signal NameBetriebsstelle="Reichenau (Baden)" Stellwerk="Reichenau (Baden) FD" Signalname="500 Hz (D)" SignalTyp="14" BoundingR="3">
 <p X="-1414.6042" Y="713.3918" Z="398.6739"/>
@@ -20634,10 +20634,10 @@
 <StrElement Nr="1486" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1193.9788" Y="-521.0204" Z="400.228"/>
 <b X="1136.8748" Y="-494.0369" Z="400.1885"/>
-<InfoNormRichtung vMax="-1">
+<InfoNormRichtung vMax="33.3333">
 <Ereignis Er="1000012" Beschr="Konstanz-Fürstenberg Hp"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1">
+<InfoGegenRichtung vMax="38.8889">
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pf" Signalname="500 Hz (A)" SignalTyp="14" BoundingR="3">
 <p X="1193.9788" Y="-521.0204" Z="400.228"/>
 <phi Y="-0.000626" Z="-0.441434"/>
@@ -20662,7 +20662,7 @@
 <StrElement Nr="1487" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1195.6104" Y="-517.3666" Z="400.228"/>
 <b X="1182.4347" Y="-511.1406" Z="400.2189"/>
-<InfoNormRichtung vMax="-1">
+<InfoNormRichtung vMax="33.3333">
 <Ereignis Er="1000009" Beschr="Konstanz-Fürstenberg Hp"/>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1">
@@ -20690,11 +20690,11 @@
 <StrElement Nr="1488" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2073.9744" Y="-937.4026" Z="400.713"/>
 <b X="2012.306" Y="-908.2626" Z="400.7039"/>
-<InfoNormRichtung vMax="-1" km="412.3751">
+<InfoNormRichtung vMax="33.3333" km="412.3751">
 <Ereignis Er="1000008"/>
 <Ereignis Er="6"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1">
+<InfoGegenRichtung vMax="38.8889">
 <Signal NameBetriebsstelle="Konstanz-Petershausen" Stellwerk="Konstanz-Petershausen Pw" Signalname="500 Hz (N2)" SignalTyp="14" BoundingR="3">
 <p X="2073.9744" Y="-937.4026" Z="400.713"/>
 <phi Y="-0.000134" Z="-0.44143"/>
@@ -20735,8 +20735,8 @@
 <StrElement Nr="1491" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="321.4061" Y="-108.7018" Z="399.6247"/>
 <b X="299.5634" Y="-98.3804" Z="399.6096"/>
-<InfoNormRichtung vMax="-1" km="410.4433"/>
-<InfoGegenRichtung vMax="-1">
+<InfoNormRichtung vMax="33.3333" km="410.4433"/>
+<InfoGegenRichtung vMax="38.8889">
 <Signal SignalTyp="1" BoundingR="10">
 <p X="321.4061" Y="-108.7018" Z="399.6247"/>
 <phi Z="-0.441432"/>
@@ -20763,11 +20763,11 @@
 <StrElement Nr="1492" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="253.5956" Y="-76.6591" Z="399.5778"/>
 <b X="215.2523" Y="-58.5406" Z="399.5513"/>
-<InfoNormRichtung vMax="-1">
+<InfoNormRichtung vMax="33.3333">
 <Ereignis Er="1000010" Beschr="Konstanz-Wollmatingen Hp"/>
 <Ereignis Er="6" Beschr="Konstanz-Wollmatingen Hp"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1">
+<InfoGegenRichtung vMax="38.8889">
 <Signal SignalTyp="1" BoundingR="10">
 <p X="253.5956" Y="-76.6591" Z="399.5778"/>
 <phi Z="-0.441434"/>
@@ -20794,7 +20794,7 @@
 <StrElement Nr="1493" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="189.7771" Y="-42.0747" Z="399.5325"/>
 <b X="121.9667" Y="-10.0319" Z="399.4856"/>
-<InfoNormRichtung vMax="-1" km="410.2953">
+<InfoNormRichtung vMax="33.3333" km="410.2953">
 <Signal SignalTyp="1" BoundingR="10">
 <p X="121.9667" Y="-10.0319" Z="399.4856"/>
 <phi Z="2.700157"/>
@@ -20821,7 +20821,7 @@
 <StrElement Nr="1494" spTrass="33.3333" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="257.5876" Y="-74.1176" Z="399.5794"/>
 <b X="211.6199" Y="-52.3962" Z="399.5476"/>
-<InfoNormRichtung vMax="-1" km="410.3706"/>
+<InfoNormRichtung vMax="33.3333" km="410.3706"/>
 <NachNorm Nr="284"/>
 <NachGegen Nr="283"/>
 </StrElement>
@@ -20970,7 +20970,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20982,7 +20982,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -21008,7 +21008,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -21020,7 +21020,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -21047,7 +21047,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -21059,7 +21059,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -21085,7 +21085,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -21097,7 +21097,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -22863,7 +22863,7 @@
 <StrElement Nr="1534" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1583.1177" Y="793.0692" Z="398.667"/>
 <b X="-1586.2817" Y="794.5652" Z="398.6669"/>
-<InfoNormRichtung vMax="-1">
+<InfoNormRichtung vMax="38.8889">
 <Ereignis Er="1000012"/>
 <Signal NameBetriebsstelle="Reichenau (Baden)" Stellwerk="Reichenau (Baden) FD" Signalname="Reisende" SignalFlags="64" SignalTyp="14" BoundingR="1">
 <p X="10" Y="792.1942" Z="399.5"/>
