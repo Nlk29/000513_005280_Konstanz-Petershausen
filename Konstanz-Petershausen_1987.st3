@@ -450,6 +450,10 @@
 <ReferenzElemente ReferenzNr="420" StrElement="161" StrNorm="1" RefTyp="5" Info="Auflösepunkt"/>
 <ReferenzElemente ReferenzNr="421" StrElement="161" StrNorm="1" RefTyp="2" Info="Register-Nr. 5010"/>
 <ReferenzElemente ReferenzNr="422" StrElement="161" RefTyp="2" Info="Register-Nr. 5010"/>
+<ReferenzElemente ReferenzNr="423" StrElement="316" StrNorm="1" RefTyp="3" Info="Weiche  "/>
+<ReferenzElemente ReferenzNr="424" StrElement="1535" StrNorm="1" RefTyp="5" Info="Auflösepunkt"/>
+<ReferenzElemente ReferenzNr="425" StrElement="1535" StrNorm="1" RefTyp="2" Info="Register-Nr. 5090"/>
+<ReferenzElemente ReferenzNr="426" StrElement="1535" RefTyp="2" Info="Register-Nr. 5090"/>
 <StrElement Nr="1" Ueberh="0.0366" kr="-0.001412" spTrass="22.2222" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2453.0029" Y="-1190.38" Z="400.7674"/>
 <b X="2457.4199" Y="-1196.859" Z="400.7712"/>
@@ -5830,12 +5834,24 @@
 </StrElement>
 <StrElement Nr="316" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-1701.067" Y="853.8159" Z="398.6622"/>
-<b X="-1783.5031" Y="892.7939" Z="398.6589"/>
-<InfoNormRichtung vMax="-1" km="408.2045" Reg="5026">
-<Ereignis Er="4"/>
-<Ereignis Er="39" Beschr="720b"/>
+<b X="-1742.285" Y="873.3049" Z="398.6606"/>
+<InfoNormRichtung vMax="-1" Reg="5026">
+<Signal SignalTyp="1" BoundingR="1">
+<p X="-1741.0881" Y="875.8362" Z="399.8755"/>
+<phi Z="2.176319"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Nebensignale\DB_Ne6.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="1" MatrixGeschw="-1"/>
+</Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="38.8889" km="408.1133" pos="1" Reg="5026"/>
+<InfoGegenRichtung vMax="38.8889" km="408.1589" pos="1" Reg="5026"/>
+<NachNorm Nr="1535"/>
 <NachGegen Nr="315"/>
 <NachNormModul Nr="2">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
@@ -20953,7 +20969,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20965,7 +20981,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -20991,7 +21007,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -21003,7 +21019,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -21030,7 +21046,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -21042,7 +21058,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -21068,7 +21084,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -21080,7 +21096,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -22862,6 +22878,19 @@
 <NachNorm Nr="1448"/>
 <NachGegen Nr="1444"/>
 </StrElement>
+<StrElement Nr="1535" spTrass="38.8889" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="-1742.285" Y="873.3049" Z="398.6606"/>
+<b X="-1783.5031" Y="892.7939" Z="398.6589"/>
+<InfoNormRichtung vMax="-1" km="408.1589" Reg="5090">
+<Ereignis Er="4"/>
+<Ereignis Er="39" Beschr="720b"/>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="-1" Reg="5090"/>
+<NachGegen Nr="316"/>
+<NachNormModul Nr="2">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</NachNormModul>
+</StrElement>
 <Fahrstrasse FahrstrName="Konstanz-Petershausen F -&gt; Konstanz-Petershausen P1" FahrstrTyp="TypZug" Laenge="880.4792">
 <FahrstrStart Ref="9">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
@@ -23494,7 +23523,7 @@
 <FahrstrRegister Ref="60">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrRegister>
-<FahrstrAufloesung Ref="349">
+<FahrstrAufloesung Ref="424">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrAufloesung>
 <FahrstrTeilaufloesung Ref="190">
@@ -23615,7 +23644,7 @@
 <FahrstrRegister Ref="60">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrRegister>
-<FahrstrAufloesung Ref="349">
+<FahrstrAufloesung Ref="424">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrAufloesung>
 <FahrstrTeilaufloesung Ref="190">
@@ -23649,145 +23678,103 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Reichenau (Baden) Gleis 2 -&gt; Allensbach D\" FahrstrStrecke="720b" RglGgl="3" FahrstrTyp="TypZug" Laenge="4279.3833">
+<Fahrstrasse FahrstrName="Reichenau (Baden) Gleis 2 -&gt; Allensbach \D" FahrstrStrecke="720b" RglGgl="3" FahrstrTyp="TypZug" Laenge="4278.4556">
 <FahrstrStart Ref="55">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrStart>
-<FahrstrZiel Ref="199">
+<FahrstrZiel Ref="139">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrZiel>
 <FahrstrRegister Ref="283">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrRegister>
+<FahrstrRegister Ref="262">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrRegister>
 <FahrstrRegister Ref="4">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrRegister>
-<FahrstrRegister Ref="201">
+<FahrstrRegister Ref="141">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrRegister>
-<FahrstrAufloesung Ref="184">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrAufloesung>
-<FahrstrAufloesung Ref="175">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrAufloesung>
-<FahrstrAufloesung Ref="193">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrAufloesung>
-<FahrstrAufloesung Ref="193">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrAufloesung>
-<FahrstrAufloesung Ref="193">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrAufloesung>
-<FahrstrAufloesung Ref="193">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrAufloesung>
-<FahrstrAufloesung Ref="193">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrAufloesung>
-<FahrstrAufloesung Ref="193">
+<FahrstrAufloesung Ref="296">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrAufloesung>
 <FahrstrTeilaufloesung Ref="358">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrTeilaufloesung>
-<FahrstrSignal Ref="328" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="176" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="334" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="184" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="338" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="190" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="345" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="195" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="351" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="203" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="55" FahrstrSignalZeile="1" FahrstrSignalErsatzsignal="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Reichenau (Baden) B -&gt; Allensbach D" FahrstrStrecke="720b" RglGgl="2" FahrstrTyp="TypZug" Laenge="4279.6982">
+<Fahrstrasse FahrstrName="Reichenau (Baden) B -&gt; Allensbach D" FahrstrStrecke="720b" RglGgl="2" FahrstrTyp="TypZug" Laenge="4278.6973">
 <FahrstrStart Ref="59">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrStart>
-<FahrstrZiel Ref="145">
+<FahrstrZiel Ref="136">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrZiel>
 <FahrstrRegister Ref="62">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrRegister>
-<FahrstrRegister Ref="197">
+<FahrstrRegister Ref="425">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="279">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrRegister>
-<FahrstrRegister Ref="147">
+<FahrstrRegister Ref="138">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrRegister>
-<FahrstrAufloesung Ref="193">
+<FahrstrAufloesung Ref="282">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrAufloesung>
-<FahrstrAufloesung Ref="193">
+<FahrstrAufloesung Ref="282">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrAufloesung>
-<FahrstrAufloesung Ref="193">
+<FahrstrAufloesung Ref="282">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrAufloesung>
-<FahrstrAufloesung Ref="193">
+<FahrstrAufloesung Ref="282">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrAufloesung>
-<FahrstrAufloesung Ref="193">
+<FahrstrAufloesung Ref="282">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrAufloesung>
-<FahrstrAufloesung Ref="184">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrAufloesung>
-<FahrstrAufloesung Ref="175">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrAufloesung>
-<FahrstrAufloesung Ref="193">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrAufloesung>
-<FahrstrAufloesung Ref="193">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrAufloesung>
-<FahrstrAufloesung Ref="193">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrAufloesung>
-<FahrstrAufloesung Ref="193">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrAufloesung>
-<FahrstrAufloesung Ref="193">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrAufloesung>
-<FahrstrAufloesung Ref="193">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrAufloesung>
-<FahrstrTeilaufloesung Ref="349">
+<FahrstrTeilaufloesung Ref="424">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrTeilaufloesung>
-<FahrstrSignal Ref="326" FahrstrSignalZeile="1">
+<FahrstrSigHaltfall Ref="266">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
+</FahrstrSigHaltfall>
+<FahrstrSignal Ref="174" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="332" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="182" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="340" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="188" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="6">
+<FahrstrSignal Ref="193" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrSignal Ref="343" FahrstrSignalZeile="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrSignal>
-<FahrstrSignal Ref="142">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
-</FahrstrSignal>
-<FahrstrSignal Ref="349" FahrstrSignalZeile="1">
+<FahrstrSignal Ref="201" FahrstrSignalZeile="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrSignal Ref="59">
