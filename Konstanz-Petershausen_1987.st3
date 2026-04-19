@@ -2307,16 +2307,22 @@
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\egli_HSigBlende_HP1-Gas-DB.ls3"/>
 </SignalFrame>
 <SignalFrame>
+<p Y="-0.15" Z="5.7"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\egli_HSigBlende_HP2-Gas-DB.ls3"/>
+</SignalFrame>
+<SignalFrame>
 <p Y="0.045" Z="8"/>
 <phi/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\HP1-normal.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p/>
+<p Y="0.045" Z="6"/>
 <phi/>
 <sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\Mastblech-5Marken2begr-schmal.ls3"/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\HP2-normal.ls3"/>
 </SignalFrame>
 <SignalFrame>
 <p Y="0.045"/>
@@ -2325,26 +2331,50 @@
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\egli_8m-schmal-2begr.lod0.ls3"/>
 </SignalFrame>
 <SignalFrame>
+<p Y="0.045"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\egli_8m-schmal-3begr.lod0.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-HSIG\Mastblech-5Marken3begr-schmal.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.6" Z="4.51"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Zusatzsignale\Blechtafeln\Zs3_Tafel-SpitzeUnten.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.6" Z="4.51"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Zusatzsignale\Blechtafeln\Ziffern\Zs3_Tafel-6.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
 <p Y="2.25"/>
 <phi/>
 <sk/>
 <Datei Dateiname="signals\Deutschland\Indusi\Indusi-Sie_kl.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p X="-0.4299" Y="-0.0001" Z="2.59"/>
-<phi/>
+<p X="-0.4302" Y="0" Z="2.59"/>
+<phi Z="0"/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalbeschriftung\Beschriftungsfeld.lod1.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p X="-0.4299" Y="0.0299" Z="2.59"/>
-<phi/>
+<p X="-0.4302" Y="0.03" Z="2.59"/>
+<phi Z="0"/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalbeschriftung\Beschriftungen\Gross\Sigbeschr_N.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p X="-0.4299" Y="-0.0601" Z="2.59"/>
-<phi/>
+<p X="-0.4302" Y="-0.06" Z="2.59"/>
+<phi Z="0"/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalbeschriftung\Beschriftungen\Gross\Sigbeschr_1.lod.ls3"/>
 </SignalFrame>
@@ -2366,35 +2396,35 @@
 <HsigBegriff HsigGeschw="38.8889" FahrstrTyp="4"/>
 <HsigBegriff HsigGeschw="41.6667" FahrstrTyp="4"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="31397" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="31123">
+<MatrixEintrag Signalbild="66734373" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="66659475">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="31945" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="31945" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="31945" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="31945" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="31945" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="31945" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="31397" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="31397" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="31397" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="31397" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="31397" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="31397" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="31397" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="31397" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="31397" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="66884169" MatrixGeschw="16.6667"/>
+<MatrixEintrag Signalbild="66884169" MatrixGeschw="16.6667"/>
+<MatrixEintrag Signalbild="66884169" MatrixGeschw="16.6667"/>
+<MatrixEintrag Signalbild="66884169" MatrixGeschw="16.6667"/>
+<MatrixEintrag Signalbild="66884169" MatrixGeschw="16.6667"/>
+<MatrixEintrag Signalbild="66884169" MatrixGeschw="16.6667"/>
+<MatrixEintrag Signalbild="66734373" MatrixGeschw="16.6667"/>
+<MatrixEintrag Signalbild="66734373" MatrixGeschw="16.6667"/>
+<MatrixEintrag Signalbild="66734373" MatrixGeschw="16.6667"/>
+<MatrixEintrag Signalbild="66734373" MatrixGeschw="16.6667"/>
+<MatrixEintrag Signalbild="66734373" MatrixGeschw="16.6667"/>
+<MatrixEintrag Signalbild="66734373" MatrixGeschw="16.6667"/>
+<MatrixEintrag Signalbild="66734373" MatrixGeschw="16.6667"/>
+<MatrixEintrag Signalbild="66734373" MatrixGeschw="16.6667"/>
+<MatrixEintrag Signalbild="66734373" MatrixGeschw="16.6667"/>
 <Ersatzsignal ErsatzsigBezeichnung="Befehl" ErsatzsigID="0000050D">
-<MatrixEintrag Signalbild="31123" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="66659475" MatrixGeschw="11.1111">
 <Ereignis Er="32" Wert="70"/>
 <Ereignis Er="2000"/>
 </MatrixEintrag>
 </Ersatzsignal>
 <Ersatzsignal ErsatzsigBezeichnung="BefehlGegengleis" ErsatzsigID="0001050D">
-<MatrixEintrag Signalbild="31123" MatrixGeschw="11.1111">
+<MatrixEintrag Signalbild="66659475" MatrixGeschw="11.1111">
 <Ereignis Er="32" Wert="70"/>
-<Ereignis Er="28" Wert="11"/>
+<Ereignis Er="28" Wert="20"/>
 <Ereignis Er="2000"/>
 </MatrixEintrag>
 </Ersatzsignal>
@@ -4282,35 +4312,7 @@
 <g X="1510.5291" Y="-671.156" Z="400.4471"/>
 <b X="1505.104" Y="-668.5924" Z="400.4433"/>
 <InfoNormRichtung vMax="33.3333" km="411.7616"/>
-<InfoGegenRichtung vMax="38.8889" km="411.7556" pos="1">
-<Signal SignalTyp="1" BoundingR="3">
-<p X="1505.5881" Y="-672.2499" Z="399.8471"/>
-<phi Z="-0.441446"/>
-<SignalFrame>
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Langsamfahrsignale\DB_Lf6_transparent_gas.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p X="-0.23" Z="2.96"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Langsamfahrsignale\Ziffer\Lf_Ziffer-6-alternativ.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p Y="3.1" Z="0.6"/>
-<phi/>
-<sk/>
-<Datei Dateiname="signals\Deutschland\Indusi\Indusi-Sie_gr.lod.ls3"/>
-</SignalFrame>
-<HsigBegriff HsigGeschw="-1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="7" MatrixGeschw="-1">
-<Ereignis Er="1000"/>
-</MatrixEintrag>
-</Signal>
-</InfoGegenRichtung>
+<InfoGegenRichtung vMax="38.8889" km="411.7556" pos="1"/>
 <NachNorm Nr="265"/>
 <NachGegen Nr="1473"/>
 </StrElement>
@@ -8130,35 +8132,7 @@
 <Ereignis Er="4"/>
 <Ereignis Er="39" Beschr="720b"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="411.6826" pos="1" Reg="5041">
-<Signal SignalTyp="1" BoundingR="3">
-<p X="1508.0011" Y="-667.195" Z="400.4508"/>
-<phi Z="-0.441439"/>
-<SignalFrame>
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Langsamfahrsignale\DB_Lf6_transparent_GB.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p X="-0.23" Z="0.45"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Langsamfahrsignale\Ziffer\Lf_Ziffer-6-alternativ.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p Y="2"/>
-<phi/>
-<sk/>
-<Datei Dateiname="signals\Deutschland\Indusi\Indusi-Sie_gr.lod.ls3"/>
-</SignalFrame>
-<HsigBegriff HsigGeschw="-1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="7" MatrixGeschw="-1">
-<Ereignis Er="1000"/>
-</MatrixEintrag>
-</Signal>
-</InfoGegenRichtung>
+<InfoGegenRichtung vMax="-1" km="411.6826" pos="1" Reg="5041"/>
 <NachNorm Nr="490"/>
 <NachGegen Nr="577"/>
 </StrElement>
@@ -20969,7 +20943,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -20981,7 +20955,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -21007,7 +20981,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -21019,7 +20993,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -21046,7 +21020,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -21058,7 +21032,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -21084,7 +21058,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -21096,7 +21070,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="8.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -22890,6 +22864,10 @@
 <NachNormModul Nr="2">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </NachNormModul>
+</StrElement>
+<StrElement Nr="1536" spTrass="27.7778" Fkt="2">
+<g X="2370.0203" Y="-1825.9874" Z="401"/>
+<b X="2437.7354" Y="-1716.272" Z="401"/>
 </StrElement>
 <Fahrstrasse FahrstrName="Konstanz-Petershausen F -&gt; Konstanz-Petershausen P1" FahrstrTyp="TypZug" Laenge="880.4792">
 <FahrstrStart Ref="9">

@@ -592,7 +592,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Strassen\Strassenbeleuchtung\Strassenleuchte_9m_Mast_geknickt.lod.ls3"/>
-<p X="-94.5942" Y="-294.3185" Z="401.1411"/>
+<p X="-94.5942" Y="-294.3185" Z="401.1398"/>
 <phi Z="1.006362"/>
 <sk/>
 </Verknuepfte>
@@ -604,7 +604,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Strassen\Strassenbeleuchtung\Strassenleuchte_9m_Mast_geknickt.lod.ls3"/>
-<p X="-81.3811" Y="-274.7393" Z="401.1406"/>
+<p X="-81.3811" Y="-274.7393" Z="401.1398"/>
 <phi Z="1.006364"/>
 <sk/>
 </Verknuepfte>
@@ -5290,7 +5290,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Strassen\Strassenbeleuchtung\Strassenleuchte_9m_Mast_geknickt.lod.ls3"/>
-<p X="-118.6897" Y="-333.7516" Z="401.7144"/>
+<p X="-118.6897" Y="-333.7516" Z="401.1398"/>
 <phi Z="1.00576"/>
 <sk/>
 </Verknuepfte>
@@ -6416,6 +6416,42 @@
 <phi Z="1.729462"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Strassenbeleuchtung\Strassenleuchte_9m_Mast_geknickt.lod.ls3"/>
+<p X="-129.9795" Y="-325.9875" Z="401.1398"/>
+<phi Z="4.036953"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Strassenbeleuchtung\Strassenleuchte_9m_Mast_geknickt.lod.ls3"/>
+<p X="-118.6334" Y="-307.7536" Z="401.1398"/>
+<phi Z="4.036953"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Strassenbeleuchtung\Strassenleuchte_9m_Mast_geknickt.lod.ls3"/>
+<p X="-105.9973" Y="-287.5428" Z="401.1398"/>
+<phi Z="4.036953"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Strassenbeleuchtung\Strassenleuchte_9m_Mast_geknickt.lod.ls3"/>
+<p X="-93.5215" Y="-267.4914" Z="401.1398"/>
+<phi Z="4.036953"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Strassenbeleuchtung\Strassenleuchte_9m_Mast_geknickt.lod.ls3"/>
+<p X="-80.2125" Y="-246.2246" Z="401.1398"/>
+<phi Z="4.036953"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Strassenbeleuchtung\Strassenleuchte_9m_Mast_geknickt.lod.ls3"/>
+<p X="-67.3477" Y="-225.347" Z="401.1398"/>
+<phi Z="4.036953"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_513500_5279500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="10" MeterProTex2="10" MeshV="16" MeshI="36">
 <RenderFlags TexVoreinstellung="3"/>
@@ -6540,10 +6576,10 @@
 <Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m_oMstr.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="30" MeshI="84">
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeshV="30" MeshI="84">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m.dds"/>
+<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m_oMstr.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="3" MeshI="3">
@@ -6558,10 +6594,10 @@
 <Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeshV="4" MeshI="6">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m.dds"/>
+<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m_oMstr.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
@@ -6765,7 +6801,7 @@
 <Datei Dateiname="Routes\Deutschland\32U_0006_0059\000567_005923_Hamburg_Harburg\Texturen\Stahlbruecke-Rost2.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="42" MeshI="156">
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" zBias="-1" MeshV="42" MeshI="156">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Strassen\Autobahn\autobahn_2spurig_2950cm.dds"/>
@@ -6897,10 +6933,10 @@
 <Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="24" MeshI="66">
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeshV="24" MeshI="66">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m.dds"/>
+<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m_oMstr.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="33" MeshI="93">
