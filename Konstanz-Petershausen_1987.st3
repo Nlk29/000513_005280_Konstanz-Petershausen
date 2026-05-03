@@ -459,7 +459,7 @@
 <b X="2457.4199" Y="-1196.859" Z="400.7712"/>
 <InfoNormRichtung vMax="-1" km="412.8486" pos="1" Reg="5001">
 <Ereignis Er="4"/>
-<Ereignis Er="40" Beschr="720a"/>
+<Ereignis Er="40" Beschr="4000a"/>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="412.8564" Reg="5001"/>
 <NachNorm Nr="2"/>
@@ -2361,20 +2361,20 @@
 <Datei Dateiname="signals\Deutschland\Indusi\Indusi-Sie_kl.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p X="-0.4302" Y="0" Z="2.59"/>
-<phi Z="0"/>
+<p X="-0.4302" Z="2.59"/>
+<phi/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalbeschriftung\Beschriftungsfeld.lod1.ls3"/>
 </SignalFrame>
 <SignalFrame>
 <p X="-0.4302" Y="0.03" Z="2.59"/>
-<phi Z="0"/>
+<phi/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalbeschriftung\Beschriftungen\Gross\Sigbeschr_N.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
 <p X="-0.4302" Y="-0.06" Z="2.59"/>
-<phi Z="0"/>
+<phi/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalbeschriftung\Beschriftungen\Gross\Sigbeschr_1.lod.ls3"/>
 </SignalFrame>
@@ -5545,7 +5545,7 @@
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="408.8387" pos="1" Reg="5022">
 <Ereignis Er="4"/>
-<Ereignis Er="28" Beschr="720a"/>
+<Ereignis Er="28" Beschr="4000a"/>
 <Signal SignalTyp="5" BoundingR="10">
 <p X="-1033.3051" Y="541.2941" Z="398.5957"/>
 <phi Z="-0.442654"/>
@@ -5865,7 +5865,7 @@
 <InfoNormRichtung vMax="38.8889" km="408.885" Reg="5027"/>
 <InfoGegenRichtung vMax="38.8889" km="408.8743" pos="1" Reg="5027">
 <Ereignis Er="4"/>
-<Ereignis Er="39" Beschr="720a"/>
+<Ereignis Er="39" Beschr="4000a"/>
 </InfoGegenRichtung>
 <NachNorm Nr="1246"/>
 <NachGegen Nr="318"/>
@@ -8130,7 +8130,7 @@
 <b X="1441.084" Y="-633.362" Z="400.3977"/>
 <InfoNormRichtung vMax="33.3333" km="411.7676" Reg="5041">
 <Ereignis Er="4"/>
-<Ereignis Er="39" Beschr="720b"/>
+<Ereignis Er="39" Beschr="4000b"/>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="411.6826" pos="1" Reg="5041"/>
 <NachNorm Nr="490"/>
@@ -9111,7 +9111,7 @@
 <b X="1537.681" Y="-683.986" Z="400.4659"/>
 <InfoNormRichtung vMax="33.3333" Reg="5047">
 <Ereignis Er="4"/>
-<Ereignis Er="28" Beschr="720b"/>
+<Ereignis Er="28" Beschr="4000b"/>
 <Signal SignalTyp="5" BoundingR="10">
 <p X="1536.5532" Y="-686.3729" Z="400.3159"/>
 <phi Z="2.700167"/>
@@ -19186,7 +19186,7 @@
 <b X="-1785.426" Y="888.725" Z="398.6589"/>
 <InfoNormRichtung vMax="38.8889" km="408.2045" Reg="5079">
 <Ereignis Er="4"/>
-<Ereignis Er="28" Beschr="720b"/>
+<Ereignis Er="28" Beschr="4000b"/>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="38.8889" pos="1" Reg="5079"/>
 <NachGegen Nr="312"/>
@@ -22857,7 +22857,7 @@
 <b X="-1783.5031" Y="892.7939" Z="398.6589"/>
 <InfoNormRichtung vMax="-1" km="408.1589" Reg="5090">
 <Ereignis Er="4"/>
-<Ereignis Er="39" Beschr="720b"/>
+<Ereignis Er="39" Beschr="4000b"/>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" Reg="5090"/>
 <NachGegen Nr="316"/>
@@ -23215,7 +23215,7 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrSigHaltfall>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Konstanz-Petershausen N1 -&gt; Konstanz A" FahrstrStrecke="720a" RglGgl="1" FahrstrTyp="TypZug" Laenge="1014.7282">
+<Fahrstrasse FahrstrName="Konstanz-Petershausen N1 -&gt; Konstanz A" FahrstrStrecke="4000a" RglGgl="1" FahrstrTyp="TypZug" Laenge="1014.7282">
 <FahrstrStart Ref="14">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -23289,7 +23289,7 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Konstanz-Petershausen N3 -&gt; Konstanz A" FahrstrStrecke="720a" RglGgl="1" FahrstrTyp="TypZug" Laenge="1012.0089">
+<Fahrstrasse FahrstrName="Konstanz-Petershausen N3 -&gt; Konstanz A" FahrstrStrecke="4000a" RglGgl="1" FahrstrTyp="TypZug" Laenge="1012.0089">
 <FahrstrStart Ref="30">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -23381,7 +23381,7 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Konstanz-Petershausen Hs4 -&gt; Konstanz A" FahrstrStrecke="720a" RglGgl="1" FahrstrTyp="TypZug" Laenge="998.1117">
+<Fahrstrasse FahrstrName="Konstanz-Petershausen Hs4 -&gt; Konstanz A" FahrstrStrecke="4000a" RglGgl="1" FahrstrTyp="TypZug" Laenge="998.1117">
 <FahrstrStart Ref="39">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -23656,7 +23656,7 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Reichenau (Baden) Gleis 2 -&gt; Allensbach \D" FahrstrStrecke="720b" RglGgl="3" FahrstrTyp="TypZug" Laenge="4278.4556">
+<Fahrstrasse FahrstrName="Reichenau (Baden) Gleis 2 -&gt; Allensbach \D" FahrstrStrecke="4000b" RglGgl="3" FahrstrTyp="TypZug" Laenge="4278.4556">
 <FahrstrStart Ref="55">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -23665,6 +23665,9 @@
 </FahrstrZiel>
 <FahrstrRegister Ref="283">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="303">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrRegister>
 <FahrstrRegister Ref="262">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
@@ -23700,7 +23703,7 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Reichenau (Baden) B -&gt; Allensbach D" FahrstrStrecke="720b" RglGgl="2" FahrstrTyp="TypZug" Laenge="4278.6973">
+<Fahrstrasse FahrstrName="Reichenau (Baden) B -&gt; Allensbach D" FahrstrStrecke="4000b" RglGgl="2" FahrstrTyp="TypZug" Laenge="4278.6973">
 <FahrstrStart Ref="59">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -23712,6 +23715,9 @@
 </FahrstrRegister>
 <FahrstrRegister Ref="425">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
+</FahrstrRegister>
+<FahrstrRegister Ref="305">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrRegister>
 <FahrstrRegister Ref="279">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
@@ -23809,7 +23815,7 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Konstanz-Petershausen Gleis 4 -&gt; Reichenau (Baden) A\" FahrstrStrecke="720b" RglGgl="3" FahrstrTyp="TypZug" Laenge="2849.8833">
+<Fahrstrasse FahrstrName="Konstanz-Petershausen Gleis 4 -&gt; Reichenau (Baden) A\" FahrstrStrecke="4000b" RglGgl="3" FahrstrTyp="TypZug" Laenge="2849.8833">
 <FahrstrStart Ref="308">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -23880,7 +23886,7 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Konstanz-Petershausen Gleis 4 -&gt; Reichenau (Baden) A" FahrstrStrecke="720b" RglGgl="2" FahrstrTyp="TypZug" Laenge="2850.022">
+<Fahrstrasse FahrstrName="Konstanz-Petershausen Gleis 4 -&gt; Reichenau (Baden) A" FahrstrStrecke="4000b" RglGgl="2" FahrstrTyp="TypZug" Laenge="2850.022">
 <FahrstrStart Ref="308">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -23957,7 +23963,7 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Konstanz-Petershausen P3 -&gt; Reichenau (Baden) A\" FahrstrStrecke="720b" RglGgl="3" FahrstrTyp="TypZug" Laenge="2815.2668">
+<Fahrstrasse FahrstrName="Konstanz-Petershausen P3 -&gt; Reichenau (Baden) A\" FahrstrStrecke="4000b" RglGgl="3" FahrstrTyp="TypZug" Laenge="2815.2668">
 <FahrstrStart Ref="98">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -24022,7 +24028,7 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Konstanz-Petershausen P3 -&gt; Reichenau (Baden) A" FahrstrStrecke="720b" RglGgl="2" FahrstrTyp="TypZug" Laenge="2815.4058">
+<Fahrstrasse FahrstrName="Konstanz-Petershausen P3 -&gt; Reichenau (Baden) A" FahrstrStrecke="4000b" RglGgl="2" FahrstrTyp="TypZug" Laenge="2815.4058">
 <FahrstrStart Ref="98">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -24096,7 +24102,7 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Konstanz-Petershausen P2 -&gt; Reichenau (Baden) A\" FahrstrStrecke="720b" RglGgl="3" FahrstrTyp="TypZug" Laenge="2846.9968">
+<Fahrstrasse FahrstrName="Konstanz-Petershausen P2 -&gt; Reichenau (Baden) A\" FahrstrStrecke="4000b" RglGgl="3" FahrstrTyp="TypZug" Laenge="2846.9968">
 <FahrstrStart Ref="111">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -24155,7 +24161,7 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Konstanz-Petershausen P2 -&gt; Reichenau (Baden) A" FahrstrStrecke="720b" RglGgl="2" FahrstrTyp="TypZug" Laenge="2847.1357">
+<Fahrstrasse FahrstrName="Konstanz-Petershausen P2 -&gt; Reichenau (Baden) A" FahrstrStrecke="4000b" RglGgl="2" FahrstrTyp="TypZug" Laenge="2847.1357">
 <FahrstrStart Ref="111">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -24223,7 +24229,7 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Reichenau (Baden) Gleis 1 -&gt; Konstanz-Petershausen A\" FahrstrStrecke="720a" RglGgl="3" FahrstrTyp="TypZug" Laenge="2859.7129">
+<Fahrstrasse FahrstrName="Reichenau (Baden) Gleis 1 -&gt; Konstanz-Petershausen A\" FahrstrStrecke="4000a" RglGgl="3" FahrstrTyp="TypZug" Laenge="2859.7129">
 <FahrstrStart Ref="145">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -24282,7 +24288,7 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Reichenau (Baden) Gleis 1 -&gt; Konstanz-Petershausen A" FahrstrStrecke="720a" RglGgl="2" FahrstrTyp="TypZug" Laenge="2859.9585">
+<Fahrstrasse FahrstrName="Reichenau (Baden) Gleis 1 -&gt; Konstanz-Petershausen A" FahrstrStrecke="4000a" RglGgl="2" FahrstrTyp="TypZug" Laenge="2859.9585">
 <FahrstrStart Ref="145">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -24344,7 +24350,7 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Reichenau (Baden) D -&gt; Konstanz-Petershausen A" FahrstrStrecke="720a" RglGgl="2" FahrstrTyp="TypZug" Laenge="2885.9043">
+<Fahrstrasse FahrstrName="Reichenau (Baden) D -&gt; Konstanz-Petershausen A" FahrstrStrecke="4000a" RglGgl="2" FahrstrTyp="TypZug" Laenge="2885.9043">
 <FahrstrStart Ref="242">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -24406,7 +24412,7 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Konstanz-Petershausen P1 -&gt; Reichenau (Baden) A" FahrstrStrecke="720b" RglGgl="2" FahrstrTyp="TypZug" Laenge="2984.5571">
+<Fahrstrasse FahrstrName="Konstanz-Petershausen P1 -&gt; Reichenau (Baden) A" FahrstrStrecke="4000b" RglGgl="2" FahrstrTyp="TypZug" Laenge="2984.5571">
 <FahrstrStart Ref="267">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -24471,7 +24477,7 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Konstanz-Petershausen P1 -&gt; Reichenau (Baden) A\" FahrstrStrecke="720b" RglGgl="3" FahrstrTyp="TypZug" Laenge="2984.6953">
+<Fahrstrasse FahrstrName="Konstanz-Petershausen P1 -&gt; Reichenau (Baden) A\" FahrstrStrecke="4000b" RglGgl="3" FahrstrTyp="TypZug" Laenge="2984.6953">
 <FahrstrStart Ref="267">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrStart>
@@ -25172,7 +25178,7 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
-<Fahrstrasse FahrstrName="Konstanz-Petershausen N2 -&gt; Konstanz A" FahrstrStrecke="720a" RglGgl="1" FahrstrTyp="TypZug" Laenge="1013.0948">
+<Fahrstrasse FahrstrName="Konstanz-Petershausen N2 -&gt; Konstanz A" FahrstrStrecke="4000a" RglGgl="1" FahrstrTyp="TypZug" Laenge="1013.0948">
 <FahrstrStart Ref="291">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </FahrstrStart>
