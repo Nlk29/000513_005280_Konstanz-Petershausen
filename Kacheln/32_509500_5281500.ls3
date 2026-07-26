@@ -29070,7 +29070,7 @@
 <Datei Dateiname="PermanentWay\Default\cess.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="33" MeshI="93">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="4" MeshV="33" MeshI="93">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
